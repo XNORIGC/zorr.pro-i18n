@@ -1,229 +1,229 @@
 {
-	"name": "custom lang uwu",
+	"name": "中文（简体）",
 	"mobs": {
 		"rock": {
-			"name": "Rock",
-			"desc": "A rock. It doesn't do much"
+			"name": "岩石",
+			"desc": "一块石头，干不了什么事"
 		},
 		"ladybug": {
-			"name": "Ladybug",
-			"desc": "Cute and harmless"
+			"name": "瓢虫",
+			"desc": "可爱而无害"
 		},
 		"bush": {
-			"name": "Bush",
-			"desc": "George Bush"
+			"name": "灌木丛",
+			"desc": "乔治·布什"
 		},
 		"sponge": {
-			"name": "Sponge",
-			"desc": "Bob"
+			"name": "海绵",
+			"desc": "宝宝"
 		},
 		"cactus": {
-			"name": "Cactus",
-			"desc": "A very thorny plant."
+			"name": "仙人掌",
+			"desc": "一种有很多刺的植物。"
 		},
 		"baby_ant": {
-			"name": "Baby Ant",
-			"desc": "Ant but baby"
+			"name": "幼蚁",
+			"desc": "还在襁褓中"
 		},
 		"soldier_ant": {
-			"name": "Soldier Ant",
-			"desc": "Fights for the freedom."
+			"name": "兵蚁",
+			"desc": "为自由而战。"
 		},
 		"worker_ant": {
-			"name": "Worker Ant",
-			"desc": "Doesn't want to fight."
+			"name": "工蚁",
+			"desc": "不想战斗。"
 		},
 		"queen_ant": {
-			"name": "Queen Ant",
-			"desc": "Queen Antilabeth VI."
+			"name": "蚁后",
+			"desc": "蚁丽莎白六世女王。"
 		},
 		"baby_fire_ant": {
-			"name": "Baby Fire Ant",
-			"desc": "Fire Ant but baby"
+			"name": "火幼蚁",
+			"desc": "还在襁褓中"
 		},
 		"soldier_fire_ant": {
-			"name": "Soldier Fire Ant",
-			"desc": "Fights for the freedom."
+			"name": "火兵蚁",
+			"desc": "为自由而战。"
 		},
 		"worker_fire_ant": {
-			"name": "Worker Fire Ant",
-			"desc": "Doesn't want to fight."
+			"name": "火工蚁",
+			"desc": "不想战斗。"
 		},
 		"queen_fire_ant": {
-			"name": "Queen Fire Ant",
-			"desc": "Queen Antilabeth VII."
+			"name": "火蚁后",
+			"desc": "蚁丽莎白七世女王。"
 		},
 		"mushroom": {
-			"name": "Mushroom",
-			"desc": "Comes with fungal infection."
+			"name": "蘑菇",
+			"desc": "带来真菌感染。"
 		},
 		"jellyfish": {
-			"name": "Jellyfish",
-			"desc": "Fish but jelly."
+			"name": "水母",
+			"desc": "果冻鱼。"
 		},
 		"spider": {
-			"name": "Spider",
-			"desc": "It has 8 legs and eyes."
+			"name": "蜘蛛",
+			"desc": "有八条腿和八只眼睛。"
 		},
 		"bee": {
-			"name": "Bee",
-			"desc": "It stings too hard."
+			"name": "蜜蜂",
+			"desc": "非常蜇人。"
 		},
 		"hornet": {
-			"name": "Hornet",
-			"desc": "Certified missile shooter."
+			"name": "黄蜂",
+			"desc": "认证导弹发射员。"
 		},
 		"shell": {
-			"name": "Shell",
-			"desc": "A very shellfish entity."
+			"name": "扇贝",
+			"desc": "一种非常“善贝”的生物。"
 		},
 		"ant_hole": {
-			"name": "Ant Hole",
-			"desc": "There are some ants inside of it."
+			"name": "蚁穴",
+			"desc": "蚂蚁在内。"
 		},
 		"fire_ant_hole": {
-			"name": "Fire Ant Hole",
-			"desc": "There are some fire ants inside of it."
+			"name": "火蚁穴",
+			"desc": "火蚁在内。"
 		},
 		"spider_cave": {
-			"name": "Spider Cave",
-			"desc": "Long and dark cave."
+			"name": "蜘蛛洞",
+			"desc": "又深又黑的洞穴。"
 		},
 		"hive": {
-			"name": "Hive",
-			"desc": "Bees do the sussy stuff in here uwu"
+			"name": "蜂巢",
+			"desc": "蜜蜂们在这里做些奇怪的事uwu"
 		},
 		"yoba": {
-			"name": "Yoba",
-			"desc": "Mysterious red creature."
+			"name": "尤巴",
+			"desc": "神秘的红色生物。"
 		},
 		"spider_yoba": {
-			"name": "Spider Yoba",
-			"desc": "Mysterious pink creature."
+			"name": "尤巴蜘蛛",
+			"desc": "神秘的粉色生物。"
 		},
 		"centipede": {
-			"name": "Centipede",
-			"desc": "It is long."
+			"name": "蜈蚣",
+			"desc": "它很长。"
 		},
 		"desert_centipede": {
-			"name": "Desert Centipede",
-			"desc": "Won a gold medal in Olympics."
+			"name": "沙漠蜈蚣",
+			"desc": "曾在奥运会得过金牌。"
 		},
 		"evil_centipede": {
-			"name": "Evil Centipede",
-			"desc": "We are not sure why this one is Evil."
+			"name": "邪恶蜈蚣",
+			"desc": "我们不确定为什么这只蜈蚣是邪恶的。"
 		},
 		"sunflower": {
-			"name": "Sunflower",
-			"desc": "It has a shield"
+			"name": "向日葵",
+			"desc": "它有护盾。"
 		},
 		"yobammad": {
-			"name": "Yobammad",
-			"desc": "It explodes."
+			"name": "尤爆",
+			"desc": "它会爆炸。"
 		},
 		"bubble": {
-			"name": "Bubble",
-			"desc": "Pop it quick."
+			"name": "泡泡",
+			"desc": "啵——非常快。"
 		},
 		"m28": {
 			"name": "M28",
-			"desc": "Skibidi developer."
+			"desc": "斯基比迪开发者。"
 		},
 		"beetle": {
-			"name": "Beetle",
-			"desc": "Very hungry insect."
+			"name": "甲虫",
+			"desc": "非常饥饿的昆虫。"
 		},
 		"avocado": {
-			"name": "Avocado",
-			"desc": "Super yummy fruit."
+			"name": "牛油果",
+			"desc": "超级美味的水果。"
 		},
 		"target_dummy": {
-			"name": "Target Dummy",
-			"desc": "Feel free to test damage."
+			"name": "训练假花",
+			"desc": "随意测试伤害。"
 		},
 		"dark_ladybug": {
-			"name": "Dark Ladybug",
-			"desc": "Cute and harmless, but dark"
+			"name": "深色瓢虫",
+			"desc": "深色的可爱而无害"
 		},
 		"shiny_ladybug": {
-			"name": "Shiny Ladybug",
-			"desc": "Shiny, cute and harmless"
+			"name": "闪亮瓢虫",
+			"desc": "闪亮、可爱而无害"
 		},
 		"sandstorm": {
-			"name": "Sandstorm",
-			"desc": "A sand digga"
+			"name": "沙尘暴",
+			"desc": "挖沙者"
 		},
 		"scorpion": {
-			"name": "Scorpion",
-			"desc": "It likes to orbit and shoot you."
+			"name": "蝎子",
+			"desc": "它喜欢绕着你转然后射击你。"
 		},
 		"starfish": {
-			"name": "Starfish",
-			"desc": "Celebrity fish."
+			"name": "海星",
+			"desc": "明星鱼。"
 		},
 		"crab": {
-			"name": "Crab",
-			"desc": "Runs after you."
+			"name": "螃蟹",
+			"desc": "追着你跑。"
 		},
 		"dandelion": {
-			"name": "Dandelion",
-			"desc": "Skibidi mob dop dop yes yes"
+			"name": "蒲公英",
+			"desc": "斯基比迪生物多普多普耶斯耶斯"
 		},
 		"dragon": {
-			"name": "Dragon",
-			"desc": "its fire looks very hot, and feels very hot too"
+			"name": "龙",
+			"desc": "它的火看起来很热，摸起来也很热"
 		},
 		"leech": {
-			"name": "Leech",
-			"desc": "a slither.io snake?"
+			"name": "水蛭",
+			"desc": "莫非是slither.io里的蛇？"
 		},
 		"nazar_beetle": {
-			"name": "Nazar Beetle",
-			"desc": "Has turned into modern art"
+			"name": "邪眼甲虫",
+			"desc": "已成为现代艺术"
 		},
 		"toxic_dragon": {
-			"name": "Toxic Dragon",
-			"desc": "Someone painted it using some toxic paint"
+			"name": "毒龙",
+			"desc": "有人用有毒的油漆涂了它"
 		},
 		"hel_worm": {
-			"name": "Hel Worm",
-			"desc": "a satanic worm from digworm.io"
+			"name": "冥界蠕虫",
+			"desc": "来自digworm.io的撒旦蠕虫"
 		},
 		"hel_spider": {
-			"name": "Hel Spider",
-			"desc": "It has 8 legs and eyes."
+			"name": "冥界蜘蛛",
+			"desc": "有八条腿和八只眼睛。"
 		},
 		"hel_beetle": {
-			"name": "Hel Beetle",
-			"desc": "Very creepy satanic insect."
+			"name": "冥界甲虫",
+			"desc": "非常可怕的撒旦昆虫。"
 		},
 		"hel_jellyfish": {
-			"name": "Hel Jellyfish",
-			"desc": "Why and how does it have teeth?"
+			"name": "冥界水母",
+			"desc": "它为什么会有牙齿？它是怎么有的牙齿？"
 		},
 		"tumbleweed": {
-			"name": "Tumbleweed",
-			"desc": "Wind noises."
+			"name": "风滚草",
+			"desc": "风的噪音。"
 		},
 		"dragon_nest": {
-			"name": "Dragon Nest",
-			"desc": "House of dragons."
+			"name": "龙巢",
+			"desc": "龙之家。"
 		},
 		"firestorm": {
-			"name": "Firestorm",
-			"desc": "A fire digga"
+			"name": "火尘暴",
+			"desc": "挖火者"
 		},
 		"hel_bee": {
-			"name": "Hel Bee",
-			"desc": "Firey asf sting."
+			"name": "冥界蜜蜂",
+			"desc": "用火热的灰烬蜇人。"
 		},
 		"hel_hornet": {
-			"name": "Hel Hornet",
-			"desc": "Certified fire shooter."
+			"name": "冥界黄蜂",
+			"desc": "认证火焰喷射员。"
 		},
 		"bugatti": {
-			"name": "Bugatti",
-			"desc": "Top Jeet's favourite car."
+			"name": "布加迪",
+			"desc": "顶级阿三最喜欢的车。"
 		}
 	},
 	"petals": {
