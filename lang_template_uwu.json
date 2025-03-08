@@ -289,23 +289,23 @@
 		},
 		"leaf": {
 			"name": "Leaf",
-			"desc": "Passively heals you."
+			"desc": "防御时回血。"
 		},
 		"lightning": {
-			"name": "Lightning",
-			"desc": "Summons a lightning strike on nearby enemies."
+			"name": "闪电",
+			"desc": "生成一道闪电并击中在你附近的敌人。"
 		},
 		"usain_bolt": {
-			"name": "Usain Bolt",
-			"desc": "Summons a poisonous lightning strike on nearby enemies"
+			"name": "尤塞恩·博尔特",
+			"desc": "生成一道剧毒的闪电并击中在你附近的敌人。"
 		},
 		"cotton": {
-			"name": "Cotton",
-			"desc": "Absorbs your damage."
+			"name": "棉花",
+			"desc": "伤害吸收。"
 		},
 		"web": {
-			"name": "Web",
-			"desc": "Drops spider poop which slows down your enemies"
+			"name": "网",
+			"desc": "向敌人扔蜘蛛的屎并使其减速。"
 		},
 		"pollen": {
 			"name": "Pollen",
