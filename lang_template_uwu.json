@@ -228,32 +228,32 @@
 	},
 	"petals": {
 		"basic": {
-			"name": "Basic",
-			"desc": "The simplest petal ever."
+			"name": "基本",
+			"desc": "最简单的花瓣。"
 		},
 		"rose": {
-			"name": "Rose",
-			"desc": "Heals you when consumed."
+			"name": "玫瑰",
+			"desc": "在你掉血时治疗。"
 		},
 		"wing": {
-			"name": "Wing",
-			"desc": "It comes and goes."
+			"name": "翅膀",
+			"desc": "它过来又回去。"
 		},
 		"rock": {
-			"name": "Rock",
-			"desc": "Its quite durable"
+			"name": "石头",
+			"desc": "较为持久的。"
 		},
 		"iris": {
-			"name": "Iris",
-			"desc": "It's poisonous."
+			"name": "毒",
+			"desc": "它是剧毒的。"
 		},
 		"stinger": {
-			"name": "Stinger",
-			"desc": "Very large damage."
+			"name": "刺",
+			"desc": "很高的伤害。"
 		},
 		"honey": {
-			"name": "Honey",
-			"desc": "Bee vomit"
+			"name": "蜂蜜",
+			"desc": "蜜蜂的呕吐物。"
 		},
 		"bubble": {
 			"name": "Bubble",
