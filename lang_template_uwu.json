@@ -256,36 +256,36 @@
 			"desc": "蜜蜂的呕吐物。"
 		},
 		"bubble": {
-			"name": "Bubble",
-			"desc": "Bursts and boosts you."
+			"name": "泡泡",
+			"desc": "破裂并推你。"
 		},
 		"heavy": {
-			"name": "Heavy",
-			"desc": "Heavier than your mom"
+			"name": "重",
+			"desc": "比你老母还重。"
 		},
 		"ying_yang": {
-			"name": "Ying Yang",
-			"desc": "Flips your petal orbit direction."
+			"name": "阴阳",
+			"desc": "翻转你的花瓣公转方向。"
 		},
 		"faster": {
-			"name": "Faster",
-			"desc": "Increases your petal orbit speed"
+			"name": "更快",
+			"desc": "增加你的花瓣的公转速度。"
 		},
 		"light": {
-			"name": "Light",
-			"desc": "Super duper fast."
+			"name": "轻",
+			"desc": "超级无敌快。"
 		},
 		"sponge": {
-			"name": "Sponge",
-			"desc": "Washes the dishes and soaks damage over time."
+			"name": "海绵",
+			"desc": "洗碗和逐渐吸收伤害。"
 		},
 		"rice": {
-			"name": "Rice",
-			"desc": "Only for asians."
+			"name": "米",
+			"desc": "只为亚洲人。"
 		},
 		"yggdrasil": {
-			"name": "Yggdrasil",
-			"desc": "Revives dead flowers."
+			"name": "世界树",
+			"desc": "复活死去的花朵们。"
 		},
 		"leaf": {
 			"name": "Leaf",
