@@ -1,0 +1,1057 @@
+{
+	"name": "custom lang uwu",
+	"mobs": {
+		"rock": {
+			"name": "Rock",
+			"desc": "A rock. It doesn't do much"
+		},
+		"ladybug": {
+			"name": "Ladybug",
+			"desc": "Cute and harmless"
+		},
+		"bush": {
+			"name": "Bush",
+			"desc": "George Bush"
+		},
+		"sponge": {
+			"name": "Sponge",
+			"desc": "Bob"
+		},
+		"cactus": {
+			"name": "Cactus",
+			"desc": "A very thorny plant."
+		},
+		"baby_ant": {
+			"name": "Baby Ant",
+			"desc": "Ant but baby"
+		},
+		"soldier_ant": {
+			"name": "Soldier Ant",
+			"desc": "Fights for the freedom."
+		},
+		"worker_ant": {
+			"name": "Worker Ant",
+			"desc": "Doesn't want to fight."
+		},
+		"queen_ant": {
+			"name": "Queen Ant",
+			"desc": "Queen Antilabeth VI."
+		},
+		"baby_fire_ant": {
+			"name": "Baby Fire Ant",
+			"desc": "Fire Ant but baby"
+		},
+		"soldier_fire_ant": {
+			"name": "Soldier Fire Ant",
+			"desc": "Fights for the freedom."
+		},
+		"worker_fire_ant": {
+			"name": "Worker Fire Ant",
+			"desc": "Doesn't want to fight."
+		},
+		"queen_fire_ant": {
+			"name": "Queen Fire Ant",
+			"desc": "Queen Antilabeth VII."
+		},
+		"mushroom": {
+			"name": "Mushroom",
+			"desc": "Comes with fungal infection."
+		},
+		"jellyfish": {
+			"name": "Jellyfish",
+			"desc": "Fish but jelly."
+		},
+		"spider": {
+			"name": "Spider",
+			"desc": "It has 8 legs and eyes."
+		},
+		"bee": {
+			"name": "Bee",
+			"desc": "It stings too hard."
+		},
+		"hornet": {
+			"name": "Hornet",
+			"desc": "Certified missile shooter."
+		},
+		"shell": {
+			"name": "Shell",
+			"desc": "A very shellfish entity."
+		},
+		"ant_hole": {
+			"name": "Ant Hole",
+			"desc": "There are some ants inside of it."
+		},
+		"fire_ant_hole": {
+			"name": "Fire Ant Hole",
+			"desc": "There are some fire ants inside of it."
+		},
+		"spider_cave": {
+			"name": "Spider Cave",
+			"desc": "Long and dark cave."
+		},
+		"hive": {
+			"name": "Hive",
+			"desc": "This is the bee Disneyland"
+		},
+		"yoba": {
+			"name": "Yoba",
+			"desc": "Mysterious red creature."
+		},
+		"spider_yoba": {
+			"name": "Spider Yoba",
+			"desc": "Mysterious pink creature."
+		},
+		"centipede": {
+			"name": "Centipede",
+			"desc": "It is long."
+		},
+		"desert_centipede": {
+			"name": "Desert Centipede",
+			"desc": "Won a gold medal in Olympics."
+		},
+		"evil_centipede": {
+			"name": "Evil Centipede",
+			"desc": "We are not sure why this one is evil."
+		},
+		"sunflower": {
+			"name": "Sunflower",
+			"desc": "It has a shield"
+		},
+		"boba": {
+			"name": "Boba",
+			"desc": "It explodes."
+		},
+		"bubble": {
+			"name": "Bubble",
+			"desc": "Pop it quick."
+		},
+		"m28": {
+			"name": "M28",
+			"desc": "Skibidi developer."
+		},
+		"beetle": {
+			"name": "Beetle",
+			"desc": "Very hungry insect."
+		},
+		"avocado": {
+			"name": "Avocado",
+			"desc": "Super yummy fruit."
+		},
+		"target_dummy": {
+			"name": "Target Dummy",
+			"desc": "killing these is vandalism, this game is secretly an ip grabber and we have already reported you to local authorities, expect a knock on your door in 3-5 minutes"
+		},
+		"dark_ladybug": {
+			"name": "Dark Ladybug",
+			"desc": "Cute and harmless, but dark"
+		},
+		"shiny_ladybug": {
+			"name": "Shiny Ladybug",
+			"desc": "Shiny, cute and harmless"
+		},
+		"sandstorm": {
+			"name": "Sandstorm",
+			"desc": "A sand digga"
+		},
+		"scorpion": {
+			"name": "Scorpion",
+			"desc": "It likes to orbit and shoot you."
+		},
+		"starfish": {
+			"name": "Starfish",
+			"desc": "Celebrity fish."
+		},
+		"crab": {
+			"name": "Crab",
+			"desc": "Runs after you."
+		},
+		"dandelion": {
+			"name": "Dandelion",
+			"desc": "Skibidi mob dop dop yes yes"
+		},
+		"dragon": {
+			"name": "Dragon",
+			"desc": "its fire looks very hot, and feels very hot too"
+		},
+		"leech": {
+			"name": "Leech",
+			"desc": "a slither.io snake?"
+		},
+		"nazar_beetle": {
+			"name": "Nazar Beetle",
+			"desc": "Has turned into modern art"
+		},
+		"toxic_dragon": {
+			"name": "Toxic Dragon",
+			"desc": "Someone painted it using some toxic paint"
+		},
+		"hel_worm": {
+			"name": "Hel Worm",
+			"desc": "a satanic worm from digworm.io"
+		},
+		"hel_spider": {
+			"name": "Hel Spider",
+			"desc": "It has 8 legs and eyes."
+		},
+		"hel_beetle": {
+			"name": "Hel Beetle",
+			"desc": "Very creepy satanic insect."
+		},
+		"hel_jellyfish": {
+			"name": "Hel Jellyfish",
+			"desc": "Why and how does it have teeth?"
+		},
+		"tumbleweed": {
+			"name": "Tumbleweed",
+			"desc": "Wind noises."
+		},
+		"dragon_nest": {
+			"name": "Dragon Nest",
+			"desc": "House of dragons."
+		},
+		"firestorm": {
+			"name": "Firestorm",
+			"desc": "A fire digga"
+		},
+		"hel_bee": {
+			"name": "Hel Bee",
+			"desc": "Firey asf sting."
+		},
+		"hel_hornet": {
+			"name": "Hel Hornet",
+			"desc": "Certified fire shooter."
+		},
+		"bugatti": {
+			"name": "Bugatti",
+			"desc": "Top Jeet's favourite car."
+		}
+	},
+	"petals": {
+		"basic": {
+			"name": "Basic",
+			"desc": "The simplest petal ever."
+		},
+		"rose": {
+			"name": "Rose",
+			"desc": "Heals you when consumed."
+		},
+		"wing": {
+			"name": "Wing",
+			"desc": "It comes and goes."
+		},
+		"rock": {
+			"name": "Rock",
+			"desc": "Its quite durable"
+		},
+		"iris": {
+			"name": "Iris",
+			"desc": "It's poisonous."
+		},
+		"stinger": {
+			"name": "Stinger",
+			"desc": "Very large damage."
+		},
+		"honey": {
+			"name": "Honey",
+			"desc": "Bee vomit"
+		},
+		"bubble": {
+			"name": "Bubble",
+			"desc": "Bursts and boosts you."
+		},
+		"heavy": {
+			"name": "Heavy",
+			"desc": "Heavier than your mom"
+		},
+		"ying_yang": {
+			"name": "Ying Yang",
+			"desc": "Flips your petal orbit direction."
+		},
+		"faster": {
+			"name": "Faster",
+			"desc": "Increases your petal orbit speed"
+		},
+		"light": {
+			"name": "Light",
+			"desc": "Super duper fast."
+		},
+		"sponge": {
+			"name": "Sponge",
+			"desc": "Washes the dishes and soaks damage over time."
+		},
+		"rice": {
+			"name": "Rice",
+			"desc": "Only for asians."
+		},
+		"yggdrasil": {
+			"name": "Yggdrasil",
+			"desc": "Revives dead flowers."
+		},
+		"leaf": {
+			"name": "Leaf",
+			"desc": "Passively heals you."
+		},
+		"lightning": {
+			"name": "Lightning",
+			"desc": "Summons a lightning strike on nearby enemies."
+		},
+		"usain_bolt": {
+			"name": "Usain Bolt",
+			"desc": "Summons a poisonous lightning strike on nearby enemies"
+		},
+		"cotton": {
+			"name": "Cotton",
+			"desc": "Absorbs your damage."
+		},
+		"web": {
+			"name": "Web",
+			"desc": "Drops spider poop which slows down your enemies"
+		},
+		"pollen": {
+			"name": "Pollen",
+			"desc": "Falls and stays on ground."
+		},
+		"shell": {
+			"name": "Shell",
+			"desc": "Gives you shielding when consumed."
+		},
+		"sunflower": {
+			"name": "Sunflower",
+			"desc": "Gives you shielding passively."
+		},
+		"bomb": {
+			"name": "Bomb",
+			"desc": "Explodes when it touches an enemy."
+		},
+		"gas_bomb": {
+			"name": "Gas Bomb",
+			"desc": "Explodes and poisons your enemies."
+		},
+		"missile": {
+			"name": "Missile",
+			"desc": "A rebellious stinger that flies away from you."
+		},
+		"viper": {
+			"name": "Viper",
+			"desc": "We don't know how it poisons."
+		},
+		"rocket": {
+			"name": "Rocket",
+			"desc": "Fast and explosive"
+		},
+		"electron_missile": {
+			"name": "Electron Missile",
+			"desc": "It is filled with angry electrons waiting to zap anything in their path"
+		},
+		"magnet": {
+			"name": "Magnet",
+			"desc": "Pulls petal drops."
+		},
+		"salt": {
+			"name": "Salt",
+			"desc": "Reflects damage done to the flower back to the enemy"
+		},
+		"antennae": {
+			"name": "Antennae",
+			"desc": "Increases your vision."
+		},
+		"third_eye": {
+			"name": "Third Eye",
+			"desc": "Increases your petal range"
+		},
+		"dmca": {
+			"name": "DMCA",
+			"desc": "Despawns mobs of the same rarity or lower."
+		},
+		"rock_egg": {
+			"name": "Rock Egg",
+			"desc": "Spawns your pet Rock."
+		},
+		"ladybug_egg": {
+			"name": "Ladybug Egg",
+			"desc": "Spawns your pet Ladybug."
+		},
+		"bush_egg": {
+			"name": "Bush Egg",
+			"desc": "Spawns your pet Bush."
+		},
+		"sponge_egg": {
+			"name": "Sponge Egg",
+			"desc": "Spawns your pet Sponge."
+		},
+		"cactus_egg": {
+			"name": "Cactus Egg",
+			"desc": "Spawns your pet Cactus."
+		},
+		"baby_ant_egg": {
+			"name": "Baby Ant Egg",
+			"desc": "Spawns your pet Baby Ant."
+		},
+		"soldier_ant_egg": {
+			"name": "Soldier Ant Egg",
+			"desc": "Spawns your pet Soldier Ant."
+		},
+		"worker_ant_egg": {
+			"name": "Worker Ant Egg",
+			"desc": "Spawns your pet Worker Ant."
+		},
+		"queen_ant_egg": {
+			"name": "Queen Ant Egg",
+			"desc": "Spawns your pet Queen Ant."
+		},
+		"baby_fire_ant_egg": {
+			"name": "Baby Fire Ant Egg",
+			"desc": "Spawns your pet Baby Fire Ant."
+		},
+		"soldier_fire_ant_egg": {
+			"name": "Soldier Fire Ant Egg",
+			"desc": "Spawns your pet Soldier Fire Ant."
+		},
+		"worker_fire_ant_egg": {
+			"name": "Worker Fire Ant Egg",
+			"desc": "Spawns your pet Worker Fire Ant."
+		},
+		"queen_fire_ant_egg": {
+			"name": "Queen Fire Ant Egg",
+			"desc": "Spawns your pet Queen Fire Ant."
+		},
+		"mushroom_egg": {
+			"name": "Mushroom Egg",
+			"desc": "Spawns your pet Mushroom."
+		},
+		"jellyfish_egg": {
+			"name": "Jellyfish Egg",
+			"desc": "Spawns your pet Jellyfish."
+		},
+		"spider_egg": {
+			"name": "Spider Egg",
+			"desc": "Spawns your pet Spider."
+		},
+		"bee_egg": {
+			"name": "Bee Egg",
+			"desc": "Spawns your pet Bee."
+		},
+		"hornet_egg": {
+			"name": "Hornet Egg",
+			"desc": "Spawns your pet Hornet."
+		},
+		"shell_egg": {
+			"name": "Shell Egg",
+			"desc": "Spawns your pet Shell."
+		},
+		"ant_hole_egg": {
+			"name": "Ant Hole Egg",
+			"desc": "Spawns your pet Ant Hole."
+		},
+		"fire_ant_hole_egg": {
+			"name": "Fire Ant Hole Egg",
+			"desc": "Spawns your pet Fire Ant Hole."
+		},
+		"spider_cave_egg": {
+			"name": "Spider Cave Egg",
+			"desc": "Spawns your pet Spider Cave."
+		},
+		"hive_egg": {
+			"name": "Hive Egg",
+			"desc": "Spawns your pet Hive."
+		},
+		"yoba_egg": {
+			"name": "Yoba Egg",
+			"desc": "Spawns your pet Yoba."
+		},
+		"spider_yoba_egg": {
+			"name": "Spider Yoba Egg",
+			"desc": "Spawns your pet Spider Yoba."
+		},
+		"centipede_egg": {
+			"name": "Centipede Egg",
+			"desc": "Spawns your pet Centipede."
+		},
+		"desert_centipede_egg": {
+			"name": "Desert Centipede Egg",
+			"desc": "Spawns your pet Desert Centipede."
+		},
+		"evil_centipede_egg": {
+			"name": "Evil Centipede Egg",
+			"desc": "Spawns your pet Evil Centipede."
+		},
+		"sunflower_egg": {
+			"name": "Sunflower Egg",
+			"desc": "Spawns your pet Sunflower."
+		},
+		"boba_egg": {
+			"name": "Boba Egg",
+			"desc": "Spawns your pet Boba."
+		},
+		"bubble_egg": {
+			"name": "Bubble Egg",
+			"desc": "Spawns your pet Bubble."
+		},
+		"m28_egg": {
+			"name": "M28 Egg",
+			"desc": "Spawns your pet M28."
+		},
+		"beetle_egg": {
+			"name": "Beetle Egg",
+			"desc": "Spawns your pet Beetle."
+		},
+		"avocado_egg": {
+			"name": "Avocado Egg",
+			"desc": "Spawns your pet Avocado."
+		},
+		"target_dummy_egg": {
+			"name": "Target Dummy Egg",
+			"desc": "Spawns your pet Target Dummy."
+		},
+		"dark_ladybug_egg": {
+			"name": "Dark Ladybug Egg",
+			"desc": "Spawns your pet Dark Ladybug."
+		},
+		"shiny_ladybug_egg": {
+			"name": "Shiny Ladybug Egg",
+			"desc": "Spawns your pet Shiny Ladybug."
+		},
+		"stick": {
+			"name": "Stick",
+			"desc": "Summons the deadly winds."
+		},
+		"scorpion_egg": {
+			"name": "Scorpion Egg",
+			"desc": "Spawns your pet Scorpion."
+		},
+		"starfish_egg": {
+			"name": "Starfish Egg",
+			"desc": "Spawns your pet Starfish."
+		},
+		"pea": {
+			"name": "Pea",
+			"desc": "It goes poof"
+		},
+		"avocado": {
+			"name": "Avocado",
+			"desc": "Increases your pet size."
+		},
+		"ring_magnet": {
+			"name": "Ring Magnet",
+			"desc": "Pull everything towards you slowly."
+		},
+		"gas": {
+			"name": "Gas",
+			"desc": "Poisonous gas."
+		},
+		"fire": {
+			"name": "Fire",
+			"desc": "It burns."
+		},
+		"nitro": {
+			"name": "Nitro",
+			"desc": "It's like a jetpack."
+		},
+		"wind": {
+			"name": "Wind",
+			"desc": "Pushes enemies away."
+		},
+		"air": {
+			"name": "Air",
+			"desc": "Invisible asf."
+		},
+		"lightsaber": {
+			"name": "Lightsaber",
+			"desc": "Limited range photon sword"
+		},
+		"visaber": {
+			"name": "Visaber",
+			"desc": "Its shooting gamma rays instead of visible photons"
+		},
+		"bone": {
+			"name": "Bone",
+			"desc": "Made up of calcium."
+		},
+		"cactus": {
+			"name": "Cactus",
+			"desc": "Gives you more health."
+		},
+		"soil": {
+			"name": "Soil",
+			"desc": "Makes flowers fat."
+		},
+		"grapes": {
+			"name": "Grapes",
+			"desc": "Missile but iris. wtf?"
+		},
+		"mushroom": {
+			"name": "Mushroom",
+			"desc": "Makes your flower poisonous."
+		},
+		"ears": {
+			"name": "Ears",
+			"desc": "Telepathic kitty ears."
+		},
+		"sand": {
+			"name": "Sand",
+			"desc": "Could build a sandcastle out of this."
+		},
+		"pincer": {
+			"name": "Pincer",
+			"desc": "Break your enemies legs, even if they dont have any."
+		},
+		"dahlia": {
+			"name": "Dahlia",
+			"desc": "Sacrifices heal for reliability"
+		},
+		"starfish": {
+			"name": "Starfish",
+			"desc": "Heals you when you are low on healtn"
+		},
+		"dandelion": {
+			"name": "Dandelion",
+			"desc": "Disables your enemies healing"
+		},
+		"crab_egg": {
+			"name": "Crab Egg",
+			"desc": "Spawns your pet Crab."
+		},
+		"dandelion_egg": {
+			"name": "Dandelion Egg",
+			"desc": "Spawns your pet Dandelion."
+		},
+		"dragon_egg": {
+			"name": "Dragon Egg",
+			"desc": "Spawns your pet Dragon."
+		},
+		"irey": {
+			"name": "Irey",
+			"desc": "Turns honey tiles poisonous."
+		},
+		"leech_egg": {
+			"name": "Leech Egg",
+			"desc": "Spawns your pet Leech."
+		},
+		"nazar": {
+			"name": "Nazar",
+			"desc": "It can tank 1 hit, and then goes on cooldown"
+		},
+		"nazar_beetle_egg": {
+			"name": "Nazar Beetle Egg",
+			"desc": "Spawns your pet Nazar Beetle."
+		},
+		"golden_leaf": {
+			"name": "Golden Leaf",
+			"desc": "Reduces petal reload time."
+		},
+		"laser": {
+			"name": "Laser",
+			"desc": "Can cause severe burns"
+		},
+		"mark": {
+			"name": "Mark",
+			"desc": "Sends a dead lil flower to Hel"
+		},
+		"bur": {
+			"name": "Bur",
+			"desc": "Decreases enemy armor"
+		},
+		"cutter": {
+			"name": "Cutter",
+			"desc": "Increases your body damage."
+		},
+		"powder": {
+			"name": "Powder",
+			"desc": "Cocaine"
+		},
+		"toxic_dragon_egg": {
+			"name": "Toxic Dragon Egg",
+			"desc": "Spawns your pet Toxic Dragon."
+		},
+		"hel_worm_egg": {
+			"name": "Hel Worm Egg",
+			"desc": "Spawns your pet Hel Worm."
+		},
+		"hel_spider_egg": {
+			"name": "Hel Spider Egg",
+			"desc": "Spawns your pet Hel Spider."
+		},
+		"hel_beetle_egg": {
+			"name": "Hel Beetle Egg",
+			"desc": "Spawns your pet Hel Beetle."
+		},
+		"hel_jellyfish_egg": {
+			"name": "Hel Jellyfish Egg",
+			"desc": "Spawns your pet Hel Jellyfish."
+		},
+		"hel_lightning": {
+			"name": "Hel Lightning",
+			"desc": "Summons a cursed fire strike on nearby enemies."
+		},
+		"tumbleweed_egg": {
+			"name": "Tumbleweed Egg",
+			"desc": "Spawns your pet Tumbleweed."
+		},
+		"dragon_nest_egg": {
+			"name": "Dragon Nest Egg",
+			"desc": "Spawns your pet Dragon Nest."
+		},
+		"firestorm_egg": {
+			"name": "Firestorm Egg",
+			"desc": "Spawns your pet Firestorm."
+		},
+		"hel_bee_egg": {
+			"name": "Hel Bee Egg",
+			"desc": "Spawns your pet Hel Bee."
+		},
+		"hel_hornet_egg": {
+			"name": "Hel Hornet Egg",
+			"desc": "Spawns your pet Hel Hornet."
+		},
+		"hel_missile": {
+			"name": "Hel Missile",
+			"desc": "hot asf missile"
+		},
+		"bugatti": {
+			"name": "Bugatti",
+			"desc": "Increases your movement speed but makes you slippery asf."
+		},
+		"bugatti_egg": {
+			"name": "Bugatti Egg",
+			"desc": "Spawns your pet Bugatti."
+		},
+		"poo": {
+			"name": "Poo",
+			"desc": "Decreases enemy range."
+		}
+	},
+	"achievements": {
+		"rookie": {
+			"name": "Rookie",
+			"desc": "Play for 15 minutes."
+		},
+		"started": {
+			"name": "Getting started...",
+			"desc": "Play for 1 hour."
+		},
+		"player": {
+			"name": "Average Gamer",
+			"desc": "Play for 6 hours"
+		},
+		"gamer": {
+			"name": "Better Gamer",
+			"desc": "Play for 1 day."
+		},
+		"week": {
+			"name": "twenty-four-seven",
+			"desc": "Play for 7 days."
+		},
+		"month": {
+			"name": "Addicted",
+			"desc": "Play for 30 days."
+		},
+		"year": {
+			"name": "Happy new year!",
+			"desc": "Play for 365 days."
+		},
+		"epic": {
+			"name": "Epic Gamer Moment",
+			"desc": "Collect 1 Epic petal."
+		},
+		"legendary": {
+			"name": "Logandary",
+			"desc": "Collect 1 Legendary petal."
+		},
+		"mythic": {
+			"name": "The Myths Are Real",
+			"desc": "Collect 1 Mythic petal."
+		},
+		"ultra": {
+			"name": "Above the normies",
+			"desc": "Collect a ultra petal."
+		},
+		"super": {
+			"name": "ZUPER UWUPER",
+			"desc": "COllect 5 super petals."
+		},
+		"omega": {
+			"name": "Omegasigmasonic",
+			"desc": "Collect an omega petal."
+		},
+		"medic": {
+			"name": "Medic",
+			"desc": "Revive someone using a Yggdrasil."
+		},
+		"surgeon": {
+			"name": "Surgeon",
+			"desc": "Revive 25 flowers using Yggdrasil."
+		},
+		"angel": {
+			"name": "Angel",
+			"desc": "Revive 250 flowers using Yggdrasil."
+		},
+		"god": {
+			"name": "An omnipotent",
+			"desc": "Encounter an admin."
+		},
+		"killer": {
+			"name": "Serial Killer",
+			"desc": "Kill 25 mobs"
+		},
+		"genocide": {
+			"name": "Genocide",
+			"desc": "Kill 250 mobs"
+		},
+		"massacre": {
+			"name": "Massacre",
+			"desc": "Kill 2500 mobs"
+		},
+		"holocaust": {
+			"name": "Titler Son",
+			"desc": "Kill 10,000 mobs"
+		},
+		"solo": {
+			"name": "Solo",
+			"desc": "Kill a super or hyper mob with over 75% damage."
+		},
+		"money": {
+			"name": "Money well spent",
+			"desc": "Puchase stars from shop."
+		},
+		"makeup": {
+			"name": "Makeup Artist",
+			"desc": "Buy a skin from shop."
+		},
+		"chat": {
+			"name": "Not Very Talkative",
+			"desc": "Send a chat message."
+		},
+		"china": {
+			"name": "CHINA NUMBER 1!!",
+			"desc": "Say 'China Number 1' in chat 10 times."
+		},
+		"nazar": {
+			"name": "The Nazar Beetles",
+			"desc": "Destroy 5 Ultra or higher rarity Nazar Beetles."
+		},
+		"baby": {
+			"name": "Baby Oil",
+			"desc": "Destroy 5 Ultra or higher rarity Baby Ants."
+		},
+		"jeet": {
+			"name": "Top Jeet",
+			"desc": "Obtain a Super or higher rarity Bugatti."
+		},
+		"clown": {
+			"name": "Clown",
+			"desc": "Transform into a clown."
+		}
+	},
+	"skins": {
+		"derp": {
+			"name": "Derp",
+			"desc": "There is not a single thought between those eyes"
+		},
+		"cursed": {
+			"name": "Cursed",
+			"desc": "Has been corrupted by some higher forces"
+		},
+		"square": {
+			"name": "Square",
+			"desc": "What is this foregin shape"
+		},
+		"lifeless": {
+			"name": "Lifeless",
+			"desc": "... where did the face go"
+		},
+		"star": {
+			"name": "Star",
+			"desc": "A star of the night sky. "
+		},
+		"radioactive": {
+			"name": "Radioactive",
+			"desc": "Likes eating uranium ore"
+		},
+		"blended": {
+			"name": "Blended",
+			"desc": "Got face surgery on temu"
+		},
+		"cactus": {
+			"name": "Cactus",
+			"desc": "Not really a flower, is it"
+		},
+		"ghost": {
+			"name": "Ghost",
+			"desc": "Not very spooky"
+		},
+		"cyclops": {
+			"name": "Cyclops",
+			"desc": "where did the other eyes go"
+		},
+		"yellow": {
+			"name": "Yellow",
+			"desc": "It is yellow asf"
+		},
+		"rock": {
+			"name": "Rock",
+			"desc": "A pebble from the sea"
+		},
+		"boo": {
+			"name": "Boo",
+			"desc": "Scary, ain't it?"
+		},
+		"sus": {
+			"name": "Sus",
+			"desc": "Octosus"
+		},
+		"pacman": {
+			"name": "Pacman",
+			"desc": "Do not DMCA us pls."
+		},
+		"chicken": {
+			"name": "Chicken",
+			"desc": "Lays anti-gravity egg-shaped chicken eggs."
+		},
+		"black": {
+			"name": "Black",
+			"desc": "From Africa"
+		},
+		"egg": {
+			"name": "Egg",
+			"desc": "Laid by an alien ckicken, cooked by us."
+		},
+		"retard": {
+			"name": "Retard",
+			"desc": "lol"
+		},
+		"trader": {
+			"name": "Trader",
+			"desc": "Trades humans."
+		},
+		"clover": {
+			"name": "Clover",
+			"desc": "4chan?"
+		},
+		"zatan": {
+			"name": "Zatan",
+			"desc": "Red and black sussy spikes."
+		},
+		"amogus": {
+			"name": "Amogus",
+			"desc": "An imposter."
+		},
+		"brain_damage": {
+			"name": "Brain Damage",
+			"desc": "Developer skin??? WTF???"
+		},
+		"cactuser": {
+			"name": "Cactuser",
+			"desc": "A desert plant."
+		},
+		"sad": {
+			"name": "Sad",
+			"desc": "Very very sad."
+		},
+		"cake": {
+			"name": "Cake",
+			"desc": "Happy birthday!"
+		},
+		"green": {
+			"name": "Green",
+			"desc": "Yoba easter egg?"
+		},
+		"magma": {
+			"name": "Magma",
+			"desc": "Taken from an active volcano"
+		},
+		"derper": {
+			"name": "Derper",
+			"desc": "Developer skin 2??? WTF???"
+		},
+		"target_dummy": {
+			"name": "Target Dummy",
+			"desc": "Emotionless asf."
+		},
+		"mark": {
+			"name": "Mark",
+			"desc": "See you in Hel for the sequel."
+		},
+		"frog": {
+			"name": "Frog",
+			"desc": "Pepe the frog."
+		},
+		"goo": {
+			"name": "Goo",
+			"desc": "White goo is odd."
+		},
+		"rectus": {
+			"name": "Rectus",
+			"desc": "Red + Cactus = Rectus"
+		},
+		"oval": {
+			"name": "Oval",
+			"desc": "Not an oval"
+		},
+		"cute": {
+			"name": "Cute",
+			"desc": "Cutie patootie."
+		},
+		"omegasus": {
+			"name": "Omegasus",
+			"desc": "Blue seems kinda sus."
+		},
+		"rockstar": {
+			"name": "Rockstar",
+			"desc": "Looks more like the petal."
+		},
+		"ufo": {
+			"name": "UFO",
+			"desc": "Has aliens inside it."
+		},
+		"red_spikes": {
+			"name": "Red Spikes",
+			"desc": "It hurts. "
+		},
+		"sponge": {
+			"name": "Sponge",
+			"desc": "Washes the dishes."
+		},
+		"hexagon": {
+			"name": "Hexagon",
+			"desc": "Just a regular polygon."
+		},
+		"mech": {
+			"name": "Mech",
+			"desc": "Mechanical flower."
+		},
+		"lightning": {
+			"name": "Lightning",
+			"desc": "Strike!"
+		},
+		"inverted": {
+			"name": "Inverted",
+			"desc": "Flipped asf."
+		},
+		"poo": {
+			"name": "Poo",
+			"desc": "Poopy skin."
+		},
+		"sea_urchin": {
+			"name": "Sea Urchin",
+			"desc": "i forgor :skull:"
+		},
+		"long": {
+			"name": "Long",
+			"desc": "Side-effect of hydraulic press."
+		}
+	},
+	"starProducts": {
+		"stars_1": "Starter pack",
+		"stars_2": "Slightly bigger star pack",
+		"stars_3": "Big star pack",
+		"stars_4": "Large star pack",
+		"stars_5": "Larger star pack",
+		"stars_6": "Very big star pack",
+		"stars_7": "Huge star pack",
+		"stars_8": "Susily huge star pack",
+		"stars_9": "Susily huger star pack",
+		"stars_10": "Susily large and huge star pack",
+		"stars_11": "Susily large and huge star pack",
+		"stars_12": "Mrbeast son?"
+	}
+}
