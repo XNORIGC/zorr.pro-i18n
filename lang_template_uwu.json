@@ -305,31 +305,31 @@
 		},
 		"web": {
 			"name": "网",
-			"desc": "向敌人扔蜘蛛的屎并使其减速。"
+			"desc": "向敌人扔蜘蛛的便便并使其减速。"
 		},
 		"pollen": {
-			"name": "Pollen",
-			"desc": "Falls and stays on ground."
+			"name": "花粉",
+			"desc": "掉在了地上。"
 		},
 		"shell": {
-			"name": "Shell",
-			"desc": "Gives you shielding when consumed."
+			"name": "贝壳",
+			"desc": "当状态未满时将会回复护盾。"
 		},
 		"sunflower": {
-			"name": "Sunflower",
-			"desc": "Gives you shielding passively."
+			"name": "向日葵",
+			"desc": "花朵出于防御状态时恢复护盾。"
 		},
 		"bomb": {
-			"name": "Bomb",
-			"desc": "Explodes when it touches an enemy."
+			"name": "炸弹",
+			"desc": "碰到敌人就爆炸。"
 		},
 		"gas_bomb": {
-			"name": "Gas Bomb",
-			"desc": "Explodes and poisons your enemies."
+			"name": "毒气弹",
+			"desc": "爆炸并使被波及的敌人受到毒伤。"
 		},
 		"missile": {
-			"name": "Missile",
-			"desc": "A rebellious stinger that flies away from you."
+			"name": "导弹",
+			"desc": "一种逆反的刺，将从你身边飞走。"
 		},
 		"viper": {
 			"name": "Viper",
