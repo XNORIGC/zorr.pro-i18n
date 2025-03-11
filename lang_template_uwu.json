@@ -332,12 +332,12 @@
 			"desc": "一种逆反的刺，将从你身边飞走。"
 		},
 		"viper": {
-			"name": "Viper",
-			"desc": "We don't know how it poisons."
+			"name": "毒蝰",
+			"desc": "我们不知道他是怎么造成毒伤的。"
 		},
 		"rocket": {
-			"name": "Rocket",
-			"desc": "Fast and explosive"
+			"name": "火箭",
+			"desc": "又快又会爆炸。"
 		},
 		"electron_missile": {
 			"name": "Electron Missile",
