@@ -361,47 +361,47 @@
 		},
 		"dmca": {
 			"name": "DMCA",
-			"desc": "杀死那些"
+			"desc": "即刻杀死那些同一稀有度或低一稀有度的生物。"
 		},
 		"rock_egg": {
-			"name": "Rock Egg",
-			"desc": "Spawns your pet Rock."
+			"name": "岩石蛋",
+			"desc": "生成你的宠物岩石。"
 		},
 		"ladybug_egg": {
-			"name": "Ladybug Egg",
-			"desc": "Spawns your pet Ladybug."
+			"name": "瓢虫",
+			"desc": "生成你的宠物瓢虫。"
 		},
 		"bush_egg": {
-			"name": "Bush Egg",
-			"desc": "Spawns your pet Bush."
+			"name": "灌木丛蛋",
+			"desc": "生成你的宠物灌木丛。"
 		},
 		"sponge_egg": {
-			"name": "Sponge Egg",
-			"desc": "Spawns your pet Sponge."
+			"name": "海绵蛋",
+			"desc": "生成你的宠物海绵。"
 		},
 		"cactus_egg": {
-			"name": "Cactus Egg",
-			"desc": "Spawns your pet Cactus."
+			"name": "仙人掌蛋",
+			"desc": "生成你的宠物仙人掌。"
 		},
 		"baby_ant_egg": {
-			"name": "Baby Ant Egg",
-			"desc": "Spawns your pet Baby Ant."
+			"name": "幼蚁蛋",
+			"desc": "生成你的宠物幼蚁。"
 		},
 		"soldier_ant_egg": {
-			"name": "Soldier Ant Egg",
-			"desc": "Spawns your pet Soldier Ant."
+			"name": "兵蚁蛋",
+			"desc": "生成你的宠物兵蚁"
 		},
 		"worker_ant_egg": {
-			"name": "Worker Ant Egg",
-			"desc": "Spawns your pet Worker Ant."
+			"name": "工蚁蛋",
+			"desc": "生成你的宠物工蚁。"
 		},
 		"queen_ant_egg": {
-			"name": "Queen Ant Egg",
-			"desc": "Spawns your pet Queen Ant."
+			"name": "蚁后蛋",
+			"desc": "生成你的宠物蚁后。"
 		},
 		"baby_fire_ant_egg": {
-			"name": "Baby Fire Ant Egg",
-			"desc": "Spawns your pet Baby Fire Ant."
+			"name": "火幼蚁蛋",
+			"desc": "生成你的宠物火幼蚁。"
 		},
 		"soldier_fire_ant_egg": {
 			"name": "Soldier Fire Ant Egg",
