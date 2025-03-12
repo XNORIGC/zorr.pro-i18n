@@ -340,28 +340,28 @@
 			"desc": "又快又会爆炸。"
 		},
 		"electron_missile": {
-			"name": "Electron Missile",
-			"desc": "It is filled with angry electrons waiting to zap anything in their path"
+			"name": "电子导弹",
+			"desc": "充斥着愤怒的电子，它们准备攻击所有挡道者。"
 		},
 		"magnet": {
-			"name": "Magnet",
-			"desc": "Pulls petal drops."
+			"name": "磁铁",
+			"desc": "吸取掉落的花瓣。"
 		},
 		"salt": {
-			"name": "Salt",
-			"desc": "Reflects damage done to the flower back to the enemy"
+			"name": "盐",
+			"desc": "将花瓣受到的伤害反伤至对应的攻击者。"
 		},
 		"antennae": {
-			"name": "Antennae",
-			"desc": "Increases your vision."
+			"name": "触角",
+			"desc": "增大你的视野。"
 		},
 		"third_eye": {
-			"name": "Third Eye",
-			"desc": "Increases your petal range"
+			"name": "第三只眼",
+			"desc": "增加你的花瓣攻击范围。"
 		},
 		"dmca": {
 			"name": "DMCA",
-			"desc": "Despawns mobs of the same rarity or lower."
+			"desc": "杀死那些"
 		},
 		"rock_egg": {
 			"name": "Rock Egg",
