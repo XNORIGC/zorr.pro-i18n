@@ -404,12 +404,12 @@
 			"desc": "生成你的宠物火幼蚁。"
 		},
 		"soldier_fire_ant_egg": {
-			"name": "Soldier Fire Ant Egg",
-			"desc": "Spawns your pet Soldier Fire Ant."
+			"name": "火兵蚁蛋",
+			"desc": "繁殖你的宠物火兵蚁。"
 		},
 		"worker_fire_ant_egg": {
-			"name": "Worker Fire Ant Egg",
-			"desc": "Spawns your pet Worker Fire Ant."
+			"name": "火工蚁蛋",
+			"desc": "繁殖你的宠物火工蚁。"
 		},
 		"queen_fire_ant_egg": {
 			"name": "Queen Fire Ant Egg",
