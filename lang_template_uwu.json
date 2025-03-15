@@ -405,47 +405,47 @@
 		},
 		"soldier_fire_ant_egg": {
 			"name": "火兵蚁蛋",
-			"desc": "繁殖你的宠物火兵蚁。"
+			"desc": "生成你的宠物火兵蚁。"
 		},
 		"worker_fire_ant_egg": {
 			"name": "火工蚁蛋",
-			"desc": "繁殖你的宠物火工蚁。"
+			"desc": "生成你的宠物火工蚁。"
 		},
 		"queen_fire_ant_egg": {
 			"name": "Queen Fire Ant Egg",
-			"desc": "Spawns your pet Queen Fire Ant."
+			"desc": "生成你的宠物火蚁后。"
 		},
 		"mushroom_egg": {
-			"name": "Mushroom Egg",
-			"desc": "Spawns your pet Mushroom."
+			"name": "蘑菇蛋",
+			"desc": "生成你的宠物蘑菇蛋"
 		},
 		"jellyfish_egg": {
-			"name": "Jellyfish Egg",
-			"desc": "Spawns your pet Jellyfish."
+			"name": "水母蛋",
+			"desc": "生成你的宠物水母蛋"
 		},
 		"spider_egg": {
-			"name": "Spider Egg",
-			"desc": "Spawns your pet Spider."
+			"name": "蜘蛛蛋",
+			"desc": "生成你的宠物蜘蛛蛋"
 		},
 		"bee_egg": {
-			"name": "Bee Egg",
-			"desc": "Spawns your pet Bee."
+			"name": "蜜蜂蛋",
+			"desc": "生成你的宠物蜜蜂"
 		},
 		"hornet_egg": {
-			"name": "Hornet Egg",
-			"desc": "Spawns your pet Hornet."
+			"name": "黄蜂蛋",
+			"desc": "生成你的宠物黄蜂"
 		},
 		"shell_egg": {
-			"name": "Shell Egg",
-			"desc": "Spawns your pet Shell."
+			"name": "贝壳蛋",
+			"desc": "生成你的宠物贝壳"
 		},
 		"ant_hole_egg": {
-			"name": "Ant Hole Egg",
-			"desc": "Spawns your pet Ant Hole."
+			"name": "",
+			"desc": "生成你的宠物蚁穴蛋"
 		},
 		"fire_ant_hole_egg": {
-			"name": "Fire Ant Hole Egg",
-			"desc": "Spawns your pet Fire Ant Hole."
+			"name": "火蚁穴蛋",
+			"desc": "生成你的宠物火蚁穴蛋"
 		},
 		"spider_cave_egg": {
 			"name": "Spider Cave Egg",
