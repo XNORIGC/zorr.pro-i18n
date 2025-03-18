@@ -4,7 +4,7 @@
 		"nickInfo": "这朵小花叫做……",
 		"play": "游玩",
 		"connecting": "连接中……"
-	}
+	},
 	"mobs": {
 		"rock": {
 			"name": "岩石",
@@ -706,7 +706,7 @@
 		},
 		"hel_lightning": {
 			"name": "Hel Lightning",
-			"desc": "召唤一道诅咒火焰攻击附近的敌人。"
+			"desc": "召唤一道诅咒火焰袭击附近的敌人。"
 		},
 		"tumbleweed_egg": {
 			"name": "Tumbleweed Egg",
@@ -928,10 +928,6 @@
 			"name": "Sun",
 			"desc": "Here comes the sun"
 		}
-		"star": {
-			"name": "Star",
-			"desc": "A star of the night sky. "
-		},
 		"radioactive": {
 			"name": "Radioactive",
 			"desc": "Likes eating uranium ore"
@@ -1057,9 +1053,9 @@
 			"desc": "Developer skin??? WTF???"
 		},
 		"cactuser": {
-			"name": "Cactuser"
+			"name": "Cactuser",
 			"desc": "A desert plant."
-		}
+		},
 		"sad": {
 			"name": "Sad",
 			"desc": "Very very sad."
