@@ -1,5 +1,10 @@
 {
 	"name": "中文（简体）",
+	"ui": {
+		"nickInfo": "这朵小花叫做……",
+		"play": "游玩",
+		"connecting": "连接中……"
+	}
 	"mobs": {
 		"rock": {
 			"name": "岩石",
@@ -91,7 +96,7 @@
 		},
 		"hive": {
 			"name": "蜂巢",
-			"desc": "蜜蜂们在这里做些奇怪的事uwu"
+			"desc": "这是蜜蜂迪士尼乐园"
 		},
 		"yoba": {
 			"name": "尤巴",
@@ -117,9 +122,9 @@
 			"name": "向日葵",
 			"desc": "它有护盾。"
 		},
-		"yobammad": {
-			"name": "尤爆",
-			"desc": "它会爆炸。"
+		"boba": {
+			"name": "波巴",
+			"desc": "波巴"
 		},
 		"bubble": {
 			"name": "泡泡",
@@ -139,7 +144,7 @@
 		},
 		"target_dummy": {
 			"name": "训练假花",
-			"desc": "随意测试伤害。"
+			"desc": "击杀这些训练假花是破坏公物行为，这个游戏其实是一个秘密的IP地址获取器，我们已经向当地政府举报了你，预计在三到五分钟内就会有人来敲你的门"
 		},
 		"dark_ladybug": {
 			"name": "深色瓢虫",
@@ -151,7 +156,7 @@
 		},
 		"sandstorm": {
 			"name": "沙尘暴",
-			"desc": "挖沙者"
+			"desc": "沙卷风"
 		},
 		"scorpion": {
 			"name": "蝎子",
@@ -167,7 +172,7 @@
 		},
 		"dandelion": {
 			"name": "蒲公英",
-			"desc": "斯基比迪生物多普多普耶斯耶斯"
+			"desc": "受到攻击时会发射导弹"
 		},
 		"dragon": {
 			"name": "龙",
@@ -203,7 +208,7 @@
 		},
 		"tumbleweed": {
 			"name": "风滚草",
-			"desc": "风的噪音。"
+			"desc": "*风的噪音*"
 		},
 		"dragon_nest": {
 			"name": "龙巢",
@@ -211,11 +216,11 @@
 		},
 		"firestorm": {
 			"name": "火尘暴",
-			"desc": "挖火者"
+			"desc": "火卷风"
 		},
 		"hel_bee": {
 			"name": "冥界蜜蜂",
-			"desc": "用火热的灰烬蜇人。"
+			"desc": "火热得要命地蜇人。"
 		},
 		"hel_hornet": {
 			"name": "冥界黄蜂",
@@ -224,6 +229,26 @@
 		"bugatti": {
 			"name": "布加迪",
 			"desc": "顶级阿三最喜欢的车。"
+		},
+		"fly": {
+			"name": "苍蝇",
+			"desc": "它很脏（坦率地说）"
+		},
+		"mantis": {
+			"name": "螳螂",
+			"desc": "一次发射三颗穿甲豌豆。"
+		},
+		"firefly": {
+			"name": "萤火虫",
+			"desc": "带有高压电的苍蝇。"
+		},
+		"wasp": {
+			"name": "胡蜂",
+			"desc": "喜欢用导弹狙击花朵。"
+		},
+		"stickbug": {
+			"name": "竹节虫",
+			"desc": "它喜欢跳舞。"
 		}
 	},
 	"petals": {
@@ -365,163 +390,163 @@
 		},
 		"rock_egg": {
 			"name": "岩石蛋",
-			"desc": "生成你的宠物岩石。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"ladybug_egg": {
 			"name": "瓢虫",
-			"desc": "生成你的宠物瓢虫。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"bush_egg": {
 			"name": "灌木丛蛋",
-			"desc": "生成你的宠物灌木丛。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"sponge_egg": {
 			"name": "海绵蛋",
-			"desc": "生成你的宠物海绵。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"cactus_egg": {
 			"name": "仙人掌蛋",
-			"desc": "生成你的宠物仙人掌。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"baby_ant_egg": {
 			"name": "幼蚁蛋",
-			"desc": "生成你的宠物幼蚁。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"soldier_ant_egg": {
 			"name": "兵蚁蛋",
-			"desc": "生成你的宠物兵蚁"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"worker_ant_egg": {
 			"name": "工蚁蛋",
-			"desc": "生成你的宠物工蚁。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"queen_ant_egg": {
 			"name": "蚁后蛋",
-			"desc": "生成你的宠物蚁后。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"baby_fire_ant_egg": {
 			"name": "火幼蚁蛋",
-			"desc": "生成你的宠物火幼蚁。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"soldier_fire_ant_egg": {
 			"name": "火兵蚁蛋",
-			"desc": "生成你的宠物火兵蚁。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"worker_fire_ant_egg": {
 			"name": "火工蚁蛋",
-			"desc": "生成你的宠物火工蚁。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"queen_fire_ant_egg": {
 			"name": "Queen Fire Ant Egg",
-			"desc": "生成你的宠物火蚁后。"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"mushroom_egg": {
 			"name": "蘑菇蛋",
-			"desc": "生成你的宠物蘑菇蛋"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"jellyfish_egg": {
 			"name": "水母蛋",
-			"desc": "生成你的宠物水母蛋"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"spider_egg": {
 			"name": "蜘蛛蛋",
-			"desc": "生成你的宠物蜘蛛蛋"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"bee_egg": {
 			"name": "蜜蜂蛋",
-			"desc": "生成你的宠物蜜蜂"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hornet_egg": {
 			"name": "黄蜂蛋",
-			"desc": "生成你的宠物黄蜂"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"shell_egg": {
 			"name": "贝壳蛋",
-			"desc": "生成你的宠物贝壳"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"ant_hole_egg": {
 			"name": "",
-			"desc": "生成你的宠物蚁穴蛋"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"fire_ant_hole_egg": {
 			"name": "火蚁穴蛋",
-			"desc": "生成你的宠物火蚁穴蛋"
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"spider_cave_egg": {
 			"name": "Spider Cave Egg",
-			"desc": "Spawns your pet Spider Cave."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hive_egg": {
 			"name": "Hive Egg",
-			"desc": "Spawns your pet Hive."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"yoba_egg": {
 			"name": "Yoba Egg",
-			"desc": "Spawns your pet Yoba."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"spider_yoba_egg": {
 			"name": "Spider Yoba Egg",
-			"desc": "Spawns your pet Spider Yoba."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"centipede_egg": {
 			"name": "Centipede Egg",
-			"desc": "Spawns your pet Centipede."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"desert_centipede_egg": {
 			"name": "Desert Centipede Egg",
-			"desc": "Spawns your pet Desert Centipede."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"evil_centipede_egg": {
 			"name": "Evil Centipede Egg",
-			"desc": "Spawns your pet Evil Centipede."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"sunflower_egg": {
 			"name": "Sunflower Egg",
-			"desc": "Spawns your pet Sunflower."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
-		"yobammad_egg": {
-			"name": "Yobammad Egg",
-			"desc": "Spawns your pet Yobammad."
+		"boba_egg": {
+			"name": "Boba Egg",
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"bubble_egg": {
 			"name": "Bubble Egg",
-			"desc": "Spawns your pet Bubble."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"m28_egg": {
 			"name": "M28 Egg",
-			"desc": "Spawns your pet M28."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"beetle_egg": {
 			"name": "Beetle Egg",
-			"desc": "Spawns your pet Beetle."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"avocado_egg": {
 			"name": "Avocado Egg",
-			"desc": "Spawns your pet Avocado."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"target_dummy_egg": {
 			"name": "Target Dummy Egg",
-			"desc": "Spawns your pet Target Dummy."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"dark_ladybug_egg": {
 			"name": "Dark Ladybug Egg",
-			"desc": "Spawns your pet Dark Ladybug."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"shiny_ladybug_egg": {
 			"name": "Shiny Ladybug Egg",
-			"desc": "Spawns your pet Shiny Ladybug."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"stick": {
 			"name": "Stick",
-			"desc": "Summons the deadly winds."
+			"desc": "召唤致命的狂风。"
 		},
 		"scorpion_egg": {
 			"name": "Scorpion Egg",
-			"desc": "Spawns your pet Scorpion."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"starfish_egg": {
 			"name": "Starfish Egg",
-			"desc": "Spawns your pet Starfish."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"pea": {
 			"name": "Pea",
@@ -601,23 +626,23 @@
 		},
 		"starfish": {
 			"name": "Starfish",
-			"desc": "Some of starfish biologics are put inside you."
+			"desc": "在你生命值较低时治疗你"
 		},
 		"dandelion": {
 			"name": "Dandelion",
-			"desc": "Skibidi petal dop dop yes yes"
+			"desc": "使你的敌人无法治疗"
 		},
 		"crab_egg": {
 			"name": "Crab Egg",
-			"desc": "Spawns your pet Crab."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"dandelion_egg": {
 			"name": "Dandelion Egg",
-			"desc": "Spawns your pet Dandelion."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"dragon_egg": {
 			"name": "Dragon Egg",
-			"desc": "Spawns your pet Dragon."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"irey": {
 			"name": "Irey",
@@ -625,15 +650,15 @@
 		},
 		"leech_egg": {
 			"name": "Leech Egg",
-			"desc": "Spawns your pet Leech."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"nazar": {
 			"name": "Nazar",
-			"desc": "Skibidi petal dop dop yes yes"
+			"desc": "它可以抵挡一次打击，然后进入冷却状态"
 		},
 		"nazar_beetle_egg": {
 			"name": "Nazar Beetle Egg",
-			"desc": "Spawns your pet Nazar Beetle."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"golden_leaf": {
 			"name": "Golden Leaf",
@@ -661,47 +686,47 @@
 		},
 		"toxic_dragon_egg": {
 			"name": "Toxic Dragon Egg",
-			"desc": "Spawns your pet Toxic Dragon."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_worm_egg": {
 			"name": "Hel Worm Egg",
-			"desc": "Spawns your pet Hel Worm."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_spider_egg": {
 			"name": "Hel Spider Egg",
-			"desc": "Spawns your pet Hel Spider."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_beetle_egg": {
 			"name": "Hel Beetle Egg",
-			"desc": "Spawns your pet Hel Beetle."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_jellyfish_egg": {
 			"name": "Hel Jellyfish Egg",
-			"desc": "Spawns your pet Hel Jellyfish."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_lightning": {
 			"name": "Hel Lightning",
-			"desc": "Summons a cured fire strike on nearby enemies."
+			"desc": "召唤一道诅咒火焰攻击附近的敌人。"
 		},
 		"tumbleweed_egg": {
 			"name": "Tumbleweed Egg",
-			"desc": "Spawns your pet Tumbleweed."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"dragon_nest_egg": {
 			"name": "Dragon Nest Egg",
-			"desc": "Spawns your pet Dragon Nest."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"firestorm_egg": {
 			"name": "Firestorm Egg",
-			"desc": "Spawns your pet Firestorm."
+			"desc": "召唤致命的狂风。"
 		},
 		"hel_bee_egg": {
 			"name": "Hel Bee Egg",
-			"desc": "Spawns your pet Hel Bee."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_hornet_egg": {
 			"name": "Hel Hornet Egg",
-			"desc": "Spawns your pet Hel Hornet."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_missile": {
 			"name": "Hel Missile",
@@ -713,7 +738,51 @@
 		},
 		"bugatti_egg": {
 			"name": "Bugatti Egg",
-			"desc": "Spawns your pet Bugatti."
+			"desc": "它可以孵化生成一些有趣的东西……"
+		},
+		"poo": {
+			"name": "Poo",
+			"desc": "Decreases enemy range."
+		},
+		"rubber": {
+			"name": "Rubber",
+			"desc": "Increases knockback you get from enemies."
+		},
+		"fly_egg": {
+			"name": "Fly Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"fang": {
+			"name": "Fang",
+			"desc": "Heals you with the damage it does."
+		},
+		"blood_stinger": {
+			"name": "Blood Stinger",
+			"desc": "Very deadily but also casts some damage back to you."
+		},
+		"mantis_egg": {
+			"name": "Mantis Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"firefly_egg": {
+			"name": "Firefly Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"wasp_egg": {
+			"name": "Wasp Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"battery": {
+			"name": "Battery",
+			"desc": "Makes your body spawn a lightning strike when an enemy hits it."
+		},
+		"stickbug_egg": {
+			"name": "Stickbug Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"plank": {
+			"name": "Plank",
+			"desc": "Does 100x more damage to enemy projectiles."
 		}
 	},
 	"achievements": {
@@ -765,9 +834,9 @@
 			"name": "ZUPER UWUPER",
 			"desc": "COllect 5 super petals."
 		},
-		"hyper": {
-			"name": "Hypersigmasonic",
-			"desc": "Collect a hyper petal."
+		"omega": {
+			"name": "Omegasigmasonic",
+			"desc": "Collect an omega petal."
 		},
 		"medic": {
 			"name": "Medic",
@@ -832,6 +901,10 @@
 		"jeet": {
 			"name": "Top Jeet",
 			"desc": "Obtain a Super or higher rarity Bugatti."
+		},
+		"clown": {
+			"name": "Clown",
+			"desc": "Transform into a clown."
 		}
 	},
 	"skins": {
@@ -851,6 +924,10 @@
 			"name": "Lifeless",
 			"desc": "... where did the face go"
 		},
+		"sun": {
+			"name": "Sun",
+			"desc": "Here comes the sun"
+		}
 		"star": {
 			"name": "Star",
 			"desc": "A star of the night sky. "
@@ -865,7 +942,7 @@
 		},
 		"cactus": {
 			"name": "Cactus",
-			"desc": "A desert plant."
+			"desc": "Not really a flower, is it"
 		},
 		"ghost": {
 			"name": "Ghost",
@@ -874,6 +951,54 @@
 		"cyclops": {
 			"name": "Cyclops",
 			"desc": "where did the other eyes go"
+		},
+		"angled": {
+			"name": "Angled",
+			"desc": "Its Tilting its head, if thats even possible"
+		},
+		"small_face": {
+			"name": "Small face",
+			"desc": "Does it have a small face or a big body?"
+		},
+		"frozen": {
+			"name": "Frozen",
+			"desc": "Let it go, let it gooo"
+		},
+		"omega_flowey": {
+			"name": "Omega flowey",
+			"desc": "Pink skin"
+		},
+		"star2": {
+			"name": "Star2",
+			"desc": "You bought 1 star for 7500 stars, worth it."
+		},
+		"red_star": {
+			"name": "Red Star",
+			"desc": "Very interesting patterns."
+		},
+		"clover": {
+			"name": "Clover",
+			"desc": "Lucky!"
+		},
+		"rocker": {
+			"name": "Rocker",
+			"desc": "This skin rocks!"
+		},
+		"dark_mode": {
+			"name": "Dark mode",
+			"desc": "Who turned off the lights"
+		},
+		"megamind": {
+			"name": "Megamind",
+			"desc": "Hes thinking"
+		},
+		"pentagon": {
+			"name": "Pentagon",
+			"desc": "An even more unknown shape"
+		},
+		"mouse": {
+			"name": "Mouse",
+			"desc": "How does it even use petals"
 		},
 		"yellow": {
 			"name": "Yellow",
@@ -915,8 +1040,8 @@
 			"name": "Trader",
 			"desc": "Trades humans."
 		},
-		"clover": {
-			"name": "Clover",
+		"clover2": {
+			"name": "Clover2",
 			"desc": "4chan?"
 		},
 		"zatan": {
@@ -931,6 +1056,10 @@
 			"name": "Brain Damage",
 			"desc": "Developer skin??? WTF???"
 		},
+		"cactuser": {
+			"name": "Cactuser"
+			"desc": "A desert plant."
+		}
 		"sad": {
 			"name": "Sad",
 			"desc": "Very very sad."
@@ -983,6 +1112,10 @@
 			"name": "Omegasus",
 			"desc": "Blue seems kinda sus."
 		},
+		"star": {
+			"name": "Star",
+			"desc": "A star of the night sky. "
+		},
 		"rockstar": {
 			"name": "Rockstar",
 			"desc": "Looks more like the petal."
@@ -1026,20 +1159,315 @@
 		"long": {
 			"name": "Long",
 			"desc": "Side-effect of hydraulic press."
+		},
+		"blue": {
+			"name": "Blue",
+			"desc": "Goofy asf"
+		},
+		"right-angle": {
+			"name": "Right-Angle",
+			"desc": "You are rotated by 90 degrees."
+		},
+		"beam": {
+			"name": "Beam",
+			"desc": "God rays that are very good for trolling uwu"
+		}
+	},
+	"objectKeys": {
+		"health": "Health",
+		"damage": "Damage",
+		"boost": "Boost",
+		"swing": "Swing",
+		"heal": "Heal",
+		"passiveHeal": "Passive Heal",
+		"passiveHealBelow50": "Passive Heal",
+		"shield": "Shield",
+		"passiveShield": "Passive Shield",
+		"poison": "Poison",
+		"orbitSpeed": "Orbit Speed",
+		"lightningDamage": "Lightning Damage",
+		"lightningFireDamage": "Lightning Fire Damage",
+		"lightningPoison": "Lightning Poison",
+		"lightningBounces": "Lightning Bounces",
+		"webSize": "Web Size",
+		"explosion": "Explosion",
+		"explosionSize": "Explosion Size",
+		"explosionPoison": "Explosion Poison",
+		"pickRange": "Pick Range",
+		"damageReflection": "Damage Reflection",
+		"extraVision": "Extra Vision",
+		"extraRange": "Extra Range",
+		"despawnTime": "Despawn Time",
+		"pet": "Pet",
+		"petSize": "Pet Size",
+		"passiveBoost": "Passive Boost",
+		"push": "Push",
+		"armor": "Armor",
+		"extraFlowerHealth": "Extra Flower Health",
+		"flowerPoison": "Flower Poison",
+		"slownessTime": "Slowness Time",
+		"soakDamageTime": "Soak Damage Time",
+		"honeyRange": "Honey Range",
+		"honeyTileDamage": "Honey Tile Damage",
+		"honeyTilePoison": "Honey Tile Poison",
+		"sendToBiome": "Send To Biome",
+		"flowerReloadFactor": "Flower Reload Factor",
+		"armorDebuff": "Armor Debuff",
+		"flowerSpeed": "Flower Speed",
+		"fireDamage": "Fire Damage",
+		"firePoison": "Fire Poison",
+		"fireTime": "Fire Time",
+		"flowerAcceleration": "Flower Acceleration",
+		"agroRangeReduction": "Agro Range Reduction",
+		"flowerKnockedFactor": "Flower Knocked Factor",
+		"damageHealed": "Damage Healed",
+		"selfDamage": "Self Damage",
+		"flowerBodyLightning": "Flower Body Lightning",
+		"bodyLightning": "Body Lightning",
+		"healAffectTime": "Heal Affect Time",
+		"missileHealth": "Missile Health",
+		"missileDamage": "Missile Damage",
+		"missilePoison": "Missile Poison",
+		"missileHealAffectTime": "Missile Heal Affect Time",
+		"missileArmorDebuff": "Missile Armor Debuff",
+		"bodyFireDamage": "Body Fire Damage",
+		"evasion": "Evasion",
+		"keyboardControls": "Keyboard Controls",
+		"movementHelper": "Movement Helper",
+		"showHitbox": "Show Hitbox",
+		"showRarities": "Show Rarities",
+		"showGrid": "Show Grid",
+		"showChat": "Show Chat",
+		"showCraftBubble": "Show Craft Bubble",
+		"showDamage": "Show Damage",
+		"showDamageFlash": "Show Damage Flash",
+		"showHealthBar": "Show Health Bar",
+		"showHealth": "Show Health",
+		"showDps": "Show Dps",
+		"showExplosion": "Show Explosion",
+		"abbreviateDps": "Abbreviate Dps",
+		"showDebugInfo": "Show Debug Info",
+		"fixedHudSize": "Fixed Hud Size",
+		"screenShake": "Screen Shake",
+		"showKills": "Show Kills",
+		"antiAliasing": "Anti Aliasing",
+		"potatoHardware": "Potato Hardware",
+		"badwordFilter": "Badword Filter",
+		"xp": "Xp",
+		"timeJoined": "Time Joined",
+		"stars": "Stars",
+		"timePlayed": "Time Played",
+		"gamesPlayed": "Games Played",
+		"mobsKilled": "Mobs Killed",
+		"petalsPicked": "Petals Picked",
+		"petalsCrafted": "Petals Crafted",
+		"petalsBurned": "Petals Burned",
+		"chatSent": "Chat Sent",
+		"maxScore": "Max Score",
+		"maxTimeAlive": "Max Time Alive",
+		"maxMobsKilled": "Max Mobs Killed",
+		"maxPetalsPicked": "Max Petals Picked",
+		"dailyPlaytime": "Daily Playtime",
+		"maxDailyPlaytime": "Max Daily Playtime",
+		"maxStreak": "Max Streak"
+	},
+	"commands": {
+		"spin_speed": {
+			"desc": "Sets your flower's spin speed."
+		},
+		"mob_gif": {
+			"desc": "Renders GIF for a mob."
+		},
+		"petal_power": {
+			"desc": "Displays auto computed petal powers. Might not be accurate."
+		},
+		"global_user_list": {
+			"desc": "Displays globally online users."
+		},
+		"user_petal_purchases": {
+			"desc": "Lets you see total petals purchased by users."
+		},
+		"edit_petals": {
+			"desc": "Lets you modify petals."
+		},
+		"lang": {
+			"desc": "Let's you set a custom lanuage file for the game. Not fully implementd."
+		},
+		"give_all": {
+			"desc": "Gives all petals of a rarity."
+		},
+		"run_on_join": {
+			"desc": "Runs the commands when you join as an admin. Separate by comma."
+		},
+		"wipe_users": {
+			"desc": "Wipes progress of all users."
+		},
+		"stars": {
+			"desc": "Gives you stars."
+		},
+		"skin": {
+			"desc": "Gives you a skin"
+		},
+		"portal": {
+			"desc": "Creates a portal."
+		},
+		"del_portal": {
+			"desc": "Creates a portal."
+		},
+		"mute": {
+			"desc": "Mutes a user."
+		},
+		"unmute": {
+			"desc": "Unmutes a user."
+		},
+		"ban": {
+			"desc": "Bans a user."
+		},
+		"unban": {
+			"desc": "Unbans a user."
+		},
+		"kick": {
+			"desc": "Kicks a user."
+		},
+		"user_petals": {
+			"desc": "Displays global petal gallery."
+		},
+		"user_mobs": {
+			"desc": "Displays global mob gallery."
+		},
+		"user_equipped_petals": {
+			"desc": "Displays global equipped petal gallery."
+		},
+		"user_mob_deaths": {
+			"desc": "Displays global mob player deaths."
+		},
+		"diff_rates": {
+			"desc": "Displays difficulty rarity rates."
+		},
+		"restart": {
+			"desc": "Restarts server."
+		},
+		"wipe": {
+			"desc": "Wipes your inventory"
+		},
+		"profile": {
+			"desc": "Requests profile of a person"
+		},
+		"tickrate": {
+			"desc": "Sets server update rate. Default is 20 times per second."
+		},
+		"lerp": {
+			"desc": "Sets interpolation delay. Default is 100ms."
+		},
+		"drop": {
+			"desc": "Drops a petal."
+		},
+		"petal_icon": {
+			"desc": "Renders icon for a petal."
+		},
+		"mob_icon": {
+			"desc": "Renders icon for a mob."
+		},
+		"petal_size": {
+			"desc": "Sets your petal size factor. Default is 1."
+		},
+		"orbit": {
+			"desc": "Changes trajectory of your petal orbit. Do \"/orbit reset\" to revert back to circular orbit. Shape params are optional but you can pass them like \"/orbit 3 5 18 18\"."
+		},
+		"reset": {
+			"desc": "Kills all mobs & projectiles."
+		},
+		"wall_thickness": {
+			"desc": "Defines wall edge thickness. Default is 12."
+		},
+		"tp_all": {
+			"desc": "Teleports everyone to (x, y) in grid coordinates."
+		},
+		"tp_to": {
+			"desc": "Teleports you to user."
+		},
+		"tp": {
+			"desc": "Teleports you to (x, y) in grid coordinates."
+		},
+		"die": {
+			"desc": "Kills you."
+		},
+		"sprite": {
+			"desc": "Shows petal spritesheet."
+		},
+		"spawn_diff": {
+			"desc": "Spawns mobs using difficulty."
+		},
+		"spawn": {
+			"desc": "Spawns mobs. Use underscore instead of spaces in mob names. Size is optional."
+		},
+		"game_speed": {
+			"desc": "Increases or decreases game speed."
+		},
+		"droprates": {
+			"desc": "Display droprates table for a petal rarity factor. Closer to 0 means more rare petal and vice-versa. Should be betwen 0 and 1."
+		},
+		"sim_craft": {
+			"desc": "Simulates crafting."
+		},
+		"give": {
+			"desc": "Puts petal in your inventory. Use underscore instead of spaces in petal names."
+		},
+		"ygg": {
+			"desc": "Revives you if you are dead."
+		},
+		"immune": {
+			"desc": "Makes your flower immune to any damage."
+		},
+		"speed": {
+			"desc": "Sets your flower's movement speed factor"
+		},
+		"ghost": {
+			"desc": "Disables collision on your flower. Use the same command to toggle it back on."
+		},
+		"toggle_game": {
+			"desc": "Enables/disables game update loop."
+		},
+		"fov": {
+			"desc": "Sets your field of view factor"
 		}
 	},
 	"starProducts": {
-		"stars_1": "Starter pack",
-		"stars_2": "Slightly bigger star pack",
-		"stars_3": "Big star pack",
-		"stars_4": "Large star pack",
-		"stars_5": "Larger star pack",
-		"stars_6": "Very big star pack",
-		"stars_7": "Huge star pack",
-		"stars_8": "Susily huge star pack",
-		"stars_9": "Susily huger star pack",
-		"stars_10": "Susily large and huge star pack",
-		"stars_11": "Susily large and huge star pack",
-		"stars_12": "Mrbeast son?"
+		"stars_1": {
+			"desc": "Starter pack"
+		},
+		"stars_2": {
+			"desc": "Slightly bigger star pack"
+		},
+		"stars_3": {
+			"desc": "Big star pack"
+		},
+		"stars_4": {
+			"desc": "Large star pack"
+		},
+		"stars_5": {
+			"desc": "Larger star pack"
+		},
+		"stars_6": {
+			"desc": "Very big star pack"
+		},
+		"stars_7": {
+			"desc": "Huge star pack"
+		},
+		"stars_8": {
+			"desc": "Susily huge star pack"
+		},
+		"stars_9": {
+			"desc": "Susily huger star pack"
+		},
+		"stars_10": {
+			"desc": "Susily large and huge star pack"
+		},
+		"stars_11": {
+			"desc": "Susily large and huge star pack"
+		},
+		"stars_12": {
+			"desc": "Mrbeast son?"
+		}
 	}
 }
