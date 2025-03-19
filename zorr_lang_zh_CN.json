@@ -783,6 +783,14 @@
 		"plank": {
 			"name": "Plank",
 			"desc": "Does 100x more damage to enemy projectiles."
+		},
+		"icicle": {
+			"name": "Icicle",
+			"desc": "Freezes enemies."
+		},
+		"dice": {
+			"name": "Dice",
+			"desc": "Has 6.9% chance of dealing 42x damage"
 		}
 	},
 	"achievements": {
@@ -1241,11 +1249,11 @@
 		"showHealth": "Show Health",
 		"showDps": "Show Dps",
 		"showExplosion": "Show Explosion",
+		"showLightning": "Show Lightning",
 		"abbreviateDps": "Abbreviate Dps",
 		"showDebugInfo": "Show Debug Info",
 		"fixedHudSize": "Fixed Hud Size",
 		"screenShake": "Screen Shake",
-		"showKills": "Show Kills",
 		"antiAliasing": "Anti Aliasing",
 		"potatoHardware": "Potato Hardware",
 		"badwordFilter": "Badword Filter",
