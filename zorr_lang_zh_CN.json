@@ -313,7 +313,7 @@
 			"desc": "复活死去的花朵们。"
 		},
 		"leaf": {
-			"name": "Leaf",
+			"name": "叶子",
 			"desc": "被动地治疗你。"
 		},
 		"lightning": {
@@ -437,7 +437,7 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"queen_fire_ant_egg": {
-			"name": "Queen Fire Ant Egg",
+			"name": "火蚁后蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"mushroom_egg": {
@@ -465,7 +465,7 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"ant_hole_egg": {
-			"name": "",
+			"name": "蚁穴蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"fire_ant_hole_egg": {
@@ -473,116 +473,116 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"spider_cave_egg": {
-			"name": "Spider Cave Egg",
+			"name": "蜘蛛穴蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hive_egg": {
-			"name": "Hive Egg",
+			"name": "蜂巢蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"yoba_egg": {
-			"name": "Yoba Egg",
+			"name": "Yoba蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"spider_yoba_egg": {
-			"name": "Spider Yoba Egg",
+			"name": "蜘蛛Yoba蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"centipede_egg": {
-			"name": "Centipede Egg",
+			"name": "蜈蚣蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"desert_centipede_egg": {
-			"name": "Desert Centipede Egg",
+			"name": "沙漠蜈蚣蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"evil_centipede_egg": {
-			"name": "Evil Centipede Egg",
+			"name": "邪恶蜈蚣蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"sunflower_egg": {
-			"name": "Sunflower Egg",
+			"name": "向日葵蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"boba_egg": {
-			"name": "Boba Egg",
+			"name": "珍珠蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"bubble_egg": {
-			"name": "Bubble Egg",
+			"name": "泡泡蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"m28_egg": {
-			"name": "M28 Egg",
+			"name": "M28蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"beetle_egg": {
-			"name": "Beetle Egg",
+			"name": "甲虫蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"avocado_egg": {
-			"name": "Avocado Egg",
+			"name": "鳄梨蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"target_dummy_egg": {
-			"name": "Target Dummy Egg",
+			"name": "假人蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"dark_ladybug_egg": {
-			"name": "Dark Ladybug Egg",
+			"name": "黑暗瓢虫蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"shiny_ladybug_egg": {
-			"name": "Shiny Ladybug Egg",
+			"name": "闪亮瓢虫蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"stick": {
-			"name": "Stick",
+			"name": "沙尘暴",
 			"desc": "召唤致命的狂风。"
 		},
 		"scorpion_egg": {
-			"name": "Scorpion Egg",
+			"name": "海绵蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"starfish_egg": {
-			"name": "Starfish Egg",
+			"name": "海星蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"pea": {
-			"name": "Pea",
-			"desc": "It goes poof"
+			"name": "豌豆",
+			"desc": "它噗的一声炸开"
 		},
 		"avocado": {
-			"name": "Avocado",
-			"desc": "Increases your pet size."
+			"name": "鳄梨",
+			"desc": "增加你的宠物大小。"
 		},
 		"ring_magnet": {
-			"name": "Ring Magnet",
-			"desc": "Pull everything towards you slowly."
+			"name": "环形磁铁",
+			"desc": "慢慢地把一切都拉向你。"
 		},
 		"gas": {
-			"name": "Gas",
-			"desc": "Poisonous gas."
+			"name": "气体",
+			"desc": "有毒气体"
 		},
 		"fire": {
-			"name": "Fire",
-			"desc": "It burns."
+			"name": "火",
+			"desc": "它在燃烧。"
 		},
 		"nitro": {
-			"name": "Nitro",
-			"desc": "It's like a jetpack."
+			"name": "硝基",
+			"desc": "它就像喷气背包。"
 		},
 		"wind": {
-			"name": "Wind",
-			"desc": "Pushes enemies away."
+			"name": "风",
+			"desc": "赶走敌人。"
 		},
 		"air": {
-			"name": "Air",
-			"desc": "Invisible asf."
+			"name": "空气",
+			"desc": "隐形东西。"
 		},
 		"lightsaber": {
-			"name": "Lightsaber",
-			"desc": "Limited range photon sword"
+			"name": "激光剑",
+			"desc": "有限射程激光剑"
 		},
 		"visaber": {
 			"name": "Visaber",
