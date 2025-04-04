@@ -192,7 +192,7 @@
 		},
 		"hel_worm": {
 			"name": "冥界蠕虫",
-			"desc": "来自digworm.io的撒旦蠕虫"
+			"desc": "来自 digworm.io 的撒旦蠕虫"
 		},
 		"hel_spider": {
 			"name": "冥界蜘蛛",
@@ -385,7 +385,7 @@
 			"desc": "增加你的花瓣攻击范围。"
 		},
 		"dmca": {
-			"name": "DMCA",
+			"name": "律师函",
 			"desc": "即刻杀死那些同一稀有度或低一稀有度的生物。"
 		},
 		"rock_egg": {
@@ -481,7 +481,7 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"yoba_egg": {
-			"name": "Yoba蛋",
+			"name": "Yoba 蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"spider_yoba_egg": {
@@ -513,7 +513,7 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"m28_egg": {
-			"name": "M28蛋",
+			"name": "M28 蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"beetle_egg": {
@@ -795,36 +795,36 @@
 	},
 	"achievements": {
 		"rookie": {
-			"name": "Rookie",
-			"desc": "Play for 15 minutes."
+			"name": "新秀",
+			"desc": "玩游戏 15 分钟"
 		},
 		"started": {
-			"name": "Getting started...",
-			"desc": "Play for 1 hour."
+			"name": "入门...",
+			"desc": "玩游戏 1 小时"
 		},
 		"player": {
-			"name": "Average Gamer",
-			"desc": "Play for 6 hours"
+			"name": "普通玩家",
+			"desc": "玩游戏 6 小时"
 		},
 		"gamer": {
-			"name": "Better Gamer",
-			"desc": "Play for 1 day."
+			"name": "出色的玩家",
+			"desc": "玩游戏 1 天"
 		},
 		"week": {
-			"name": "twenty-four-seven",
-			"desc": "Play for 7 days."
+			"name": "7 个 24 小时",
+			"desc": "玩游戏 7 天"
 		},
 		"month": {
-			"name": "Addicted",
-			"desc": "Play for 30 days."
+			"name": "沉迷",
+			"desc": "玩游戏 30 天"
 		},
 		"year": {
-			"name": "Happy new year!",
-			"desc": "Play for 365 days."
+			"name": "新年快乐！",
+			"desc": "玩游戏 365 天"
 		},
 		"epic": {
-			"name": "Epic Gamer Moment",
-			"desc": "Collect 1 Epic petal."
+			"name": "史诗时刻",
+			"desc": "获得一个史诗花瓣"
 		},
 		"legendary": {
 			"name": "Logandary",
