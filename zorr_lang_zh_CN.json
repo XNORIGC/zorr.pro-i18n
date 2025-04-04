@@ -585,8 +585,8 @@
 			"desc": "有限射程激光剑"
 		},
 		"visaber": {
-			"name": "Visaber",
-			"desc": "Its shooting gamma rays instead of visible photons"
+			"name": "光刃",
+			"desc": "它发射的是伽马射线而非可见光子"
 		},
 		"bone": {
 			"name": "骨头",
@@ -645,11 +645,11 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"irey": {
-			"name": "Irey",
-			"desc": "Turns honey tiles poisonous."
+			"name": "蜜蚀",
+			"desc": "使甜蜜的方块布满毒素"
 		},
 		"leech_egg": {
-			"name": "Leech Egg",
+			"name": "水蛭蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"nazar": {
@@ -665,24 +665,24 @@
 			"desc": "减少花瓣加载时间"
 		},
 		"laser": {
-			"name": "Laser",
-			"desc": "Can cause severe burns"
+			"name": "激光器",
+			"desc": "可导致严重烧伤"
 		},
 		"mark": {
-			"name": "Mark",
-			"desc": "Sends a dead lil flower to Hel"
+			"name": "暗黑标记",
+			"desc": "送一朵死去的小花去地狱"
 		},
 		"bur": {
-			"name": "Bur",
-			"desc": "Decreases enemy armor"
+			"name": "刺果",
+			"desc": "降低敌人的护甲"
 		},
 		"cutter": {
-			"name": "Cutter",
-			"desc": "Increases your body damage."
+			"name": "锯齿",
+			"desc": "增加你的身体伤害"
 		},
 		"powder": {
 			"name": "粉末",
-			"desc": "Cocaine"
+			"desc": "可卡因"
 		},
 		"toxic_dragon_egg": {
 			"name": "毒龙蛋",
@@ -709,15 +709,15 @@
 			"desc": "召唤一道诅咒火焰袭击附近的敌人。"
 		},
 		"tumbleweed_egg": {
-			"name": "Tumbleweed Egg",
+			"name": "风滚草蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"dragon_nest_egg": {
-			"name": "Dragon Nest Egg",
+			"name": "龙巢蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"firestorm_egg": {
-			"name": "Firestorm Egg",
+			"name": "火风暴蛋",
 			"desc": "召唤致命的狂风。"
 		},
 		"hel_bee_egg": {
@@ -725,72 +725,72 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_hornet_egg": {
-			"name": "Hel Hornet Egg",
+			"name": "地狱马蜂蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_missile": {
 			"name": "地狱导弹",
-			"desc": "hot asf missile"
+			"desc": "炽焰爆裂弹"
 		},
 		"bugatti": {
-			"name": "Bugatti",
-			"desc": "Increases your movement speed but makes you slippery asf."
+			"name": "布加迪",
+			"desc": "大幅提升移动速度，但会让你滑得离谱"
 		},
 		"bugatti_egg": {
-			"name": "Bugatti Egg",
+			"name": "布加迪蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"poo": {
 			"name": "便便",
-			"desc": "Decreases enemy range."
+			"desc": "降低敌人的射程"
 		},
 		"rubber": {
 			"name": "橡皮",
-			"desc": "Increases knockback you get from enemies."
+			"desc": "增加你从敌人身上获得的击退效果"
 		},
 		"fly_egg": {
 			"name": "苍蝇蛋",
-			"desc": "It can hatch and spawn something interesting..."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"fang": {
-			"name": "Fang",
-			"desc": "Heals you with the damage it does."
+			"name": "血牙",
+			"desc": "用它造成的伤害来治疗你"
 		},
 		"blood_stinger": {
-			"name": "Blood Stinger",
-			"desc": "Very deadily but also casts some damage back to you."
+			"name": "血刺",
+			"desc": "非常致命，但也会对你造成一定伤害."
 		},
 		"mantis_egg": {
-			"name": "Mantis Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "螳螂蛋",
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"firefly_egg": {
 			"name": "萤火虫蛋",
-			"desc": "It can hatch and spawn something interesting..."
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"wasp_egg": {
-			"name": "Wasp Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "胡蜂蛋",
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"battery": {
 			"name": "电池",
-			"desc": "Makes your body spawn a lightning strike when an enemy hits it."
+			"desc": "使你的身体在被敌人击中时产生电击。"
 		},
 		"stickbug_egg": {
-			"name": "Stickbug Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "竹节虫卵",
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"plank": {
-			"name": "Plank",
-			"desc": "Does 100x more damage to enemy projectiles."
+			"name": "木板",
+			"desc": "对敌方射弹的伤害提高 100 倍"
 		},
 		"icicle": {
-			"name": "Icicle",
-			"desc": "Freezes enemies."
+			"name": "冰锥",
+			"desc": "冻结敌人"
 		},
 		"dice": {
 			"name": "骰子",
-			"desc": "Has 6.9% chance of dealing 42x damage"
+			"desc": "有 6.9% 的几率造成 42 倍伤害"
 		}
 	},
 	"achievements": {
