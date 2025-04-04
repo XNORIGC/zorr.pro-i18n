@@ -481,11 +481,11 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"yoba_egg": {
-			"name": "Yoba 蛋",
+			"name": "尤巴蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"spider_yoba_egg": {
-			"name": "蜘蛛 Yoba 蛋",
+			"name": "蜘蛛尤巴蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"centipede_egg": {
@@ -585,7 +585,7 @@
 			"desc": "有限射程激光剑"
 		},
 		"visaber": {
-			"name": "光刃",
+			"name": "伽马剑",
 			"desc": "它发射的是伽马射线而非可见光子"
 		},
 		"bone": {
@@ -824,55 +824,55 @@
 		},
 		"epic": {
 			"name": "史诗时刻",
-			"desc": "获得一个史诗花瓣"
+			"desc": "收集一片史诗花瓣"
 		},
 		"legendary": {
-			"name": "Logandary",
-			"desc": "Collect 1 Legendary petal."
+			"name": "Logan 传奇",
+			"desc": "收集一片传奇花瓣"
 		},
 		"mythic": {
-			"name": "The Myths Are Real",
-			"desc": "Collect 1 Mythic petal."
+			"name": "神话成真",
+			"desc": "收集一片神话花瓣"
 		},
 		"ultra": {
-			"name": "Above the normies",
-			"desc": "Collect a ultra petal."
+			"name": "更胜一筹",
+			"desc": "收集一片究极花瓣"
 		},
 		"super": {
-			"name": "ZUPER UWUPER",
-			"desc": "COllect 5 super petals."
+			"name": "超级无敌花",
+			"desc": "收集 5 个超级花瓣"
 		},
 		"omega": {
-			"name": "Omegasigmasonic",
-			"desc": "Collect an omega petal."
+			"name": "终极音速花",
+			"desc": "收集一个终极花瓣"
 		},
 		"medic": {
-			"name": "Medic",
-			"desc": "Revive someone using a Yggdrasil."
+			"name": "医务人员",
+			"desc": "使用世界树复活一朵花"
 		},
 		"surgeon": {
-			"name": "Surgeon",
-			"desc": "Revive 25 flowers using Yggdrasil."
+			"name": "医生",
+			"desc": "使用世界树复活 25 朵花"
 		},
 		"angel": {
-			"name": "Angel",
-			"desc": "Revive 250 flowers using Yggdrasil."
+			"name": "天使",
+			"desc": "使用世界树复活 250 朵花"
 		},
 		"god": {
-			"name": "An omnipotent",
-			"desc": "Encounter an admin."
+			"name": "无所不能",
+			"desc": "遇到管理员"
 		},
 		"killer": {
-			"name": "Serial Killer",
-			"desc": "Kill 25 mobs"
+			"name": "连环杀手",
+			"desc": "击杀 25 只生物"
 		},
 		"genocide": {
-			"name": "Genocide",
-			"desc": "Kill 250 mobs"
+			"name": "种族灭绝",
+			"desc": "击杀 250 只生物"
 		},
 		"massacre": {
-			"name": "Massacre",
-			"desc": "Kill 2500 mobs"
+			"name": "大屠杀",
+			"desc": "击杀 2500 只生物"
 		},
 		"holocaust": {
 			"name": "Titler Son",
