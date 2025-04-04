@@ -589,59 +589,59 @@
 			"desc": "Its shooting gamma rays instead of visible photons"
 		},
 		"bone": {
-			"name": "Bone",
-			"desc": "Made up of calcium."
+			"name": "骨头",
+			"desc": "由钙元素组成"
 		},
 		"cactus": {
-			"name": "Cactus",
-			"desc": "Gives you more health."
+			"name": "仙人掌",
+			"desc": "给予你更多生命值"
 		},
 		"soil": {
-			"name": "Soil",
-			"desc": "Makes flowers fat."
+			"name": "泥土",
+			"desc": "让花花更胖"
 		},
 		"grapes": {
-			"name": "Grapes",
-			"desc": "Missile but iris. wtf?"
+			"name": "葡萄",
+			"desc": "导弹……还是鸢尾？什么鬼？"
 		},
 		"mushroom": {
-			"name": "Mushroom",
-			"desc": "Makes your flower poisonous."
+			"name": "蘑菇",
+			"desc": "让花花变得有毒"
 		},
 		"ears": {
-			"name": "Ears",
-			"desc": "Telepathic kitty ears."
+			"name": "猫耳",
+			"desc": "心灵感应的小猫耳朵"
 		},
 		"sand": {
-			"name": "Sand",
-			"desc": "Could build a sandcastle out of this."
+			"name": "沙子",
+			"desc": "可以做成沙堡"
 		},
 		"pincer": {
-			"name": "Pincer",
-			"desc": "Break your enemies legs, even if they dont have any."
+			"name": "螯",
+			"desc": "打折敌人的腿！即使他们并没有腿"
 		},
 		"dahlia": {
-			"name": "Dahlia",
-			"desc": "Sacrifices heal for reliability"
+			"name": "大丽花",
+			"desc": "为了可靠而牺牲治愈性"
 		},
 		"starfish": {
-			"name": "Starfish",
+			"name": "海星腿",
 			"desc": "在你生命值较低时治疗你"
 		},
 		"dandelion": {
-			"name": "Dandelion",
-			"desc": "使你的敌人无法治疗"
+			"name": "蒲公英",
+			"desc": "使你的敌人无法回血"
 		},
 		"crab_egg": {
-			"name": "Crab Egg",
+			"name": "螃蟹蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"dandelion_egg": {
-			"name": "Dandelion Egg",
+			"name": "蒲公英蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"dragon_egg": {
-			"name": "Dragon Egg",
+			"name": "龙蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"irey": {
@@ -661,8 +661,8 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"golden_leaf": {
-			"name": "Golden Leaf",
-			"desc": "Reduces petal reload time."
+			"name": "金叶",
+			"desc": "减少花瓣加载时间"
 		},
 		"laser": {
 			"name": "Laser",
@@ -681,31 +681,31 @@
 			"desc": "Increases your body damage."
 		},
 		"powder": {
-			"name": "Powder",
+			"name": "粉末",
 			"desc": "Cocaine"
 		},
 		"toxic_dragon_egg": {
-			"name": "Toxic Dragon Egg",
+			"name": "毒龙蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_worm_egg": {
-			"name": "Hel Worm Egg",
+			"name": "地狱虫蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_spider_egg": {
-			"name": "Hel Spider Egg",
+			"name": "地狱蜘蛛蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_beetle_egg": {
-			"name": "Hel Beetle Egg",
+			"name": "地狱甲虫蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_jellyfish_egg": {
-			"name": "Hel Jellyfish Egg",
+			"name": "地狱水母蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_lightning": {
-			"name": "Hel Lightning",
+			"name": "地狱闪电",
 			"desc": "召唤一道诅咒火焰袭击附近的敌人。"
 		},
 		"tumbleweed_egg": {
@@ -721,7 +721,7 @@
 			"desc": "召唤致命的狂风。"
 		},
 		"hel_bee_egg": {
-			"name": "Hel Bee Egg",
+			"name": "地狱蜜蜂蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_hornet_egg": {
@@ -729,7 +729,7 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_missile": {
-			"name": "Hel Missile",
+			"name": "地狱导弹",
 			"desc": "hot asf missile"
 		},
 		"bugatti": {
@@ -741,15 +741,15 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"poo": {
-			"name": "Poo",
+			"name": "便便",
 			"desc": "Decreases enemy range."
 		},
 		"rubber": {
-			"name": "Rubber",
+			"name": "橡皮",
 			"desc": "Increases knockback you get from enemies."
 		},
 		"fly_egg": {
-			"name": "Fly Egg",
+			"name": "苍蝇蛋",
 			"desc": "It can hatch and spawn something interesting..."
 		},
 		"fang": {
@@ -765,7 +765,7 @@
 			"desc": "It can hatch and spawn something interesting..."
 		},
 		"firefly_egg": {
-			"name": "Firefly Egg",
+			"name": "萤火虫蛋",
 			"desc": "It can hatch and spawn something interesting..."
 		},
 		"wasp_egg": {
@@ -773,7 +773,7 @@
 			"desc": "It can hatch and spawn something interesting..."
 		},
 		"battery": {
-			"name": "Battery",
+			"name": "电池",
 			"desc": "Makes your body spawn a lightning strike when an enemy hits it."
 		},
 		"stickbug_egg": {
@@ -789,7 +789,7 @@
 			"desc": "Freezes enemies."
 		},
 		"dice": {
-			"name": "Dice",
+			"name": "骰子",
 			"desc": "Has 6.9% chance of dealing 42x damage"
 		}
 	},
