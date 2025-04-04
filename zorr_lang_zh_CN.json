@@ -180,7 +180,7 @@
 		},
 		"leech": {
 			"name": "水蛭",
-			"desc": "莫非是slither.io里的蛇？"
+			"desc": "莫非是 slither.io 里的蛇？"
 		},
 		"nazar_beetle": {
 			"name": "邪眼甲虫",
@@ -653,11 +653,11 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"nazar": {
-			"name": "Nazar",
+			"name": "邪眼",
 			"desc": "它可以抵挡一次打击，然后进入冷却状态"
 		},
 		"nazar_beetle_egg": {
-			"name": "Nazar Beetle Egg",
+			"name": "邪眼甲虫蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"golden_leaf": {
