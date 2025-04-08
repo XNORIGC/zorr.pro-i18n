@@ -879,7 +879,7 @@
 			"desc": "Kill 10,000 mobs"
 		},
 		"solo": {
-			"name": "Solo",
+			"name": "单打独斗",
 			"desc": "Kill a super or hyper mob with over 75% damage."
 		},
 		"money": {
