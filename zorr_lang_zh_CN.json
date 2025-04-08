@@ -880,7 +880,7 @@
 		},
 		"solo": {
 			"name": "单打独斗",
-			"desc": "Kill a super or hyper mob with over 75% damage."
+			"desc": "杀死一个超级或终极生物并造成75%以上的伤害"
 		},
 		"money": {
 			"name": "Money well spent",
