@@ -792,6 +792,10 @@
 			"name": "骰子",
 			"desc": "有 6.9% 的几率造成 42 倍伤害"
 		}
+		"clover": {
+			"name": "三叶草",
+			"desc": "给你带来好运"
+		}
 	},
 	"achievements": {
 		"rookie": {
@@ -981,8 +985,8 @@
 			"desc": "Very interesting patterns."
 		},
 		"clover": {
-			"name": "三叶草",
-			"desc": "幸运！"
+			"name": "Clover",
+			"desc": "Lucky!"
 		},
 		"rocker": {
 			"name": "Rocker",
