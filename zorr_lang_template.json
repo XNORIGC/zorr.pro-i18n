@@ -792,6 +792,10 @@
 			"name": "Dice",
 			"desc": "Has 6.9% chance of dealing 42x damage"
 		}
+		"clover": {
+			"name": "Clover",
+			"desc": "Gives you good luck."
+		}
 	},
 	"achievements": {
 		"rookie": {
