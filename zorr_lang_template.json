@@ -249,6 +249,114 @@
 		"stickbug": {
 			"name": "Stickbug",
 			"desc": "It likes to dance."
+		},
+		"snowbush": {
+			"name": "Snowbush",
+			"desc": "A bush that grows in cold regions, it may also me covered in snow."
+		},
+		"ice_cube": {
+			"name": "Ice Cube",
+			"desc": "a very cold ice cube, touching it would probably not feel very nice"
+		},
+		"snowstorm": {
+			"name": "Snowstorm",
+			"desc": "A snowy tornado, sharp snowflakes seem to be orbiting inside"
+		},
+		"arctic_centipede": {
+			"name": "Arctic Centipede",
+			"desc": "The cold has hardened their skin."
+		},
+		"arctic_spider": {
+			"name": "Arctic Spider",
+			"desc": "This spider looks really *cool*"
+		},
+		"ice_dragon": {
+			"name": "Ice Dragon",
+			"desc": "It breathes cool breeze that can freeze its foes."
+		},
+		"tick": {
+			"name": "Tick",
+			"desc": "This mob ticks me off!"
+		},
+		"waterspout": {
+			"name": "Waterspout",
+			"desc": "An underwater tornado"
+		},
+		"urchin": {
+			"name": "Urchin",
+			"desc": "Spiky ball that shoots at you."
+		},
+		"volcano": {
+			"name": "Volcano",
+			"desc": "A very big rock. It shoots fire everywhere"
+		},
+		"ice_hornet": {
+			"name": "Ice Hornet",
+			"desc": "Skibidi mob dop dop yes yes"
+		},
+		"virus": {
+			"name": "Virus",
+			"desc": "Dont touch it!"
+		},
+		"red_blood_cell": {
+			"name": "Red Blood Cell",
+			"desc": "Delivers oxygen to where ever it needs to"
+		},
+		"bacteria": {
+			"name": "Bacteria",
+			"desc": "This mob makes me sick"
+		},
+		"bacteriophage": {
+			"name": "Bacteriophage",
+			"desc": "A math nerd, likes icosahedrons filled with poision too much"
+		},
+		"cancer": {
+			"name": "Cancer",
+			"desc": "Very deadly, hope you dont ever accidentaly touch it"
+		},
+		"parasite": {
+			"name": "Parasite",
+			"desc": "Likes to annoy its host uwu"
+		},
+		"white_blood_cell": {
+			"name": "White Blood Cell",
+			"desc": "Fights bad things in your body, including flowers"
+		},
+		"atom": {
+			"name": "Atom",
+			"desc": "The building block of the universe, what could possibly go wrong when killing one of them"
+		},
+		"snake": {
+			"name": "Snake",
+			"desc": "Very deadly and very long"
+		},
+		"turtle": {
+			"name": "Turtle",
+			"desc": "has a very strong shield"
+		},
+		"hel_hive": {
+			"name": "Hel Hive",
+			"desc": "This is the location where hel bees and hel hornets discuss thei evil plans to take over the plains biome"
+		},
+		"fossil": {
+			"name": "Fossil",
+			"desc": "looks quite dead, maybe it contains valuable petals"
+		},
+		"rattlesnake": {
+			"name": "Rattlesnake",
+			"desc": "very deadly, very long and very loud too, maybe you should respect its warning."
+		},
+		"cicada": {
+			"name": "Cicada",
+			"desc": "3301. Has 11% chance of doing 42x damage."
+		},
+		"snowman": {
+			"name": "Snowman",
+			"desc": "wants to have a snowball fight (he put rocks into the snowballs)."
+		},
+		"igloo": {
+			"name": "Igloo",
+			"desc": "a very cool place for snowmen and dragons to hang out"
 		}
 	},
 	"petals": {
@@ -370,7 +478,7 @@
 		},
 		"magnet": {
 			"name": "Magnet",
-			"desc": "Pulls petal drops."
+			"desc": "Pulls petal drops & absorbs lightning."
 		},
 		"salt": {
 			"name": "Salt",
@@ -790,7 +898,247 @@
 		},
 		"dice": {
 			"name": "Dice",
-			"desc": "Has 6.9% chance of dealing 42x damage"
+			"desc": "Has 7.5% chance of dealing 69x damage. Rate is affected by Clover."
+		},
+		"cryo_bomb": {
+			"name": "Cryo Bomb",
+			"desc": "Freezes nearby enemies when exploded."
+		},
+		"clover": {
+			"name": "Clover",
+			"desc": "Gives you good luck."
+		},
+		"blueberries": {
+			"name": "Blueberries",
+			"desc": "Freezing Them has made them very hard."
+		},
+		"frost": {
+			"name": "Frost",
+			"desc": "Cold air that can go through armor of your enemies."
+		},
+		"snowball": {
+			"name": "Snowball",
+			"desc": "A snowman's ball that goes through vest of your enemies."
+		},
+		"snowflake": {
+			"name": "Snowflake",
+			"desc": "It shoots out when broken."
+		},
+		"amethyst": {
+			"name": "Amethyst",
+			"desc": "Very sharp but brittle gemstone"
+		},
+		"snowbush_egg": {
+			"name": "Snowbush Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"snow_stick": {
+			"name": "Snow Stick",
+			"desc": "Summons the deadly frost."
+		},
+		"ice_cube_egg": {
+			"name": "Ice Cube Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"arctic_centipede_egg": {
+			"name": "Arctic Centipede Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"arctic_spider_egg": {
+			"name": "Arctic Spider Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"ice_dragon_egg": {
+			"name": "Ice Dragon Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"tick_egg": {
+			"name": "Tick Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"ice_rose": {
+			"name": "Ice Rose",
+			"desc": "Heals you when consumed but also gives you frost."
+		},
+		"torch": {
+			"name": "Torch",
+			"desc": "Passively removes frost from your flower over time."
+		},
+		"water_stick": {
+			"name": "Water Stick",
+			"desc": "Summons underwater tornadoes, ever while not underwater."
+		},
+		"urchin_egg": {
+			"name": "Urchin Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"volcano_egg": {
+			"name": "Volcano Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"spikeball": {
+			"name": "Spikeball",
+			"desc": "many missile bound together by one weak bond, the missiles would fly everywhere if that bond were to break..."
+		},
+		"needle": {
+			"name": "Needle",
+			"desc": "very sharp but very fragile, its also poisioned"
+		},
+		"bubble_bomb": {
+			"name": "Bubble Bomb",
+			"desc": "Explodes and pushes your enemies a lil too much."
+		},
+		"obsidian": {
+			"name": "Obsidian",
+			"desc": "extremly durable, but also very fragile at the same time."
+		},
+		"magma": {
+			"name": "Magma",
+			"desc": "a very hot rock."
+		},
+		"fire_bomb": {
+			"name": "Fire Bomb",
+			"desc": "the explosions sets your enemies on fire."
+		},
+		"ice_hornet_egg": {
+			"name": "Ice Hornet Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"frozen_mark": {
+			"name": "Frozen Mark",
+			"desc": "Sends a dead lil flower to the antarticas"
+		},
+		"coffee": {
+			"name": "Coffee",
+			"desc": "Skibidi petal dop dop yes yes"
+		},
+		"chromosome": {
+			"name": "Chromosome",
+			"desc": "Heals your petals over time."
+		},
+		"antibody": {
+			"name": "Antibody",
+			"desc": "Decreases enemy armor"
+		},
+		"hemoglobin": {
+			"name": "Hemoglobin",
+			"desc": "Increases healing caused by healing petals"
+		},
+		"chloroplast": {
+			"name": "Chloroplast",
+			"desc": "Increases shield regeneration."
+		},
+		"sugar": {
+			"name": "Sugar",
+			"desc": "Very sweet"
+		},
+		"pill": {
+			"name": "Pill",
+			"desc": "Cures cancer and gives you some healing."
+		},
+		"dna": {
+			"name": "DNA",
+			"desc": "Gives you a small chance of increasing your pet rarity. Affects all eggs till its rarity. For example, Super Egg that spawns an Ultra Ant + Super DNA = Chance to spawn a Super Ant. Rate is affected by clover."
+		},
+		"virus_egg": {
+			"name": "Virus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"red_blood_cell_egg": {
+			"name": "Red Blood Cell Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"bacteria_egg": {
+			"name": "Bacteria Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"bacteriophage_egg": {
+			"name": "Bacteriophage Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"cancer_egg": {
+			"name": "Cancer Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"parasite_egg": {
+			"name": "Parasite Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"cancer": {
+			"name": "Cancer",
+			"desc": "Splits mob of the same rarity when they die."
+		},
+		"white_blood_cell_egg": {
+			"name": "White Blood Cell Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"lotus": {
+			"name": "Lotus",
+			"desc": "Reduces poison."
+		},
+		"ice": {
+			"name": "Ice",
+			"desc": "Reduces fire."
+		},
+		"atom_egg": {
+			"name": "Atom Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"snake_egg": {
+			"name": "Snake Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"slime": {
+			"name": "Slime",
+			"desc": "eww its so sticky"
+		},
+		"turtle_egg": {
+			"name": "Turtle Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_hive_egg": {
+			"name": "Hel Hive Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_honey": {
+			"name": "Hel Honey",
+			"desc": "Turns honey tiles hot."
+		},
+		"scar": {
+			"name": "Scar",
+			"desc": "Very deadily but also teleports you to a random location."
+		},
+		"crystal_leaf": {
+			"name": "Crystal Leaf",
+			"desc": "Passively heals your pets."
+		},
+		"fossil_egg": {
+			"name": "Fossil Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"rattlesnake_egg": {
+			"name": "Rattlesnake Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"rattle": {
+			"name": "Rattle",
+			"desc": "Skibidi petal dop dop yes yes"
+		},
+		"cicada_egg": {
+			"name": "Cicada Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"snowman_egg": {
+			"name": "Snowman Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"carrot": {
+			"name": "Carrot",
+			"desc": "Someone told me these are good for your eyes, but when i put them in it just hurt a lot"
+		},
+		"igloo_egg": {
+			"name": "Igloo Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -880,7 +1228,7 @@
 		},
 		"solo": {
 			"name": "Solo",
-			"desc": "Kill a super or hyper mob with over 75% damage."
+			"desc": "Kill a Super+ mob with over 75% damage."
 		},
 		"money": {
 			"name": "Money well spent",
@@ -900,19 +1248,27 @@
 		},
 		"nazar": {
 			"name": "The Nazar Beetles",
-			"desc": "Destroy 5 Ultra or higher rarity Nazar Beetles."
+			"desc": "Destroy 5 Ultra+ Nazar Beetles."
 		},
 		"baby": {
 			"name": "Baby Oil",
-			"desc": "Destroy 5 Ultra or higher rarity Baby Ants."
+			"desc": "Destroy 5 Ultra+ Baby Ants."
 		},
 		"jeet": {
 			"name": "Top Jeet",
-			"desc": "Obtain a Super or higher rarity Bugatti."
+			"desc": "Obtain a Super+ Bugatti."
 		},
 		"clown": {
 			"name": "Clown",
 			"desc": "Transform into a clown."
+		},
+		"covid": {
+			"name": "Covid-69",
+			"desc": "Destroy 20 Ultra+ Virus."
+		},
+		"cicada": {
+			"name": "Cicada 3301",
+			"desc": "Destroy 10 Ultra+ Cicada."
 		}
 	},
 	"skins": {
@@ -1003,6 +1359,50 @@
 		"mouse": {
 			"name": "Mouse",
 			"desc": "How does it even use petals"
+		},
+		"one_eye": {
+			"name": "One eye",
+			"desc": "Third eye downgrade."
+		},
+		"complex": {
+			"name": "Complex",
+			"desc": "Very spiky, very unnatural"
+		},
+		"emotional": {
+			"name": "Emotional",
+			"desc": "Gets very angry and very sad."
+		},
+		"herobrine": {
+			"name": "Herobrine",
+			"desc": "Thought we removed him..."
+		},
+		"womp": {
+			"name": "Womp",
+			"desc": "Is having a moodswing."
+		},
+		"microsoft_paint_flower": {
+			"name": "Microsoft Paint Flower",
+			"desc": "Who drew this? a 5 yea old??"
+		},
+		"50_shades_of_flower": {
+			"name": "50 Shades of Flower",
+			"desc": "Someone should make a movie about this..."
+		},
+		"negative": {
+			"name": "Negative",
+			"desc": "Alternate reality flower."
+		},
+		"smirk": {
+			"name": "Smirk",
+			"desc": "Freaky aah flower."
+		},
+		"boba": {
+			"name": "Boba",
+			"desc": "doesnt explode upon death."
+		},
+		"sawblade": {
+			"name": "Sawblade",
+			"desc": "Ouch! Spiky."
 		},
 		"yellow": {
 			"name": "Yellow",
@@ -1172,9 +1572,121 @@
 			"name": "Right-Angle",
 			"desc": "You are rotated by 90 degrees."
 		},
+		"facist": {
+			"name": "Facist",
+			"desc": "Black & White asf."
+		},
+		"faster": {
+			"name": "Faster",
+			"desc": "Sussy expressions."
+		},
+		"amobae": {
+			"name": "Amobae",
+			"desc": "Micro-organism"
+		},
+		"melon": {
+			"name": "Melon",
+			"desc": "cocomelon"
+		},
+		"ant_hole": {
+			"name": "Ant Hole",
+			"desc": "The hole of an ant"
+		},
+		"eye": {
+			"name": "Eye",
+			"desc": "The all seeing eye of Flouron"
+		},
+		"roach": {
+			"name": "Roach",
+			"desc": "Cockroach"
+		},
+		"lava": {
+			"name": "Lava",
+			"desc": "9999°C moment"
+		},
+		"rose": {
+			"name": "Rose",
+			"desc": "A beautiful little flower"
+		},
+		"stupid": {
+			"name": "Stupid",
+			"desc": "It looks kinda stoopid"
+		},
+		"barbie": {
+			"name": "Barbie",
+			"desc": "Girly"
+		},
+		"virus": {
+			"name": "Virus",
+			"desc": "Very contagious"
+		},
+		"slanted": {
+			"name": "Slanted",
+			"desc": ":/"
+		},
+		"wloop": {
+			"name": "Wloop",
+			"desc": "We don't know what this really is..."
+		},
+		"ara_ara": {
+			"name": "Ara Ara",
+			"desc": "Cute lil flower"
+		},
+		"sirius": {
+			"name": "Sirius",
+			"desc": "Brightest star in the sky"
+		},
+		"acid": {
+			"name": "Acid",
+			"desc": "Won't cause burns..."
+		},
+		"dark": {
+			"name": "Dark",
+			"desc": "Exremely dark substance."
+		},
+		"nazar": {
+			"name": "Nazar",
+			"desc": "🧿🧿🧿🧿🧿"
+		},
+		"omega": {
+			"name": "Omega",
+			"desc": "The Last Rarity"
+		},
+		"goof": {
+			"name": "Goof",
+			"desc": "Appears pretty goofy..."
+		},
+		"flower": {
+			"name": "Flower",
+			"desc": "A flower for a flower"
+		},
+		"banana": {
+			"name": "Banana",
+			"desc": "A long fruit"
+		},
+		"potato": {
+			"name": "Potato",
+			"desc": "Fiberous"
+		},
+		"urchin": {
+			"name": "Urchin",
+			"desc": "Taken from the sea"
+		},
+		"fq69": {
+			"name": "fq69",
+			"desc": "Pink"
+		},
+		"gren": {
+			"name": "Gren",
+			"desc": "Touch grass"
+		},
 		"beam": {
 			"name": "Beam",
 			"desc": "God rays that are very good for trolling uwu"
+		},
+		"griffin": {
+			"name": "Griffin",
+			"desc": "Much bigger & troll worthy than you would think..."
 		}
 	},
 	"objectKeys": {
@@ -1185,6 +1697,7 @@
 		"heal": "Heal",
 		"passiveHeal": "Passive Heal",
 		"passiveHealBelow50": "Passive Heal",
+		"passivePetHeal": "Passive Pet Heal",
 		"shield": "Shield",
 		"passiveShield": "Passive Shield",
 		"poison": "Poison",
@@ -1214,6 +1727,7 @@
 		"honeyRange": "Honey Range",
 		"honeyTileDamage": "Honey Tile Damage",
 		"honeyTilePoison": "Honey Tile Poison",
+		"honeyTileFire": "Honey Tile Fire",
 		"sendToBiome": "Send To Biome",
 		"flowerReloadFactor": "Flower Reload Factor",
 		"armorDebuff": "Armor Debuff",
@@ -1223,11 +1737,27 @@
 		"fireTime": "Fire Time",
 		"flowerAcceleration": "Flower Acceleration",
 		"agroRangeReduction": "Agro Range Reduction",
+		"agroRangeIncrease": "Agro Range Increase",
 		"flowerKnockedFactor": "Flower Knocked Factor",
 		"damageHealed": "Damage Healed",
 		"selfDamage": "Self Damage",
 		"flowerBodyLightning": "Flower Body Lightning",
 		"freezeTime": "Freeze Time",
+		"explosionFreezeTime": "Explosion Freeze Time",
+		"explosionKnockback": "Explosion Knockback",
+		"luck": "Luck",
+		"frost": "Frost",
+		"defrost": "Defrost",
+		"tempFlowerSpeed": "Temp Flower Speed",
+		"subdivisionRates": "Subdivision Rates",
+		"cureCancer": "Cure Cancer",
+		"petMutation": "Pet Mutation",
+		"passivePetalHeal": "Passive Petal Heal",
+		"healBuff": "Heal Buff",
+		"shieldBuff": "Shield Buff",
+		"poisonReduction": "Poison Reduction",
+		"fireReduction": "Fire Reduction",
+		"cancer": "Cancer",
 		"bodyLightning": "Body Lightning",
 		"healAffectTime": "Heal Affect Time",
 		"missileHealth": "Missile Health",
@@ -1237,6 +1767,9 @@
 		"missileArmorDebuff": "Missile Armor Debuff",
 		"bodyFireDamage": "Body Fire Damage",
 		"evasion": "Evasion",
+		"sprayHealth": "Spray Health",
+		"sprayDamage": "Spray Damage",
+		"sprayFireDamage": "Spray Fire Damage",
 		"keyboardControls": "Keyboard Controls",
 		"movementHelper": "Movement Helper",
 		"showHitbox": "Show Hitbox",
@@ -1247,6 +1780,7 @@
 		"showDamage": "Show Damage",
 		"showDamageFlash": "Show Damage Flash",
 		"showHealthBar": "Show Health Bar",
+		"showPetHealthBar": "Show Pet Health Bar",
 		"showHealth": "Show Health",
 		"showDps": "Show Dps",
 		"showExplosion": "Show Explosion",
@@ -1258,6 +1792,8 @@
 		"antiAliasing": "Anti Aliasing",
 		"potatoHardware": "Potato Hardware",
 		"badwordFilter": "Badword Filter",
+		"showMobLeaderboard": "Show Mob Leaderboard",
+		"showBlocked": "Show Blocked",
 		"xp": "Xp",
 		"timeJoined": "Time Joined",
 		"stars": "Stars",
@@ -1277,6 +1813,28 @@
 		"maxStreak": "Max Streak"
 	},
 	"commands": {
+		"cicada": {
+			"desc": "ASCII post effect moment"
+		},
+		"server_times": {
+			"desc": "Shows the total time players have spent in a server."
+		},
+		"claim": {
+			"desc": "Claims daily streak rewards & stars drop buffs."
+		},
+		"report": {
+			"desc": "Reports a user for chat toxicity."
+		},
+		"block": {
+			"desc": "Blocks a user from chat."
+		},
+		"unblock": {
+			"desc": "Unblocks a user from chat."
+		},
+		"gen_egg": {
+			"desc": "Generates egg reloads. petCount is how many mobs the egg should spawn. Power is a strength value given to the pet mob. If the power is very high, egg will have large reloads and vice-versa. MinUseTime is the minimum hatch time to increase the rarity of the spawned pet. If hatch time goes below that, rarity of the pet is increased. In simpler words, if the cutoff is large, eggs will very easily spawn high rarity pets."
+		},
+		"stars_to_usd": {},
 		"spin_speed": {
 			"desc": "Sets your flower's spin speed."
 		},
@@ -1303,9 +1861,6 @@
 		},
 		"run_on_join": {
 			"desc": "Runs the commands when you join as an admin. Separate by comma."
-		},
-		"wipe_users": {
-			"desc": "Wipes progress of all users."
 		},
 		"stars": {
 			"desc": "Gives you stars."
@@ -1435,6 +1990,9 @@
 		},
 		"fov": {
 			"desc": "Sets your field of view factor"
+		},
+		"april_fools": {
+			"desc": "April fools joke moment uwu."
 		}
 	},
 	"starProducts": {
