@@ -633,7 +633,7 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"avocado_egg": {
-			"name": "鳄梨蛋",
+			"name": "牛油果蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"target_dummy_egg": {
@@ -665,7 +665,7 @@
 			"desc": "它噗的一声炸开"
 		},
 		"avocado": {
-			"name": "鳄梨",
+			"name": "牛油果",
 			"desc": "增加你的宠物大小。"
 		},
 		"ring_magnet": {
