@@ -905,72 +905,72 @@
 			"desc": "有 6.9% 的几率造成 42 倍伤害"
 		},
 		"cryo_bomb": {
-			"name": "Cryo Bomb",
-			"desc": "Freezes nearby enemies when exploded."
+			"name": "冷冻炸弹",
+			"desc": "爆炸时冻结附近的敌人。"
 		},
 		"clover": {
-			"name": "Clover",
-			"desc": "Gives you good luck."
+			"name": "三叶草",
+			"desc": "给你带来好运"
 		},
 		"blueberries": {
-			"name": "Blueberries",
-			"desc": "Freezing Them has made them very hard."
+			"name": "蓝莓",
+			"desc": "冷冻后变得非常坚硬。"
 		},
 		"frost": {
-			"name": "Frost",
-			"desc": "Cold air that can go through armor of your enemies."
+			"name": "寒霜",
+			"desc": "可以穿透敌人护甲的寒冷空气"
 		},
 		"snowball": {
-			"name": "Snowball",
-			"desc": "A snowman's ball that goes through vest of your enemies."
+			"name": "雪球",
+			"desc": "小雪人的球可以穿透敌人的护甲"
 		},
 		"snowflake": {
-			"name": "Snowflake",
-			"desc": "It shoots out when broken."
+			"name": "雪花",
+			"desc": "破碎时会射出绽放。"
 		},
 		"amethyst": {
-			"name": "Amethyst",
-			"desc": "Very sharp but brittle gemstone"
+			"name": "紫水晶",
+			"desc": "非常锋利但易碎的宝石"
 		},
 		"snowbush_egg": {
-			"name": "Snowbush Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "雪灌木蛋",
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"snow_stick": {
-			"name": "Snow Stick",
-			"desc": "Summons the deadly frost."
+			"name": "雪棒",
+			"desc": "召唤致命的霜冻。"
 		},
 		"ice_cube_egg": {
-			"name": "Ice Cube Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "冰块蛋",
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"arctic_centipede_egg": {
-			"name": "Arctic Centipede Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "北极蜈蚣蛋",
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"arctic_spider_egg": {
-			"name": "Arctic Spider Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "北极蜘蛛蛋",
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"ice_dragon_egg": {
-			"name": "Ice Dragon Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "冰龙蛋",
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"tick_egg": {
-			"name": "Tick Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蜱虫蛋",
+			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"ice_rose": {
-			"name": "Ice Rose",
-			"desc": "Heals you when consumed but also gives you frost."
+			"name": "冰玫瑰",
+			"desc": "食用后可以治愈你，但也会给你带来霜冻。"
 		},
 		"torch": {
-			"name": "Torch",
-			"desc": "Passively removes frost from your flower over time."
+			"name": "火把",
+			"desc": "被动地从你的花上移除霜冻。"
 		},
 		"water_stick": {
-			"name": "Water Stick",
-			"desc": "Summons underwater tornadoes, ever while not underwater."
+			"name": "水棒",
+			"desc": "召唤水下龙卷风，即使在不在水中也可以。"
 		},
 		"urchin_egg": {
 			"name": "Urchin Egg",
