@@ -357,6 +357,10 @@
 		"igloo": {
 			"name": "Igloo",
 			"desc": "a very cool place for snowmen and dragons to hang out"
+		},
+		"rain_frog": {
+			"name": "Rain Frog",
+			"desc": "It moves like a shell."
 		}
 	},
 	"petals": {
@@ -1139,6 +1143,10 @@
 		"igloo_egg": {
 			"name": "Igloo Egg",
 			"desc": "It can hatch and spawn something interesting..."
+		},
+		"rain_frog_egg": {
+			"name": "Rain Frog Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -1813,6 +1821,9 @@
 		"maxStreak": "Max Streak"
 	},
 	"commands": {
+		"yay": {
+			"desc": "Yayvideogames easter egg moment."
+		},
 		"cicada": {
 			"desc": "ASCII post effect moment"
 		},
