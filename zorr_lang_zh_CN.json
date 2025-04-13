@@ -251,27 +251,27 @@
 			"desc": "它喜欢跳舞。"
 		},
 		"snowbush": {
-			"name": "Snowbush",
+			"name": "雪地灌木丛",
 			"desc": "A bush that grows in cold regions, it may also me covered in snow."
 		},
 		"ice_cube": {
-			"name": "Ice Cube",
+			"name": "大冰块",
 			"desc": "a very cold ice cube, touching it would probably not feel very nice"
 		},
 		"snowstorm": {
-			"name": "Snowstorm",
+			"name": "暴风雪",
 			"desc": "A snowy tornado, sharp snowflakes seem to be orbiting inside"
 		},
 		"arctic_centipede": {
-			"name": "Arctic Centipede",
+			"name": "极地蜈蚣",
 			"desc": "The cold has hardened their skin."
 		},
 		"arctic_spider": {
-			"name": "Arctic Spider",
+			"name": "极地蜘蛛",
 			"desc": "This spider looks really *cool*"
 		},
 		"ice_dragon": {
-			"name": "Ice Dragon",
+			"name": "冰龙",
 			"desc": "It breathes cool breeze that can freeze its foes."
 		},
 		"tick": {
@@ -287,7 +287,7 @@
 			"desc": "Spiky ball that shoots at you."
 		},
 		"volcano": {
-			"name": "Volcano",
+			"name": "火山",
 			"desc": "A very big rock. It shoots fire everywhere"
 		},
 		"ice_hornet": {
@@ -295,7 +295,7 @@
 			"desc": "Skibidi mob dop dop yes yes"
 		},
 		"virus": {
-			"name": "Virus",
+			"name": "病毒",
 			"desc": "Dont touch it!"
 		},
 		"red_blood_cell": {
@@ -303,7 +303,7 @@
 			"desc": "Delivers oxygen to where ever it needs to"
 		},
 		"bacteria": {
-			"name": "Bacteria",
+			"name": "细菌",
 			"desc": "This mob makes me sick"
 		},
 		"bacteriophage": {
@@ -315,7 +315,7 @@
 			"desc": "Very deadly, hope you dont ever accidentaly touch it"
 		},
 		"parasite": {
-			"name": "Parasite",
+			"name": "寄生虫",
 			"desc": "Likes to annoy its host uwu"
 		},
 		"white_blood_cell": {
@@ -327,19 +327,19 @@
 			"desc": "The building block of the universe, what could possibly go wrong when killing one of them"
 		},
 		"snake": {
-			"name": "Snake",
-			"desc": "Very deadly and very long"
+			"name": "蛇",
+			"desc": "很长很致命"
 		},
 		"turtle": {
-			"name": "Turtle",
-			"desc": "has a very strong shield"
+			"name": "海龟",
+			"desc": "有很强的护甲"
 		},
 		"hel_hive": {
-			"name": "Hel Hive",
+			"name": "冥界蜂巢",
 			"desc": "This is the location where hel bees and hel hornets discuss thei evil plans to take over the plains biome"
 		},
 		"fossil": {
-			"name": "Fossil",
+			"name": "化石",
 			"desc": "looks quite dead, maybe it contains valuable petals"
 		},
 		"rattlesnake": {
@@ -351,15 +351,15 @@
 			"desc": "3301. Has 11% chance of doing 42x damage."
 		},
 		"snowman": {
-			"name": "Snowman",
-			"desc": "wants to have a snowball fight (he put rocks into the snowballs)."
+			"name": "雪人",
+			"desc": "想和你打雪仗 (他会在雪球里放石头)"
 		},
 		"igloo": {
 			"name": "Igloo",
 			"desc": "a very cool place for snowmen and dragons to hang out"
 		},
 		"rain_frog": {
-			"name": "Rain Frog",
+			"name": "雨蛙",
 			"desc": "It moves like a shell."
 		}
 	},
@@ -801,7 +801,7 @@
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_worm_egg": {
-			"name": "地狱虫蛋",
+			"name": "地狱蠕虫蛋",
 			"desc": "它可以孵化生成一些有趣的东西……"
 		},
 		"hel_spider_egg": {
