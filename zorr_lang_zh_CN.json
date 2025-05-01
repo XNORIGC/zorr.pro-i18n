@@ -291,36 +291,36 @@
 			"desc": "向四处挥洒火焰的巨石。"
 		},
 		"ice_hornet": {
-			"name": "Ice Hornet",
-			"desc": "Skibidi mob dop dop yes yes"
+			"name": "极寒黄蜂",
+			"desc": "斯基比迪生物哒哒耶斯耶斯。"
 		},
 		"virus": {
 			"name": "病毒",
-			"desc": "Dont touch it!"
+			"desc": "别碰它！"
 		},
 		"red_blood_cell": {
 			"name": "血细胞",
-			"desc": "Delivers oxygen to where ever it needs to"
+			"desc": "向任何需要它的地方运送氧气。"
 		},
 		"bacteria": {
 			"name": "细菌",
-			"desc": "This mob makes me sick"
+			"desc": "这种生物令我生病。"
 		},
 		"bacteriophage": {
 			"name": "噬菌体",
-			"desc": "A math nerd, likes icosahedrons filled with poision too much"
+			"desc": "一位数学怪人，过度痴狂于装有毒药的二十面体。"
 		},
 		"cancer": {
 			"name": "癌细胞",
-			"desc": "Very deadly, hope you dont ever accidentaly touch it"
+			"desc": "及其致命，希望你永远不要意外碰到它。"
 		},
 		"parasite": {
 			"name": "寄生虫",
-			"desc": "Likes to annoy its host uwu"
+			"desc": "喜欢对着它的宿主捣乱uwu"
 		},
 		"white_blood_cell": {
 			"name": "白细胞",
-			"desc": "Fights bad things in your body, including flowers"
+			"desc": "与身体里的黑恶势力做斗争，"
 		},
 		"atom": {
 			"name": "原子",
