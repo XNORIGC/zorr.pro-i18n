@@ -336,15 +336,15 @@
 		},
 		"hel_hive": {
 			"name": "冥界蜂巢",
-			"desc": "This is the location where hel bees and hel hornets discuss thei evil plans to take over the plains biome"
+			"desc": "这是地狱黄蜂和地狱蜜蜂来讨论占领其他群系的邪恶基地。"
 		},
 		"fossil": {
 			"name": "化石",
-			"desc": "looks quite dead, maybe it contains valuable petals"
+			"desc": "看起来死透了，说不定里面有一些花瓣。"
 		},
 		"rattlesnake": {
 			"name": "响尾蛇",
-			"desc": "very deadly, very long and very loud too, maybe you should respect its warning."
+			"desc": "极其致命，也会发出极长极大的声响，你不该对它的警告掉以轻心。"
 		},
 		"cicada": {
 			"name": "蝉",
