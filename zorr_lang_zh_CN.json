@@ -252,27 +252,27 @@
 		},
 		"snowbush": {
 			"name": "雪地灌木丛",
-			"desc": "A bush that grows in cold regions, it may also me covered in snow."
+			"desc": "一种在寒冷的地区生长的灌木丛，可能会被雪覆盖住。"
 		},
 		"ice_cube": {
 			"name": "大冰块",
-			"desc": "a very cold ice cube, touching it would probably not feel very nice"
+			"desc": "一块巨冷的冰，碰到他可能不会太好受。"
 		},
 		"snowstorm": {
 			"name": "暴风雪",
-			"desc": "A snowy tornado, sharp snowflakes seem to be orbiting inside"
+			"desc": "下雪的龙卷风,，锋利的雪花在里面旋转。"
 		},
 		"arctic_centipede": {
 			"name": "极地蜈蚣",
-			"desc": "The cold has hardened their skin."
+			"desc": "皮肤因极寒而变得坚固。"
 		},
 		"arctic_spider": {
 			"name": "极地蜘蛛",
-			"desc": "This spider looks really *cool*"
+			"desc": "这蜘蛛看起来真“冷酷”。"
 		},
 		"ice_dragon": {
 			"name": "冰龙",
-			"desc": "It breathes cool breeze that can freeze its foes."
+			"desc": "吐出的寒冰之息能冻住它的脚趾。"
 		},
 		"tick": {
 			"name": "Tick",
@@ -299,7 +299,7 @@
 			"desc": "Dont touch it!"
 		},
 		"red_blood_cell": {
-			"name": "Red Blood Cell",
+			"name": "血细胞",
 			"desc": "Delivers oxygen to where ever it needs to"
 		},
 		"bacteria": {
@@ -307,11 +307,11 @@
 			"desc": "This mob makes me sick"
 		},
 		"bacteriophage": {
-			"name": "Bacteriophage",
+			"name": "噬菌体",
 			"desc": "A math nerd, likes icosahedrons filled with poision too much"
 		},
 		"cancer": {
-			"name": "Cancer",
+			"name": "癌细胞",
 			"desc": "Very deadly, hope you dont ever accidentaly touch it"
 		},
 		"parasite": {
@@ -319,11 +319,11 @@
 			"desc": "Likes to annoy its host uwu"
 		},
 		"white_blood_cell": {
-			"name": "White Blood Cell",
+			"name": "白细胞",
 			"desc": "Fights bad things in your body, including flowers"
 		},
 		"atom": {
-			"name": "Atom",
+			"name": "原子",
 			"desc": "The building block of the universe, what could possibly go wrong when killing one of them"
 		},
 		"snake": {
@@ -343,11 +343,11 @@
 			"desc": "looks quite dead, maybe it contains valuable petals"
 		},
 		"rattlesnake": {
-			"name": "Rattlesnake",
+			"name": "响尾蛇",
 			"desc": "very deadly, very long and very loud too, maybe you should respect its warning."
 		},
 		"cicada": {
-			"name": "Cicada",
+			"name": "蝉",
 			"desc": "3301. Has 11% chance of doing 42x damage."
 		},
 		"snowman": {
@@ -355,7 +355,7 @@
 			"desc": "想和你打雪仗 (他会在雪球里放石头)"
 		},
 		"igloo": {
-			"name": "Igloo",
+			"name": "冰屋",
 			"desc": "a very cool place for snowmen and dragons to hang out"
 		},
 		"rain_frog": {
@@ -390,7 +390,7 @@
 		},
 		"honey": {
 			"name": "蜂蜜",
-			"desc": "蜜蜂呕吐物"
+			"desc": "蜜蜂呕吐物。"
 		},
 		"bubble": {
 			"name": "泡泡",
@@ -398,7 +398,7 @@
 		},
 		"heavy": {
 			"name": "重",
-			"desc": "比你老母还重"
+			"desc": "比你老母还重。"
 		},
 		"ying_yang": {
 			"name": "阴阳",
