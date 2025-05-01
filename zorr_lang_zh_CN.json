@@ -320,11 +320,11 @@
 		},
 		"white_blood_cell": {
 			"name": "白细胞",
-			"desc": "与身体里的黑恶势力做斗争，"
+			"desc": "与身体里的黑恶势力做斗争，包括花花们。"
 		},
 		"atom": {
 			"name": "原子",
-			"desc": "The building block of the universe, what could possibly go wrong when killing one of them"
+			"desc": "寰宇之砖，杀掉其中一个又会出什么问题？"
 		},
 		"snake": {
 			"name": "蛇",
