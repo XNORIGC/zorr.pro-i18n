@@ -275,20 +275,20 @@
 			"desc": "吐出的寒冰之息能冻住它的脚趾。"
 		},
 		"tick": {
-			"name": "Tick",
-			"desc": "This mob ticks me off!"
+			"name": "勾",
+			"desc": "这只生物骂了我！"
 		},
 		"waterspout": {
-			"name": "Waterspout",
-			"desc": "An underwater tornado"
+			"name": "龙吸水",
+			"desc": "水底龙卷风。"
 		},
 		"urchin": {
-			"name": "Urchin",
-			"desc": "Spiky ball that shoots at you."
+			"name": "刺猬",
+			"desc": "向你发射刺球。"
 		},
 		"volcano": {
 			"name": "火山",
-			"desc": "A very big rock. It shoots fire everywhere"
+			"desc": "向空中挥洒火焰的巨石。"
 		},
 		"ice_hornet": {
 			"name": "Ice Hornet",
