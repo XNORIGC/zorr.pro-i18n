@@ -1412,6 +1412,18 @@
 		"opal": {
 			"name": "蛋白石",
 			"desc": "使你所有同稀有度的花瓣有一定几率造成额外伤害。"
+		},
+		"relic": {
+			"name": "遗物",
+			"desc": "在你的小队中，将伤害分摊给其他遗物佩戴者。"
+		},
+		"uranium": {
+			"name": "铀",
+			"desc": "一种放射性元素，可能导致非常致命的感染。"
+		},
+		"plutonium": {
+			"name": "钚",
+			"desc": "一种能够造成非常严重烧伤的放射性元素。"
 		}
 	},
 	"achievements": {
@@ -2069,6 +2081,10 @@
 			"name": "脸",
 			"desc": "一个人类的头。"
 		},
+		"bigtus": {
+			"name": "仙大掌",
+			"desc": "这是个大——的仙人掌。"
+		}
 		"peanut": {
 			"name": "花生",
 			"desc": "为你光线追踪的2个球。"
@@ -2182,6 +2198,11 @@
 		"petalCritical": "花瓣暴击",
 		"petalReloadSkipRate": "花瓣跳过装填率",
 		"bodyLightning": "身体闪电",
+		"blockDamage": "格挡伤害",
+		"spreadDamage": "伤害分摊",
+		"radiationRange": "辐射范围",
+		"radiationPoison": "辐射毒伤",
+		"radiationFire": "辐射火伤"
 		"healAffectTime": "治疗影响时间",
 		"missileHealth": "导弹生命值",
 		"missileDamage": "导弹伤害",
