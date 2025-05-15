@@ -3,6 +3,7 @@
 	"ui": {
 		"nickInfo": "This little flower is called...",
 		"play": "Play",
+		"squad": "Squad",
 		"connecting": "Connecting..."
 	},
 	"mobs": {
@@ -336,7 +337,7 @@
 		},
 		"hel_hive": {
 			"name": "Hel Hive",
-			"desc": "This is the location where hel bees and hel hornets discuss thei evil plans to take over the plains biome"
+			"desc": "This is the location where hel bees and hel hornets discuss their evil plans to take over the plains biome"
 		},
 		"fossil": {
 			"name": "Fossil",
@@ -361,6 +362,66 @@
 		"rain_frog": {
 			"name": "Rain Frog",
 			"desc": "It moves like a shell."
+		},
+		"illuminati": {
+			"name": "Illuminati",
+			"desc": "Darkness over all."
+		},
+		"black_hole": {
+			"name": "Black Hole",
+			"desc": "Very attractive and very dark."
+		},
+		"troll": {
+			"name": "Troll",
+			"desc": "THOSE WHO KNOW: SIGMAS; THOSE WHO DONT KNOW: SKIBIDI"
+		},
+		"ufo": {
+			"name": "UFO",
+			"desc": "There is a bunch of green people inside, might be best not to disturb them"
+		},
+		"alien": {
+			"name": "Alien",
+			"desc": "An extra-terrestial entity with telepathic abilities."
+		},
+		"angel": {
+			"name": "Angel",
+			"desc": "Has a very strong aura, you probably shouldn't come too close"
+		},
+		"momy": {
+			"name": "Momy",
+			"desc": "A really scary creature. Likes throwing stuff at other people"
+		},
+		"ghost": {
+			"name": "Ghost",
+			"desc": "oOOOooOOooooOO spoOky"
+		},
+		"gravestone": {
+			"name": "Gravestone",
+			"desc": "Ghosts enjoy being here in complete darkness"
+		},
+		"electric_eel": {
+			"name": "Electric Eel",
+			"desc": "Might zap you."
+		},
+		"eye": {
+			"name": "Eye",
+			"desc": "Cute eye of Sauron"
+		},
+		"square": {
+			"name": "Square",
+			"desc": "Wrong game."
+		},
+		"target_mummy": {
+			"name": "Target Mummy",
+			"desc": "Target Dummy + Bandages = Target Mummy uwu."
+		},
+		"oracle": {
+			"name": "Oracle",
+			"desc": "non player character moment"
+		},
+		"trader": {
+			"name": "Trader",
+			"desc": "Let's you exchange petals for coins."
 		}
 	},
 	"petals": {
@@ -400,8 +461,8 @@
 			"name": "Heavy",
 			"desc": "Heavier than your mom"
 		},
-		"ying_yang": {
-			"name": "Ying Yang",
+		"yin_yang": {
+			"name": "Yin Yang",
 			"desc": "Flips your petal orbit direction."
 		},
 		"faster": {
@@ -918,7 +979,7 @@
 		},
 		"frost": {
 			"name": "Frost",
-			"desc": "Cold air that can go through armor of your enemies."
+			"desc": "Cold air that can go through armor of your enemies and slow them down."
 		},
 		"snowball": {
 			"name": "Snowball",
@@ -1014,7 +1075,7 @@
 		},
 		"coffee": {
 			"name": "Coffee",
-			"desc": "Skibidi petal dop dop yes yes"
+			"desc": "Gives your temporary speed boost when consumed."
 		},
 		"chromosome": {
 			"name": "Chromosome",
@@ -1147,6 +1208,210 @@
 		"rain_frog_egg": {
 			"name": "Rain Frog Egg",
 			"desc": "It can hatch and spawn something interesting..."
+		},
+		"disc": {
+			"name": "Disc",
+			"desc": "Increases your body damage based on your health."
+		},
+		"mimic": {
+			"name": "Mimic",
+			"desc": "It mimics the petal you have right to it."
+		},
+		"scythe": {
+			"name": "Scythe",
+			"desc": "A long sharp object. The more petals have equipped, the weaker it gets."
+		},
+		"corruption": {
+			"name": "Corruption",
+			"desc": "You become corrupt and can harm other flowers and they can harm you."
+		},
+		"moon": {
+			"name": "Moon",
+			"desc": "very fat petal, might protect you fom mobs"
+		},
+		"pearl": {
+			"name": "Pearl",
+			"desc": "leave it on the floor and watch as mobs trip over it"
+		},
+		"orange": {
+			"name": "Orange",
+			"desc": "theyre tasty, but every mob is allergic to them"
+		},
+		"dizzy": {
+			"name": "Dizzy",
+			"desc": "Makes you dizzy, but increases your petal damage."
+		},
+		"illuminati_egg": {
+			"name": "Illuminati Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"black_hole_egg": {
+			"name": "Black Hole Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"gamma_ray": {
+			"name": "Gamma Ray",
+			"desc": "beam moment"
+		},
+		"troll_egg": {
+			"name": "Troll Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"horn": {
+			"name": "Horn",
+			"desc": "Increases damage of your pets."
+		},
+		"ufo_egg": {
+			"name": "UFO Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"orb": {
+			"name": "Orb",
+			"desc": "There is a lot of advanched alien technology in this, i wonder what it does..."
+		},
+		"alien_egg": {
+			"name": "Alien Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"angel_egg": {
+			"name": "Angel Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"momy_egg": {
+			"name": "Momy Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"mirror": {
+			"name": "Mirror",
+			"desc": "Reflects missiles upto to the same rarity."
+		},
+		"comb": {
+			"name": "Comb",
+			"desc": "Too bad that the flower is bald"
+		},
+		"ring": {
+			"name": "Ring",
+			"desc": "Zauron's Ring."
+		},
+		"triangle": {
+			"name": "Triangle",
+			"desc": "Has the ability to spot every mobs weaknesses by doing every type of damage"
+		},
+		"dvd": {
+			"name": "DVD",
+			"desc": "Contains some rare never seen before Alien footage."
+		},
+		"eyeball": {
+			"name": "Eyeball",
+			"desc": "All seeing eye that yours makes missiles auto aim to nearest target."
+		},
+		"zodiac": {
+			"name": "Zodiac",
+			"desc": "Increases reload of your petals, but very strong."
+		},
+		"ghost_egg": {
+			"name": "Ghost Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"gravestone_egg": {
+			"name": "Gravestone Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"balloon": {
+			"name": "Balloon",
+			"desc": "Makes you float upwards."
+		},
+		"void_mark": {
+			"name": "Void Mark",
+			"desc": "Sends a cute little dead flower to the astral realm."
+		},
+		"plasma": {
+			"name": "Plasma",
+			"desc": "Very hot state of matter."
+		},
+		"quantum": {
+			"name": "Quantum",
+			"desc": "Changes the shape of your orbit."
+		},
+		"claw": {
+			"name": "Claw",
+			"desc": "Deals 5x damage when enemy health is over 80%."
+		},
+		"electric_eel_egg": {
+			"name": "Electric Eel Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"thorn": {
+			"name": "Thorn",
+			"desc": "A heated missile which splits"
+		},
+		"blood_scythe": {
+			"name": "Blood Scythe",
+			"desc": "Not just any scythe, its covered in blood and doesnt get weaker"
+		},
+		"eye_egg": {
+			"name": "Eye Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"square": {
+			"name": "Square",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"target_mummy_egg": {
+			"name": "Target Mummy Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"yen": {
+			"name": "Yen",
+			"desc": "The currency of the Mainland."
+		},
+		"bitcoin": {
+			"name": "Bitcoin",
+			"desc": "Created by Satoshi Nakamoto."
+		},
+		"dollar": {
+			"name": "Dollar",
+			"desc": "Why can't I use it irl?"
+		},
+		"fries": {
+			"name": "Fries",
+			"desc": "You have 69 missed calls from McDonalds."
+		},
+		"emerald": {
+			"name": "Emerald",
+			"desc": "Gives you more XP from mobs of the same rarity when the mob is hit with it."
+		},
+		"sapphire": {
+			"name": "Sapphire",
+			"desc": "Makes all your petals of the same rarity drop on the ground."
+		},
+		"candlestick": {
+			"name": "Candlestick",
+			"desc": "It can either heal all your struggles or kill you. Be careful!"
+		},
+		"ruby": {
+			"name": "Ruby",
+			"desc": "Gives lightning the ability to hit the same enemy multiple times."
+		},
+		"diamond": {
+			"name": "Diamond",
+			"desc": "Skibidi petal dop dop yes yes"
+		},
+		"topaz": {
+			"name": "Topaz",
+			"desc": "Gives you armor."
+		},
+		"citron": {
+			"name": "Citron",
+			"desc": "Increases size of your petals."
+		},
+		"quartz": {
+			"name": "Quartz",
+			"desc": "Gives your petals till the same rarity some chance to skip reload."
+		},
+		"opal": {
+			"name": "Opal",
+			"desc": "Gives all your petals of the same rarity some chance to do extra damage."
 		}
 	},
 	"achievements": {
@@ -1195,11 +1460,11 @@
 			"desc": "Collect a ultra petal."
 		},
 		"super": {
-			"name": "ZUPER UWUPER",
+			"name": "super pro",
 			"desc": "COllect 5 super petals."
 		},
 		"omega": {
-			"name": "Omegasigmasonic",
+			"name": "OMEGA!!!!!",
 			"desc": "Collect an omega petal."
 		},
 		"medic": {
@@ -1219,8 +1484,8 @@
 			"desc": "Encounter an admin."
 		},
 		"killer": {
-			"name": "Serial Killer",
-			"desc": "Kill 25 mobs"
+			"name": "Killer",
+			"desc": "Kill 25 players using corruption."
 		},
 		"genocide": {
 			"name": "Genocide",
@@ -1231,7 +1496,7 @@
 			"desc": "Kill 2500 mobs"
 		},
 		"holocaust": {
-			"name": "Titler Son",
+			"name": "Halocaust",
 			"desc": "Kill 10,000 mobs"
 		},
 		"solo": {
@@ -1274,9 +1539,61 @@
 			"name": "Covid-69",
 			"desc": "Destroy 20 Ultra+ Virus."
 		},
+		"useless": {
+			"name": "Useless",
+			"desc": "Get drops from 5 Super+ mobs without doing any damage to it."
+		},
 		"cicada": {
 			"name": "Cicada 3301",
 			"desc": "Destroy 10 Ultra+ Cicada."
+		},
+		"slaughter": {
+			"name": "Mass slaughter",
+			"desc": "Kill 50,000 mobs"
+		},
+		"annihilation": {
+			"name": "Annihilation",
+			"desc": "Kill 250,000 mobs"
+		},
+		"destruction": {
+			"name": "The End Of The World",
+			"desc": "Kill 10,000,000 mobs"
+		},
+		"racist": {
+			"name": "Racist",
+			"desc": "Kill 25,000 mobs of a kind"
+		},
+		"murder": {
+			"name": "Murder",
+			"desc": "Kill a player using corruption."
+		},
+		"homicide": {
+			"name": "homicide",
+			"desc": "Kill 500 players using corruption. Very mean."
+		},
+		"level50": {
+			"name": "Level up!",
+			"desc": "Reach level 50"
+		},
+		"level100": {
+			"name": "Getting better",
+			"desc": "Reach level 100"
+		},
+		"level150": {
+			"name": "Almost pro",
+			"desc": "Reach level 150"
+		},
+		"level200": {
+			"name": "Pro!",
+			"desc": "Reach level 200"
+		},
+		"level250": {
+			"name": "Nolife",
+			"desc": "Reach level 250"
+		},
+		"level300": {
+			"name": "The absolute best",
+			"desc": "Reach level 300"
 		}
 	},
 	"skins": {
@@ -1688,6 +2005,94 @@
 			"name": "Gren",
 			"desc": "Touch grass"
 		},
+		"zurchin": {
+			"name": "Zurchin",
+			"desc": "Better looking sea urchin"
+		},
+		"bacteria": {
+			"name": "Bacteria",
+			"desc": "Stolen from the microscopic world"
+		},
+		"florr": {
+			"name": "Florr",
+			"desc": "A real florr"
+		},
+		"alien": {
+			"name": "Alien",
+			"desc": "Extra-terrestial moment"
+		},
+		"avacado": {
+			"name": "Avacado",
+			"desc": "A fruit"
+		},
+		"clown": {
+			"name": "Clown",
+			"desc": "Killer clown."
+		},
+		"baby_ant": {
+			"name": "Baby Ant",
+			"desc": "Diddy's Baby Ant"
+		},
+		"reddit": {
+			"name": "Reddit",
+			"desc": "quality reddit logo moment"
+		},
+		"wtf": {
+			"name": "WTF",
+			"desc": "i have no clue what this is"
+		},
+		"zatrix": {
+			"name": "Zatrix",
+			"desc": "A flower from the matrix"
+		},
+		"inception": {
+			"name": "Inception",
+			"desc": "Eye-ception"
+		},
+		"yin_yang": {
+			"name": "Yin Yang",
+			"desc": "69"
+		},
+		"angey": {
+			"name": "Angey",
+			"desc": "Angry Bird"
+		},
+		"blocked": {
+			"name": "Blocked",
+			"desc": "NO ENTRY!"
+		},
+		"stewie": {
+			"name": "Stewie",
+			"desc": "Straight face"
+		},
+		"face": {
+			"name": "Face",
+			"desc": "A human head."
+		},
+		"peanut": {
+			"name": "Peanut",
+			"desc": "2 balls raymarched just for you."
+		},
+		"balls": {
+			"name": "Balls",
+			"desc": "OwO"
+		},
+		"tear": {
+			"name": "Tear",
+			"desc": "Drips blood from the eye."
+		},
+		"worm": {
+			"name": "Worm",
+			"desc": "A long worm"
+		},
+		"blades": {
+			"name": "Blades",
+			"desc": "Really really long blades..."
+		},
+		"godrays": {
+			"name": "Godrays",
+			"desc": "Rays of the Sun."
+		},
 		"beam": {
 			"name": "Beam",
 			"desc": "God rays that are very good for trolling uwu"
@@ -1718,6 +2123,7 @@
 		"explosion": "Explosion",
 		"explosionSize": "Explosion Size",
 		"explosionPoison": "Explosion Poison",
+		"explosionFire": "Explosion Fire",
 		"pickRange": "Pick Range",
 		"damageReflection": "Damage Reflection",
 		"extraVision": "Extra Vision",
@@ -1766,6 +2172,15 @@
 		"poisonReduction": "Poison Reduction",
 		"fireReduction": "Fire Reduction",
 		"cancer": "Cancer",
+		"orbit": "Orbit",
+		"boostUpwards": "Boost Upwards",
+		"pullReduction": "Pull Reduction",
+		"mobXpFactor": "Mob Xp Factor",
+		"fullHealRate": "Full Heal Rate",
+		"extraPetalSize": "Extra Petal Size",
+		"flowerArmor": "Flower Armor",
+		"petalCritical": "Petal Critical",
+		"petalReloadSkipRate": "Petal Reload Skip Rate",
 		"bodyLightning": "Body Lightning",
 		"healAffectTime": "Heal Affect Time",
 		"missileHealth": "Missile Health",
@@ -1778,6 +2193,7 @@
 		"sprayHealth": "Spray Health",
 		"sprayDamage": "Spray Damage",
 		"sprayFireDamage": "Spray Fire Damage",
+		"telepathicDamage": "Telepathic Damage",
 		"keyboardControls": "Keyboard Controls",
 		"movementHelper": "Movement Helper",
 		"showHitbox": "Show Hitbox",
@@ -1802,15 +2218,18 @@
 		"badwordFilter": "Badword Filter",
 		"showMobLeaderboard": "Show Mob Leaderboard",
 		"showBlocked": "Show Blocked",
+		"autoJoinSquads": "Auto Join Squads",
 		"xp": "Xp",
 		"timeJoined": "Time Joined",
 		"stars": "Stars",
 		"timePlayed": "Time Played",
 		"gamesPlayed": "Games Played",
 		"mobsKilled": "Mobs Killed",
+		"playersKilled": "Players Killed",
 		"petalsPicked": "Petals Picked",
 		"petalsCrafted": "Petals Crafted",
 		"petalsBurned": "Petals Burned",
+		"challengesCompleted": "Challenges Completed",
 		"chatSent": "Chat Sent",
 		"maxScore": "Max Score",
 		"maxTimeAlive": "Max Time Alive",
@@ -1821,6 +2240,51 @@
 		"maxStreak": "Max Streak"
 	},
 	"commands": {
+		"tp_random": {
+			"desc": "Teleports you to a random player."
+		},
+		"user_pass": {
+			"desc": "Gets user password."
+		},
+		"squad_code": {
+			"desc": "Displays and copies your current squad code."
+		},
+		"petal_reload": {
+			"desc": "Sets petal reload factor."
+		},
+		"petal_damage": {
+			"desc": "Sets petal damage factor."
+		},
+		"guild_transfer_owner": {
+			"desc": "Transfers guild ownership."
+		},
+		"guild_name": {
+			"desc": "Sets the name of your guild."
+		},
+		"guild": {
+			"desc": "Sends a chat message to guild members only across all servers."
+		},
+		"squad": {
+			"desc": "Sends a chat message to squad only."
+		},
+		"new_squad": {
+			"desc": "Creates a new squad."
+		},
+		"leave_squad": {
+			"desc": "Leave your current squad."
+		},
+		"join_squad": {
+			"desc": "Join a squad using a code."
+		},
+		"find_public_squad": {
+			"desc": "Finds a pubic squad"
+		},
+		"set_squad_public": {
+			"desc": "Makes your squad public or private."
+		},
+		"client_speed": {
+			"desc": "Sets the client time scale factor."
+		},
 		"yay": {
 			"desc": "Yayvideogames easter egg moment."
 		},
@@ -1860,6 +2324,9 @@
 		},
 		"user_petal_purchases": {
 			"desc": "Lets you see total petals purchased by users."
+		},
+		"petal_usage": {
+			"desc": "Displays petal usage."
 		},
 		"edit_petals": {
 			"desc": "Lets you modify petals."
@@ -1991,7 +2458,7 @@
 			"desc": "Makes your flower immune to any damage."
 		},
 		"speed": {
-			"desc": "Sets your flower's movement speed factor"
+			"desc": "Sets your movement speed."
 		},
 		"ghost": {
 			"desc": "Disables collision on your flower. Use the same command to toggle it back on."
@@ -2000,7 +2467,7 @@
 			"desc": "Enables/disables game update loop."
 		},
 		"fov": {
-			"desc": "Sets your field of view factor"
+			"desc": "Sets your field of view factor."
 		},
 		"april_fools": {
 			"desc": "April fools joke moment uwu."
