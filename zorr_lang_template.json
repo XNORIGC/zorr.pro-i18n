@@ -1412,6 +1412,18 @@
 		"opal": {
 			"name": "Opal",
 			"desc": "Gives all your petals of the same rarity some chance to do extra damage."
+		},
+		"relic": {
+			"name": "Relic",
+			"desc": "Spreads damage between other relic wearers in your squad."
+		},
+		"uranium": {
+			"name": "Uranium",
+			"desc": "A radioactive element that might cause very deadly infections."
+		},
+		"plutonium": {
+			"name": "Plutonium",
+			"desc": "A radioactive element capable of causing very severe burns."
 		}
 	},
 	"achievements": {
@@ -2081,6 +2093,10 @@
 			"name": "Tear",
 			"desc": "Drips blood from the eye."
 		},
+		"bigtus": {
+			"name": "Bigtus",
+			"desc": "It's a big ahh cactus."
+		},
 		"worm": {
 			"name": "Worm",
 			"desc": "A long worm"
@@ -2181,6 +2197,11 @@
 		"flowerArmor": "Flower Armor",
 		"petalCritical": "Petal Critical",
 		"petalReloadSkipRate": "Petal Reload Skip Rate",
+		"blockDamage": "Block Damage",
+		"spreadDamage": "Spread Damage",
+		"radiationRange": "Radiation Range",
+		"radiationPoison": "Radiation Poison",
+		"radiationFire": "Radiation Fire",
 		"bodyLightning": "Body Lightning",
 		"healAffectTime": "Heal Affect Time",
 		"missileHealth": "Missile Health",
