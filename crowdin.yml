@@ -1,0 +1,4 @@
+files:
+  - source: /zorr_lang_template.json
+    translation: /zorr_lang_%locale_with_underscore%.json
+    multilingual: 1
