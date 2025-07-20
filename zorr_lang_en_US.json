@@ -1,0 +1,3551 @@
+{
+	"name": "custom lang uwu",
+	"ui": {
+		"mobGallery": "Mob Gallery",
+		"deathInfo": "You were killed by:",
+		"continue": "Continue",
+		"minimize": "Minimize",
+		"deathEscape": "(or press escape)",
+		"nickInfo": "This little flower is called...",
+		"play": "Play",
+		"squad": "Squad",
+		"connecting": "Connecting...",
+		"chatInfo": "Press [Enter] to chat",
+		"achievements": "Achievements",
+		"shop": "Shop",
+		"commands": "Commands",
+		"users": "Users",
+		"loadouts": "Loadouts",
+		"changelog": "Changelog",
+		"guild": "Guild",
+		"settings": "Settings",
+		"inventory": "Inventory",
+		"inventoryInstructions": "Drag n drop to equip petal."
+	},
+	"mobs": {
+		"rock": {
+			"name": "Rock",
+			"desc": "A rock. It doesn't do much"
+		},
+		"ladybug": {
+			"name": "Ladybug",
+			"desc": "Cute and harmless"
+		},
+		"bush": {
+			"name": "Bush",
+			"desc": "George Bush"
+		},
+		"sponge": {
+			"name": "Sponge",
+			"desc": "Bob"
+		},
+		"cactus": {
+			"name": "Cactus",
+			"desc": "A very thorny plant."
+		},
+		"baby_ant": {
+			"name": "Baby Ant",
+			"desc": "Ant but baby"
+		},
+		"soldier_ant": {
+			"name": "Soldier Ant",
+			"desc": "Fights for the freedom."
+		},
+		"worker_ant": {
+			"name": "Worker Ant",
+			"desc": "Doesn't want to fight."
+		},
+		"queen_ant": {
+			"name": "Queen Ant",
+			"desc": "Queen Antilabeth VI."
+		},
+		"baby_fire_ant": {
+			"name": "Baby Fire Ant",
+			"desc": "Fire Ant but baby"
+		},
+		"soldier_fire_ant": {
+			"name": "Soldier Fire Ant",
+			"desc": "Fights for the freedom."
+		},
+		"worker_fire_ant": {
+			"name": "Worker Fire Ant",
+			"desc": "Doesn't want to fight."
+		},
+		"queen_fire_ant": {
+			"name": "Queen Fire Ant",
+			"desc": "Queen Antilabeth VII."
+		},
+		"mushroom": {
+			"name": "Mushroom",
+			"desc": "Comes with fungal infection."
+		},
+		"jellyfish": {
+			"name": "Jellyfish",
+			"desc": "Fish but jelly."
+		},
+		"spider": {
+			"name": "Spider",
+			"desc": "It has 8 legs and eyes."
+		},
+		"bee": {
+			"name": "Bee",
+			"desc": "It stings too hard."
+		},
+		"hornet": {
+			"name": "Hornet",
+			"desc": "Certified missile shooter."
+		},
+		"shell": {
+			"name": "Shell",
+			"desc": "A very shellfish entity."
+		},
+		"ant_hole": {
+			"name": "Ant Hole",
+			"desc": "There are some ants inside of it."
+		},
+		"fire_ant_hole": {
+			"name": "Fire Ant Hole",
+			"desc": "There are some fire ants inside of it."
+		},
+		"spider_cave": {
+			"name": "Spider Cave",
+			"desc": "Long and dark cave."
+		},
+		"hive": {
+			"name": "Hive",
+			"desc": "This is the bee Disneyland"
+		},
+		"yoba": {
+			"name": "Yoba",
+			"desc": "Mysterious red creature."
+		},
+		"spider_yoba": {
+			"name": "Spider Yoba",
+			"desc": "Mysterious pink creature."
+		},
+		"centipede": {
+			"name": "Centipede",
+			"desc": "It is long."
+		},
+		"desert_centipede": {
+			"name": "Desert Centipede",
+			"desc": "Won a gold medal in Olympics."
+		},
+		"evil_centipede": {
+			"name": "Evil Centipede",
+			"desc": "We are not sure why this one is evil."
+		},
+		"sunflower": {
+			"name": "Sunflower",
+			"desc": "It has a shield"
+		},
+		"boba": {
+			"name": "Boba",
+			"desc": "It explodes."
+		},
+		"bubble": {
+			"name": "Bubble",
+			"desc": "Pop it quick."
+		},
+		"m28": {
+			"name": "M28",
+			"desc": "Skibidi developer."
+		},
+		"beetle": {
+			"name": "Beetle",
+			"desc": "Very hungry insect."
+		},
+		"avocado": {
+			"name": "Avocado",
+			"desc": "Super yummy fruit."
+		},
+		"target_dummy": {
+			"name": "Target Dummy",
+			"desc": "killing these is vandalism, this game is secretly an ip grabber and we have already reported you to local authorities, expect a knock on your door in 3-5 minutes"
+		},
+		"dark_ladybug": {
+			"name": "Dark Ladybug",
+			"desc": "Cute and harmless, but dark"
+		},
+		"shiny_ladybug": {
+			"name": "Shiny Ladybug",
+			"desc": "Shiny, cute and harmless"
+		},
+		"sandstorm": {
+			"name": "Sandstorm",
+			"desc": "A sandy tornado"
+		},
+		"scorpion": {
+			"name": "Scorpion",
+			"desc": "It likes to orbit and shoot you."
+		},
+		"starfish": {
+			"name": "Starfish",
+			"desc": "Celebrity fish."
+		},
+		"crab": {
+			"name": "Crab",
+			"desc": "Runs after you."
+		},
+		"dandelion": {
+			"name": "Dandelion",
+			"desc": "Shoots out its missiles when attacked"
+		},
+		"dragon": {
+			"name": "Dragon",
+			"desc": "its fire looks very hot, and feels very hot too"
+		},
+		"leech": {
+			"name": "Leech",
+			"desc": "a slither.io snake?"
+		},
+		"nazar_beetle": {
+			"name": "Nazar Beetle",
+			"desc": "Has turned into modern art"
+		},
+		"toxic_dragon": {
+			"name": "Toxic Dragon",
+			"desc": "Someone painted it using toxic paint"
+		},
+		"hel_worm": {
+			"name": "Hel Worm",
+			"desc": "a satanic worm from digworm.io"
+		},
+		"hel_spider": {
+			"name": "Hel Spider",
+			"desc": "It has 8 legs and eyes."
+		},
+		"hel_beetle": {
+			"name": "Hel Beetle",
+			"desc": "Very creepy satanic insect."
+		},
+		"hel_jellyfish": {
+			"name": "Hel Jellyfish",
+			"desc": "Why and how does it have teeth?"
+		},
+		"tumbleweed": {
+			"name": "Tumbleweed",
+			"desc": "*Wind noises*"
+		},
+		"dragon_nest": {
+			"name": "Dragon Nest",
+			"desc": "House of dragons."
+		},
+		"firestorm": {
+			"name": "Firestorm",
+			"desc": "A fire tornado"
+		},
+		"hel_bee": {
+			"name": "Hel Bee",
+			"desc": "Firey asf sting."
+		},
+		"hel_hornet": {
+			"name": "Hel Hornet",
+			"desc": "Certified fire shooter."
+		},
+		"bugatti": {
+			"name": "Bugatti",
+			"desc": "Top Jeet's favourite car."
+		},
+		"fly": {
+			"name": "Fly",
+			"desc": "Its Filthy(frank)"
+		},
+		"mantis": {
+			"name": "Mantis",
+			"desc": "Shoots 3 armor piercing peas at once."
+		},
+		"firefly": {
+			"name": "Firefly",
+			"desc": "Fly with high voltage."
+		},
+		"wasp": {
+			"name": "Wasp",
+			"desc": "Likes sniping flowers using its missiles."
+		},
+		"stickbug": {
+			"name": "Stickbug",
+			"desc": "It likes to dance."
+		},
+		"snowbush": {
+			"name": "Snowbush",
+			"desc": "A bush that grows in cold regions, it may also me covered in snow."
+		},
+		"ice_cube": {
+			"name": "Ice Cube",
+			"desc": "a very cold ice cube, touching it would probably not feel very nice"
+		},
+		"snowstorm": {
+			"name": "Snowstorm",
+			"desc": "A snowy tornado, sharp snowflakes seem to be orbiting inside"
+		},
+		"arctic_centipede": {
+			"name": "Arctic Centipede",
+			"desc": "The cold has hardened their skin."
+		},
+		"arctic_spider": {
+			"name": "Arctic Spider",
+			"desc": "This spider looks really *cool*"
+		},
+		"ice_dragon": {
+			"name": "Ice Dragon",
+			"desc": "It breathes cool breeze that can freeze its foes."
+		},
+		"tick": {
+			"name": "Tick",
+			"desc": "This mob ticks me off!"
+		},
+		"waterspout": {
+			"name": "Waterspout",
+			"desc": "An underwater tornado"
+		},
+		"urchin": {
+			"name": "Urchin",
+			"desc": "Spiky ball that shoots at you."
+		},
+		"volcano": {
+			"name": "Volcano",
+			"desc": "A very big rock. It shoots fire everywhere"
+		},
+		"ice_hornet": {
+			"name": "Ice Hornet",
+			"desc": "Skibidi mob dop dop yes yes"
+		},
+		"virus": {
+			"name": "Virus",
+			"desc": "Dont touch it!"
+		},
+		"red_blood_cell": {
+			"name": "Red Blood Cell",
+			"desc": "Delivers oxygen to where ever it needs to"
+		},
+		"bacteria": {
+			"name": "Bacteria",
+			"desc": "This mob makes me sick"
+		},
+		"bacteriophage": {
+			"name": "Bacteriophage",
+			"desc": "A math nerd, likes icosahedrons filled with poision too much"
+		},
+		"cancer": {
+			"name": "Cancer",
+			"desc": "Very deadly, hope you dont ever accidentaly touch it"
+		},
+		"parasite": {
+			"name": "Parasite",
+			"desc": "Likes to annoy its host uwu"
+		},
+		"white_blood_cell": {
+			"name": "White Blood Cell",
+			"desc": "Fights bad things in your body, including flowers"
+		},
+		"atom": {
+			"name": "Atom",
+			"desc": "The building block of the universe, what could possibly go wrong when killing one of them"
+		},
+		"snake": {
+			"name": "Snake",
+			"desc": "Very deadly and very long"
+		},
+		"turtle": {
+			"name": "Turtle",
+			"desc": "has a very strong shield"
+		},
+		"hel_hive": {
+			"name": "Hel Hive",
+			"desc": "This is the location where hel bees and hel hornets discuss their evil plans to take over the plains biome"
+		},
+		"fossil": {
+			"name": "Fossil",
+			"desc": "looks quite dead, maybe it contains valuable petals"
+		},
+		"rattlesnake": {
+			"name": "Rattlesnake",
+			"desc": "very deadly, very long and very loud too, maybe you should respect its warning."
+		},
+		"cicada": {
+			"name": "Cicada",
+			"desc": "3301. Has 11% chance of doing 42x damage."
+		},
+		"snowman": {
+			"name": "Snowman",
+			"desc": "wants to have a snowball fight (he put rocks into the snowballs)."
+		},
+		"igloo": {
+			"name": "Igloo",
+			"desc": "a very cool place for snowmen and dragons to hang out"
+		},
+		"rain_frog": {
+			"name": "Rain Frog",
+			"desc": "It moves like a shell."
+		},
+		"illuminati": {
+			"name": "Illuminati",
+			"desc": "Darkness over all."
+		},
+		"black_hole": {
+			"name": "Black Hole",
+			"desc": "Very attractive and very dark."
+		},
+		"troll": {
+			"name": "Troll",
+			"desc": "THOSE WHO KNOW: SIGMAS; THOSE WHO DONT KNOW: SKIBIDI"
+		},
+		"ufo": {
+			"name": "UFO",
+			"desc": "There is a bunch of green people inside, might be best not to disturb them"
+		},
+		"alien": {
+			"name": "Alien",
+			"desc": "An extra-terrestial entity with telepathic abilities."
+		},
+		"angel": {
+			"name": "Angel",
+			"desc": "Has a very strong aura, you probably shouldn't come too close"
+		},
+		"momy": {
+			"name": "Momy",
+			"desc": "A really scary creature. Likes throwing stuff at other people"
+		},
+		"ghost": {
+			"name": "Ghost",
+			"desc": "oOOOooOOooooOO spoOky"
+		},
+		"gravestone": {
+			"name": "Gravestone",
+			"desc": "Ghosts enjoy being here in complete darkness"
+		},
+		"electric_eel": {
+			"name": "Electric Eel",
+			"desc": "Might zap you."
+		},
+		"eye": {
+			"name": "Eye",
+			"desc": "Cute eye of Sauron"
+		},
+		"square": {
+			"name": "Square",
+			"desc": "Wrong game."
+		},
+		"target_mummy": {
+			"name": "Target Mummy",
+			"desc": "Target Dummy + Bandages = Target Mummy uwu."
+		},
+		"oracle": {
+			"name": "Oracle",
+			"desc": "non player character moment"
+		},
+		"trader": {
+			"name": "Trader",
+			"desc": "Let's you exchange petals for coins."
+		},
+		"tesla_coil": {
+			"name": "Tesla Coil",
+			"desc": "A Tesla Coil that can zap enemies from a distance. "
+		},
+		"snail": {
+			"name": "Snail",
+			"desc": "It moves very slowly."
+		},
+		"stem_cell": {
+			"name": "Stem Cell",
+			"desc": "It can regenerate itself over time."
+		},
+		"barrel": {
+			"name": "Barrel",
+			"desc": "It contains very hazardous stuff."
+		},
+		"nuke": {
+			"name": "Nuke",
+			"desc": "Tsar Bomba is a very big russian hydrogen bomb."
+		},
+		"digger": {
+			"name": "Digger",
+			"desc": "An ally just mining away."
+		},
+		"spider_digger": {
+			"name": "Spider Digger",
+			"desc": "It built the spider cave."
+		},
+		"hel_digger": {
+			"name": "Hel Digger",
+			"desc": "It tamed the dragons..."
+		},
+		"grave_digger": {
+			"name": "Grave Digger",
+			"desc": "He wants you to get into the freshly dug grave"
+		},
+		"sandstone": {
+			"name": "Sandstone",
+			"desc": "A very brittle and dusty rock"
+		},
+		"termite_overmind": {
+			"name": "Termite Overmind",
+			"desc": "He is well prepared to outlast any of his enemies."
+		},
+		"baby_termite": {
+			"name": "Baby Termite",
+			"desc": "Has a very rough childhood"
+		},
+		"worker_termite": {
+			"name": "Worker Termite",
+			"desc": "Doesn't want to fight, but is forced to anyway."
+		},
+		"soldier_termite": {
+			"name": "Soldier Termite",
+			"desc": "Fights for freedom, but all it ever does is hurt its friends accidentally."
+		},
+		"termite_hole": {
+			"name": "Termite Hole",
+			"desc": "There are some termites inside of it."
+		},
+		"termite_digger": {
+			"name": "Termite Digger",
+			"desc": "Has befriended the local termite population."
+		},
+		"shipwreck": {
+			"name": "Shipwreck",
+			"desc": "Underwater car accident, appears like the local wildlife took over this vehicle."
+		},
+		"pirate_digger": {
+			"name": "Pirate Digger",
+			"desc": "Pirates of the currybeans"
+		},
+		"palm_tree": {
+			"name": "Palm tree",
+			"desc": "Its gigantic leaves help it survive in this climate"
+		},
+		"stalagmite": {
+			"name": "Stalagmite",
+			"desc": "Will try to stab you, repeatedly."
+		},
+		"arctic_spider_cave": {
+			"name": "Arctic Spider Cave",
+			"desc": "A very cool cave inside of an already cool cave. Caveception."
+		},
+		"beekeeper": {
+			"name": "Beekeeper",
+			"desc": "It is the keeper of the bee."
+		},
+		"hel_beekeeper": {
+			"name": "Hel Beekeeper",
+			"desc": "It is the keeper of the hel bees."
+		},
+		"alien_digger": {
+			"name": "Alien Digger",
+			"desc": "Mining for ressources on other planets"
+		},
+		"queen_bee": {
+			"name": "Queen Bee",
+			"desc": "The Royal leader of the bees."
+		},
+		"hel_queen_bee": {
+			"name": "Hel Queen Bee",
+			"desc": "The Hellish leader of the demon bees."
+		},
+		"hel_centipede": {
+			"name": "Hel Centipede",
+			"desc": "A long hellish mob. It also learned how to use its own drops."
+		},
+		"fire_eel": {
+			"name": "Fire Eel",
+			"desc": "Its sting comes with extra burn factor."
+		},
+		"lamprey_eel": {
+			"name": "Lamprey Eel",
+			"desc": "A very very venomous eel..."
+		},
+		"frost_digger": {
+			"name": "Frost Digger",
+			"desc": "The cold has made him brittle, but he still goes on."
+		},
+		"cube": {
+			"name": "Cube",
+			"desc": "This looks familiar... You just project the 3D points on a 2D plane. ez pz."
+		},
+		"white_hole": {
+			"name": "White Hole",
+			"desc": "Very repulsive and blindingly bright."
+		},
+		"tesseract": {
+			"name": "Tesseract",
+			"desc": "This shape isnt even from this dimension anymore...how did this happen."
+		},
+		"unabomber": {
+			"name": "Unabomber",
+			"desc": "Ted Kaczynski moment"
+		},
+		"biologist": {
+			"name": "Biologist",
+			"desc": "An ally just studying biology in your cells. Its damage increases as it gets damaged."
+		},
+		"cicada_3301": {
+			"name": "Cicada 3301",
+			"desc": "Has 33% chance of doing 33x damage (including telepathic damage). Epiphany is upon you. Your pilgrimage has begun. Enlightenment awaits."
+		},
+		"shark": {
+			"name": "Shark",
+			"desc": "Baby shark doo doo doo doo doo doo..."
+		},
+		"squid": {
+			"name": "Squid",
+			"desc": "Is seeking a toilet, or maybe thats just ink."
+		}
+	},
+	"petals": {
+		"basic": {
+			"name": "Basic",
+			"desc": "The simplest petal ever."
+		},
+		"rose": {
+			"name": "Rose",
+			"desc": "Heals you when consumed."
+		},
+		"wing": {
+			"name": "Wing",
+			"desc": "It comes and goes."
+		},
+		"rock": {
+			"name": "Rock",
+			"desc": "Its quite durable"
+		},
+		"iris": {
+			"name": "Iris",
+			"desc": "It's poisonous."
+		},
+		"stinger": {
+			"name": "Stinger",
+			"desc": "Very large damage."
+		},
+		"honey": {
+			"name": "Honey",
+			"desc": "Bee vomit"
+		},
+		"bubble": {
+			"name": "Bubble",
+			"desc": "Bursts and boosts you."
+		},
+		"heavy": {
+			"name": "Heavy",
+			"desc": "Heavier than your mom"
+		},
+		"yin_yang": {
+			"name": "Yin Yang",
+			"desc": "Flips your petal orbit direction."
+		},
+		"faster": {
+			"name": "Faster",
+			"desc": "Increases your petal orbit speed"
+		},
+		"light": {
+			"name": "Light",
+			"desc": "Super duper fast."
+		},
+		"sponge": {
+			"name": "Sponge",
+			"desc": "Washes the dishes and soaks damage over time."
+		},
+		"rice": {
+			"name": "Rice",
+			"desc": "Only for asians."
+		},
+		"yggdrasil": {
+			"name": "Yggdrasil",
+			"desc": "Revives dead flowers."
+		},
+		"leaf": {
+			"name": "Leaf",
+			"desc": "Passively heals you."
+		},
+		"lightning": {
+			"name": "Lightning",
+			"desc": "Summons a lightning strike on nearby enemies."
+		},
+		"usain_bolt": {
+			"name": "Usain Bolt",
+			"desc": "Summons a poisonous lightning strike on nearby enemies"
+		},
+		"cotton": {
+			"name": "Cotton",
+			"desc": "Absorbs your damage."
+		},
+		"web": {
+			"name": "Web",
+			"desc": "Drops spider poop which slows down your enemies"
+		},
+		"pollen": {
+			"name": "Pollen",
+			"desc": "Falls and stays on ground."
+		},
+		"shell": {
+			"name": "Shell",
+			"desc": "Gives you shielding when consumed."
+		},
+		"sunflower": {
+			"name": "Sunflower",
+			"desc": "Gives you shielding passively."
+		},
+		"bomb": {
+			"name": "Bomb",
+			"desc": "Explodes when it touches an enemy."
+		},
+		"gas_bomb": {
+			"name": "Gas Bomb",
+			"desc": "Explodes and poisons your enemies."
+		},
+		"missile": {
+			"name": "Missile",
+			"desc": "A rebellious stinger that flies away from you."
+		},
+		"viper": {
+			"name": "Viper",
+			"desc": "We don't know how it poisons."
+		},
+		"rocket": {
+			"name": "Rocket",
+			"desc": "Fast and explosive"
+		},
+		"electron_missile": {
+			"name": "Electron Missile",
+			"desc": "It is filled with angry electrons waiting to zap anything in their path"
+		},
+		"magnet": {
+			"name": "Magnet",
+			"desc": "Pulls petal drops & absorbs lightning."
+		},
+		"salt": {
+			"name": "Salt",
+			"desc": "Reflects damage done to the flower back to the enemy"
+		},
+		"antennae": {
+			"name": "Antennae",
+			"desc": "Increases your vision."
+		},
+		"third_eye": {
+			"name": "Third Eye",
+			"desc": "Increases your petal range"
+		},
+		"dmca": {
+			"name": "DMCA",
+			"desc": "Despawns mobs of the same rarity or lower."
+		},
+		"rock_egg": {
+			"name": "Rock Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"ladybug_egg": {
+			"name": "Ladybug Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"bush_egg": {
+			"name": "Bush Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"sponge_egg": {
+			"name": "Sponge Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"cactus_egg": {
+			"name": "Cactus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"baby_ant_egg": {
+			"name": "Baby Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"soldier_ant_egg": {
+			"name": "Soldier Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"worker_ant_egg": {
+			"name": "Worker Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"queen_ant_egg": {
+			"name": "Queen Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"baby_fire_ant_egg": {
+			"name": "Baby Fire Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"soldier_fire_ant_egg": {
+			"name": "Soldier Fire Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"worker_fire_ant_egg": {
+			"name": "Worker Fire Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"queen_fire_ant_egg": {
+			"name": "Queen Fire Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"mushroom_egg": {
+			"name": "Mushroom Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"jellyfish_egg": {
+			"name": "Jellyfish Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"spider_egg": {
+			"name": "Spider Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"bee_egg": {
+			"name": "Bee Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hornet_egg": {
+			"name": "Hornet Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"shell_egg": {
+			"name": "Shell Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"ant_hole_egg": {
+			"name": "Ant Hole Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"fire_ant_hole_egg": {
+			"name": "Fire Ant Hole Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"spider_cave_egg": {
+			"name": "Spider Cave Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hive_egg": {
+			"name": "Hive Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"yoba_egg": {
+			"name": "Yoba Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"spider_yoba_egg": {
+			"name": "Spider Yoba Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"centipede_egg": {
+			"name": "Centipede Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"desert_centipede_egg": {
+			"name": "Desert Centipede Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"evil_centipede_egg": {
+			"name": "Evil Centipede Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"sunflower_egg": {
+			"name": "Sunflower Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"boba_egg": {
+			"name": "Boba Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"bubble_egg": {
+			"name": "Bubble Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"m28_egg": {
+			"name": "M28 Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"beetle_egg": {
+			"name": "Beetle Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"avocado_egg": {
+			"name": "Avocado Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"target_dummy_egg": {
+			"name": "Target Dummy Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"dark_ladybug_egg": {
+			"name": "Dark Ladybug Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"shiny_ladybug_egg": {
+			"name": "Shiny Ladybug Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"stick": {
+			"name": "Stick",
+			"desc": "Summons the deadly winds."
+		},
+		"scorpion_egg": {
+			"name": "Scorpion Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"starfish_egg": {
+			"name": "Starfish Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"pea": {
+			"name": "Pea",
+			"desc": "It goes poof"
+		},
+		"avocado": {
+			"name": "Avocado",
+			"desc": "Increases your pet size."
+		},
+		"ring_magnet": {
+			"name": "Ring Magnet",
+			"desc": "Pull everything towards you slowly."
+		},
+		"gas": {
+			"name": "Gas",
+			"desc": "Poisonous gas."
+		},
+		"fire": {
+			"name": "Fire",
+			"desc": "It burns."
+		},
+		"nitro": {
+			"name": "Nitro",
+			"desc": "It's like a jetpack."
+		},
+		"wind": {
+			"name": "Wind",
+			"desc": "Pushes enemies away."
+		},
+		"air": {
+			"name": "Air",
+			"desc": "Invisible asf."
+		},
+		"lightsaber": {
+			"name": "Lightsaber",
+			"desc": "Limited range photon sword"
+		},
+		"visaber": {
+			"name": "Visaber",
+			"desc": "Its shooting gamma rays instead of visible photons"
+		},
+		"bone": {
+			"name": "Bone",
+			"desc": "Made up of calcium."
+		},
+		"cactus": {
+			"name": "Cactus",
+			"desc": "Gives you more health."
+		},
+		"soil": {
+			"name": "Soil",
+			"desc": "Makes flowers fat."
+		},
+		"grapes": {
+			"name": "Grapes",
+			"desc": "Missile but iris. wtf?"
+		},
+		"mushroom": {
+			"name": "Mushroom",
+			"desc": "Makes your flower poisonous."
+		},
+		"ears": {
+			"name": "Ears",
+			"desc": "Telepathic kitty ears."
+		},
+		"sand": {
+			"name": "Sand",
+			"desc": "Could build a sandcastle out of this."
+		},
+		"pincer": {
+			"name": "Pincer",
+			"desc": "Break your enemies legs, even if they dont have any."
+		},
+		"dahlia": {
+			"name": "Dahlia",
+			"desc": "Sacrifices heal for reliability"
+		},
+		"starfish": {
+			"name": "Starfish",
+			"desc": "Heals you when you are low on healtn"
+		},
+		"dandelion": {
+			"name": "Dandelion",
+			"desc": "Disables your enemies healing"
+		},
+		"crab_egg": {
+			"name": "Crab Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"dandelion_egg": {
+			"name": "Dandelion Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"dragon_egg": {
+			"name": "Dragon Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"irey": {
+			"name": "Irey",
+			"desc": "Turns honey tiles poisonous."
+		},
+		"leech_egg": {
+			"name": "Leech Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"nazar": {
+			"name": "Nazar",
+			"desc": "It tanks a few hits, and then goes on cooldown"
+		},
+		"nazar_beetle_egg": {
+			"name": "Nazar Beetle Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"golden_leaf": {
+			"name": "Golden Leaf",
+			"desc": "Reduces petal reload time."
+		},
+		"laser": {
+			"name": "Laser",
+			"desc": "Can cause severe burns"
+		},
+		"mark": {
+			"name": "Mark",
+			"desc": "Sends a dead lil flower to Hel"
+		},
+		"bur": {
+			"name": "Bur",
+			"desc": "Decreases enemy armor"
+		},
+		"cutter": {
+			"name": "Cutter",
+			"desc": "Increases your body damage."
+		},
+		"powder": {
+			"name": "Powder",
+			"desc": "Cocaine"
+		},
+		"toxic_dragon_egg": {
+			"name": "Toxic Dragon Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_worm_egg": {
+			"name": "Hel Worm Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_spider_egg": {
+			"name": "Hel Spider Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_beetle_egg": {
+			"name": "Hel Beetle Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_jellyfish_egg": {
+			"name": "Hel Jellyfish Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_lightning": {
+			"name": "Hel Lightning",
+			"desc": "Summons a cursed fire strike on nearby enemies."
+		},
+		"tumbleweed_egg": {
+			"name": "Tumbleweed Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"dragon_nest_egg": {
+			"name": "Dragon Nest Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"fire_stick": {
+			"name": "Fire Stick",
+			"desc": "Summons the deadly winds."
+		},
+		"hel_bee_egg": {
+			"name": "Hel Bee Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_hornet_egg": {
+			"name": "Hel Hornet Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_missile": {
+			"name": "Hel Missile",
+			"desc": "hot asf missile"
+		},
+		"bugatti": {
+			"name": "Bugatti",
+			"desc": "Increases your movement speed but makes you slippery asf."
+		},
+		"bugatti_egg": {
+			"name": "Bugatti Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"poo": {
+			"name": "Poo",
+			"desc": "Decreases enemy range."
+		},
+		"rubber": {
+			"name": "Rubber",
+			"desc": "Increases knockback you get from enemies."
+		},
+		"fly_egg": {
+			"name": "Fly Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"fang": {
+			"name": "Fang",
+			"desc": "Heals you with the damage it does."
+		},
+		"blood_stinger": {
+			"name": "Blood Stinger",
+			"desc": "Very deadily but also casts some damage back to you."
+		},
+		"mantis_egg": {
+			"name": "Mantis Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"firefly_egg": {
+			"name": "Firefly Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"wasp_egg": {
+			"name": "Wasp Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"battery": {
+			"name": "Battery",
+			"desc": "Makes your body spawn a lightning strike when an enemy hits it."
+		},
+		"stickbug_egg": {
+			"name": "Stickbug Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"plank": {
+			"name": "Plank",
+			"desc": "Does 100x more damage to enemy projectiles."
+		},
+		"icicle": {
+			"name": "Icicle",
+			"desc": "Freezes enemies."
+		},
+		"dice": {
+			"name": "Dice",
+			"desc": "Has 7.5% chance of dealing 69x damage. Rate is affected by Clover."
+		},
+		"cryo_bomb": {
+			"name": "Cryo Bomb",
+			"desc": "Freezes nearby enemies when exploded."
+		},
+		"clover": {
+			"name": "Clover",
+			"desc": "Gives you good luck."
+		},
+		"blueberries": {
+			"name": "Blueberries",
+			"desc": "Freezing Them has made them very hard."
+		},
+		"frost": {
+			"name": "Frost",
+			"desc": "Cold air that can go through armor of your enemies and slow them down."
+		},
+		"snowball": {
+			"name": "Snowball",
+			"desc": "A snowman's ball that goes through vest of your enemies."
+		},
+		"snowflake": {
+			"name": "Snowflake",
+			"desc": "It shoots out when broken."
+		},
+		"amethyst": {
+			"name": "Amethyst",
+			"desc": "Very sharp but brittle gemstone"
+		},
+		"snowbush_egg": {
+			"name": "Snowbush Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"snow_stick": {
+			"name": "Snow Stick",
+			"desc": "Summons the deadly frost."
+		},
+		"ice_cube_egg": {
+			"name": "Ice Cube Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"arctic_centipede_egg": {
+			"name": "Arctic Centipede Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"arctic_spider_egg": {
+			"name": "Arctic Spider Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"ice_dragon_egg": {
+			"name": "Ice Dragon Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"tick_egg": {
+			"name": "Tick Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"ice_rose": {
+			"name": "Ice Rose",
+			"desc": "Heals you when consumed but also gives you frost."
+		},
+		"torch": {
+			"name": "Torch",
+			"desc": "Passively removes frost from your flower over time."
+		},
+		"water_stick": {
+			"name": "Water Stick",
+			"desc": "Summons underwater tornadoes, ever while not underwater."
+		},
+		"urchin_egg": {
+			"name": "Urchin Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"volcano_egg": {
+			"name": "Volcano Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"spikeball": {
+			"name": "Spikeball",
+			"desc": "many missile bound together by one weak bond, the missiles would fly everywhere if that bond were to break..."
+		},
+		"needle": {
+			"name": "Needle",
+			"desc": "very sharp but very fragile, its also poisioned"
+		},
+		"bubble_bomb": {
+			"name": "Bubble Bomb",
+			"desc": "Explodes and pushes your enemies a lil too much."
+		},
+		"obsidian": {
+			"name": "Obsidian",
+			"desc": "extremly durable, but also very fragile at the same time."
+		},
+		"magma": {
+			"name": "Magma",
+			"desc": "a very hot rock."
+		},
+		"fire_bomb": {
+			"name": "Fire Bomb",
+			"desc": "the explosions sets your enemies on fire."
+		},
+		"ice_hornet_egg": {
+			"name": "Ice Hornet Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"frozen_mark": {
+			"name": "Frozen Mark",
+			"desc": "Sends a dead lil flower to the antarticas"
+		},
+		"coffee": {
+			"name": "Coffee",
+			"desc": "Gives your temporary speed boost when consumed."
+		},
+		"chromosome": {
+			"name": "Chromosome",
+			"desc": "Heals your petals over time."
+		},
+		"antibody": {
+			"name": "Antibody",
+			"desc": "Decreases enemy armor"
+		},
+		"hemoglobin": {
+			"name": "Hemoglobin",
+			"desc": "Increases healing caused by healing petals"
+		},
+		"chloroplast": {
+			"name": "Chloroplast",
+			"desc": "Increases shield regeneration."
+		},
+		"sugar": {
+			"name": "Sugar",
+			"desc": "Very sweet"
+		},
+		"pill": {
+			"name": "Pill",
+			"desc": "Cures cancer and gives you some healing."
+		},
+		"dna": {
+			"name": "DNA",
+			"desc": "Gives you a small chance of increasing your pet rarity. Affects all eggs till its rarity. For example, Super Egg that spawns an Ultra Ant + Super DNA = Chance to spawn a Super Ant. Rate is affected by clover."
+		},
+		"virus_egg": {
+			"name": "Virus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"red_blood_cell_egg": {
+			"name": "Red Blood Cell Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"bacteria_egg": {
+			"name": "Bacteria Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"bacteriophage_egg": {
+			"name": "Bacteriophage Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"cancer_egg": {
+			"name": "Cancer Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"parasite_egg": {
+			"name": "Parasite Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"cancer": {
+			"name": "Cancer",
+			"desc": "Splits mob of the same rarity when they die."
+		},
+		"white_blood_cell_egg": {
+			"name": "White Blood Cell Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"lotus": {
+			"name": "Lotus",
+			"desc": "Reduces poison."
+		},
+		"ice": {
+			"name": "Ice",
+			"desc": "Reduces fire."
+		},
+		"atom_egg": {
+			"name": "Atom Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"snake_egg": {
+			"name": "Snake Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"slime": {
+			"name": "Slime",
+			"desc": "eww its so sticky"
+		},
+		"turtle_egg": {
+			"name": "Turtle Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_hive_egg": {
+			"name": "Hel Hive Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_honey": {
+			"name": "Hel Honey",
+			"desc": "Turns honey tiles hot."
+		},
+		"scar": {
+			"name": "Scar",
+			"desc": "Very deadily but also teleports you to a random location."
+		},
+		"crystal_leaf": {
+			"name": "Crystal Leaf",
+			"desc": "Passively heals your pets."
+		},
+		"fossil_egg": {
+			"name": "Fossil Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"rattlesnake_egg": {
+			"name": "Rattlesnake Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"rattle": {
+			"name": "Rattle",
+			"desc": "Skibidi petal dop dop yes yes"
+		},
+		"cicada_egg": {
+			"name": "Cicada Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"snowman_egg": {
+			"name": "Snowman Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"carrot": {
+			"name": "Carrot",
+			"desc": "Someone told me these are good for your eyes, but when i put them in it just hurt a lot"
+		},
+		"igloo_egg": {
+			"name": "Igloo Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"rain_frog_egg": {
+			"name": "Rain Frog Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"disc": {
+			"name": "Disc",
+			"desc": "Reduces incoming damage."
+		},
+		"mimic": {
+			"name": "Mimic",
+			"desc": "It mimics the petal you have right to it."
+		},
+		"scythe": {
+			"name": "Scythe",
+			"desc": "A long sharp object. The more petals have equipped, the weaker it gets."
+		},
+		"corruption": {
+			"name": "Corruption",
+			"desc": "You become corrupt and can harm other flowers and they can harm you."
+		},
+		"moon": {
+			"name": "Moon",
+			"desc": "very fat petal, might protect you fom mobs"
+		},
+		"pearl": {
+			"name": "Pearl",
+			"desc": "leave it on the floor and watch as mobs trip over it"
+		},
+		"orange": {
+			"name": "Orange",
+			"desc": "theyre tasty, but every mob is allergic to them"
+		},
+		"dizzy": {
+			"name": "Dizzy",
+			"desc": "Makes you dizzy, but increases your petal damage."
+		},
+		"illuminati_egg": {
+			"name": "Illuminati Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"black_hole_egg": {
+			"name": "Black Hole Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"gamma_ray": {
+			"name": "Gamma Ray",
+			"desc": "beam moment"
+		},
+		"troll_egg": {
+			"name": "Troll Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"horn": {
+			"name": "Horn",
+			"desc": "Increases damage of your pets but also makes them slower."
+		},
+		"ufo_egg": {
+			"name": "UFO Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"orb": {
+			"name": "Orb",
+			"desc": "There is a lot of advanched alien technology in this, i wonder what it does..."
+		},
+		"alien_egg": {
+			"name": "Alien Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"angel_egg": {
+			"name": "Angel Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"momy_egg": {
+			"name": "Momy Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"mirror": {
+			"name": "Mirror",
+			"desc": "Reflects missiles upto rarity+1. Damage of missiles with rarity higher than it is nerfed by 95%. For example, Ultra Mirror can relect Super Hornet's Missile but its damage will be reduced by 95%."
+		},
+		"comb": {
+			"name": "Comb",
+			"desc": "Too bad that the flower is bald"
+		},
+		"ring": {
+			"name": "Ring",
+			"desc": "Zauron's Ring."
+		},
+		"triangle": {
+			"name": "Triangle",
+			"desc": "Has the ability to spot every mobs weaknesses by doing every type of damage"
+		},
+		"dvd": {
+			"name": "DVD",
+			"desc": "Contains some rare never seen before Alien footage."
+		},
+		"eyeball": {
+			"name": "Eyeball",
+			"desc": "All seeing eye that yours makes missiles auto aim to nearest target."
+		},
+		"zodiac": {
+			"name": "Zodiac",
+			"desc": "Increases reload of your petals, but very strong."
+		},
+		"ghost_egg": {
+			"name": "Ghost Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"gravestone_egg": {
+			"name": "Gravestone Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"balloon": {
+			"name": "Balloon",
+			"desc": "Makes you float upwards."
+		},
+		"void_mark": {
+			"name": "Void Mark",
+			"desc": "Sends a cute little dead flower to the astral realm."
+		},
+		"plasma": {
+			"name": "Plasma",
+			"desc": "Very hot state of matter."
+		},
+		"quantum": {
+			"name": "Quantum",
+			"desc": "Changes the shape of your orbit."
+		},
+		"claw": {
+			"name": "Claw",
+			"desc": "Deals 5x damage when enemy health is over 80%."
+		},
+		"electric_eel_egg": {
+			"name": "Electric Eel Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"thorn": {
+			"name": "Thorn",
+			"desc": "A heated missile which splits"
+		},
+		"blood_scythe": {
+			"name": "Blood Scythe",
+			"desc": "Not just any scythe, its covered in blood and doesnt get weaker"
+		},
+		"eye_egg": {
+			"name": "Eye Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"square": {
+			"name": "Square",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"target_mummy_egg": {
+			"name": "Target Mummy Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"yuan": {
+			"name": "Yuan",
+			"desc": "The currency of the Mainland."
+		},
+		"bitcoin": {
+			"name": "Bitcoin",
+			"desc": "Created by Satoshi Nakamoto."
+		},
+		"dollar": {
+			"name": "Dollar",
+			"desc": "Why can't I use it irl?"
+		},
+		"fries": {
+			"name": "Fries",
+			"desc": "You have 69 missed calls from McDonalds."
+		},
+		"emerald": {
+			"name": "Emerald",
+			"desc": "Gives you more XP from mobs when they are hit with this crystal."
+		},
+		"sapphire": {
+			"name": "Sapphire",
+			"desc": "Makes all your petals of the same rarity drop on the ground."
+		},
+		"candlestick": {
+			"name": "Candlestick",
+			"desc": "It can either heal all your struggles or kill you. Be careful!"
+		},
+		"ruby": {
+			"name": "Ruby",
+			"desc": "Gives lightning the ability to hit the same enemy multiple times."
+		},
+		"diamond": {
+			"name": "Diamond",
+			"desc": "It shatters when broken."
+		},
+		"topaz": {
+			"name": "Topaz",
+			"desc": "Gives you armor."
+		},
+		"citron": {
+			"name": "Citron",
+			"desc": "Increases size of your petals."
+		},
+		"quartz": {
+			"name": "Quartz",
+			"desc": "Gives your petals till the same rarity some chance to skip reload."
+		},
+		"opal": {
+			"name": "Opal",
+			"desc": "Gives all your petals of the same rarity some chance to do extra damage."
+		},
+		"relic": {
+			"name": "Relic",
+			"desc": "Spreads damage between other relic wearers in your squad."
+		},
+		"uranium": {
+			"name": "Uranium",
+			"desc": "A radioactive element that might cause very deadly infections."
+		},
+		"plutonium": {
+			"name": "Plutonium",
+			"desc": "A radioactive element capable of causing very severe burns."
+		},
+		"lithium": {
+			"name": "Lithium",
+			"desc": "Found in your batteries."
+		},
+		"tesla_coil_egg": {
+			"name": "Tesla Coil Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"snail": {
+			"name": "Snail",
+			"desc": "It twirls your orbit."
+		},
+		"snail_egg": {
+			"name": "Snail Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"iodine": {
+			"name": "Iodine",
+			"desc": "Keep your iodine tablets in check hehe."
+		},
+		"chilly": {
+			"name": "Chilly",
+			"desc": "Avoid if you have GERD."
+		},
+		"tomato": {
+			"name": "Tomato",
+			"desc": "It gets stronger over time."
+		},
+		"banana": {
+			"name": "Banana",
+			"desc": "It sticks to its enemies."
+		},
+		"stem_cell": {
+			"name": "Stem Cell",
+			"desc": "It can regenerate your pets till the same rarity when their health falls below 66% or 33%. Affected by Clover."
+		},
+		"stem_cell_egg": {
+			"name": "Stem Cell Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"barrel_egg": {
+			"name": "Barrel Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"acid": {
+			"name": "Acid",
+			"desc": "HCL collected from various stomachs just for the flowers."
+		},
+		"lava": {
+			"name": "Lava",
+			"desc": "Hot molten substance collected from an erupting volcano."
+		},
+		"corium": {
+			"name": "Corium",
+			"desc": "Smuggled from Chernobly Reactor 4..."
+		},
+		"nitrogen": {
+			"name": "Nitrogen",
+			"desc": "Liquid nitrogen. Very chilly, freezes your foes."
+		},
+		"landmine": {
+			"name": "Landmine",
+			"desc": "You can plant these on the ground. Funny thing happens when they step on it hehe"
+		},
+		"blood": {
+			"name": "Blood",
+			"desc": "It tastes metallic."
+		},
+		"rna": {
+			"name": "RNA",
+			"desc": "Makes your pets move faster."
+		},
+		"fan": {
+			"name": "Fan",
+			"desc": "Reduces the pace of your burning."
+		},
+		"graphite": {
+			"name": "Graphite",
+			"desc": "Increases your petals' radioactivity."
+		},
+		"capacitor": {
+			"name": "Capacitor",
+			"desc": "Increases bounces of your lightnings till the same rarity."
+		},
+		"koban": {
+			"name": "Koban",
+			"desc": "Ancient Japanese coin. Keep it safely, very rare!"
+		},
+		"cucumber": {
+			"name": "Cucumber",
+			"desc": "Good for weightloss."
+		},
+		"oxygen": {
+			"name": "Oxygen",
+			"desc": "Increases burn duration of your foes."
+		},
+		"cyanide": {
+			"name": "Cyanide",
+			"desc": "Increases poison duration of the entities it touches."
+		},
+		"fusion": {
+			"name": "Fusion",
+			"desc": "Fuses progenies of the petal right to it till the same rarity into a single stronger petal. For example: If you have Super Fusion and a Super Light right to it with multiple weaker particles, you will get a stronger single Super Light."
+		},
+		"fission": {
+			"name": "Fission",
+			"desc": "Splits the petal right to it till the same rarity into multiple progenies. For example: If you have Super Fission and a Super Cactus placed right to it, you will get 2 weaker Super Cactus. If you have Super Light with 6 progenies, you will have 12 progenies."
+		},
+		"nuke_egg": {
+			"name": "Nuke Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"cross": {
+			"name": "Cross",
+			"desc": "It teleports you to where it falls when you press your RMB."
+		},
+		"digger_egg": {
+			"name": "Digger Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"spider_digger_egg": {
+			"name": "Spider Digger Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"splitter": {
+			"name": "Splitter",
+			"desc": "Splits your petal orbit into multiple orbits. All petals placed right to it go into the new orbit. The effect stacks & using more splitters will split the orbit even more."
+		},
+		"nuke": {
+			"name": "Nuke",
+			"desc": "It creates multiple explosions."
+		},
+		"gunpowder": {
+			"name": "Gunpowder",
+			"desc": "Deals 5x damage when your enemy is burning."
+		},
+		"compass": {
+			"name": "Compass",
+			"desc": "Makes your orbit point towards your line of motion."
+		},
+		"dark_matter": {
+			"name": "Dark Matter",
+			"desc": "Invisible matter that can form gaps in your petal orbit."
+		},
+		"hel_digger_egg": {
+			"name": "Hel Digger Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"glass": {
+			"name": "Glass",
+			"desc": "It does damage every 1 second."
+		},
+		"grave_digger_egg": {
+			"name": "Grave Digger Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"shovel": {
+			"name": "Shovel",
+			"desc": "Lets you go underground and meet worms."
+		},
+		"sandstone_egg": {
+			"name": "Sandstone Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"marble": {
+			"name": "Marble",
+			"desc": "It falls and rolls on ground & does damage every second."
+		},
+		"trident": {
+			"name": "Trident",
+			"desc": "It breaks if someone else yields a higher Trident in the same server."
+		},
+		"bandages": {
+			"name": "Bandages",
+			"desc": "Gotta cover all those wounds. Might be useful with Scythe."
+		},
+		"talisman": {
+			"name": "Talisman",
+			"desc": "Makes your flower evade damage."
+		},
+		"job_application": {
+			"name": "Job Application",
+			"desc": "Makes a mob lose its agro for 5s. Don't waste your talent, apply for fixing pipes rn!"
+		},
+		"termite_overmind_egg": {
+			"name": "Termite Overmind Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"baby_termite_egg": {
+			"name": "Baby Termite Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"worker_termite_egg": {
+			"name": "Worker Termite Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"soldier_termite_egg": {
+			"name": "Soldier Termite Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"termite_hole_egg": {
+			"name": "Termite Hole Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_rose": {
+			"name": "Magic Rose",
+			"desc": "Absorbs the magic from your surroundings."
+		},
+		"magic_leaf": {
+			"name": "Magic Leaf",
+			"desc": "Absorbs the magic from your surroundings."
+		},
+		"magic_cactus": {
+			"name": "Magic Cactus",
+			"desc": "Increases your max health and mana capacity."
+		},
+		"magic_missile": {
+			"name": "Magic Missile",
+			"desc": "Expensive but fast."
+		},
+		"magic_stinger": {
+			"name": "Magic Stinger",
+			"desc": "hurts a lot, but takes a lot of magic to spawn."
+		},
+		"magic_fang": {
+			"name": "Magic Fang",
+			"desc": "Absorbs magic from sufferings."
+		},
+		"magic_blood_stinger": {
+			"name": "Magic Blood Stinger",
+			"desc": "This petal's magic affects its user too."
+		},
+		"magic_wing": {
+			"name": "Magic Wing",
+			"desc": "Flies further and duplicates itself."
+		},
+		"magic_pea": {
+			"name": "Magic Pea",
+			"desc": "Got saturated with violent spells and magic"
+		},
+		"magic_grapes": {
+			"name": "Magic Grapes",
+			"desc": "Dark magic fuels the storm going on inside of these."
+		},
+		"magic_blueberries": {
+			"name": "Magic Blueberries",
+			"desc": "Got cursed to burn forever while being frozen."
+		},
+		"magic_lightning": {
+			"name": "Magic Lightning",
+			"desc": "The magic has increased its ability to seek out targets."
+		},
+		"magic_hel_lightning": {
+			"name": "Magic Hel Lightning",
+			"desc": "The magic has increased its ability to seek out targets, and set them on fire too.."
+		},
+		"magic_usain_bolt": {
+			"name": "Magic Usain Bolt",
+			"desc": "The magic has increased its ability to seek out targets, with extra poison."
+		},
+		"magic_banana": {
+			"name": "Magic Banana",
+			"desc": "A magical banana for a magical monkey."
+		},
+		"magic_mimic": {
+			"name": "Magic Mimic",
+			"desc": "It mimics the petal placed right to it into its magic variant. For example: Super Magic Mimic + Super Rose = Super Magic Rose + Super Rose"
+		},
+		"magic_bomb": {
+			"name": "Magic Bomb",
+			"desc": "Magic turns out to be quite explosive."
+		},
+		"magic_gas_bomb": {
+			"name": "Magic Gas Bomb",
+			"desc": "Magic turns out to be quite explosive, and when mixed with the correct chemicals its toxic too"
+		},
+		"magic_fire_bomb": {
+			"name": "Magic Fire Bomb",
+			"desc": "Magic turns out to be very flammable and even more explosive."
+		},
+		"magic_bubble_bomb": {
+			"name": "Magic Bubble Bomb",
+			"desc": "The powerfull magic gasses create a huge shockwave."
+		},
+		"magic_cryo_bomb": {
+			"name": "Magic Cryo Bomb",
+			"desc": "Using magic the bombs explosion freezes enemies for a long time."
+		},
+		"magic_rocket": {
+			"name": "Magic Rocket",
+			"desc": "Magic turns out to be quite explosive."
+		},
+		"magic_orange": {
+			"name": "Magic Orange",
+			"desc": "These oranges have been cursed to not be orange, theyre magentas now..."
+		},
+		"magic_hemoglobin": {
+			"name": "Magic Hemoglobin",
+			"desc": "Instead of transporting oxygen around your body, it transports magic through your petals"
+		},
+		"holy_water": {
+			"name": "Holy Water",
+			"desc": "Cleanses a mob of its \"sins\" and makes it lose its agro."
+		},
+		"magic_starfish": {
+			"name": "Magic Starfish",
+			"desc": "This magical starfish will only use its magic on those who have under 50% mana"
+		},
+		"magic_square": {
+			"name": "Magic Square",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_sponge": {
+			"name": "Magic Sponge",
+			"desc": "Drains your consumed mana slowly."
+		},
+		"magic_hel_missile": {
+			"name": "Magic Hel Missile",
+			"desc": "Uses more magic to set the missile on fire, permanently."
+		},
+		"magic_viper": {
+			"name": "Magic Viper",
+			"desc": "The missile is made from magic uranium, making it very toxic."
+		},
+		"magic_electron_missile": {
+			"name": "Magic Electron Missile",
+			"desc": "There is a lot of chaotic magic going on inside of this missile."
+		},
+		"magic_scythe": {
+			"name": "Magic Scythe",
+			"desc": "A magical long object which converts all your magic into its damage."
+		},
+		"termite_digger_egg": {
+			"name": "Termite Digger Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_soil": {
+			"name": "Magic Soil",
+			"desc": "Makes you very fat, heavy and able to carry a lot more magic than usual."
+		},
+		"magic_dahlia": {
+			"name": "Magic Dahlia",
+			"desc": "Absorbs magic a lot faster."
+		},
+		"magic_mark": {
+			"name": "Magic Mark",
+			"desc": "Sends a dead lil flower to any random biome using magic."
+		},
+		"magic_cotton": {
+			"name": "Magic Cotton",
+			"desc": "Absorbs damage taken but consumes mana at a fixed rate."
+		},
+		"magic_sunflower": {
+			"name": "Magic Sunflower",
+			"desc": "It falls on ground and gathers magic for you..."
+		},
+		"magic_cutter": {
+			"name": "Magic Cutter",
+			"desc": "Increases your body damage."
+		},
+		"magic_golden_leaf": {
+			"name": "Magic Golden Leaf",
+			"desc": "Reduces magic required to use magic petals."
+		},
+		"magic_battery": {
+			"name": "Magic Battery",
+			"desc": "It stores your mana and repays them back to you with 200% interest after some time."
+		},
+		"magic_bubble": {
+			"name": "Magic Bubble",
+			"desc": "It bursts and boosts you in your line of motion using magic."
+		},
+		"magic_corruption": {
+			"name": "Magic Corruption",
+			"desc": "Makes you corrupt instantly by the power of magic."
+		},
+		"magic_stick": {
+			"name": "Magic Stick",
+			"desc": "It robs magic from other flowers whether friend or foe."
+		},
+		"magic_claw": {
+			"name": "Magic Claw",
+			"desc": "Deals upto 5x damage based on your mana supply. If you have 50% mana, it will deal 2.5x damage and so on."
+		},
+		"magic_marble": {
+			"name": "Magic Marble",
+			"desc": "This marble is already broken, but magic is keeping it together... its just slightly ineffective at doing that."
+		},
+		"magic_salt": {
+			"name": "Magic Salt",
+			"desc": "It reflects damage to all nearby foes using magic, not just the perpetrator."
+		},
+		"magic_relic": {
+			"name": "Magic Relic",
+			"desc": "Spreads magic consumption between other magic relic bearers within your squad."
+		},
+		"shipwreck_egg": {
+			"name": "Shipwreck Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_fire": {
+			"name": "Magic Fire",
+			"desc": "Applies a magical self stacking flame on the enemy."
+		},
+		"magic_gas": {
+			"name": "Magic Gas",
+			"desc": "Injects the enemy with magical self stacking venom."
+		},
+		"magic_yggdrasil": {
+			"name": "Magic Yggdrasil",
+			"desc": "You almost die there, but then it saves you using magic."
+		},
+		"magic_dna": {
+			"name": "Magic DNA",
+			"desc": "Gives you a small chance of turning your Magic pets into Arcane pets & a small chance of increasing your pet rarity like original DNA. Arcane pets are fatter & faster. Affects all eggs till its rarity."
+		},
+		"magic_rock_egg": {
+			"name": "Magic Rock Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_ladybug_egg": {
+			"name": "Magic Ladybug Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_baby_ant_egg": {
+			"name": "Magic Baby Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_soldier_ant_egg": {
+			"name": "Magic Soldier Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"pirate_digger_egg": {
+			"name": "Pirate Digger Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_torch": {
+			"name": "Magic Torch",
+			"desc": "Passively removes frost from your pets."
+		},
+		"palm_tree_egg": {
+			"name": "Palm tree Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"palm_leaf": {
+			"name": "Palm Leaf",
+			"desc": "These great leaves have both healing and shielding capabilities."
+		},
+		"magic_palm_leaf": {
+			"name": "Magic Palm Leaf",
+			"desc": "Apperently a bigger leaf means bigger mana regen also."
+		},
+		"stalagmite_egg": {
+			"name": "Stalagmite Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"arctic_spider_cave_egg": {
+			"name": "Arctic Spider Cave Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"aztec_coin": {
+			"name": "Aztec Coin",
+			"desc": "A magic magic cursed coin for the pirates hehe. Trader gives 3x loot for this."
+		},
+		"beekeeper_egg": {
+			"name": "Beekeeper Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_beekeeper_egg": {
+			"name": "Hel Beekeeper Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"alien_digger_egg": {
+			"name": "Alien Digger Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"attractor": {
+			"name": "Attractor",
+			"desc": "It attracts mobs towards it.."
+		},
+		"soap": {
+			"name": "Soap",
+			"desc": "Increases spill rate of liquid petals. Also an invitation to the Kitty Club."
+		},
+		"magic_bur": {
+			"name": "Magic Bur",
+			"desc": "Decreases enemy armor based on their own body damage."
+		},
+		"magic_rock": {
+			"name": "Magic Rock",
+			"desc": "The magic made it very brittle, will shatter every time it gets hit."
+		},
+		"magic_aztec_coin": {
+			"name": "Magic Aztec Coin",
+			"desc": "A magic magic cursed coin for the pirates hehe. Trader gives 3x loot for this."
+		},
+		"queen_bee_egg": {
+			"name": "Queen Bee Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_queen_bee_egg": {
+			"name": "Hel Queen Bee Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hel_centipede_egg": {
+			"name": "Hel Centipede Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"fire_eel_egg": {
+			"name": "Fire Eel Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"lamprey_eel_egg": {
+			"name": "Lamprey Eel Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"cherry": {
+			"name": "Cherry",
+			"desc": "For some reason its burning."
+		},
+		"frost_digger_egg": {
+			"name": "Frost Digger Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"cube": {
+			"name": "Cube",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_cube": {
+			"name": "Magic Cube",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"white_hole_egg": {
+			"name": "White Hole Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"antimatter": {
+			"name": "Antimatter",
+			"desc": "Very unstable petal, will explode if you die"
+		},
+		"magic_antimatter": {
+			"name": "Magic Antimatter",
+			"desc": "Magic made it even more unstable, will explode every time you get hit"
+		},
+		"stardust": {
+			"name": "Stardust",
+			"desc": "Galactic dust has formed these little radioactive balls"
+		},
+		"magic_stardust": {
+			"name": "Magic Stardust",
+			"desc": "The magic amplifies the radiating nature of this petal"
+		},
+		"singularity": {
+			"name": "Singularity",
+			"desc": "Very heavy, increases your mass."
+		},
+		"magic_singularity": {
+			"name": "Magic Singularity",
+			"desc": "Reduces your size."
+		},
+		"tesseract": {
+			"name": "Tesseract",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_tesseract": {
+			"name": "Magic Tesseract",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"copper_rod": {
+			"name": "Copper Rod",
+			"desc": "It reduces incoming lightning damage."
+		},
+		"magic_copper_rod": {
+			"name": "Magic Copper Rod",
+			"desc": "It absorbs incoming lightning damage like cotton"
+		},
+		"unabomber_egg": {
+			"name": "Unabomber Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"pipe_bomb": {
+			"name": "Pipe Bomb",
+			"desc": "Very strong explosion but has 50% chance of not exploding. Crafted by Ted Kaczynski just for you :3"
+		},
+		"biologist_egg": {
+			"name": "Biologist Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_ice_rose": {
+			"name": "Magic Ice Rose",
+			"desc": "Absorbs a lot of magic from environment by also gives you frost."
+		},
+		"magic_pipe_bomb": {
+			"name": "Magic Pipe Bomb",
+			"desc": "Has 90% chance of causing a really big explosion. Crafted by Ted Kaczynski using magic just for you :p"
+		},
+		"cicada_3301_egg": {
+			"name": "Cicada 3301 Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_nazar": {
+			"name": "Magic Nazar",
+			"desc": "It tanks a few hits on our pets using magic, and then goes on cooldown"
+		},
+		"magic_cherry": {
+			"name": "Magic Cherry",
+			"desc": "The magic had no effect, these are just unripe..."
+		},
+		"shark_egg": {
+			"name": "Shark Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"tooth": {
+			"name": "Tooth",
+			"desc": "A very pointy tooth, restores health when you deal damage using it"
+		},
+		"magic_tooth": {
+			"name": "Magic Tooth",
+			"desc": "A magic tooth which can also drain the enemies mana"
+		},
+		"ink": {
+			"name": "Ink",
+			"desc": "Very viscous... also covers your enemies eyes."
+		},
+		"squid_egg": {
+			"name": "Squid Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"mask": {
+			"name": "Mask",
+			"desc": "It protects you from ZARS-CoV-69 virus. Also reduces its effect."
+		},
+		"magic_yuan": {
+			"name": "Magic Yuan",
+			"desc": "The currency of the Magicland."
+		},
+		"magic_dollar": {
+			"name": "Magic Dollar",
+			"desc": "How many dollars is this one truly worth?"
+		},
+		"magic_bitcoin": {
+			"name": "Magic Bitcoin",
+			"desc": "Created by Satoshi Nakamoto."
+		},
+		"magic_candlestick": {
+			"name": "Magic Candlestick",
+			"desc": "can fully restore your mana, but sometimes even kill thee."
+		},
+		"magic_fries": {
+			"name": "Magic Fries",
+			"desc": "These were fried in blueberry oil"
+		}
+	},
+	"achievements": {
+		"rookie": {
+			"name": "Rookie",
+			"desc": "Play for 15 minutes."
+		},
+		"started": {
+			"name": "Getting started...",
+			"desc": "Play for 1 hour."
+		},
+		"player": {
+			"name": "Average Gamer",
+			"desc": "Play for 6 hours"
+		},
+		"gamer": {
+			"name": "Better Gamer",
+			"desc": "Play for 1 day."
+		},
+		"week": {
+			"name": "twenty-four-seven",
+			"desc": "Play for 7 days."
+		},
+		"month": {
+			"name": "Addicted",
+			"desc": "Play for 30 days."
+		},
+		"year": {
+			"name": "Happy new year!",
+			"desc": "Play for 365 days."
+		},
+		"epic": {
+			"name": "Epic Gamer Moment",
+			"desc": "Collect 1 Epic petal."
+		},
+		"legendary": {
+			"name": "Logandary",
+			"desc": "Collect 1 Legendary petal."
+		},
+		"mythic": {
+			"name": "The Myths Are Real",
+			"desc": "Collect 1 Mythic petal."
+		},
+		"ultra": {
+			"name": "Above the normies",
+			"desc": "Collect a ultra petal."
+		},
+		"super": {
+			"name": "super pro",
+			"desc": "COllect 5 super petals."
+		},
+		"omega": {
+			"name": "OMEGA!!!!!",
+			"desc": "Collect an omega petal."
+		},
+		"medic": {
+			"name": "Medic",
+			"desc": "Revive someone using a Yggdrasil."
+		},
+		"surgeon": {
+			"name": "Surgeon",
+			"desc": "Revive 25 flowers using Yggdrasil."
+		},
+		"angel": {
+			"name": "Angel",
+			"desc": "Revive 250 flowers using Yggdrasil."
+		},
+		"god": {
+			"name": "An omnipotent",
+			"desc": "Encounter an admin."
+		},
+		"killer": {
+			"name": "Killer",
+			"desc": "Kill 25 players using corruption."
+		},
+		"genocide": {
+			"name": "Genocide",
+			"desc": "Kill 250 mobs"
+		},
+		"massacre": {
+			"name": "Massacre",
+			"desc": "Kill 2500 mobs"
+		},
+		"holocaust": {
+			"name": "Halocaust",
+			"desc": "Kill 10,000 mobs"
+		},
+		"solo": {
+			"name": "Solo",
+			"desc": "Kill a Super+ mob with over 75% damage."
+		},
+		"money": {
+			"name": "Money well spent",
+			"desc": "Puchase stars from shop."
+		},
+		"makeup": {
+			"name": "Makeup Artist",
+			"desc": "Buy a skin from shop."
+		},
+		"chat": {
+			"name": "Not Very Talkative",
+			"desc": "Send a chat message."
+		},
+		"china": {
+			"name": "CHINA NUMBER 1!!",
+			"desc": "Say 'China Number 1' in chat 10 times."
+		},
+		"nazar": {
+			"name": "The Nazar Beetles",
+			"desc": "Destroy 5 Ultra+ Nazar Beetles."
+		},
+		"baby": {
+			"name": "Baby Oil",
+			"desc": "Destroy 5 Ultra+ Baby Ants."
+		},
+		"jeet": {
+			"name": "Top Jeet",
+			"desc": "Obtain a Super+ Bugatti."
+		},
+		"clown": {
+			"name": "Clown",
+			"desc": "Transform into a clown."
+		},
+		"covid": {
+			"name": "Covid-69",
+			"desc": "Destroy 20 Ultra+ Virus."
+		},
+		"useless": {
+			"name": "Useless",
+			"desc": "Get drops from 5 Super+ mobs without doing any damage to it."
+		},
+		"cicada": {
+			"name": "Cicada 3301",
+			"desc": "Destroy 10 Ultra+ Cicada."
+		},
+		"slaughter": {
+			"name": "Mass slaughter",
+			"desc": "Kill 50,000 mobs"
+		},
+		"annihilation": {
+			"name": "Annihilation",
+			"desc": "Kill 250,000 mobs"
+		},
+		"destruction": {
+			"name": "The End Of The World",
+			"desc": "Kill 10,000,000 mobs"
+		},
+		"racist": {
+			"name": "Racist",
+			"desc": "Kill 25,000 mobs of a kind"
+		},
+		"murder": {
+			"name": "Murder",
+			"desc": "Kill a player using corruption."
+		},
+		"homicide": {
+			"name": "homicide",
+			"desc": "Kill 500 players using corruption. Very mean."
+		},
+		"level50": {
+			"name": "Level up!",
+			"desc": "Reach level 50"
+		},
+		"level100": {
+			"name": "Getting better",
+			"desc": "Reach level 100"
+		},
+		"level150": {
+			"name": "Almost pro",
+			"desc": "Reach level 150"
+		},
+		"level200": {
+			"name": "Pro!",
+			"desc": "Reach level 200"
+		},
+		"level250": {
+			"name": "Nolife",
+			"desc": "Reach level 250"
+		},
+		"level300": {
+			"name": "The absolute best",
+			"desc": "Reach level 300"
+		},
+		"cursed": {
+			"name": "This one looks weird...",
+			"desc": "Kill a cursed mob. They are 1 in 2000."
+		},
+		"cursed2": {
+			"name": "Who cursed them?",
+			"desc": "Kill 25 cursed mobs."
+		},
+		"shiny": {
+			"name": "Ooh shiny!",
+			"desc": "Kill a shiny mob. They are 1 in 10000."
+		},
+		"shiny2": {
+			"name": "Seeing stars...",
+			"desc": "Kill 25 shiny mobs."
+		},
+		"corrupt": {
+			"name": "Broken code",
+			"desc": "Kill a corrupt mob. They are 1 in 50000."
+		},
+		"corrupt2": {
+			"name": "Error420",
+			"desc": "Kill 25 corrupt mobs."
+		}
+	},
+	"skins": {
+		"derp": {
+			"name": "Derp",
+			"desc": "There is not a single thought between those eyes"
+		},
+		"cursed": {
+			"name": "Cursed",
+			"desc": "Has been corrupted by some higher forces"
+		},
+		"square": {
+			"name": "Square",
+			"desc": "What is this foregin shape"
+		},
+		"lifeless": {
+			"name": "Lifeless",
+			"desc": "... where did the face go"
+		},
+		"sun": {
+			"name": "Sun",
+			"desc": "Here comes the sun"
+		},
+		"radioactive": {
+			"name": "Radioactive",
+			"desc": "Likes eating uranium ore"
+		},
+		"blended": {
+			"name": "Blended",
+			"desc": "Got face surgery on temu"
+		},
+		"cactus": {
+			"name": "Cactus",
+			"desc": "Not really a flower, is it"
+		},
+		"ghost": {
+			"name": "Ghost",
+			"desc": "Not very spooky"
+		},
+		"cyclops": {
+			"name": "Cyclops",
+			"desc": "where did the other eyes go"
+		},
+		"angled": {
+			"name": "Angled",
+			"desc": "Its Tilting its head, if thats even possible"
+		},
+		"small_face": {
+			"name": "Small face",
+			"desc": "Does it have a small face or a big body?"
+		},
+		"frozen": {
+			"name": "Frozen",
+			"desc": "Let it go, let it gooo"
+		},
+		"omega_flowey": {
+			"name": "Omega flowey",
+			"desc": "Pink skin"
+		},
+		"star2": {
+			"name": "Star2",
+			"desc": "You bought 1 star for 7500 stars, worth it."
+		},
+		"red_star": {
+			"name": "Red Star",
+			"desc": "Very interesting patterns."
+		},
+		"clover": {
+			"name": "Clover",
+			"desc": "Lucky!"
+		},
+		"rocker": {
+			"name": "Rocker",
+			"desc": "This skin rocks!"
+		},
+		"dark_mode": {
+			"name": "Dark mode",
+			"desc": "Who turned off the lights"
+		},
+		"megamind": {
+			"name": "Megamind",
+			"desc": "Hes thinking"
+		},
+		"pentagon": {
+			"name": "Pentagon",
+			"desc": "An even more unknown shape"
+		},
+		"mouse": {
+			"name": "Mouse",
+			"desc": "How does it even use petals"
+		},
+		"one_eye": {
+			"name": "One eye",
+			"desc": "Third eye downgrade."
+		},
+		"complex": {
+			"name": "Complex",
+			"desc": "Very spiky, very unnatural"
+		},
+		"emotional": {
+			"name": "Emotional",
+			"desc": "Gets very angry and very sad."
+		},
+		"herobrine": {
+			"name": "Herobrine",
+			"desc": "Thought we removed him..."
+		},
+		"womp": {
+			"name": "Womp",
+			"desc": "Is having a moodswing."
+		},
+		"microsoft_paint_flower": {
+			"name": "Microsoft Paint Flower",
+			"desc": "Who drew this? a 5 yea old??"
+		},
+		"50_shades_of_flower": {
+			"name": "50 Shades of Flower",
+			"desc": "Someone should make a movie about this..."
+		},
+		"negative": {
+			"name": "Negative",
+			"desc": "Alternate reality flower."
+		},
+		"smirk": {
+			"name": "Smirk",
+			"desc": "Freaky aah flower."
+		},
+		"boba": {
+			"name": "Boba",
+			"desc": "doesnt explode upon death."
+		},
+		"sawblade": {
+			"name": "Sawblade",
+			"desc": "Ouch! Spiky."
+		},
+		"yellow": {
+			"name": "Yellow",
+			"desc": "It is yellow asf"
+		},
+		"rock": {
+			"name": "Rock",
+			"desc": "A pebble from the sea"
+		},
+		"boo": {
+			"name": "Boo",
+			"desc": "Scary, ain't it?"
+		},
+		"sus": {
+			"name": "Sus",
+			"desc": "Octosus"
+		},
+		"pacman": {
+			"name": "Pacman",
+			"desc": "Do not DMCA us pls."
+		},
+		"chicken": {
+			"name": "Chicken",
+			"desc": "Lays anti-gravity egg-shaped chicken eggs."
+		},
+		"black": {
+			"name": "Black",
+			"desc": "From Africa"
+		},
+		"egg": {
+			"name": "Egg",
+			"desc": "Laid by an alien ckicken, cooked by us."
+		},
+		"retard": {
+			"name": "Retard",
+			"desc": "lol"
+		},
+		"trader": {
+			"name": "Trader",
+			"desc": "Trades humans."
+		},
+		"clover2": {
+			"name": "Clover2",
+			"desc": "4chan?"
+		},
+		"zatan": {
+			"name": "Zatan",
+			"desc": "Red and black sussy spikes."
+		},
+		"amogus": {
+			"name": "Amogus",
+			"desc": "An imposter."
+		},
+		"brain_damage": {
+			"name": "Brain Damage",
+			"desc": "Developer skin??? WTF???"
+		},
+		"cactuser": {
+			"name": "Cactuser",
+			"desc": "A desert plant."
+		},
+		"sad": {
+			"name": "Sad",
+			"desc": "Very very sad."
+		},
+		"cake": {
+			"name": "Cake",
+			"desc": "Happy birthday!"
+		},
+		"green": {
+			"name": "Green",
+			"desc": "Yoba easter egg?"
+		},
+		"magma": {
+			"name": "Magma",
+			"desc": "Taken from an active volcano"
+		},
+		"derper": {
+			"name": "Derper",
+			"desc": "Developer skin 2??? WTF???"
+		},
+		"target_dummy": {
+			"name": "Target Dummy",
+			"desc": "Emotionless asf."
+		},
+		"mark": {
+			"name": "Mark",
+			"desc": "See you in Hel for the sequel."
+		},
+		"frog": {
+			"name": "Frog",
+			"desc": "Pepe the frog."
+		},
+		"goo": {
+			"name": "Goo",
+			"desc": "White goo is odd."
+		},
+		"rectus": {
+			"name": "Rectus",
+			"desc": "Red + Cactus = Rectus"
+		},
+		"oval": {
+			"name": "Oval",
+			"desc": "Not an oval"
+		},
+		"cute": {
+			"name": "Cute",
+			"desc": "Cutie patootie."
+		},
+		"omegasus": {
+			"name": "Omegasus",
+			"desc": "Blue seems kinda sus."
+		},
+		"star": {
+			"name": "Star",
+			"desc": "A star of the night sky. "
+		},
+		"rockstar": {
+			"name": "Rockstar",
+			"desc": "Looks more like the petal."
+		},
+		"ufo": {
+			"name": "UFO",
+			"desc": "Has aliens inside it."
+		},
+		"red_spikes": {
+			"name": "Red Spikes",
+			"desc": "It hurts. "
+		},
+		"sponge": {
+			"name": "Sponge",
+			"desc": "Washes the dishes."
+		},
+		"hexagon": {
+			"name": "Hexagon",
+			"desc": "Just a regular polygon."
+		},
+		"mech": {
+			"name": "Mech",
+			"desc": "Mechanical flower."
+		},
+		"lightning": {
+			"name": "Lightning",
+			"desc": "Strike!"
+		},
+		"inverted": {
+			"name": "Inverted",
+			"desc": "Flipped asf."
+		},
+		"poo": {
+			"name": "Poo",
+			"desc": "Poopy skin."
+		},
+		"sea_urchin": {
+			"name": "Sea Urchin",
+			"desc": "i forgor :skull:"
+		},
+		"long": {
+			"name": "Long",
+			"desc": "Side-effect of hydraulic press."
+		},
+		"blue": {
+			"name": "Blue",
+			"desc": "Goofy asf"
+		},
+		"right-angle": {
+			"name": "Right-Angle",
+			"desc": "You are rotated by 90 degrees."
+		},
+		"facist": {
+			"name": "Facist",
+			"desc": "Black & White asf."
+		},
+		"faster": {
+			"name": "Faster",
+			"desc": "Sussy expressions."
+		},
+		"amobae": {
+			"name": "Amobae",
+			"desc": "Micro-organism"
+		},
+		"melon": {
+			"name": "Melon",
+			"desc": "cocomelon"
+		},
+		"ant_hole": {
+			"name": "Ant Hole",
+			"desc": "The hole of an ant"
+		},
+		"eye": {
+			"name": "Eye",
+			"desc": "The all seeing eye of Flouron"
+		},
+		"roach": {
+			"name": "Roach",
+			"desc": "Cockroach"
+		},
+		"lava": {
+			"name": "Lava",
+			"desc": "9999°C moment"
+		},
+		"rose": {
+			"name": "Rose",
+			"desc": "A beautiful little flower"
+		},
+		"stupid": {
+			"name": "Stupid",
+			"desc": "It looks kinda stoopid"
+		},
+		"barbie": {
+			"name": "Barbie",
+			"desc": "Girly"
+		},
+		"virus": {
+			"name": "Virus",
+			"desc": "Very contagious"
+		},
+		"slanted": {
+			"name": "Slanted",
+			"desc": ":/"
+		},
+		"wloop": {
+			"name": "Wloop",
+			"desc": "We don't know what this really is..."
+		},
+		"ara_ara": {
+			"name": "Ara Ara",
+			"desc": "Cute lil flower"
+		},
+		"sirius": {
+			"name": "Sirius",
+			"desc": "Brightest star in the sky"
+		},
+		"acid": {
+			"name": "Acid",
+			"desc": "Won't cause burns..."
+		},
+		"dark": {
+			"name": "Dark",
+			"desc": "Exremely dark substance."
+		},
+		"nazar": {
+			"name": "Nazar",
+			"desc": "🧿🧿🧿🧿🧿"
+		},
+		"omega": {
+			"name": "Omega",
+			"desc": "The Last Rarity"
+		},
+		"goof": {
+			"name": "Goof",
+			"desc": "Appears pretty goofy..."
+		},
+		"flower": {
+			"name": "Flower",
+			"desc": "A flower for a flower"
+		},
+		"banana": {
+			"name": "Banana",
+			"desc": "A long fruit"
+		},
+		"potato": {
+			"name": "Potato",
+			"desc": "Fiberous"
+		},
+		"urchin": {
+			"name": "Urchin",
+			"desc": "Taken from the sea"
+		},
+		"fq69": {
+			"name": "fq69",
+			"desc": "Pink"
+		},
+		"gren": {
+			"name": "Gren",
+			"desc": "Touch grass"
+		},
+		"zurchin": {
+			"name": "Zurchin",
+			"desc": "Better looking sea urchin"
+		},
+		"bacteria": {
+			"name": "Bacteria",
+			"desc": "Stolen from the microscopic world"
+		},
+		"florr": {
+			"name": "Florr",
+			"desc": "A real florr"
+		},
+		"alien": {
+			"name": "Alien",
+			"desc": "Extra-terrestial moment"
+		},
+		"avacado": {
+			"name": "Avacado",
+			"desc": "A fruit"
+		},
+		"clown": {
+			"name": "Clown",
+			"desc": "Killer clown."
+		},
+		"baby_ant": {
+			"name": "Baby Ant",
+			"desc": "Diddy's Baby Ant"
+		},
+		"reddit": {
+			"name": "Reddit",
+			"desc": "quality reddit logo moment"
+		},
+		"wtf": {
+			"name": "WTF",
+			"desc": "i have no clue what this is"
+		},
+		"zatrix": {
+			"name": "Zatrix",
+			"desc": "A flower from the matrix"
+		},
+		"inception": {
+			"name": "Inception",
+			"desc": "Eye-ception"
+		},
+		"yin_yang": {
+			"name": "Yin Yang",
+			"desc": "69"
+		},
+		"angey": {
+			"name": "Angey",
+			"desc": "Angry Bird"
+		},
+		"blocked": {
+			"name": "Blocked",
+			"desc": "NO ENTRY!"
+		},
+		"stewie": {
+			"name": "Stewie",
+			"desc": "Straight face"
+		},
+		"face": {
+			"name": "Face",
+			"desc": "A human head."
+		},
+		"peanut": {
+			"name": "Peanut",
+			"desc": "2 balls raymarched just for you."
+		},
+		"balls": {
+			"name": "Balls",
+			"desc": "OwO"
+		},
+		"tear": {
+			"name": "Tear",
+			"desc": "Drips blood from the eye."
+		},
+		"bigtus": {
+			"name": "Bigtus",
+			"desc": "It's a big ahh cactus."
+		},
+		"stick": {
+			"name": "Stick",
+			"desc": "It broke and fell from a tree."
+		},
+		"worm": {
+			"name": "Worm",
+			"desc": "A long worm"
+		},
+		"relic": {
+			"name": "Relic",
+			"desc": "A gem dealer's contraband"
+		},
+		"tredor": {
+			"name": "Tredor",
+			"desc": "nub trader"
+		},
+		"onion": {
+			"name": "Onion",
+			"desc": "Purchased using Tor :p"
+		},
+		"titan": {
+			"name": "Titan",
+			"desc": "Zeren Zeager"
+		},
+		"a-60": {
+			"name": "A-60",
+			"desc": "A bomb carrier"
+		},
+		"dwajl": {
+			"name": "Dwajl",
+			"desc": "Made by Dwajl"
+		},
+		"glitch": {
+			"name": "Glitch",
+			"desc": "Zyberpunk flower"
+		},
+		"bird": {
+			"name": "Bird",
+			"desc": "Ted likes birds"
+		},
+		"moon": {
+			"name": "Moon",
+			"desc": "When the summer solstice has a full moon..."
+		},
+		"umbrella": {
+			"name": "Umbrella",
+			"desc": "The red Queen made this one."
+		},
+		"heavy": {
+			"name": "Heavy",
+			"desc": "Heavier than your mama"
+		},
+		"yoba": {
+			"name": "Yoba",
+			"desc": "Russian moment"
+		},
+		"pinkman": {
+			"name": "Pinkman",
+			"desc": "*giggles*"
+		},
+		"floren": {
+			"name": "Floren",
+			"desc": "Nice pattern"
+		},
+		"moss": {
+			"name": "Moss",
+			"desc": "Fat"
+		},
+		"blades": {
+			"name": "Blades",
+			"desc": "Really really long blades..."
+		},
+		"godrays": {
+			"name": "Godrays",
+			"desc": "Rays of the Sun."
+		},
+		"beam": {
+			"name": "Beam",
+			"desc": "God rays that are very good for trolling uwu"
+		},
+		"griffin": {
+			"name": "Griffin",
+			"desc": "Much bigger & troll worthy than you would think..."
+		}
+	},
+	"objectKeys": {
+		"health": "Health",
+		"damage": "Damage",
+		"boost": "Boost",
+		"swing": "Swing",
+		"heal": "Heal",
+		"passiveHeal": "Passive Heal",
+		"passiveHealBelow50": "Passive Heal",
+		"passivePetHeal": "Passive Pet Heal",
+		"shield": "Shield",
+		"passiveShield": "Passive Shield",
+		"poison": "Poison",
+		"orbitSpeed": "Orbit Speed",
+		"lightningDamage": "Lightning Damage",
+		"lightningFireDamage": "Lightning Fire Damage",
+		"lightningPoison": "Lightning Poison",
+		"lightningBounces": "Lightning Bounces",
+		"webSize": "Web Size",
+		"explosion": "Explosion",
+		"explosionSize": "Explosion Size",
+		"explosionPoison": "Explosion Poison",
+		"explosionFire": "Explosion Fire",
+		"pickRange": "Pick Range",
+		"damageReflection": "Damage Reflection",
+		"extraVision": "Extra Vision",
+		"extraRange": "Extra Range",
+		"despawnTime": "Despawn Time",
+		"pet": "Pet",
+		"petSize": "Pet Size",
+		"passiveBoost": "Passive Boost",
+		"push": "Push",
+		"armor": "Armor",
+		"extraFlowerHealth": "Extra Flower Health",
+		"flowerPoison": "Flower Poison",
+		"slownessTime": "Slowness Time",
+		"soakDamageTime": "Soak Damage Time",
+		"honeyRange": "Honey Range",
+		"honeyTileDamage": "Honey Tile Damage",
+		"honeyTilePoison": "Honey Tile Poison",
+		"honeyTileFire": "Honey Tile Fire",
+		"sendToBiome": "Send To Biome",
+		"flowerReloadFactor": "Flower Reload Factor",
+		"armorDebuff": "Armor Debuff",
+		"flowerSpeed": "Flower Speed",
+		"fireDamage": "Fire Damage",
+		"firePoison": "Fire Poison",
+		"fireTime": "Fire Time",
+		"flowerAcceleration": "Flower Acceleration",
+		"agroRangeReduction": "Agro Range Reduction",
+		"agroRangeIncrease": "Agro Range Increase",
+		"extraFlowerKnock": "Extra Flower Knock",
+		"damageHealed": "Damage Healed",
+		"selfDamage": "Self Damage",
+		"selfFireDamage": "Self Fire Damage",
+		"flowerBodyLightning": "Flower Body Lightning",
+		"freezeTime": "Freeze Time",
+		"explosionFreezeTime": "Explosion Freeze Time",
+		"explosionKnockback": "Explosion Knockback",
+		"luck": "Luck",
+		"frost": "Frost",
+		"defrost": "Defrost",
+		"tempFlowerSpeed": "Temp Flower Speed",
+		"tempFlowerSpeedFactor": "Temp Flower Speed Factor",
+		"subdivisionRates": "Subdivision Rates",
+		"cureCancer": "Cure Cancer",
+		"petMutation": "Pet Mutation",
+		"passivePetalHeal": "Passive Petal Heal",
+		"healBuff": "Heal Buff",
+		"shieldBuff": "Shield Buff",
+		"poisonReduction": "Poison Reduction",
+		"fireReduction": "Fire Reduction",
+		"cancer": "Cancer",
+		"orbit": "Orbit",
+		"boostUpwards": "Boost Upwards",
+		"pullReduction": "Pull Reduction",
+		"mobXpFactor": "Mob Xp Factor",
+		"fullHealRate": "Full Heal Rate",
+		"fullManaRegenRate": "Full Mana Regen Rate",
+		"extraPetalSize": "Extra Petal Size",
+		"flowerArmor": "Flower Armor",
+		"petalCritical": "Petal Critical",
+		"petalReloadSkipRate": "Petal Reload Skip Rate",
+		"blockDamage": "Block Damage",
+		"petBlockDamage": "Pet Block Damage",
+		"spreadDamage": "Spread Damage",
+		"radiationRange": "Radiation Range",
+		"radiationPoison": "Radiation Poison",
+		"radiationFire": "Radiation Fire",
+		"radiationHeal": "Radiation Heal",
+		"radiationLightningDamage": "Radiation Lightning Damage",
+		"radiationLightningBounces": "Radiation Lightning Bounces",
+		"orbitTwirl": "Orbit Twirl",
+		"growth": "Growth",
+		"growthTime": "Growth Time",
+		"petFullRegenRate": "Pet Full Regen Rate",
+		"spillRate": "Spill Rate",
+		"extraPetSpeed": "Extra Pet Speed",
+		"petSpeedReduction": "Pet Speed Reduction",
+		"fireSpeedFactor": "Fire Speed Factor",
+		"extraLightningBounces": "Extra Lightning Bounces",
+		"extraRadiationRange": "Extra Radiation Range",
+		"extraFireDuration": "Extra Fire Duration",
+		"extraPoisonDuration": "Extra Poison Duration",
+		"subExplosions": "Sub Explosions",
+		"lightningMultiHitRate": "Lightning Multi Hit Rate",
+		"orbitRangeFactor": "Orbit Range Factor",
+		"flowerEvasion": "Flower Evasion",
+		"fragmentDamage": "Fragment Damage",
+		"fragmentHealth": "Fragment Health",
+		"extraSpillRate": "Extra Spill Rate",
+		"armorDebuffPercent": "Armor Debuff Percent",
+		"flowerExplosion": "Flower Explosion",
+		"flowerExplosionSize": "Flower Explosion Size",
+		"extraFlowerMass": "Extra Flower Mass",
+		"extraFlowerSize": "Extra Flower Size",
+		"flowerSizeReduction": "Flower Size Reduction",
+		"lightningReduction": "Lightning Reduction",
+		"mobAgroRangeReduction": "Mob Agro Range Reduction",
+		"detox": "Detox",
+		"mana": "Mana",
+		"passiveMana": "Passive Mana",
+		"passiveManaOnGround": "Passive Mana",
+		"extraFlowerMana": "Extra Flower Mana",
+		"damageMana": "Damage Mana",
+		"manaBuff": "Mana Buff",
+		"passiveManaBelow50": "Passive Mana",
+		"soakManaTime": "Soak Mana Time",
+		"maxManaSoakCapacity": "Max Mana Soak Capacity",
+		"damageAbosrbedPerMana": "Damage Absorbed",
+		"manaCostReduction": "Mana Cost Reduction",
+		"robMana": "Rob Mana",
+		"spreadMana": "Spread Mana",
+		"petVariantMutation": "Pet Variant Mutation",
+		"bodyLightning": "Body Lightning",
+		"bodyLightningFire": "Body Lightning Fire",
+		"bodyLightningPoison": "Body Lightning Poison",
+		"healAffectTime": "Heal Affect Time",
+		"missileHealth": "Missile Health",
+		"missileDamage": "Missile Damage",
+		"missilePoison": "Missile Poison",
+		"missileHealAffectTime": "Missile Heal Affect Time",
+		"missileArmorDebuff": "Missile Armor Debuff",
+		"missileExplosion": "Missile Explosion",
+		"bodyFireDamage": "Body Fire Damage",
+		"evasion": "Evasion",
+		"sprayHealth": "Spray Health",
+		"sprayDamage": "Spray Damage",
+		"sprayFireDamage": "Spray Fire Damage",
+		"telepathicDamage": "Telepathic Damage",
+		"telepathicPoison": "Telepathic Poison",
+		"telepathicLightningDamage": "Telepathic Lightning Damage",
+		"healNearby": "Heal Nearby",
+		"damageGrowth": "Damage Growth",
+		"infectionTime": "Infection Time",
+		"#Controls": "# Controls",
+		"keyboardControls": "Keyboard Controls",
+		"movementHelper": "Movement Helper",
+		"invertAttackButton": "Invert Attack Button",
+		"invertDefendButton": "Invert Defend Button",
+		"#Chat": "# Chat",
+		"showChat": "Show Chat",
+		"showUserChats": "Show User Chats",
+		"showDropLogs": "Show Drop Logs",
+		"showBlocked": "Show Blocked",
+		"#Game": "# Game",
+		"showHitbox": "Show Hitbox",
+		"showGrid": "Show Grid",
+		"showDps": "Show Dps",
+		"potatoHardware": "Potato Hardware",
+		"badwordFilter": "Badword Filter",
+		"showMobLeaderboard": "Show Mob Leaderboard",
+		"autoJoinSquads": "Auto Join Squads",
+		"showDebugInfo": "Show Debug Info",
+		"showIndicators": "Show Indicators",
+		"#Visuals": "# Visuals",
+		"showRarities": "Show Rarities",
+		"showCraftBubble": "Show Craft Bubble",
+		"showOtherPetals": "Show Other Petals",
+		"showParticles": "Show Particles",
+		"showDamage": "Show Damage",
+		"showDamageFlash": "Show Damage Flash",
+		"showHealthBar": "Show Health Bar",
+		"showPetHealthBar": "Show Pet Health Bar",
+		"showHealth": "Show Health",
+		"showExplosion": "Show Explosion",
+		"showLightning": "Show Lightning",
+		"showRadiation": "Show Radiation",
+		"abbreviateDps": "Abbreviate Dps",
+		"fixedHudSize": "Fixed Hud Size",
+		"screenShake": "Screen Shake",
+		"antiAliasing": "Anti Aliasing",
+		"showText": "Show Text",
+		"effect3d": "3D Effect",
+		"showIcons": "Show Icons",
+		"#Indicators": "# Indicators",
+		"indicatorPoison": "Poison",
+		"indicatorFire": "Fire",
+		"indicatorSlowness": "Slowness",
+		"indicatorDandelion": "Dandelion",
+		"indicatorSponge": "Sponge",
+		"indicatorCancer": "Cancer",
+		"indicatorCoffee": "Coffee",
+		"indicatorChilly": "Chilly",
+		"indicatorFrost": "Frost",
+		"indicatorMagicSponge": "Magic Sponge",
+		"indicatorInfection": "Infection",
+		"indicatorDropBuff": "Drop Buff",
+		"xp": "Xp",
+		"timeJoined": "Time Joined",
+		"stars": "Stars",
+		"timePlayed": "Time Played",
+		"gamesPlayed": "Games Played",
+		"mobsKilled": "Mobs Killed",
+		"playersKilled": "Players Killed",
+		"petalsPicked": "Petals Picked",
+		"petalsCrafted": "Petals Crafted",
+		"petalsBurned": "Petals Burned",
+		"challengesCompleted": "Challenges Completed",
+		"chatSent": "Chat Sent",
+		"maxScore": "Max Score",
+		"maxTimeAlive": "Max Time Alive",
+		"maxMobsKilled": "Max Mobs Killed",
+		"maxPetalsPicked": "Max Petals Picked",
+		"dailyPlaytime": "Daily Playtime",
+		"maxDailyPlaytime": "Max Daily Playtime",
+		"maxStreak": "Max Streak"
+	},
+	"commands": {
+		"kill": {
+			"desc": "Kills a player."
+		},
+		"afk": {
+			"desc": "Gives AFK challenge to a user."
+		},
+		"mana": {
+			"desc": "Sets passive mana generation."
+		},
+		"user_petal_drops": {
+			"desc": "Displays total petals dropped in a day."
+		},
+		"user_petal_dps": {
+			"desc": "Displays total petals dropped in a day."
+		},
+		"whisper": {
+			"desc": "Sends a private message to a player."
+		},
+		"tp_random": {
+			"desc": "Teleports you to a random player."
+		},
+		"user_pass": {
+			"desc": "Gets user password."
+		},
+		"squad_code": {
+			"desc": "Displays and copies your current squad code."
+		},
+		"petal_reload": {
+			"desc": "Sets petal reload factor."
+		},
+		"petal_damage": {
+			"desc": "Sets petal damage factor."
+		},
+		"guild_transfer_owner": {
+			"desc": "Transfers guild ownership."
+		},
+		"guild_name": {
+			"desc": "Sets the name of your guild."
+		},
+		"guild": {
+			"desc": "Sends a chat message to guild members only across all servers."
+		},
+		"squad": {
+			"desc": "Sends a chat message to squad only."
+		},
+		"new_squad": {
+			"desc": "Creates a new squad."
+		},
+		"leave_squad": {
+			"desc": "Leave your current squad."
+		},
+		"join_squad": {
+			"desc": "Join a squad using a code."
+		},
+		"find_public_squad": {
+			"desc": "Finds a public squad"
+		},
+		"set_squad_public": {
+			"desc": "Makes your squad public."
+		},
+		"set_squad_private": {
+			"desc": "Makes your squad private."
+		},
+		"client_speed": {
+			"desc": "Sets the client time scale factor."
+		},
+		"yay": {
+			"desc": "Yayvideogames easter egg moment."
+		},
+		"cicada": {
+			"desc": "ASCII post effect moment"
+		},
+		"server_times": {
+			"desc": "Shows the total time players have spent in a server."
+		},
+		"claim": {
+			"desc": "Claims daily streak rewards & stars drop buffs."
+		},
+		"report": {
+			"desc": "Reports a user for chat toxicity."
+		},
+		"block": {
+			"desc": "Blocks a user from chat."
+		},
+		"unblock": {
+			"desc": "Unblocks a user from chat."
+		},
+		"unblock_all": {
+			"desc": "Unlocks all blocked users from chat."
+		},
+		"gen_egg": {
+			"desc": "Generates egg reloads. petCount is how many mobs the egg should spawn. Power is a strength value given to the pet mob. If the power is very high, egg will have large reloads and vice-versa. MinUseTime is the minimum hatch time to increase the rarity of the spawned pet. If hatch time goes below that, rarity of the pet is increased. In simpler words, if the cutoff is large, eggs will very easily spawn high rarity pets."
+		},
+		"spin_speed": {
+			"desc": "Sets your flower's spin speed."
+		},
+		"mob_gif": {
+			"desc": "Renders GIF for a mob."
+		},
+		"petal_power": {
+			"desc": "Displays auto computed petal powers. Might not be accurate."
+		},
+		"global_user_list": {
+			"desc": "Displays globally online users."
+		},
+		"user_petal_purchases": {
+			"desc": "Lets you see total petals purchased by users."
+		},
+		"petal_usage": {
+			"desc": "Displays petal usage."
+		},
+		"edit_petals": {
+			"desc": "Lets you modify petals."
+		},
+		"lang": {
+			"desc": "Let's you set a custom lanuage file for the game. Not fully implementd."
+		},
+		"give_all": {
+			"desc": "Gives all petals of a rarity."
+		},
+		"run_on_join": {
+			"desc": "Runs the commands when you join as an admin. Separate by comma."
+		},
+		"stars": {
+			"desc": "Gives you stars."
+		},
+		"skin": {
+			"desc": "Gives you a skin"
+		},
+		"portal": {
+			"desc": "Creates a portal."
+		},
+		"del_portal": {
+			"desc": "Creates a portal."
+		},
+		"mute": {
+			"desc": "Mutes a user."
+		},
+		"unmute": {
+			"desc": "Unmutes a user."
+		},
+		"ban": {
+			"desc": "Bans a user."
+		},
+		"unban": {
+			"desc": "Unbans a user."
+		},
+		"kick": {
+			"desc": "Kicks a user."
+		},
+		"user_petals": {
+			"desc": "Displays global petal gallery."
+		},
+		"user_mobs": {
+			"desc": "Displays global mob gallery."
+		},
+		"user_equipped_petals": {
+			"desc": "Displays global equipped petal gallery."
+		},
+		"user_mob_deaths": {
+			"desc": "Displays global mob player deaths."
+		},
+		"diff_rates": {
+			"desc": "Displays difficulty rarity rates."
+		},
+		"restart": {
+			"desc": "Restarts server."
+		},
+		"wipe": {
+			"desc": "Wipes your inventory"
+		},
+		"profile": {
+			"desc": "Requests profile of a person"
+		},
+		"tickrate": {
+			"desc": "Sets server update rate. Default is 20 times per second."
+		},
+		"lerp": {
+			"desc": "Sets interpolation delay. Default is 100ms."
+		},
+		"drop": {
+			"desc": "Drops a petal."
+		},
+		"petal_icon": {
+			"desc": "Renders icon for a petal."
+		},
+		"mob_icon": {
+			"desc": "Renders icon for a mob."
+		},
+		"petal_size": {
+			"desc": "Sets your petal size factor. Default is 1."
+		},
+		"orbit": {
+			"desc": "Changes trajectory of your petal orbit. Do \"/orbit reset\" to revert back to circular orbit. Shape params are optional but you can pass them like \"/orbit 3 5 18 18\"."
+		},
+		"reset": {
+			"desc": "Kills all mobs & projectiles."
+		},
+		"wall_thickness": {
+			"desc": "Defines wall edge thickness. Default is 12."
+		},
+		"tp_all": {
+			"desc": "Teleports everyone to (x, y) in grid coordinates."
+		},
+		"tp_to": {
+			"desc": "Teleports you to user."
+		},
+		"tp": {
+			"desc": "Teleports you to (x, y) in grid coordinates."
+		},
+		"die": {
+			"desc": "Kills you."
+		},
+		"sprite": {
+			"desc": "Shows petal spritesheet."
+		},
+		"spawn_diff": {
+			"desc": "Spawns mobs using difficulty."
+		},
+		"spawn": {
+			"desc": "Spawns mobs. Use underscore instead of spaces in mob names."
+		},
+		"game_speed": {
+			"desc": "Increases or decreases game speed."
+		},
+		"droprates": {
+			"desc": "Display droprates table for a petal rarity factor. Closer to 0 means more rare petal and vice-versa. Should be betwen 0 and 1."
+		},
+		"sim_craft": {
+			"desc": "Simulates crafting."
+		},
+		"give": {
+			"desc": "Puts petal in your inventory. Use underscore instead of spaces in petal names."
+		},
+		"ygg": {
+			"desc": "Revives you if you are dead."
+		},
+		"immune": {
+			"desc": "Makes your flower immune to any damage."
+		},
+		"speed": {
+			"desc": "Sets a player's movement speed"
+		},
+		"ghost": {
+			"desc": "Disables collision on your flower. Use the same command to toggle it back on."
+		},
+		"toggle_game": {
+			"desc": "Enables/disables game update loop."
+		},
+		"fov": {
+			"desc": "Sets your field of view factor."
+		},
+		"april_fools": {
+			"desc": "April fools joke moment uwu."
+		}
+	},
+	"starProducts": {
+		"stars_1": {
+			"desc": "Starter pack"
+		},
+		"stars_2": {
+			"desc": "Slightly bigger star pack"
+		},
+		"stars_3": {
+			"desc": "Big star pack"
+		},
+		"stars_4": {
+			"desc": "Large star pack"
+		},
+		"stars_5": {
+			"desc": "Larger star pack"
+		},
+		"stars_6": {
+			"desc": "Very big star pack"
+		},
+		"stars_7": {
+			"desc": "Huge star pack"
+		},
+		"stars_8": {
+			"desc": "Susily huge star pack"
+		},
+		"stars_9": {
+			"desc": "Susily huger star pack"
+		},
+		"stars_10": {
+			"desc": "Susily large and huge star pack"
+		},
+		"stars_11": {
+			"desc": "Susily large and huge star pack"
+		},
+		"stars_12": {
+			"desc": "Mrbeast son?"
+		}
+	}
+}
