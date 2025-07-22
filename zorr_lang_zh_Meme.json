@@ -1131,7 +1131,7 @@
 		},
 		"dice": {
 			"name": "赌",
-			"desc": "有7.5%的概率造成六十九倍伤害。概率受三叶草影响。"
+			"desc": "有8%的概率造成六十九倍伤害。概率受幸运草影响。"
 		},
 		"cryo_bomb": {
 			"name": "冰暴",
@@ -1271,7 +1271,7 @@
 		},
 		"dna": {
 			"name": "基因(神)",
-			"desc": "给你一个小概率增加你的宠物稀有度。影响所有蛋直到其稀有度。例如，孵化出究极蚂蚁的超级蛋 + 超级DNA = 有概率孵化出超级蚂蚁。概率受三叶草影响。"
+			"desc": "给你一个小概率增加你的宠物稀有度。影响所有蛋直到其稀有度。例如，孵化出究极蚂蚁的超级蛋 + 超级DNA = 有概率孵化出超级蚂蚁。概率受幸运草影响。"
 		},
 		"virus_egg": {
 			"name": "病毒蛋",
@@ -1495,7 +1495,7 @@
 		},
 		"plasma": {
 			"name": "等离子体",
-			"desc": "非常热的物质状态。"
+			"desc": "物质的极热状态。闪电能多次击中同一目标。"
 		},
 		"quantum": {
 			"name": "量子",
@@ -1627,7 +1627,7 @@
 		},
 		"stem_cell": {
 			"name": "干细胞",
-			"desc": "稀有度不高于它的召唤物血量下降至66%或33%时，它有概率为它们治疗。概率受三叶草影响。"
+			"desc": "稀有度不高于它的召唤物的生命值下降至66%或33%时，它有概率治疗它们。概率受幸运草影响。"
 		},
 		"stem_cell_egg": {
 			"name": "干细胞蛋",
@@ -1735,7 +1735,7 @@
 		},
 		"dark_matter": {
 			"name": "暗物质",
-			"desc": "这个不可见的物质可以在你的花瓣之间形成间隙。"
+			"desc": "这个不可见的物质可以在你的花瓣轨道之间形成间隔。"
 		},
 		"hel_digger_egg": {
 			"name": "冥界挖掘者蛋",
@@ -2244,6 +2244,14 @@
 		"magic_fries": {
 			"name": "魔法薯条",
 			"desc": "这些是用蓝莓油炸的"
+		},
+		"magic_dice": {
+			"name": "魔法骰子",
+			"desc": "有1%的概率用魔法造成三百倍伤害。"
+		},
+		"magic_web": {
+			"name": "魔法网",
+			"desc": "魔法蜘蛛的便便更符合空气动力学原理，能飞得更远"
 		}
 	},
 	"achievements": {
@@ -2518,7 +2526,7 @@
 			"desc": "非常有趣的图案。"
 		},
 		"clover": {
-			"name": "三叶草",
+			"name": "幸运草",
 			"desc": "幸运！"
 		},
 		"rocker": {
@@ -2626,7 +2634,7 @@
 			"desc": "做生意的人。"
 		},
 		"clover2": {
-			"name": "三叶草2",
+			"name": "幸运草2",
 			"desc": "4chan？"
 		},
 		"zatan": {
@@ -3038,7 +3046,7 @@
 		"shield": "护盾",
 		"passiveShield": "持续护盾恢复",
 		"poison": "剧毒",
-		"orbitSpeed": "环绕速度",
+		"orbitSpeed": "轨道速度",
 		"lightningDamage": "闪电伤害",
 		"lightningFireDamage": "闪电火伤",
 		"lightningPoison": "闪电毒伤",
@@ -3117,7 +3125,7 @@
 		"radiationHeal": "辐射治疗",
 		"radiationLightningDamage": "辐射闪电伤害",
 		"radiationLightningBounces": "辐射闪电连锁",
-		"orbitTwirl": "螺旋螺距",
+		"orbitTwirl": "轨道螺旋",
 		"growth": "生长",
 		"growthTime": "生长时间",
 		"petFullRegenRate": "宠物完全恢复率",
@@ -3159,6 +3167,15 @@
 		"robMana": "魔力抢夺",
 		"spreadMana": "魔力分摊",
 		"petVariantMutation": "宠物品种突变",
+		"petalOrbitDistance": "花瓣轨道距离",
+		"flowerBodyDamage": "花瓣身体伤害",
+		"damageReduction": "伤害减免",
+		"extraPetalDamagePercent": "额外花瓣伤害百分比",
+		"extraPetDamagePercent": "额外宠物伤害百分比",
+		"fission": "裂变",
+		"splitOrbitDistance": "分裂轨道距离",
+		"gap": "间隔",
+		"petDefrost": "宠物解冻",
 		"bodyLightning": "身体闪电",
 		"bodyLightningFire": "身体闪电火焰",
 		"bodyLightningPoison": "体伤闪电毒伤",
