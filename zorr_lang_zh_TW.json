@@ -1131,7 +1131,7 @@
 		},
 		"dice": {
 			"name": "骰子",
-			"desc": "有7.5%的機率造成六十九倍傷害。機率受三葉草影響。"
+			"desc": "Has 8% chance of dealing 69x damage. Rate is affected by Clover."
 		},
 		"cryo_bomb": {
 			"name": "低溫炸彈",
@@ -1495,7 +1495,7 @@
 		},
 		"plasma": {
 			"name": "等離子體",
-			"desc": "非常熱的物質狀態。"
+			"desc": "Very hot state of matter. Lightning stikes multi hit the same target."
 		},
 		"quantum": {
 			"name": "量子",
@@ -2244,6 +2244,14 @@
 		"magic_fries": {
 			"name": "Magic Fries",
 			"desc": "These were fried in blueberry oil"
+		},
+		"magic_dice": {
+			"name": "Magic Dice",
+			"desc": "Has 1% chance of dealing 300x damage using magic."
+		},
+		"magic_web": {
+			"name": "Magic Web",
+			"desc": "Magic spider poo is more aerodynamic and can fly further"
 		}
 	},
 	"achievements": {
@@ -3159,6 +3167,15 @@
 		"robMana": "魔力搶奪",
 		"spreadMana": "魔力分攤",
 		"petVariantMutation": "寵物品種突變",
+		"petalOrbitDistance": "Petal Orbit Distance",
+		"flowerBodyDamage": "Flower Body Damage",
+		"damageReduction": "Damage Reduction",
+		"extraPetalDamagePercent": "Extra Petal Damage Percent",
+		"extraPetDamagePercent": "Extra Pet Damage Percent",
+		"fission": "Fission",
+		"splitOrbitDistance": "Split Orbit Distance",
+		"gap": "Gap",
+		"petDefrost": "Pet Defrost",
 		"bodyLightning": "身體閃電",
 		"bodyLightningFire": "身體閃電火焰",
 		"bodyLightningPoison": "體傷閃電毒傷",
