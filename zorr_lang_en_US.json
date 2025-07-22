@@ -512,7 +512,7 @@
 			"desc": "Pirates of the currybeans"
 		},
 		"palm_tree": {
-			"name": "Palm tree",
+			"name": "Palm Tree",
 			"desc": "Its gigantic leaves help it survive in this climate"
 		},
 		"stalagmite": {
@@ -1131,7 +1131,7 @@
 		},
 		"dice": {
 			"name": "Dice",
-			"desc": "Has 7.5% chance of dealing 69x damage. Rate is affected by Clover."
+			"desc": "Has 8% chance of dealing 69x damage. Rate is affected by Clover."
 		},
 		"cryo_bomb": {
 			"name": "Cryo Bomb",
@@ -1495,7 +1495,7 @@
 		},
 		"plasma": {
 			"name": "Plasma",
-			"desc": "Very hot state of matter."
+			"desc": "Very hot state of matter. Lightning stikes multi hit the same target."
 		},
 		"quantum": {
 			"name": "Quantum",
@@ -2034,7 +2034,7 @@
 			"desc": "Passively removes frost from your pets."
 		},
 		"palm_tree_egg": {
-			"name": "Palm tree Egg",
+			"name": "Palm Tree Egg",
 			"desc": "It can hatch and spawn something interesting..."
 		},
 		"palm_leaf": {
@@ -2244,6 +2244,14 @@
 		"magic_fries": {
 			"name": "Magic Fries",
 			"desc": "These were fried in blueberry oil"
+		},
+		"magic_dice": {
+			"name": "Magic Dice",
+			"desc": "Has 1% chance of dealing 300x damage using magic."
+		},
+		"magic_web": {
+			"name": "Magic Web",
+			"desc": "Magic spider poo is more aerodynamic and can fly further"
 		}
 	},
 	"achievements": {
@@ -3159,6 +3167,15 @@
 		"robMana": "Rob Mana",
 		"spreadMana": "Spread Mana",
 		"petVariantMutation": "Pet Variant Mutation",
+		"petalOrbitDistance": "Petal Orbit Distance",
+		"flowerBodyDamage": "Flower Body Damage",
+		"damageReduction": "Damage Reduction",
+		"extraPetalDamagePercent": "Extra Petal Damage Percent",
+		"extraPetDamagePercent": "Extra Pet Damage Percent",
+		"fission": "Fission",
+		"splitOrbitDistance": "Split Orbit Distance",
+		"gap": "Gap",
+		"petDefrost": "Pet Defrost",
 		"bodyLightning": "Body Lightning",
 		"bodyLightningFire": "Body Lightning Fire",
 		"bodyLightningPoison": "Body Lightning Poison",
