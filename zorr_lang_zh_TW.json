@@ -584,11 +584,11 @@
 			"desc": "有33%的機率造成三十三倍傷害（包括心靈感應傷害）。頓悟將至。汝之朝聖路已開啟。真理之光待君採擷。"
 		},
 		"shark": {
-			"name": "Shark",
+			"name": "鯊魚",
 			"desc": "Baby shark doo doo doo doo doo doo..."
 		},
 		"squid": {
-			"name": "Squid",
+			"name": "魷魚",
 			"desc": "Is seeking a toilet, or maybe thats just ink."
 		}
 	},
@@ -2202,7 +2202,7 @@
 			"desc": "魔法沒有任何效果，它們還未成熟……"
 		},
 		"shark_egg": {
-			"name": "Shark Egg",
+			"name": "鯊魚蛋",
 			"desc": "It can hatch and spawn something interesting..."
 		},
 		"tooth": {
@@ -2218,11 +2218,11 @@
 			"desc": "Very viscous... also covers your enemies eyes."
 		},
 		"squid_egg": {
-			"name": "Squid Egg",
+			"name": "魷魚蛋",
 			"desc": "It can hatch and spawn something interesting..."
 		},
 		"mask": {
-			"name": "Mask",
+			"name": "口罩",
 			"desc": "It protects you from ZARS-CoV-69 virus. Also reduces its effect."
 		},
 		"magic_yuan": {
@@ -2246,7 +2246,7 @@
 			"desc": "These were fried in blueberry oil"
 		},
 		"magic_dice": {
-			"name": "Magic Dice",
+			"name": "魔法骰子",
 			"desc": "Has 1% chance of dealing 300x damage using magic."
 		},
 		"magic_web": {
@@ -3174,7 +3174,7 @@
 		"extraPetDamagePercent": "Extra Pet Damage Percent",
 		"fission": "Fission",
 		"splitOrbitDistance": "Split Orbit Distance",
-		"gap": "Gap",
+		"gap": "空隙",
 		"petDefrost": "Pet Defrost",
 		"bodyLightning": "身體閃電",
 		"bodyLightningFire": "身體閃電火焰",
