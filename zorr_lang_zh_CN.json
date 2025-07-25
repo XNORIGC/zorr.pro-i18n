@@ -2355,7 +2355,7 @@
 		},
 		"magic_gunpowder": {
 			"name": "魔法火药",
-			"desc": "Deals 10x damage when an incompetent enemy is burning. Also increases the size of your explosions."
+			"desc": "对正在燃烧的无能的敌人造成十倍伤害。也能增加你所引发的爆炸的范围。"
 		}
 	},
 	"achievements": {
@@ -3374,17 +3374,17 @@
 		"dailyPlaytime": "今日游玩时间",
 		"maxDailyPlaytime": "最长单日游玩时间",
 		"maxStreak": "最长连签天数",
-		"zoom": "画面缩放",
+		"zoom": "镜头拉进",
 		"spinChangeSpeed": "转速调节灵敏度",
-		"res": "分辨率",
-		"iconRes": "图像清晰度",
-		"uiScale": "UI Scale",
-		"minKillLogRarity": "Min Kill Log Rarity",
-		"minCraftLogRarity": "Min Craft Log Rarity",
-		"mobHudCount": "Mob Hud Count",
-		"maxMagicPets": "Max Magic Pets",
-		"font": "Font",
-		"language": "Language"
+		"res": "清晰度",
+		"iconRes": "图标清晰度",
+		"uiScale": "用户界面缩放",
+		"minKillLogRarity": "击杀日志最低稀有度",
+		"minCraftLogRarity": "合成日志最低品质",
+		"mobHudCount": "平视显示器生物数",
+		"maxMagicPets": "魔法宠物上限",
+		"font": "字体",
+		"language": "语言"
 	},
 	"commands": {
 		"kill": {
@@ -3451,7 +3451,7 @@
 			"desc": "将小队设置为私密。"
 		},
 		"client_speed": {
-			"desc": "设置客户端时间缩放系数。"
+			"desc": "设置客户端动画速度。"
 		},
 		"yay": {
 			"desc": "Yayvideogames彩蛋时刻。"
