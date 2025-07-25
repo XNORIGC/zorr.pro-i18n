@@ -108,7 +108,7 @@
 		"findingPublicSquad": "查找公开小队中……",
 		"notInSquad": "你不在任何一个小队里",
 		"chatInfo": "输入“{1}”以查看可用命令。\n在聊天中表现恶劣或使用侮辱性语言将导致你的账户被封禁。",
-		"dropBuffInfo": "掉落增益仅适用于最高为(1)品质的战利品。"
+		"dropBuffInfo": "掉落增益仅适用于品质最高为(1)的战利品。"
 	},
 	"mobs": {
 		"rock": {
@@ -680,8 +680,8 @@
 			"desc": "在找厕所上，或许那只是墨水。"
 		},
 		"geyser": {
-			"name": "Geyser",
-			"desc": "Shoots out very hot water everywhere."
+			"name": "喷泉",
+			"desc": "到处喷滚烫的水。"
 		}
 	},
 	"petals": {
@@ -2346,15 +2346,15 @@
 			"desc": "魔法蜘蛛的便便更符合空气动力学原理，能飞得更远"
 		},
 		"geyser_egg": {
-			"name": "Geyser Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "喷泉蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"hot_water": {
-			"name": "Hot Water",
-			"desc": "You could probably cook some ramen using this. Slightly slows down your enemies too."
+			"name": "热水",
+			"desc": "你也许能用它来煮些拉面。也能用来稍微减缓敌人的速度。"
 		},
 		"magic_gunpowder": {
-			"name": "Magic Gunpowder",
+			"name": "魔法火药",
 			"desc": "Deals 10x damage when an incompetent enemy is burning. Also increases the size of your explosions."
 		}
 	},
@@ -3253,11 +3253,11 @@
 		"flowerExplosionSize": "花朵爆炸范围",
 		"extraFlowerMass": "额外花朵质量",
 		"extraFlowerSize": "额外花朵大小",
-		"flowerSizeReduction": "花朵尺寸减小",
+		"flowerSizeReduction": "花朵大小减小",
 		"lightningReduction": "减少闪电",
 		"mobAgroRangeReduction": "生物仇恨范围减少",
 		"detox": "解毒",
-		"extraExplosionSize": "Extra Explosion Size",
+		"extraExplosionSize": "额外爆炸范围",
 		"mana": "魔力",
 		"passiveMana": "持续魔力恢复",
 		"passiveManaOnGround": "持续魔力恢复",
@@ -3302,17 +3302,17 @@
 		"healNearby": "范围治疗",
 		"damageGrowth": "伤害增长",
 		"infectionTime": "感染时间",
-		"#controls": "#controls",
+		"#controls": "#控制",
 		"keyboardControls": "键盘控制",
 		"movementHelper": "移动辅助",
 		"invertAttackButton": "反转攻击按钮",
 		"invertDefendButton": "反转防御按钮",
-		"#chat": "#chat",
+		"#chat": "#聊天",
 		"showChat": "显示聊天",
 		"showUserChats": "显示用户聊天",
 		"showDropLogs": "显示掉落日志",
 		"showBlocked": "显示屏蔽内容",
-		"#game": "#game",
+		"#game": "#游戏",
 		"showHitbox": "显示碰撞箱",
 		"showGrid": "显示网格",
 		"showDps": "显示DPS",
@@ -3322,7 +3322,7 @@
 		"autoJoinSquads": "自动加入小队",
 		"showDebugInfo": "显示调试信息",
 		"showIndicators": "显示指示器",
-		"#visuals": "#visuals",
+		"#visuals": "#画面",
 		"showRarities": "显示稀有度",
 		"showCraftBubble": "显示合成气泡",
 		"showOtherPetals": "显示其它人的花瓣",
@@ -3336,13 +3336,13 @@
 		"showLightning": "显示闪电",
 		"showRadiation": "显示辐射效果",
 		"abbreviateDps": "缩写DPS",
-		"fixedHudSize": "固定HUD大小",
+		"fixedHudSize": "固定平视显示器大小",
 		"screenShake": "屏幕震动",
 		"antiAliasing": "抗锯齿",
 		"showText": "显示文本内容",
 		"effect3d": "3D效果",
-		"showIcons": "显示图标",
-		"#indicators": "#indicators",
+		"showIcons": "显示图像",
+		"#indicators": "#状态栏",
 		"indicatorPoison": "中毒",
 		"indicatorFire": "着火",
 		"indicatorSlowness": "缓慢",
@@ -3374,10 +3374,10 @@
 		"dailyPlaytime": "今日游玩时间",
 		"maxDailyPlaytime": "最长单日游玩时间",
 		"maxStreak": "最长连签天数",
-		"zoom": "Zoom",
-		"spinChangeSpeed": "Spin Change Speed",
-		"res": "Resolution",
-		"iconRes": "Icon Resolution",
+		"zoom": "画面缩放",
+		"spinChangeSpeed": "转速调节灵敏度",
+		"res": "分辨率",
+		"iconRes": "图像清晰度",
 		"uiScale": "UI Scale",
 		"minKillLogRarity": "Min Kill Log Rarity",
 		"minCraftLogRarity": "Min Craft Log Rarity",
@@ -3571,10 +3571,10 @@
 			"desc": "掉落一个花瓣。"
 		},
 		"petal_icon": {
-			"desc": "为花瓣渲染图标。"
+			"desc": "渲染花瓣图像。"
 		},
 		"mob_icon": {
-			"desc": "为生物渲染图标。"
+			"desc": "渲染生物图像。"
 		},
 		"petal_size": {
 			"desc": "设置你的花瓣大小系数。默认为1。"
