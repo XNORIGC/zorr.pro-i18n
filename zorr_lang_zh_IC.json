@@ -85,15 +85,15 @@
 		"rarity": "稀有度",
 		"inUSD": "以美元为单位",
 		"hoverToPreview": "（悬停以预览）",
-		"shopFeaturedInfo": "不确定从哪里开始？",
+		"shopFeaturedInfo": "不知道从哪里开始？",
 		"seeFeatured": "看看精选花瓣",
 		"shopAllInfo": "不感兴趣？",
 		"seeAll": "查看全部花瓣",
-		"controls": "Controls",
-		"chat": "Chat",
-		"game": "Game",
-		"visuals": "Visuals",
-		"indicators": "Indicators"
+		"controls": "控制",
+		"chat": "聊天",
+		"game": "游戏",
+		"visuals": "画面",
+		"indicators": "状态栏"
 	},
 	"texts": {
 		"requiresMana": "消耗魔力以生成。",
@@ -102,13 +102,13 @@
 		"manaToDamage": "消耗全部魔力以生成。伤害 = 0.18 × 魔力 × ㏒₂魔力 × (品质 + 1)³",
 		"streakRewardTimer": "可在{1}后领取新的奖励。",
 		"streak": "每日签到 - 第{1}天",
-		"joinedSquad": "You've joined a squad! (Code: {1})",
-		"noPublicSquad": "No joinable public squad found for your level.",
-		"creatingSquad": "Creating new squad...",
-		"findingPublicSquad": "Finding public squad...",
-		"notInSquad": "You are not in any squad",
-		"chatInfo": "Type \"{1}\" to view commands.\nBeing toxic or using slurs in chat will get your account banned.",
-		"dropBuffInfo": "Drop buffs apply to upto (1) drops only."
+		"joinedSquad": "你加入了小队！（代码：{1}）",
+		"noPublicSquad": "未找到你当前等级可加入的公开小队。",
+		"creatingSquad": "创建小队中……",
+		"findingPublicSquad": "查找公开小队中……",
+		"notInSquad": "你不在任何一个小队里",
+		"chatInfo": "输入“{1}”以查看可用命令。\n在聊天中表现恶劣或使用侮辱性语言将导致你的账户被封禁。",
+		"dropBuffInfo": "掉落增益仅适用于最高为(1)品质的战利品。"
 	},
 	"mobs": {
 		"rock": {
