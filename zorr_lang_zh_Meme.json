@@ -3341,7 +3341,7 @@
 		"antiAliasing": "抗锯齿",
 		"showText": "显示文本内容",
 		"effect3d": "3D效果",
-		"showIcons": "显示图像",
+		"showIcons": "显示图标",
 		"#indicators": "#状态栏",
 		"indicatorPoison": "中毒",
 		"indicatorFire": "着火",
@@ -3571,10 +3571,10 @@
 			"desc": "掉落一个花瓣。"
 		},
 		"petal_icon": {
-			"desc": "渲染花瓣图像。"
+			"desc": "渲染花瓣图标。"
 		},
 		"mob_icon": {
-			"desc": "渲染生物图像。"
+			"desc": "渲染生物图标。"
 		},
 		"petal_size": {
 			"desc": "设置你的花瓣大小系数。默认为1。"
