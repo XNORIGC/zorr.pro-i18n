@@ -88,12 +88,24 @@
 		"shopFeaturedInfo": "不知道从哪里开始？",
 		"seeFeatured": "看看精选花瓣",
 		"shopAllInfo": "不感兴趣？",
+		"buyForFriend": "为其他人购买星星：",
 		"seeAll": "查看全部花瓣",
+		"stars": "星星",
+		"skins": "皮肤",
+		"petals": "花瓣",
+		"mobSkins": "生物皮肤",
+		"shopNazarBeetles": "当心邪眼甲虫！",
 		"controls": "控制",
 		"chat": "聊天",
 		"game": "游戏",
 		"visuals": "画面",
-		"indicators": "状态栏"
+		"indicators": "状态栏",
+		"done": "已完成",
+		"all": "全部",
+		"complete": "已完成",
+		"incomplete": "未完成",
+		"cmdInfo": "点击以运行命令。",
+		"stealthMode": "隐身模式"
 	},
 	"texts": {
 		"requiresMana": "消耗魔力以生成。",
@@ -102,13 +114,15 @@
 		"manaToDamage": "消耗全部魔力以生成。伤害 = 0.18 × 魔力 × ㏒₂魔力 × (品质 + 1)³",
 		"streakRewardTimer": "可在{1}后领取新的奖励。",
 		"streak": "每日签到 - 第{1}天",
+		"day": "第{1}天",
 		"joinedSquad": "你加入了小队！（代码：{1}）",
 		"noPublicSquad": "未找到你当前等级可加入的公开小队。",
 		"creatingSquad": "创建小队中……",
 		"findingPublicSquad": "查找公开小队中……",
 		"notInSquad": "你不在任何一个小队里",
 		"chatInfo": "输入“{1}”以查看可用命令。\n在聊天中表现恶劣或使用侮辱性语言将导致你的账户被封禁。",
-		"dropBuffInfo": "掉落增益仅适用于品质最高为(1)的战利品。"
+		"dropBuffInfo": "掉落增益仅适用于品质最高为(1)的战利品。",
+		"resetsIn": "将在{1}后重置……"
 	},
 	"mobs": {
 		"rock": {
@@ -2385,7 +2399,7 @@
 		},
 		"year": {
 			"name": "新年快乐！",
-			"desc": "游玩三百五十六天。"
+			"desc": "游玩三百六十五天。"
 		},
 		"epic": {
 			"name": "史诗级玩家时刻",
