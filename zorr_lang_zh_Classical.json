@@ -18,8 +18,22 @@
 		"changelog": "變冊",
 		"guild": "盟",
 		"settings": "設",
+		"toggleFullscreen": "Toggle Fullscreen",
+		"credits": "Credits",
+		"privacy": "Privacy",
+		"terms": "Terms",
+		"wiki": "Wiki",
 		"inventory": "藏",
 		"inventoryInstructions": "拖曳花瓣以佩之",
+		"yourProfile": "Your Profile",
+		"globalLeaderboard": "Global Leaderboard",
+		"globalCrafts": "Global Crafts",
+		"challenges": "Challenges",
+		"mapEditor": "Map Editor",
+		"joinDiscord": "Join our Discord server!",
+		"leaveGame": "Leave game",
+		"commandHelper": "Command Helper",
+		"craft": "Craft",
 		"mobGallery": "妖怪圖鑑",
 		"dailyStreakRewards": "Daily Streak Rewards",
 		"findPublic": "Find Public",
@@ -64,7 +78,22 @@
 		"hel": "Hel",
 		"as": "AS",
 		"eu": "EU",
-		"us": "US"
+		"us": "US",
+		"equip": "Equip",
+		"unequip": "Unequip",
+		"biome": "Biome",
+		"rarity": "Rarity",
+		"inUSD": "In USD",
+		"hoverToPreview": "(Hover to preview)",
+		"shopFeaturedInfo": "Not sure where to start?",
+		"seeFeatured": "See Featured",
+		"shopAllInfo": "Nothing interesting here?",
+		"seeAll": "See All",
+		"controls": "Controls",
+		"chat": "Chat",
+		"game": "Game",
+		"visuals": "Visuals",
+		"indicators": "Indicators"
 	},
 	"texts": {
 		"requiresMana": "Requires Mana to spawn.",
@@ -72,7 +101,14 @@
 		"manaDrain": "Drains {1} mana/sec",
 		"manaToDamage": "Requires full mana to spawn. Damage = 0.18 * mana * log2(mana) * (rarity + 1) ^ 3",
 		"streakRewardTimer": "Come back in {1} to claim rewards.",
-		"streak": "Daily Streak #{1}"
+		"streak": "Daily Streak #{1}",
+		"joinedSquad": "You've joined a squad! (Code: {1})",
+		"noPublicSquad": "No joinable public squad found for your level.",
+		"creatingSquad": "Creating new squad...",
+		"findingPublicSquad": "Finding public squad...",
+		"notInSquad": "You are not in any squad",
+		"chatInfo": "Type \"{1}\" to view commands.\nBeing toxic or using slurs in chat will get your account banned.",
+		"dropBuffInfo": "Drop buffs apply to upto (1) drops only."
 	},
 	"mobs": {
 		"rock": {
@@ -642,6 +678,10 @@
 		"squid": {
 			"name": "魷魚",
 			"desc": "求厠乎，抑或墨耶？"
+		},
+		"geyser": {
+			"name": "Geyser",
+			"desc": "Shoots out very hot water everywhere."
 		}
 	},
 	"petals": {
@@ -2304,6 +2344,18 @@
 		"magic_web": {
 			"name": "Magic Web",
 			"desc": "Magic spider poo is more aerodynamic and can fly further"
+		},
+		"geyser_egg": {
+			"name": "Geyser Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hot_water": {
+			"name": "Hot Water",
+			"desc": "You could probably cook some ramen using this. Slightly slows down your enemies too."
+		},
+		"magic_gunpowder": {
+			"name": "Magic Gunpowder",
+			"desc": "Deals 10x damage when an incompetent enemy is burning. Also increases the size of your explosions."
 		}
 	},
 	"achievements": {
@@ -3205,6 +3257,7 @@
 		"lightningReduction": "減少閃電",
 		"mobAgroRangeReduction": "Mob Agro Range Reduction",
 		"detox": "Detox",
+		"extraExplosionSize": "Extra Explosion Size",
 		"mana": "靈力",
 		"passiveMana": "被動靈力",
 		"passiveManaOnGround": "被動靈力",
@@ -3249,17 +3302,17 @@
 		"healNearby": "範圍治療",
 		"damageGrowth": "傷害增長",
 		"infectionTime": "Infection Time",
-		"#Controls": "# 御",
+		"#controls": "#controls",
 		"keyboardControls": "鍵之御",
 		"movementHelper": "移之助",
 		"invertAttackButton": "反攻之鈕",
 		"invertDefendButton": "反御之鈕",
-		"#Chat": "# 言",
+		"#chat": "#chat",
 		"showChat": "顯言",
 		"showUserChats": "顯眾之言",
 		"showDropLogs": "顯掉落錄",
 		"showBlocked": "顯攔截錄",
-		"#Game": "# 戲",
+		"#game": "#game",
 		"showHitbox": "顯擊框",
 		"showGrid": "顯格",
 		"showDps": "顯創秒",
@@ -3269,7 +3322,7 @@
 		"autoJoinSquads": "自入同伍",
 		"showDebugInfo": "顯除錯訊",
 		"showIndicators": "顯指示物",
-		"#Visuals": "# 視效",
+		"#visuals": "#visuals",
 		"showRarities": "顯珍稀",
 		"showCraftBubble": "顯制泡",
 		"showOtherPetals": "顯他瓣",
@@ -3289,7 +3342,7 @@
 		"showText": "顯文",
 		"effect3d": "三界效",
 		"showIcons": "顯符",
-		"#Indicators": "指示物之數",
+		"#indicators": "#indicators",
 		"indicatorPoison": "附骨毒",
 		"indicatorFire": "業火",
 		"indicatorSlowness": "緩行",
@@ -3320,7 +3373,18 @@
 		"maxPetalsPicked": "瓣之極採",
 		"dailyPlaytime": "日嬉之辰",
 		"maxDailyPlaytime": "日嬉之極",
-		"maxStreak": "連擊之極"
+		"maxStreak": "連擊之極",
+		"zoom": "Zoom",
+		"spinChangeSpeed": "Spin Change Speed",
+		"res": "Resolution",
+		"iconRes": "Icon Resolution",
+		"uiScale": "UI Scale",
+		"minKillLogRarity": "Min Kill Log Rarity",
+		"minCraftLogRarity": "Min Craft Log Rarity",
+		"mobHudCount": "Mob Hud Count",
+		"maxMagicPets": "Max Magic Pets",
+		"font": "Font",
+		"language": "Language"
 	},
 	"commands": {
 		"kill": {
