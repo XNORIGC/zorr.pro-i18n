@@ -531,7 +531,7 @@
 		},
 		"target_mummy": {
 			"name": "炼尸傀偶",
-			"desc": "训练假花 + 绷带 = 训练木乃伊uwu。"
+			"desc": "训练假花 + 绷带 = 训练干花uwu。"
 		},
 		"oracle": {
 			"name": "天机尊者",
@@ -3193,7 +3193,7 @@
 		"honeyTilePoison": "蜂蜜块毒伤",
 		"honeyTileFire": "蜂蜜块火伤",
 		"sendToBiome": "传送至生物群系",
-		"flowerReloadFactor": "花朵加载系数",
+		"flowerReloadFactor": "花朵冷却时间系数",
 		"armorDebuff": "护甲减益",
 		"flowerSpeed": "花朵速度",
 		"fireDamage": "火焰伤害",
