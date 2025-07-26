@@ -94,6 +94,8 @@
 		"skins": "皮肤",
 		"petals": "花瓣",
 		"mobSkins": "生物皮肤",
+		"shopPolicy": "Asking for a refund will get your account banned.",
+		"shopSupport": "For any issues related to payments, send us an email at:",
 		"shopNazarBeetles": "当心邪眼甲虫！",
 		"controls": "控制",
 		"chat": "聊天",
@@ -105,13 +107,34 @@
 		"complete": "已完成",
 		"incomplete": "未完成",
 		"cmdInfo": "点击以运行命令。",
-		"stealthMode": "隐身模式"
+		"stealthMode": "隐身模式",
+		"save": "Save",
+		"includeBothRows": "Include Both Rows",
+		"includeSpinSpeed": "Include Spin Speed",
+		"copyCode": "Copy Code",
+		"delete": "Delete",
+		"rename": "Rename",
+		"update": "Update",
+		"moveUp": "Move Up",
+		"moveDown": "Move Down",
+		"singleLoadoutCode": "Single Loadout Code",
+		"fullLoadoutCode": "Full Loadout Code",
+		"import": "Import",
+		"copy": "Copy",
+		"notInGuild": "You are not in any guild.",
+		"guildCreateRequirement": "Need to be over level 50 to create guild.",
+		"create": "Create",
+		"creating": "Creating...",
+		"invite": "Invite",
+		"kick": "Kick",
+		"leader": "(Leader)"
 	},
 	"texts": {
 		"requiresMana": "消耗魔力以生成。",
 		"petManaDrain": "每个宠物每秒消耗{1}点魔力。一朵花最多只能有三十个魔法宠物。",
 		"manaDrain": "每秒消耗{1}点魔力",
 		"manaToDamage": "消耗全部魔力以生成。伤害 = 0.18 × 魔力 × ㏒₂魔力 × (品质 + 1)³",
+		"growthMana": "Requires {1} mana to grow to max size.",
 		"streakRewardTimer": "可在{1}后领取新的奖励。",
 		"streak": "每日签到 - 第{1}天",
 		"day": "第{1}天",
@@ -2370,6 +2393,10 @@
 		"magic_gunpowder": {
 			"name": "魔法火药",
 			"desc": "对正在燃烧的无能的敌人造成十倍伤害。也能增加你所引发的爆炸的范围。"
+		},
+		"magic_tomato": {
+			"name": "Magic Tomato",
+			"desc": "When life gives you unripe magic fruits, use even more magic to ripen them quicker."
 		}
 	},
 	"achievements": {
@@ -3134,6 +3161,14 @@
 		"moss": {
 			"name": "苔藓",
 			"desc": "很胖"
+		},
+		"fern": {
+			"name": "Fern",
+			"desc": "Bushy"
+		},
+		"algae": {
+			"name": "Algae",
+			"desc": "Al Gae"
 		},
 		"blades": {
 			"name": "刀锋",
