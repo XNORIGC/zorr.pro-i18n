@@ -663,7 +663,7 @@
 		},
 		"cube": {
 			"name": "立方体",
-			"desc": "这个东西看起来好熟悉…你这不就是把3D点投影到2D平面嘛。简单得很。"
+			"desc": "这个东西看起来好熟悉……你这不就是把3D点投影到2D平面嘛。简单得很。"
 		},
 		"white_hole": {
 			"name": "白洞",
@@ -1805,7 +1805,7 @@
 		},
 		"fission": {
 			"name": "裂变",
-			"desc": "将它右侧的一个品质不高于它的花瓣裂变成更多的单体。例如：如果你在超级裂变右边装备一个超级仙人掌，你将得到两个更弱的超级仙人掌；如果你装备的是有六个单体的超级轻，你将得到十二个单体。"
+			"desc": "将它右侧的一个品质不高于它的花瓣裂变成多个单体。例如：如果你在超级裂变右边装备一个超级仙人掌，你将得到两个更弱的超级仙人掌；如果你装备的是有六个单体的超级轻，你将得到十二个单体。"
 		},
 		"nuke_egg": {
 			"name": "核弹蛋",
@@ -1965,7 +1965,7 @@
 		},
 		"magic_mimic": {
 			"name": "魔法拟态",
-			"desc": "它模仿放置于它右边的花瓣成其魔法变体。例如：超级魔法模仿 + 超级玫瑰 = 超级魔法玫瑰 + 超级玫瑰"
+			"desc": "它模仿它右边的花瓣的魔法变体。例如：超级魔法拟态 + 超级玫瑰 = 超级魔法玫瑰 + 超级玫瑰"
 		},
 		"magic_bomb": {
 			"name": "魔法炸弹",
@@ -2632,7 +2632,7 @@
 			"desc": "随它吧，随它吧～"
 		},
 		"omega_flowey": {
-			"name": "欧米伽福劳尔",
+			"name": "终末小花",
 			"desc": "粉色皮肤"
 		},
 		"star2": {
@@ -2820,7 +2820,7 @@
 			"desc": "小可爱。"
 		},
 		"omegasus": {
-			"name": "欧米伽可疑",
+			"name": "终末可疑",
 			"desc": "蓝色看起来有点可疑。"
 		},
 		"star": {
@@ -2956,7 +2956,7 @@
 			"desc": "🧿🧿🧿🧿🧿"
 		},
 		"omega": {
-			"name": "欧米伽",
+			"name": "终末",
 			"desc": "最后的稀有度"
 		},
 		"goof": {
@@ -3215,7 +3215,7 @@
 		"defrost": "解冻",
 		"tempFlowerSpeed": "临时花朵速度",
 		"tempFlowerSpeedFactor": "临时花朵速度系数",
-		"subdivisionRates": "细分率",
+		"subdivisionRates": "分裂概率",
 		"cureCancer": "治愈癌变",
 		"petMutation": "宠物突变",
 		"passivePetalHeal": "持续花瓣治疗",
@@ -3318,9 +3318,9 @@
 		"infectionTime": "感染时间",
 		"#controls": "#控制",
 		"keyboardControls": "键盘控制",
-		"movementHelper": "移动辅助",
-		"invertAttackButton": "反转攻击按钮",
-		"invertDefendButton": "反转防御按钮",
+		"movementHelper": "移动助手",
+		"invertAttackButton": "反转攻击控制",
+		"invertDefendButton": "反转防御控制",
 		"#chat": "#聊天",
 		"showChat": "显示聊天",
 		"showUserChats": "显示用户聊天",
@@ -3329,17 +3329,17 @@
 		"#game": "#游戏",
 		"showHitbox": "显示碰撞箱",
 		"showGrid": "显示网格",
-		"showDps": "显示DPS",
-		"potatoHardware": "低配硬件",
+		"showDps": "显示秒伤",
+		"potatoHardware": "土豆硬件",
 		"badwordFilter": "脏话过滤器",
 		"showMobLeaderboard": "显示生物排行榜",
 		"autoJoinSquads": "自动加入小队",
 		"showDebugInfo": "显示调试信息",
-		"showIndicators": "显示指示器",
+		"showIndicators": "显示状态栏",
 		"#visuals": "#画面",
 		"showRarities": "显示稀有度",
 		"showCraftBubble": "显示合成气泡",
-		"showOtherPetals": "显示其它人的花瓣",
+		"showOtherPetals": "显示其他玩家的花瓣",
 		"showParticles": "显示粒子效果",
 		"showDamage": "显示伤害",
 		"showDamageFlash": "显示伤害闪烁",
@@ -3349,11 +3349,11 @@
 		"showExplosion": "显示爆炸效果",
 		"showLightning": "显示闪电",
 		"showRadiation": "显示辐射效果",
-		"abbreviateDps": "缩写DPS",
+		"abbreviateDps": "缩写秒伤",
 		"fixedHudSize": "固定平视显示器大小",
-		"screenShake": "屏幕震动",
+		"screenShake": "画面抖动",
 		"antiAliasing": "抗锯齿",
-		"showText": "显示文本内容",
+		"showText": "显示文本",
 		"effect3d": "3D效果",
 		"showIcons": "显示图标",
 		"#indicators": "#状态栏",
@@ -3389,7 +3389,7 @@
 		"maxDailyPlaytime": "最长单日游玩时间",
 		"maxStreak": "最长连签天数",
 		"zoom": "镜头拉进",
-		"spinChangeSpeed": "转速调节灵敏度",
+		"spinChangeSpeed": "转速调节速度",
 		"res": "清晰度",
 		"iconRes": "图标清晰度",
 		"uiScale": "用户界面缩放",
@@ -3627,7 +3627,7 @@
 			"desc": "加快或减慢游戏速度。"
 		},
 		"droprates": {
-			"desc": "显示花瓣稀有度系数的掉落率表。越接近0表示花瓣越稀有，反之亦然。应介于0和1之间。"
+			"desc": "显示花瓣品质系数的掉落率表。越接近0表示花瓣越稀有，反之亦然。数值应介于0到1之间。"
 		},
 		"sim_craft": {
 			"desc": "模拟合成。"
