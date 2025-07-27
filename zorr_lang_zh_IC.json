@@ -118,7 +118,7 @@
 		"moveUp": "上移",
 		"moveDown": "下移",
 		"singleLoadoutCode": "单配装代码",
-		"fullLoadoutCode": "全部配装代码",
+		"fullLoadoutCode": "全配装代码",
 		"import": "导入",
 		"copy": "复制",
 		"notInGuild": "你还不在任何一个公会里。",
@@ -362,7 +362,7 @@
 		},
 		"hel_bee": {
 			"name": "业火冥蜂",
-			"desc": "该死，火辣辣地疼。"
+			"desc": "他妈的火辣辣地疼。"
 		},
 		"hel_hornet": {
 			"name": "炼狱毒锋",
@@ -2884,7 +2884,7 @@
 		},
 		"inverted": {
 			"name": "反转",
-			"desc": "他妈的，反转了。"
+			"desc": "他妈的反转了。"
 		},
 		"poo": {
 			"name": "便便",
