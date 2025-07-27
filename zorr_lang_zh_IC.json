@@ -2,11 +2,11 @@
 	"name": "中文（简体）",
 	"ui": {
 		"deathInfo": "你死于",
-		"continue": "继续",
+		"continue": "转世重生",
 		"minimize": "最小化",
 		"deathEscape": "（或按Escape键）",
 		"nickInfo": "这朵小花名叫……",
-		"play": "游玩",
+		"play": "踏入仙途",
 		"squad": "小队",
 		"connecting": "连接中……",
 		"chatInfo": "按[Enter]以聊天",
@@ -16,7 +16,7 @@
 		"users": "用户",
 		"loadouts": "配装",
 		"changelog": "更新日志",
-		"guild": "公会",
+		"guild": "宗门",
 		"settings": "设置",
 		"toggleFullscreen": "切换全屏",
 		"credits": "致谢",
@@ -60,7 +60,7 @@
 		"averageDps": "平均秒伤",
 		"fps": "帧率",
 		"ping": "延迟",
-		"throughput": "吞吐量",
+		"throughput": "传输速率",
 		"objectCount": "对象数",
 		"clientTickTime": "客户端刻用时",
 		"cacheCount": "画布缓存数",
@@ -362,7 +362,7 @@
 		},
 		"hel_bee": {
 			"name": "业火冥蜂",
-			"desc": "他妈的火辣辣地疼。"
+			"desc": "该死，火辣辣地疼。"
 		},
 		"hel_hornet": {
 			"name": "炼狱毒锋",
@@ -1048,7 +1048,7 @@
 		},
 		"air": {
 			"name": "无相归虚息",
-			"desc": "看不见的东西。"
+			"desc": "他妈的根本看不见。"
 		},
 		"lightsaber": {
 			"name": "光煞斩魂刃",
@@ -1200,11 +1200,11 @@
 		},
 		"hel_missile": {
 			"name": "九幽焚魂矢",
-			"desc": "炽焰爆裂弹"
+			"desc": "他妈的热得要命的导弹"
 		},
 		"bugatti": {
 			"name": "神行幻光辇",
-			"desc": "大幅增加移动速度，但会让你滑得离谱。"
+			"desc": "增加移动速度，但会让你滑得他妈的离谱。"
 		},
 		"bugatti_egg": {
 			"name": "神行宝辇卵",
@@ -2740,7 +2740,7 @@
 		},
 		"yellow": {
 			"name": "黄色",
-			"desc": "它黄得不行"
+			"desc": "他妈的太黄了"
 		},
 		"rock": {
 			"name": "岩石",
@@ -2820,7 +2820,7 @@
 		},
 		"target_dummy": {
 			"name": "训练假花",
-			"desc": "毫无感情。"
+			"desc": "他妈的简直毫无感情。"
 		},
 		"mark": {
 			"name": "标记",
@@ -2884,7 +2884,7 @@
 		},
 		"inverted": {
 			"name": "反转",
-			"desc": "反转了。"
+			"desc": "他妈的，反转了。"
 		},
 		"poo": {
 			"name": "便便",
@@ -2900,7 +2900,7 @@
 		},
 		"blue": {
 			"name": "蓝色",
-			"desc": "傻乎乎的"
+			"desc": "他妈的傻乎乎的"
 		},
 		"right-angle": {
 			"name": "直角",
@@ -2908,7 +2908,7 @@
 		},
 		"facist": {
 			"name": "法西斯",
-			"desc": "黑白的。"
+			"desc": "他妈的只有黑白。"
 		},
 		"faster": {
 			"name": "更快",
