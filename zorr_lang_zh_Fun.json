@@ -94,7 +94,7 @@
 		"skins": "皮肤",
 		"petals": "花瓣",
 		"mobSkins": "生物皮肤",
-		"memberships": "Memberships",
+		"memberships": "会员",
 		"shopPolicy": "申请退款将导致你的账户被封禁。",
 		"shopSupport": "如有任何与支付相关的问题，请发送电子邮件至：",
 		"shopNazarBeetles": "当心邪眼甲虫！",
@@ -164,7 +164,7 @@
 		"manaDrain": "每秒消耗{1}点魔力",
 		"manaToDamage": "消耗全部魔力以生成。伤害 = 0.18 × 魔力 × ㏒₂魔力 × (品质 + 1)³",
 		"growthMana": "消耗{1}点魔力以生长至最大大小。",
-		"petDupeMana": "Requires {1} mana to dupe pets.",
+		"petDupeMana": "消耗{1}点魔力以复制宠物。",
 		"streakRewardTimer": "可在{1}后领取新的奖励。",
 		"streak": "每日签到 - 第{1}天",
 		"day": "第{1}天",
@@ -3745,22 +3745,22 @@
 			"desc": "更大的星星包"
 		},
 		"stars_6": {
-			"desc": "超大星星包"
+			"desc": "非常大的星星包"
 		},
 		"stars_7": {
-			"desc": "巨无霸星星包"
+			"desc": "巨大星星包"
 		},
 		"stars_8": {
-			"desc": "可疑的巨无霸星星包"
+			"desc": "可疑地巨大的星星包"
 		},
 		"stars_9": {
-			"desc": "更可疑的巨无霸星星包"
+			"desc": "可疑地更巨大的星星包"
 		},
 		"stars_10": {
-			"desc": "可疑的超大巨无霸星星包"
+			"desc": "可疑地又大又巨的星星包"
 		},
 		"stars_11": {
-			"desc": "可疑的超大巨无霸星星包"
+			"desc": "可疑地更大更巨的星星包"
 		},
 		"stars_12": {
 			"desc": "野兽先生的儿子？"
@@ -3768,16 +3768,16 @@
 	},
 	"memberships": {
 		"bronze": {
-			"name": "Bronze",
-			"desc": "Better than the average."
+			"name": "铜",
+			"desc": "比普通人好。"
 		},
 		"silver": {
-			"name": "Silver",
-			"desc": "For the top 1%."
+			"name": "银",
+			"desc": "只为最顶尖的那1%玩家。"
 		},
 		"gold": {
-			"name": "Gold",
-			"desc": "Omnipotents only!"
+			"name": "金",
+			"desc": "全能者专属！"
 		}
 	}
 }
