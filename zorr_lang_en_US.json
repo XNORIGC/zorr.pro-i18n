@@ -17,9 +17,9 @@
 		"loadouts": "Loadouts",
 		"changelog": "Changelog",
 		"guild": "Guild",
+		"credits": "Credits",
 		"settings": "Settings",
 		"toggleFullscreen": "Toggle Fullscreen",
-		"credits": "Credits",
 		"privacy": "Privacy",
 		"terms": "Terms",
 		"wiki": "Wiki",
@@ -94,6 +94,7 @@
 		"skins": "Skins",
 		"petals": "Petals",
 		"mobSkins": "Mob Skins",
+		"membership": "Membership",
 		"shopPolicy": "Asking for a refund will get your account banned.",
 		"shopSupport": "For any issues related to payments, send us an email at:",
 		"shopNazarBeetles": "Beware of nazar beetles!",
@@ -127,7 +128,35 @@
 		"creating": "Creating...",
 		"invite": "Invite",
 		"kick": "Kick",
-		"leader": "(Leader)"
+		"leader": "(Leader)",
+		"oracle": "Oracle",
+		"trade": "Trade",
+		"showAll": "Show All",
+		"craftLog": "Craft Log",
+		"petalsCrafted": "Petals Crafted",
+		"petalsBurned": "Petals Burned",
+		"craftAttempts": "Craft Attempts",
+		"petalsLeft": "Petals Left",
+		"minRng": "Min RNG",
+		"craftInfo": {
+			"0": "Combine 5 of the same petal to craft an upgrade.",
+			"1": "Failure will destroy 1-4 petals."
+		},
+		"oracleInfo": {
+			"0": "Find the Oracle in Ocean",
+			"1": "The Oracle will guarantee a craft... for the right price.",
+			"2": "Has 0.001% of giving 2x crafts."
+		},
+		"tradeInfo": {
+			"0": "Find the Trader in Jungle",
+			"1": "Trade petals for a random coin."
+		},
+		"prev": "Prev",
+		"next": "Next",
+		"hideFailed": "hideFailed",
+		"logout": "Logout",
+		"login": "Login",
+		"set": "Set"
 	},
 	"texts": {
 		"requiresMana": "Requires Mana to spawn.",
@@ -145,7 +174,8 @@
 		"notInSquad": "You are not in any squad",
 		"chatInfo": "Type \"{1}\" to view commands.\nBeing toxic or using slurs in chat will get your account banned.",
 		"dropBuffInfo": "Drop buffs apply to upto (1) drops only.",
-		"resetsIn": "Resets in {1}..."
+		"resetsIn": "Resets in {1}...",
+		"craftRate": "{1}% success rate"
 	},
 	"mobs": {
 		"rock": {
@@ -2397,6 +2427,10 @@
 		"magic_tomato": {
 			"name": "Magic Tomato",
 			"desc": "When life gives you unripe magic fruits, use even more magic to ripen them quicker."
+		},
+		"magic_cancer": {
+			"name": "Magic Cancer",
+			"desc": "You get some chance to spawn a pet twice. Not affect by clover."
 		}
 	},
 	"achievements": {
@@ -3307,6 +3341,7 @@
 		"mobAgroRangeReduction": "Mob Agro Range Reduction",
 		"detox": "Detox",
 		"extraExplosionSize": "Extra Explosion Size",
+		"petDupeRate": "Pet Dupe Rate",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaOnGround": "Passive Mana",
