@@ -151,12 +151,12 @@
 			"0": "在丛林中寻找商人",
 			"1": "交易花瓣以得到随机硬币或商品。"
 		},
-		"prev": "Prev",
-		"next": "Next",
-		"hideFailed": "hideFailed",
-		"logout": "Logout",
-		"login": "Login",
-		"set": "Set"
+		"prev": "上一页",
+		"next": "下一页",
+		"hideFailed": "隐藏失败合成",
+		"logout": "登出",
+		"login": "登录",
+		"set": "设置"
 	},
 	"texts": {
 		"requiresMana": "消耗魔力以生成。",
@@ -175,7 +175,7 @@
 		"chatInfo": "输入“{1}”以查看可用命令。\n在聊天中表现恶劣或使用侮辱性语言将导致你的账户被封禁。",
 		"dropBuffInfo": "掉落增益仅适用于品质最高为(1)的战利品。",
 		"resetsIn": "将在{1}后重置……",
-		"craftRate": "{1}% success rate"
+		"craftRate": "成功率：{1}"
 	},
 	"mobs": {
 		"rock": {
@@ -2429,8 +2429,8 @@
 			"desc": "当生活给你未成熟的魔法果实时，用更多的魔法让它们更快地成熟。"
 		},
 		"magic_cancer": {
-			"name": "Magic Cancer",
-			"desc": "You get some chance to spawn a pet twice. Not affect by clover."
+			"name": "魔法癌细胞",
+			"desc": "你有概率生成一个宠物两次。概率不受幸运草影响。"
 		}
 	},
 	"achievements": {
@@ -3142,7 +3142,7 @@
 		},
 		"tredor": {
 			"name": "老币登",
-			"desc": "一名商人"
+			"desc": "奸商"
 		},
 		"onion": {
 			"name": "洋葱",
@@ -3341,7 +3341,7 @@
 		"mobAgroRangeReduction": "生物仇恨范围减少",
 		"detox": "解毒",
 		"extraExplosionSize": "额外爆炸范围",
-		"petDupeRate": "Pet Dupe Rate",
+		"petDupeRate": "宠物复制率",
 		"mana": "魔力",
 		"passiveMana": "持续魔力恢复",
 		"passiveManaOnGround": "持续魔力恢复",
