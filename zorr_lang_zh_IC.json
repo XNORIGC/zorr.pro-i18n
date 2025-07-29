@@ -425,7 +425,7 @@
 		},
 		"snowbush": {
 			"name": "玄霜寒棘",
-			"desc": "生长在寒冷地区的草丛，也可能会被雪覆盖。"
+			"desc": "生长在寒冷地区的灌木丛，也可能会被雪覆盖。"
 		},
 		"ice_cube": {
 			"name": "万载玄冰",
@@ -2435,11 +2435,11 @@
 		},
 		"magic_pearl": {
 			"name": "魔法珍珠",
-			"desc": "Magic magic pearl whose damage increases based on its speed."
+			"desc": "魔法魔法珍珠，其伤害会根据其速度而增加。"
 		},
 		"magic_chromosome": {
-			"name": "Magic Chromosome",
-			"desc": "Gives your petals shield over time using Zewton's 69th law of magic."
+			"name": "魔法染色体",
+			"desc": "运用马顿第六十九魔法定律来随时间的推移持续地为你的花瓣提供护盾。"
 		}
 	},
 	"achievements": {
@@ -3207,7 +3207,7 @@
 		},
 		"fern": {
 			"name": "蕨类",
-			"desc": "草丛"
+			"desc": "灌木丛"
 		},
 		"algae": {
 			"name": "藻类",
@@ -3297,7 +3297,7 @@
 		"cureCancer": "治愈癌变",
 		"petMutation": "宠物突变",
 		"passivePetalHeal": "持续花瓣治疗",
-		"passivePetalShield": "Passive Petal Shield",
+		"passivePetalShield": "持续花瓣护盾恢复",
 		"healBuff": "治疗增益",
 		"shieldBuff": "护盾增益",
 		"poisonReduction": "剧毒减免",
