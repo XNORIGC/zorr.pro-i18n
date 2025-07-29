@@ -2431,7 +2431,15 @@
 		},
 		"magic_cancer": {
 			"name": "Magic Cancer",
-			"desc": "You get some chance to spawn a pet twice. Not affect by clover."
+			"desc": "You get some chance to spawn a pet twice."
+		},
+		"magic_pearl": {
+			"name": "Magic Pearl",
+			"desc": "Magic magic pearl whose damage increases based on its speed."
+		},
+		"magic_chromosome": {
+			"name": "Magic Chromosome",
+			"desc": "Gives your petals shield over time using Zewton's 69th law of magic."
 		}
 	},
 	"achievements": {
@@ -3289,6 +3297,7 @@
 		"cureCancer": "治癒癌變",
 		"petMutation": "寵物突變",
 		"passivePetalHeal": "持續花瓣治療",
+		"passivePetalShield": "Passive Petal Shield",
 		"healBuff": "治療增益",
 		"shieldBuff": "護盾增益",
 		"poisonReduction": "劇毒減免",
