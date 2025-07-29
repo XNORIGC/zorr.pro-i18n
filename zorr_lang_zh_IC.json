@@ -2431,7 +2431,15 @@
 		},
 		"magic_cancer": {
 			"name": "魔法癌细胞",
-			"desc": "你有概率生成一个宠物两次。概率不受幸运草影响。"
+			"desc": "你有概率生成一个宠物两次。"
+		},
+		"magic_pearl": {
+			"name": "魔法珍珠",
+			"desc": "Magic magic pearl whose damage increases based on its speed."
+		},
+		"magic_chromosome": {
+			"name": "Magic Chromosome",
+			"desc": "Gives your petals shield over time using Zewton's 69th law of magic."
 		}
 	},
 	"achievements": {
@@ -3289,6 +3297,7 @@
 		"cureCancer": "治愈癌变",
 		"petMutation": "宠物突变",
 		"passivePetalHeal": "持续花瓣治疗",
+		"passivePetalShield": "Passive Petal Shield",
 		"healBuff": "治疗增益",
 		"shieldBuff": "护盾增益",
 		"poisonReduction": "剧毒减免",
