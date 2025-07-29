@@ -168,7 +168,7 @@
 		"streakRewardTimer": "可在{1}后领取新的奖励。",
 		"streak": "每日签到 - 第{1}天",
 		"day": "第{1}天",
-		"joinedSquad": "你加入了小队！（代码：{1}）",
+		"joinedSquad": "你加入了小队！代码：{1}",
 		"noPublicSquad": "未找到你当前等级可加入的公开小队。",
 		"creatingSquad": "创建小队中……",
 		"findingPublicSquad": "查找公开小队中……",
