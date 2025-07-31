@@ -156,7 +156,10 @@
 		"hideFailed": "隐藏失败合成",
 		"logout": "登出",
 		"login": "登录",
-		"set": "设置"
+		"set": "设置",
+		"findUser": "查找用户",
+		"specialChatTag": "特别的聊天标签",
+		"Xs": "点击以复制！"
 	},
 	"texts": {
 		"requiresMana": "消耗魔力以生成。",
@@ -176,7 +179,11 @@
 		"chatInfo": "输入“{1}”以查看可用命令。\n在聊天中表现恶劣或使用侮辱性语言将导致你的账户被封禁。",
 		"dropBuffInfo": "掉落增益仅适用于品质最高为(1)的战利品。",
 		"resetsIn": "将在{1}后重置……",
-		"craftRate": "成功率：{1}"
+		"craftRate": "成功率：{1}",
+		"xpFactor": "额外{1}%的经验值",
+		"extraDropRate": "额外{1}%的掉落率",
+		"extraDropBuffTime": "额外{1}%的增益时间",
+		"extraStars": "每月赠送{1}星星"
 	},
 	"mobs": {
 		"rock": {
@@ -2440,6 +2447,10 @@
 		"magic_chromosome": {
 			"name": "魔法染色体",
 			"desc": "运用马顿第六十九魔法定律来持续地为你的花瓣提供护盾。"
+		},
+		"magic_antennae": {
+			"name": "魔法触角",
+			"desc": "增加和抵消你的视野。"
 		}
 	},
 	"achievements": {
@@ -3366,6 +3377,7 @@
 		"robMana": "魔力抢夺",
 		"spreadMana": "魔力分摊",
 		"petVariantMutation": "宠物品种突变",
+		"visionOffset": "Vision Offset",
 		"petalOrbitDistance": "花瓣轨道距离",
 		"flowerBodyDamage": "花瓣身体伤害",
 		"damageReduction": "伤害减免",
@@ -3416,6 +3428,7 @@
 		"autoJoinSquads": "自动加入小队",
 		"showDebugInfo": "显示调试信息",
 		"showIndicators": "显示状态栏",
+		"fastCrafting": "Fast Crafting",
 		"#visuals": "#画面",
 		"showRarities": "显示稀有度",
 		"showCraftBubble": "显示合成气泡",
