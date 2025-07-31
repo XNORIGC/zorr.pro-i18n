@@ -2450,7 +2450,7 @@
 		},
 		"magic_antennae": {
 			"name": "魔法触角",
-			"desc": "增加和抵消你的视野。"
+			"desc": "增加并偏移你的视野。"
 		}
 	},
 	"achievements": {
@@ -3377,7 +3377,7 @@
 		"robMana": "魔力抢夺",
 		"spreadMana": "魔力分摊",
 		"petVariantMutation": "宠物品种突变",
-		"visionOffset": "Vision Offset",
+		"visionOffset": "视野偏移",
 		"petalOrbitDistance": "花瓣轨道距离",
 		"flowerBodyDamage": "花瓣身体伤害",
 		"damageReduction": "伤害减免",
@@ -3428,7 +3428,7 @@
 		"autoJoinSquads": "自动加入小队",
 		"showDebugInfo": "显示调试信息",
 		"showIndicators": "显示状态栏",
-		"fastCrafting": "Fast Crafting",
+		"fastCrafting": "快速合成",
 		"#visuals": "#画面",
 		"showRarities": "显示稀有度",
 		"showCraftBubble": "显示合成气泡",
