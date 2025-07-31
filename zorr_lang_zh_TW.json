@@ -156,7 +156,10 @@
 		"hideFailed": "Hide Failed",
 		"logout": "Logout",
 		"login": "Login",
-		"set": "Set"
+		"set": "Set",
+		"findUser": "Find User",
+		"specialChatTag": "Special Chat Tag",
+		"Xs": "Click to copy!"
 	},
 	"texts": {
 		"requiresMana": "Requires Mana to spawn.",
@@ -176,7 +179,11 @@
 		"chatInfo": "Type \"{1}\" to view commands.\nBeing toxic or using slurs in chat will get your account banned.",
 		"dropBuffInfo": "Drop buffs apply to upto (1) drops only.",
 		"resetsIn": "Resets in {1}...",
-		"craftRate": "{1}% success rate"
+		"craftRate": "{1}% success rate",
+		"xpFactor": "{1}% extra XP",
+		"extraDropRate": "{1}% extra drop rates",
+		"extraDropBuffTime": "{1}m extra drop buff time",
+		"extraStars": "{1} stars per month"
 	},
 	"mobs": {
 		"rock": {
@@ -2440,6 +2447,10 @@
 		"magic_chromosome": {
 			"name": "Magic Chromosome",
 			"desc": "Gives your petals shield over time using Zewton's 69th law of magic."
+		},
+		"magic_antennae": {
+			"name": "Magic Antennae",
+			"desc": "Increases and offsets your vision."
 		}
 	},
 	"achievements": {
@@ -3366,6 +3377,7 @@
 		"robMana": "魔力搶奪",
 		"spreadMana": "魔力分攤",
 		"petVariantMutation": "寵物品種突變",
+		"visionOffset": "Vision Offset",
 		"petalOrbitDistance": "Petal Orbit Distance",
 		"flowerBodyDamage": "Flower Body Damage",
 		"damageReduction": "Damage Reduction",
@@ -3416,6 +3428,7 @@
 		"autoJoinSquads": "自動加入小隊",
 		"showDebugInfo": "顯示除錯資訊",
 		"showIndicators": "顯示指示器",
+		"fastCrafting": "Fast Crafting",
 		"#visuals": "#visuals",
 		"showRarities": "顯示稀有度",
 		"showCraftBubble": "顯示合成氣泡",
