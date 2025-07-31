@@ -180,9 +180,9 @@
 		"dropBuffInfo": "掉落增益仅适用于品质最高为(1)的战利品。",
 		"resetsIn": "将在{1}后重置……",
 		"craftRate": "成功率：{1}",
-		"xpFactor": "额外{1}%的经验值",
-		"extraDropRate": "额外{1}%的掉落率",
-		"extraDropBuffTime": "额外{1}%的增益时间",
+		"xpFactor": "额外{1}%经验值",
+		"extraDropRate": "额外{1}%掉落率",
+		"extraDropBuffTime": "额外{1}分钟掉落增益时间",
 		"extraStars": "每月赠送{1}星星"
 	},
 	"mobs": {
@@ -2450,7 +2450,7 @@
 		},
 		"magic_antennae": {
 			"name": "魔法触角",
-			"desc": "增加并偏移你的视野。"
+			"desc": "增加你的视野并偏移它。"
 		}
 	},
 	"achievements": {
