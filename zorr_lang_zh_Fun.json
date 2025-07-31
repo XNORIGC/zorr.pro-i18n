@@ -179,7 +179,7 @@
 		"chatInfo": "输入“{1}”以查看可用命令。\n在聊天中表现恶劣或使用侮辱性语言将导致你的账户被封禁。",
 		"dropBuffInfo": "掉落增益仅适用于品质最高为(1)的战利品。",
 		"resetsIn": "将在{1}后重置……",
-		"craftRate": "成功率：{1}",
+		"craftRate": "成功率：{1}%",
 		"xpFactor": "额外{1}%经验值",
 		"extraDropRate": "额外{1}%掉落率",
 		"extraDropBuffTime": "额外{1}分钟掉落增益时间",
@@ -2669,7 +2669,7 @@
 			"desc": "被某种更高力量腐化了"
 		},
 		"square": {
-			"name": "正方形",
+			"name": "四四方方的",
 			"desc": "这是什么外来形状"
 		},
 		"lifeless": {
@@ -2749,23 +2749,23 @@
 			"desc": "它到底是怎么用花瓣的"
 		},
 		"one_eye": {
-			"name": "单眼",
-			"desc": "第三只眼的降级版。"
+			"name": "独眼",
+			"desc": "第一只眼。"
 		},
 		"complex": {
 			"name": "复杂",
 			"desc": "非常多刺，非常不自然"
 		},
 		"emotional": {
-			"name": "情绪化",
-			"desc": "变得非常愤怒和非常悲伤。"
+			"name": "情绪症候群",
+			"desc": "哀怒无常。"
 		},
 		"herobrine": {
 			"name": "Herobrine",
 			"desc": "以为我们把他移除了……"
 		},
 		"womp": {
-			"name": "Womp",
+			"name": "喔喔",
 			"desc": "情绪波动中。"
 		},
 		"microsoft_paint_flower": {
@@ -2773,7 +2773,7 @@
 			"desc": "这是谁画的？一个5岁小孩吗？？"
 		},
 		"50_shades_of_flower": {
-			"name": "五十度花",
+			"name": "花朵的五十道阴影",
 			"desc": "应该让人拍一部关于这个的电影……"
 		},
 		"negative": {
@@ -2781,8 +2781,8 @@
 			"desc": "异次元的花。"
 		},
 		"smirk": {
-			"name": "得意笑",
-			"desc": "古怪的花。"
+			"name": "傻笑",
+			"desc": "怪异的一朵花。"
 		},
 		"boba": {
 			"name": "波巴",
@@ -2842,7 +2842,7 @@
 		},
 		"amogus": {
 			"name": "太空人",
-			"desc": "一个冒名顶替者。"
+			"desc": "一个内鬼。"
 		},
 		"brain_damage": {
 			"name": "脑损伤",
@@ -2865,7 +2865,7 @@
 			"desc": "尤巴彩蛋？"
 		},
 		"magma": {
-			"name": "熔岩",
+			"name": "岩浆",
 			"desc": "取自活火山"
 		},
 		"derper": {
