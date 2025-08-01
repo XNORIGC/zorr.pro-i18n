@@ -24,6 +24,7 @@
 		"terms": "服務條款",
 		"wiki": "維基",
 		"inventory": "背包",
+		"stack": "Stack",
 		"inventoryInstructions": "拖放花瓣以裝備。",
 		"yourProfile": "您的個人資料",
 		"globalLeaderboard": "全球排行榜",
@@ -88,7 +89,7 @@
 		"shopFeaturedInfo": "Not sure where to start?",
 		"seeFeatured": "See Featured",
 		"shopAllInfo": "Nothing interesting here?",
-		"buyForFriend": "Buy stars for someone else:",
+		"buyForFriend": "Buy for someone else:",
 		"seeAll": "See All",
 		"stars": "Stars",
 		"skins": "Skins",
@@ -159,7 +160,13 @@
 		"set": "Set",
 		"findUser": "Find User",
 		"specialChatTag": "Special Chat Tag",
-		"Xs": "Click to copy!"
+		"clickToCopy": "Click to copy!",
+		"noMembership": "You don't have any subscription active.",
+		"search": "Search",
+		"enterUsername": "Enter Username...",
+		"setUsername": "Set Username:",
+		"setPassword": "Set Password:",
+		"setDescription": "Set Description:"
 	},
 	"texts": {
 		"requiresMana": "Requires Mana to spawn.",
@@ -183,7 +190,14 @@
 		"xpFactor": "{1}% extra XP",
 		"extraDropRate": "{1}% extra drop rates",
 		"extraDropBuffTime": "{1}m extra drop buff time",
-		"extraStars": "{1} stars per month"
+		"extraStars": "{1} stars per month",
+		"membershipExpiry": "Your {2} membership will expire in {1}...",
+		"usernameMinLength": "Username should be minimum of length {1}",
+		"usernameMaxLength": "Username should be of length less than {1}",
+		"usernameCharRule": "Only letters, numbers & underscore are allowed",
+		"usernameChangeRule": "Username can only be changed once every 14 days.",
+		"passwordMinLength": "Password should be minimum of length {1}",
+		"passwordMaxLength": "Password should be maximum of length {1}"
 	},
 	"mobs": {
 		"rock": {
@@ -1290,7 +1304,7 @@
 		},
 		"plank": {
 			"name": "木板",
-			"desc": "對敵人彈射物造成多一百倍傷害。"
+			"desc": "Does 300x more damage to enemy projectiles."
 		},
 		"icicle": {
 			"name": "冰錐",
@@ -3428,7 +3442,7 @@
 		"autoJoinSquads": "自動加入小隊",
 		"showDebugInfo": "顯示除錯資訊",
 		"showIndicators": "顯示指示器",
-		"fastCrafting": "Fast Crafting",
+		"fastCraft": "Fast Craft",
 		"#visuals": "#visuals",
 		"showRarities": "顯示稀有度",
 		"showCraftBubble": "顯示合成氣泡",
