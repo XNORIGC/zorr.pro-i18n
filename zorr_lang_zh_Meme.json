@@ -192,12 +192,12 @@
 		"extraDropBuffTime": "额外{1}分钟掉落增益时间",
 		"extraStars": "每月赠送{1}星星",
 		"membershipExpiry": "你的{2}级会员将在{1}后到期……",
-		"usernameMinLength": "用户名长度最短为{1}",
-		"usernameMaxLength": "用户名长度应小于{1}",
+		"usernameMinLength": "用户名长度应至少为{1}个字符",
+		"usernameMaxLength": "用户名长度应少于{1}个字符",
 		"usernameCharRule": "仅允许使用字母、数字和下划线",
-		"usernameChangeRule": "用户名只能每十四天更改一次。",
-		"passwordMinLength": "密码长度最短为{1}",
-		"passwordMaxLength": "密码长度最长为{1}"
+		"usernameChangeRule": "用户名每十四天只能更改一次。",
+		"passwordMinLength": "密码长度应至少为{1}个字符",
+		"passwordMaxLength": "密码长度应最多为{1}个字符"
 	},
 	"mobs": {
 		"rock": {
@@ -3442,7 +3442,7 @@
 		"autoJoinSquads": "自动加入小队",
 		"showDebugInfo": "显示调试信息",
 		"showIndicators": "显示状态栏",
-		"fastCraft": "Fast Craft",
+		"fastCraft": "快速合成",
 		"#visuals": "#画面",
 		"showRarities": "显示稀有度",
 		"showCraftBubble": "显示合成气泡",
