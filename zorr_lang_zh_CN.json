@@ -24,6 +24,7 @@
 		"terms": "服务条款",
 		"wiki": "维基",
 		"inventory": "背包",
+		"stack": "堆叠",
 		"inventoryInstructions": "拖放花瓣以装备。",
 		"yourProfile": "你的资料",
 		"globalLeaderboard": "全球排行榜",
@@ -88,7 +89,7 @@
 		"shopFeaturedInfo": "不知道从哪里开始？",
 		"seeFeatured": "看看精选花瓣",
 		"shopAllInfo": "不感兴趣？",
-		"buyForFriend": "为其他玩家购买星星：",
+		"buyForFriend": "为其他玩家购买：",
 		"seeAll": "查看全部花瓣",
 		"stars": "星星",
 		"skins": "皮肤",
@@ -159,7 +160,13 @@
 		"set": "设置",
 		"findUser": "查找用户",
 		"specialChatTag": "特别的聊天标签",
-		"Xs": "点击以复制！"
+		"clickToCopy": "点击以复制！",
+		"noMembership": "你还没有任何一个已激活的订阅。",
+		"search": "搜索",
+		"enterUsername": "输入用户名……",
+		"setUsername": "设置用户名：",
+		"setPassword": "设置密码：",
+		"setDescription": "设置描述："
 	},
 	"texts": {
 		"requiresMana": "消耗魔力以生成。",
@@ -183,7 +190,14 @@
 		"xpFactor": "额外{1}%经验值",
 		"extraDropRate": "额外{1}%掉落率",
 		"extraDropBuffTime": "额外{1}分钟掉落增益时间",
-		"extraStars": "每月赠送{1}星星"
+		"extraStars": "每月赠送{1}星星",
+		"membershipExpiry": "你的{2}级会员将在{1}后到期……",
+		"usernameMinLength": "用户名长度最短为{1}",
+		"usernameMaxLength": "用户名长度应小于{1}",
+		"usernameCharRule": "仅允许使用字母、数字和下划线",
+		"usernameChangeRule": "用户名只能每十四天更改一次。",
+		"passwordMinLength": "密码长度最短为{1}",
+		"passwordMaxLength": "密码长度最长为{1}"
 	},
 	"mobs": {
 		"rock": {
@@ -1290,7 +1304,7 @@
 		},
 		"plank": {
 			"name": "木板",
-			"desc": "对敌人弹射物造成多一百倍伤害。"
+			"desc": "对敌人弹射物造成多三百倍伤害。"
 		},
 		"icicle": {
 			"name": "冰锥",
@@ -3428,7 +3442,7 @@
 		"autoJoinSquads": "自动加入小队",
 		"showDebugInfo": "显示调试信息",
 		"showIndicators": "显示状态栏",
-		"fastCrafting": "快速合成",
+		"fastCraft": "Fast Craft",
 		"#visuals": "#画面",
 		"showRarities": "显示稀有度",
 		"showCraftBubble": "显示合成气泡",
