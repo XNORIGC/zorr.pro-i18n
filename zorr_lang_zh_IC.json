@@ -83,7 +83,7 @@
 		"unequip": "卸下",
 		"biome": "生物群系",
 		"rarity": "稀有度",
-		"inUSD": "以美元为单位",
+		"inUSD": "以美元显示",
 		"hoverToPreview": "（悬停以预览）",
 		"shopFeaturedInfo": "不知道从哪里开始？",
 		"seeFeatured": "看看精选花瓣",
@@ -2122,7 +2122,7 @@
 		},
 		"magic_golden_leaf": {
 			"name": "魔法金叶",
-			"desc": "减少使用魔法花瓣所需的魔法。"
+			"desc": "减少使用魔法花瓣所需的魔力。"
 		},
 		"magic_battery": {
 			"name": "魔法电池",
