@@ -3317,7 +3317,7 @@
 		"orbit": "轨道",
 		"boostUpwards": "向上推进",
 		"pullReduction": "拉力减免",
-		"mobXpFactor": "生物经验系数",
+		"mobXpFactor": "生物经验值系数",
 		"fullHealRate": "完全治疗率",
 		"fullManaRegenRate": "魔力完全恢复概率",
 		"extraPetalSize": "额外花瓣大小",
