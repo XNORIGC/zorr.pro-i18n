@@ -2465,6 +2465,26 @@
 		"magic_antennae": {
 			"name": "Magic Antennae",
 			"desc": "Increases and offsets your vision."
+		},
+		"magic_crystal_leaf": {
+			"name": "Magic Crystal Leaf",
+			"desc": "Passively generates magical shield for your pets."
+		},
+		"magic_honey": {
+			"name": "Magic Honey",
+			"desc": "Reduces the size of your honey tiles."
+		},
+		"magic_poo": {
+			"name": "Magic Poo",
+			"desc": "Increases the agro range of your pets"
+		},
+		"magic_blood_scythe": {
+			"name": "Magic Blood Scythe",
+			"desc": "Sets you on fire & poison. but deals insane damage."
+		},
+		"magic_zodiac": {
+			"name": "Magic Zodiac",
+			"desc": "Requires a lot of mana, but deals a lot of damage in return."
 		}
 	},
 	"achievements": {
@@ -3264,6 +3284,8 @@
 		"passiveHeal": "持續治療",
 		"passiveHealBelow50": "持續治療",
 		"passivePetHeal": "持續寵物治療",
+		"passivePetShield": "Passive Pet Shield",
+		"extraPetRange": "Extra Pet Range",
 		"shield": "護盾",
 		"passiveShield": "持續護盾",
 		"poison": "劇毒",
@@ -3295,6 +3317,7 @@
 		"honeyTileDamage": "蜂蜜塊傷害",
 		"honeyTilePoison": "蜂蜜塊毒傷",
 		"honeyTileFire": "蜂蜜塊火傷",
+		"honeySizeReduction": "Honey Size Reduction",
 		"sendToBiome": "傳送至生物群系",
 		"flowerReloadFactor": "花朵載入係數",
 		"armorDebuff": "護甲削弱",
@@ -3309,6 +3332,7 @@
 		"damageHealed": "傷害治療轉化",
 		"selfDamage": "自我傷害",
 		"selfFireDamage": "自我火焰傷害",
+		"selfPoison": "Self Poison",
 		"flowerBodyLightning": "花朵身體電傷",
 		"freezeTime": "凍結時間",
 		"explosionFreezeTime": "爆炸凍結時間",
@@ -3387,7 +3411,7 @@
 		"soakManaTime": "魔力吸收時間",
 		"maxManaSoakCapacity": "最大魔力吸收容量",
 		"damageAbosrbedPerMana": "傷害吸收",
-		"manaCostReduction": "魔力消耗減免",
+		"manaCostFactor": "Mana Cost Factor",
 		"robMana": "魔力搶奪",
 		"spreadMana": "魔力分攤",
 		"petVariantMutation": "寵物品種突變",
