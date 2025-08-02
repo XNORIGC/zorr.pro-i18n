@@ -2465,6 +2465,26 @@
 		"magic_antennae": {
 			"name": "Magic Antennae",
 			"desc": "Increases and offsets your vision."
+		},
+		"magic_crystal_leaf": {
+			"name": "Magic Crystal Leaf",
+			"desc": "Passively generates magical shield for your pets."
+		},
+		"magic_honey": {
+			"name": "Magic Honey",
+			"desc": "Reduces the size of your honey tiles."
+		},
+		"magic_poo": {
+			"name": "Magic Poo",
+			"desc": "Increases the agro range of your pets"
+		},
+		"magic_blood_scythe": {
+			"name": "Magic Blood Scythe",
+			"desc": "Sets you on fire & poison. but deals insane damage."
+		},
+		"magic_zodiac": {
+			"name": "Magic Zodiac",
+			"desc": "Requires a lot of mana, but deals a lot of damage in return."
 		}
 	},
 	"achievements": {
@@ -3264,6 +3284,8 @@
 		"passiveHeal": "Passive Heal",
 		"passiveHealBelow50": "Passive Heal",
 		"passivePetHeal": "Passive Pet Heal",
+		"passivePetShield": "Passive Pet Shield",
+		"extraPetRange": "Extra Pet Range",
 		"shield": "Shield",
 		"passiveShield": "Passive Shield",
 		"poison": "Poison",
@@ -3295,6 +3317,7 @@
 		"honeyTileDamage": "Honey Tile Damage",
 		"honeyTilePoison": "Honey Tile Poison",
 		"honeyTileFire": "Honey Tile Fire",
+		"honeySizeReduction": "Honey Size Reduction",
 		"sendToBiome": "Send To Biome",
 		"flowerReloadFactor": "Flower Reload Factor",
 		"armorDebuff": "Armor Debuff",
@@ -3309,6 +3332,7 @@
 		"damageHealed": "Damage Healed",
 		"selfDamage": "Self Damage",
 		"selfFireDamage": "Self Fire Damage",
+		"selfPoison": "Self Poison",
 		"flowerBodyLightning": "Flower Body Lightning",
 		"freezeTime": "Freeze Time",
 		"explosionFreezeTime": "Explosion Freeze Time",
@@ -3387,7 +3411,7 @@
 		"soakManaTime": "Soak Mana Time",
 		"maxManaSoakCapacity": "Max Mana Soak Capacity",
 		"damageAbosrbedPerMana": "Damage Absorbed",
-		"manaCostReduction": "Mana Cost Reduction",
+		"manaCostFactor": "Mana Cost Factor",
 		"robMana": "Rob Mana",
 		"spreadMana": "Spread Mana",
 		"petVariantMutation": "Pet Variant Mutation",
