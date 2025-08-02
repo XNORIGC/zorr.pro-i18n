@@ -2484,7 +2484,7 @@
 		},
 		"magic_zodiac": {
 			"name": "魔法星座",
-			"desc": "消耗大量魔力，但以造成大量伤害来回馈。"
+			"desc": "消耗大量魔力，但造成大量伤害来回馈。"
 		}
 	},
 	"achievements": {
@@ -3310,7 +3310,7 @@
 		"push": "推力",
 		"armor": "护甲",
 		"extraFlowerHealth": "额外花朵生命值",
-		"flowerPoison": "花朵剧毒",
+		"flowerPoison": "花朵毒伤",
 		"slownessTime": "减速时间",
 		"soakDamageTime": "伤害吸收时间",
 		"honeyRange": "蜂蜜块范围",
@@ -3349,7 +3349,7 @@
 		"passivePetalShield": "持续花瓣护盾恢复",
 		"healBuff": "治疗增益",
 		"shieldBuff": "护盾增益",
-		"poisonReduction": "剧毒减免",
+		"poisonReduction": "毒伤减免",
 		"fireReduction": "火伤减免",
 		"cancer": "癌变",
 		"orbit": "轨道",
@@ -3411,7 +3411,7 @@
 		"soakManaTime": "魔力吸收时间",
 		"maxManaSoakCapacity": "最大魔力吸收容量",
 		"damageAbosrbedPerMana": "伤害吸收",
-		"manaCostFactor": "Mana Cost Factor",
+		"manaCostFactor": "魔力消耗系数",
 		"robMana": "魔力抢夺",
 		"spreadMana": "魔力分摊",
 		"petVariantMutation": "宠物品种突变",
