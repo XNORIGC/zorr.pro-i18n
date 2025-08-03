@@ -166,7 +166,13 @@
 		"enterUsername": "输入用户名……",
 		"setUsername": "设置用户名：",
 		"setPassword": "设置密码：",
-		"setDescription": "设置描述："
+		"setDescription": "设置描述：",
+		"enterNewPassword": "输入新密码……",
+		"enterOldPassword": "输入旧密码……",
+		"profileBubble": {
+			"0": "设置新密码。",
+			"1": "得到一个新的用户名。"
+		}
 	},
 	"texts": {
 		"requiresMana": "消耗魔力以生成。",
@@ -2268,7 +2274,7 @@
 		},
 		"magic_aztec_coin": {
 			"name": "魔法阿兹特克硬币",
-			"desc": "一个为海盗准备的魔法魔法诅咒硬币嘿嘿。商人为此提供三倍战利品。"
+			"desc": "一个为海盗准备的魔法魔法诅咒硬币嘿嘿。商人为此提供四倍战利品。"
 		},
 		"queen_bee_egg": {
 			"name": "蜂后蛋",
@@ -3258,6 +3264,34 @@
 			"name": "藻类",
 			"desc": "都是同性恋"
 		},
+		"sprunki": {
+			"name": "斯普伦基",
+			"desc": "看起来很具体"
+		},
+		"liu_wenzhi": {
+			"name": "Liu Wenzhi",
+			"desc": "It is dismembered"
+		},
+		"floofy": {
+			"name": "Floofy",
+			"desc": "Hold it gently, very weak."
+		},
+		"germ": {
+			"name": "Germ",
+			"desc": "A germ cell"
+		},
+		"bush": {
+			"name": "Bush",
+			"desc": "George Bush"
+		},
+		"error": {
+			"name": "Error",
+			"desc": "Windows crashed..."
+		},
+		"helios": {
+			"name": "Helios",
+			"desc": "Sun God."
+		},
 		"blades": {
 			"name": "刀锋",
 			"desc": "非常非常长的刀锋……"
@@ -3838,6 +3872,41 @@
 		"gold": {
 			"name": "金",
 			"desc": "全能者专属！"
+		}
+	},
+	"featured": {
+		"rookie": {
+			"name": "The Humble Beginnings"
+		},
+		"speed": {
+			"name": "Need For Speed"
+		},
+		"eggs": {
+			"name": "Top Eggs"
+		},
+		"support_eggs": {
+			"name": "Support Eggs"
+		},
+		"starter_eggs": {
+			"name": "Starter Eggs"
+		},
+		"magic": {
+			"name": "Witchcraft"
+		},
+		"electric": {
+			"name": "Electric Starterpack"
+		},
+		"poison": {
+			"name": "Toxic Playstyle"
+		},
+		"fire": {
+			"name": "Burning For Progression"
+		},
+		"high_dps": {
+			"name": "High DPS"
+		},
+		"top_player": {
+			"name": "Top Player Pack"
 		}
 	}
 }
