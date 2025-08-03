@@ -170,8 +170,8 @@
 		"enterNewPassword": "输入新密码……",
 		"enterOldPassword": "输入旧密码……",
 		"profileBubble": {
-			"0": "设置新密码。",
-			"1": "得到一个新的用户名。"
+			"0": "设置密码。",
+			"1": "得到用户名。"
 		}
 	},
 	"texts": {
@@ -3269,28 +3269,28 @@
 			"desc": "看起来很具体"
 		},
 		"liu_wenzhi": {
-			"name": "Liu Wenzhi",
-			"desc": "It is dismembered"
+			"name": "刘问肢",
+			"desc": "它被肢解了"
 		},
 		"floofy": {
-			"name": "Floofy",
-			"desc": "Hold it gently, very weak."
+			"name": "蓬松",
+			"desc": "轻着点握它，它很脆弱。"
 		},
 		"germ": {
-			"name": "Germ",
-			"desc": "A germ cell"
+			"name": "生殖细胞",
+			"desc": "精子"
 		},
 		"bush": {
-			"name": "Bush",
-			"desc": "George Bush"
+			"name": "灌木丛",
+			"desc": "乔治·布什"
 		},
 		"error": {
-			"name": "Error",
-			"desc": "Windows crashed..."
+			"name": "错误",
+			"desc": "Windows崩溃了……"
 		},
 		"helios": {
-			"name": "Helios",
-			"desc": "Sun God."
+			"name": "赫利俄斯",
+			"desc": "太阳神。"
 		},
 		"blades": {
 			"name": "刀锋",
@@ -3876,19 +3876,19 @@
 	},
 	"featured": {
 		"rookie": {
-			"name": "The Humble Beginnings"
+			"name": "低级的起始"
 		},
 		"speed": {
-			"name": "Need For Speed"
+			"name": "需要速度"
 		},
 		"eggs": {
-			"name": "Top Eggs"
+			"name": "顶级蛋"
 		},
 		"support_eggs": {
-			"name": "Support Eggs"
+			"name": "支持蛋"
 		},
 		"starter_eggs": {
-			"name": "Starter Eggs"
+			"name": "入门级蛋"
 		},
 		"magic": {
 			"name": "Witchcraft"
