@@ -3,7 +3,7 @@
 	"ui": {
 		"deathInfo": "你死于",
 		"continue": "继续",
-		"minimize": "最小化",
+		"minimize": "关闭",
 		"deathEscape": "（或按Escape键）",
 		"nickInfo": "这朵小花名叫……",
 		"play": "游玩",
