@@ -2256,7 +2256,7 @@
 		},
 		"soap": {
 			"name": "肥皂",
-			"desc": "增加液态花瓣的溢出率。同时也是对猫咪俱乐部的邀请。"
+			"desc": "增加液态花瓣的流动速度。同时也是加入猫咪俱乐部的邀请函。"
 		},
 		"magic_bur": {
 			"name": "魔法刺果",
@@ -3375,7 +3375,7 @@
 		"growth": "生长",
 		"growthTime": "生长时间",
 		"petFullRegenRate": "宠物完全恢复率",
-		"spillRate": "溢出速率",
+		"spillRate": "流动速度",
 		"extraPetSpeed": "额外宠物速度",
 		"petSpeedReduction": "宠物速度减少",
 		"fireSpeedFactor": "火焰速度系数",
@@ -3389,7 +3389,7 @@
 		"flowerEvasion": "花朵闪避",
 		"fragmentDamage": "碎片伤害",
 		"fragmentHealth": "碎片生命",
-		"extraSpillRate": "额外溢出速率",
+		"extraSpillRate": "额外流动速度",
 		"armorDebuffPercent": "护甲削弱百分比",
 		"flowerExplosion": "花朵爆炸",
 		"flowerExplosionSize": "花朵爆炸范围",
