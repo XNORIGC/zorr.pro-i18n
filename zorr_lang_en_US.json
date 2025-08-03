@@ -166,7 +166,13 @@
 		"enterUsername": "Enter Username...",
 		"setUsername": "Set Username:",
 		"setPassword": "Set Password:",
-		"setDescription": "Set Description:"
+		"setDescription": "Set Description:",
+		"enterNewPassword": "Enter new password...",
+		"enterOldPassword": "Enter old password...",
+		"profileBubble": {
+			"0": "Set a new password.",
+			"1": "Get a new username."
+		}
 	},
 	"texts": {
 		"requiresMana": "Requires Mana to spawn.",
@@ -2268,7 +2274,7 @@
 		},
 		"magic_aztec_coin": {
 			"name": "Magic Aztec Coin",
-			"desc": "A magic magic cursed coin for the pirates hehe. Trader gives 3x loot for this."
+			"desc": "A magic magic cursed coin for the pirates hehe. Trader gives 4x loot for this."
 		},
 		"queen_bee_egg": {
 			"name": "Queen Bee Egg",
@@ -3258,6 +3264,34 @@
 			"name": "Algae",
 			"desc": "Al Gae"
 		},
+		"sprunki": {
+			"name": "Sprunki",
+			"desc": "It looks like concrete"
+		},
+		"liu_wenzhi": {
+			"name": "Liu Wenzhi",
+			"desc": "It is dismembered"
+		},
+		"floofy": {
+			"name": "Floofy",
+			"desc": "Hold it gently, very weak."
+		},
+		"germ": {
+			"name": "Germ",
+			"desc": "A germ cell"
+		},
+		"bush": {
+			"name": "Bush",
+			"desc": "George Bush"
+		},
+		"error": {
+			"name": "Error",
+			"desc": "Windows crashed..."
+		},
+		"helios": {
+			"name": "Helios",
+			"desc": "Sun God."
+		},
 		"blades": {
 			"name": "Blades",
 			"desc": "Really really long blades..."
@@ -3838,6 +3872,41 @@
 		"gold": {
 			"name": "Gold",
 			"desc": "Omnipotents only!"
+		}
+	},
+	"featured": {
+		"rookie": {
+			"name": "The Humble Beginnings"
+		},
+		"speed": {
+			"name": "Need For Speed"
+		},
+		"eggs": {
+			"name": "Top Eggs"
+		},
+		"support_eggs": {
+			"name": "Support Eggs"
+		},
+		"starter_eggs": {
+			"name": "Starter Eggs"
+		},
+		"magic": {
+			"name": "Witchcraft"
+		},
+		"electric": {
+			"name": "Electric Starterpack"
+		},
+		"poison": {
+			"name": "Toxic Playstyle"
+		},
+		"fire": {
+			"name": "Burning For Progression"
+		},
+		"high_dps": {
+			"name": "High DPS"
+		},
+		"top_player": {
+			"name": "Top Player Pack"
 		}
 	}
 }
