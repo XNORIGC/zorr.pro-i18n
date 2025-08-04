@@ -1,210 +1,10 @@
 {
-	"test": "test",
 	"name": "中文（简体）",
 	"ui": {
-		"deathInfo": "你死于",
-		"continue": "继续",
-		"minimize": "关闭",
-		"deathEscape": "（或按Escape键）",
 		"nickInfo": "这朵小花名叫……",
 		"play": "游玩",
 		"squad": "小队",
-		"connecting": "连接中……",
-		"chatInfo": "按[Enter]以聊天",
-		"achievements": "成就",
-		"shop": "商店",
-		"commands": "命令",
-		"users": "用户",
-		"loadouts": "配装",
-		"changelog": "更新日志",
-		"guild": "公会",
-		"credits": "致谢",
-		"settings": "设置",
-		"toggleFullscreen": "切换全屏",
-		"privacy": "隐私政策",
-		"terms": "服务条款",
-		"wiki": "维基",
-		"inventory": "背包",
-		"stack": "堆叠",
-		"inventoryInstructions": "拖放花瓣以装备。",
-		"yourProfile": "你的资料",
-		"globalLeaderboard": "全球排行榜",
-		"globalCrafts": "全球合成日志",
-		"challenges": "挑战",
-		"mapEditor": "地图编辑器",
-		"joinDiscord": "加入我们的Discord服务器！",
-		"leaveGame": "离开游戏",
-		"commandHelper": "命令助手",
-		"craft": "合成",
-		"mobGallery": "生物图鉴",
-		"dailyStreakRewards": "每日签到奖励",
-		"findPublic": "加入随机公开小队",
-		"new": "创建",
-		"leave": "离开",
-		"empty": "[空]",
-		"join": "加入",
-		"you": "（你）",
-		"public": "公开",
-		"privateSquad": "私密小队",
-		"loadout": "配装",
-		"reset": "重置",
-		"clear": "清空",
-		"speed": "转速",
-		"servers": "服务器",
-		"viewRewards": "查看奖励",
-		"claimRewards": "领取奖励",
-		"timeAlive": "存活时间",
-		"mobsKilled": "击杀生物数",
-		"score": "分数",
-		"totalDamage": "总伤",
-		"lastDamage": "伤害",
-		"dps": "秒伤",
-		"averageDps": "平均秒伤",
-		"fps": "帧率",
-		"ping": "延迟",
-		"throughput": "传输速率",
-		"objectCount": "对象数",
-		"clientTickTime": "客户端刻用时",
-		"cacheCount": "画布缓存数",
-		"particleCount": "粒子数",
-		"collisionChecks": "碰撞检测数",
-		"serverTickTime": "服务端刻用时",
-		"currentPosition": "当前位置",
-		"plains": "平原",
-		"desert": "沙漠",
-		"ocean": "海洋",
-		"jungle": "丛林",
-		"arctic": "极地",
-		"bio": "生化",
-		"void": "虚空",
-		"hel": "冥界",
-		"as": "亚洲",
-		"eu": "欧洲",
-		"us": "美国",
-		"equip": "装备",
-		"unequip": "卸下",
-		"biome": "生物群系",
-		"rarity": "稀有度",
-		"inUSD": "以美元显示",
-		"hoverToPreview": "（悬停以预览）",
-		"shopFeaturedInfo": "不知道从哪里开始？",
-		"seeFeatured": "看看精选花瓣",
-		"shopAllInfo": "不感兴趣？",
-		"buyForFriend": "为其他玩家购买：",
-		"seeAll": "查看全部花瓣",
-		"stars": "星星",
-		"skins": "皮肤",
-		"petals": "花瓣",
-		"mobSkins": "生物皮肤",
-		"memberships": "会员",
-		"shopPolicy": "申请退款将导致你的账户被封禁。",
-		"shopSupport": "如有任何与支付相关的问题，请发送电子邮件至：",
-		"shopNazarBeetles": "当心邪眼甲虫！",
-		"controls": "控制",
-		"chat": "聊天",
-		"game": "游戏",
-		"visuals": "画面",
-		"indicators": "状态栏",
-		"done": "已完成",
-		"all": "全部",
-		"complete": "已完成",
-		"incomplete": "未完成",
-		"cmdInfo": "点击以运行命令。",
-		"stealthMode": "隐身模式",
-		"save": "保存",
-		"includeBothRows": "包含副配装",
-		"includeSpinSpeed": "包含转速",
-		"copyCode": "复制代码",
-		"delete": "删除",
-		"rename": "命名",
-		"update": "更新",
-		"moveUp": "上移",
-		"moveDown": "下移",
-		"singleLoadoutCode": "单配装代码",
-		"fullLoadoutCode": "全配装代码",
-		"import": "导入",
-		"copy": "复制",
-		"notInGuild": "你还不在任何一个公会里。",
-		"guildCreateRequirement": "需要达到五十级以上才能创建公会。",
-		"create": "创建",
-		"creating": "创建中……",
-		"invite": "邀请",
-		"kick": "踢出",
-		"leader": "（会长）",
-		"oracle": "神谕",
-		"trade": "交易",
-		"showAll": "显示空格",
-		"craftLog": "合成日志",
-		"petalsCrafted": "合成花瓣数",
-		"petalsBurned": "燃烧花瓣数",
-		"craftAttempts": "合成尝试数",
-		"petalsLeft": "剩下花瓣数",
-		"minRng": "最小随机数",
-		"craftInfo": [
-			"结合五片相同的花瓣以合成升级版。",
-			"失败将摧毁一到四片花瓣。"
-		],
-		"oracleInfo": [
-			"在海洋里寻找神使",
-			"神使将保证一次合成会成功……只要用合适的价格。",
-			"有0.001%的概率给出双倍合成结果。"
-		],
-		"tradeInfo": [
-			"在丛林中寻找商人",
-			"交易花瓣以得到随机硬币或商品。"
-		],
-		"prev": "上一页",
-		"next": "下一页",
-		"hideFailed": "隐藏失败合成",
-		"logout": "登出",
-		"login": "登录",
-		"set": "设置",
-		"findUser": "查找用户",
-		"specialChatTag": "特别的聊天标签",
-		"clickToCopy": "点击以复制！",
-		"noMembership": "你还没有任何一个已激活的订阅。",
-		"search": "搜索",
-		"enterUsername": "输入用户名……",
-		"setUsername": "设置用户名：",
-		"setPassword": "设置密码：",
-		"setDescription": "设置描述：",
-		"enterNewPassword": "输入新密码……",
-		"enterOldPassword": "输入旧密码……",
-		"profileBubble": [
-			"设置密码。",
-			"得到用户名。"
-		]
-	},
-	"texts": {
-		"requiresMana": "消耗魔力以生成。",
-		"petManaDrain": "每个宠物每秒消耗{1}点魔力。一朵花同时只能有最多三十个魔法宠物。",
-		"manaDrain": "每秒消耗{1}点魔力",
-		"manaToDamage": "消耗全部魔力以生成。伤害 = 0.18 × 魔力 × ㏒₂魔力 × (品质 + 1)³",
-		"growthMana": "消耗{1}点魔力以生长至最大大小。",
-		"petDupeMana": "消耗{1}点魔力以复制宠物。",
-		"streakRewardTimer": "可在{1}后领取新的奖励。",
-		"streak": "每日签到 - 第{1}天",
-		"day": "第{1}天",
-		"joinedSquad": "你加入了小队！代码：{1}",
-		"noPublicSquad": "未找到你当前等级可加入的公开小队。",
-		"creatingSquad": "创建小队中……",
-		"findingPublicSquad": "查找公开小队中……",
-		"notInSquad": "你还不在任何一个小队里",
-		"chatInfo": "输入“{1}”以查看可用命令。\n在聊天中表现恶劣或使用侮辱性语言将导致你的账户被封禁。",
-		"dropBuffInfo": "掉落增益仅适用于品质最高为(1)的战利品。",
-		"resetsIn": "将在{1}后重置……",
-		"craftRate": "成功率：{1}%",
-		"xpFactor": "额外{1}%经验值",
-		"extraDropRate": "额外{1}%掉落率",
-		"extraDropBuffTime": "额外{1}分钟掉落增益时间",
-		"extraStars": "每月赠送{1}星星",
-		"membershipExpiry": "你的{2}级会员将在{1}后到期……",
-		"usernameMinLength": "用户名长度应至少为{1}个字符",
-		"usernameMaxLength": "用户名长度应少于{1}个字符",
-		"usernameCharRule": "仅允许使用字母、数字和下划线",
-		"usernameChangeRule": "用户名每十四天只能更改一次。",
-		"passwordMinLength": "密码长度应至少为{1}个字符",
-		"passwordMaxLength": "密码长度应最多为{1}个字符"
+		"connecting": "连接中……"
 	},
 	"mobs": {
 		"rock": {
@@ -622,162 +422,6 @@
 		"trader": {
 			"name": "商人",
 			"desc": "让你可以用花瓣来交换硬币或商品。"
-		},
-		"tesla_coil": {
-			"name": "特斯拉线圈",
-			"desc": "一个可以远距离电击敌人的特斯拉线圈 "
-		},
-		"snail": {
-			"name": "蜗牛",
-			"desc": "它移动得很慢。"
-		},
-		"stem_cell": {
-			"name": "干细胞",
-			"desc": "它会随时间再生。"
-		},
-		"barrel": {
-			"name": "铀桶",
-			"desc": "里面装着非常危险的东西。"
-		},
-		"nuke": {
-			"name": "核弹",
-			"desc": "沙皇核弹是一个非常巨大的苏联氢弹。"
-		},
-		"digger": {
-			"name": "挖掘者",
-			"desc": "一个只会挖来挖去的盟友。"
-		},
-		"spider_digger": {
-			"name": "蜘蛛挖掘者",
-			"desc": "它建造了蜘蛛洞。"
-		},
-		"hel_digger": {
-			"name": "冥界挖掘者",
-			"desc": "它驯服了龙……"
-		},
-		"grave_digger": {
-			"name": "墓碑挖掘者",
-			"desc": "它想让你进入刚挖好的墓中"
-		},
-		"sandstone": {
-			"name": "砂岩",
-			"desc": "一个易碎且布满灰尘的石头"
-		},
-		"termite_overmind": {
-			"name": "白蚁主宰者",
-			"desc": "它已做好战胜任何敌人的充分准备。"
-		},
-		"baby_termite": {
-			"name": "白幼蚁",
-			"desc": "有一个非常坎坷的童年"
-		},
-		"worker_termite": {
-			"name": "白工蚁",
-			"desc": "不想战斗，但无奈被迫。"
-		},
-		"soldier_termite": {
-			"name": "白兵蚁",
-			"desc": "为自由而战，但它所做的只是无意中伤害了自己的朋友。"
-		},
-		"termite_hole": {
-			"name": "白蚁穴",
-			"desc": "里面有一些白蚁。"
-		},
-		"termite_digger": {
-			"name": "白蚁挖掘者",
-			"desc": "已经与当地白蚁群建立了友谊。"
-		},
-		"shipwreck": {
-			"name": "沉船",
-			"desc": "水下“车祸”，看来这里的野生动物已经占据了这艘交通工具。"
-		},
-		"pirate_digger": {
-			"name": "海盗挖掘者",
-			"desc": "咖喱豆海盗"
-		},
-		"palm_tree": {
-			"name": "棕榈树",
-			"desc": "它巨大的叶子帮助它在这种气候中生存"
-		},
-		"stalagmite": {
-			"name": "石笋",
-			"desc": "它会反复试图刺伤你。"
-		},
-		"arctic_spider_cave": {
-			"name": "极地蜘蛛洞",
-			"desc": "一个非常酷的洞穴，位于一个已经很酷的洞穴内部。洞穴中的洞穴。"
-		},
-		"beekeeper": {
-			"name": "养蜂者",
-			"desc": "它是蜜蜂的饲养者。"
-		},
-		"hel_beekeeper": {
-			"name": "冥界养蜂者",
-			"desc": "它是冥界蜜蜂的饲养者。"
-		},
-		"alien_digger": {
-			"name": "外星挖掘者",
-			"desc": "在其他行星上开采资源"
-		},
-		"queen_bee": {
-			"name": "蜂后",
-			"desc": "蜜蜂的皇家领袖。"
-		},
-		"hel_queen_bee": {
-			"name": "冥界蜂后",
-			"desc": "恶魔蜜蜂的恶毒领袖。"
-		},
-		"hel_centipede": {
-			"name": "冥界蜈蚣",
-			"desc": "地狱般的长条生物。它也学会了如何使用它自己的掉落物。"
-		},
-		"fire_eel": {
-			"name": "火鳗",
-			"desc": "它的刺痛感伴随着额外的烧伤因素。"
-		},
-		"lamprey_eel": {
-			"name": "七鳃鳗",
-			"desc": "一条剧毒无比的鳗鱼……"
-		},
-		"frost_digger": {
-			"name": "寒霜挖掘者",
-			"desc": "严寒将它侵蚀得脆弱不堪，但它仍未停下脚步。"
-		},
-		"cube": {
-			"name": "立方体",
-			"desc": "这个东西看起来好熟悉……你这不就是把3D点投影到2D平面嘛。简单得很。"
-		},
-		"white_hole": {
-			"name": "白洞",
-			"desc": "辐射着让人感到非常恶心的炫目强光。"
-		},
-		"tesseract": {
-			"name": "超立方体",
-			"desc": "这个形状甚至不来自这个维度...这种情况是如何发生的。"
-		},
-		"unabomber": {
-			"name": "炸弹客",
-			"desc": "泰德·卡钦斯基时刻"
-		},
-		"biologist": {
-			"name": "生物学家",
-			"desc": "一个只是在你的细胞里研究生物学的盟友。它的伤害会随着受伤而增加。"
-		},
-		"cicada_3301": {
-			"name": "蝉3301",
-			"desc": "有33%的概率造成三十三倍伤害（包括心灵感应伤害）。顿悟将至。汝之朝圣路已开启。真理之光待君采撷。"
-		},
-		"shark": {
-			"name": "鲨鱼",
-			"desc": "宝贝鲨嘟嘟嘟嘟嘟嘟……"
-		},
-		"squid": {
-			"name": "鱿鱼",
-			"desc": "在找厕所上，或许那只是墨水。"
-		},
-		"geyser": {
-			"name": "热泉",
-			"desc": "到处喷滚烫的水。"
 		}
 	},
 	"petals": {
@@ -1183,7 +827,7 @@
 		},
 		"nazar": {
 			"name": "邪眼护符",
-			"desc": "它能抵挡几次攻击，然后进入冷却"
+			"desc": "It can tank 1 hit, and then goes on cooldown"
 		},
 		"nazar_beetle_egg": {
 			"name": "邪眼甲虫蛋",
@@ -1311,7 +955,7 @@
 		},
 		"plank": {
 			"name": "木板",
-			"desc": "对敌人弹射物造成多三百倍伤害。"
+			"desc": "Does 100x more damage to enemy projectiles."
 		},
 		"icicle": {
 			"name": "冰锥",
@@ -1319,7 +963,7 @@
 		},
 		"dice": {
 			"name": "骰子",
-			"desc": "有8%的概率造成六十九倍伤害。概率受幸运草影响。"
+			"desc": "Has 7.5% chance of dealing 69x damage. Rate is affected by Clover."
 		},
 		"cryo_bomb": {
 			"name": "冰冻炸弹",
@@ -1567,7 +1211,7 @@
 		},
 		"disc": {
 			"name": "圆盘",
-			"desc": "减少受到的伤害。"
+			"desc": "Increases your body damage based on your health."
 		},
 		"mimic": {
 			"name": "拟态",
@@ -1615,7 +1259,7 @@
 		},
 		"horn": {
 			"name": "角",
-			"desc": "增加你宠物的伤害。"
+			"desc": "Increases damage of your pets."
 		},
 		"ufo_egg": {
 			"name": "飞碟蛋",
@@ -1639,7 +1283,7 @@
 		},
 		"mirror": {
 			"name": "镜子",
-			"desc": "反射最高到品质+1的导弹。比它品质高的导弹的伤害会被削弱95%。例如：究极镜子可以反射超级黄蜂的导弹，但是它的伤害会被削弱95%。"
+			"desc": "Reflects missiles upto to the same rarity."
 		},
 		"comb": {
 			"name": "梳子",
@@ -1683,7 +1327,7 @@
 		},
 		"plasma": {
 			"name": "等离子体",
-			"desc": "物质的极热状态。闪电能多次击中同一目标。"
+			"desc": "Very hot state of matter."
 		},
 		"quantum": {
 			"name": "量子",
@@ -1717,9 +1361,9 @@
 			"name": "训练干花蛋",
 			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
-		"yuan": {
-			"name": "人民币",
-			"desc": "中国大陆的流通货币。"
+		"yen": {
+			"name": "Yen",
+			"desc": "The currency of the Mainland."
 		},
 		"bitcoin": {
 			"name": "比特币",
@@ -1735,7 +1379,7 @@
 		},
 		"emerald": {
 			"name": "绿宝石",
-			"desc": "被这种宝石击中的生物会给你带来更多经验值。"
+			"desc": "Gives you more XP from mobs of the same rarity when the mob is hit with it."
 		},
 		"sapphire": {
 			"name": "蓝宝石",
@@ -1751,7 +1395,7 @@
 		},
 		"diamond": {
 			"name": "钻石",
-			"desc": "被摧毁后会碎开。"
+			"desc": "Skibidi petal dop dop yes yes"
 		},
 		"topaz": {
 			"name": "黄玉",
@@ -1780,718 +1424,6 @@
 		"plutonium": {
 			"name": "钚",
 			"desc": "一种能够造成非常严重烧伤的放射性元素。"
-		},
-		"lithium": {
-			"name": "锂",
-			"desc": "能在你的电池里找到。"
-		},
-		"tesla_coil_egg": {
-			"name": "特斯拉线圈蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"snail": {
-			"name": "蜗牛壳",
-			"desc": "它让你花瓣轨道变成漩涡形的。"
-		},
-		"snail_egg": {
-			"name": "蜗牛蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"iodine": {
-			"name": "碘",
-			"desc": "记得及时吃碘片嘿嘿。"
-		},
-		"chilly": {
-			"name": "辣椒",
-			"desc": "胃食管反流病患者请勿食用。"
-		},
-		"tomato": {
-			"name": "番茄",
-			"desc": "它随着时间的推移而变得更加强大。"
-		},
-		"banana": {
-			"name": "香蕉",
-			"desc": "它会黏在其攻击的目标上。"
-		},
-		"stem_cell": {
-			"name": "干细胞",
-			"desc": "稀有度不高于它的召唤物的生命值下降至66%或33%时，它有概率治疗它们。概率受幸运草影响。"
-		},
-		"stem_cell_egg": {
-			"name": "干细胞蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"barrel_egg": {
-			"name": "铀桶蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"acid": {
-			"name": "酸",
-			"desc": "为花花们从各种各样的胃里收集到的盐酸。"
-		},
-		"lava": {
-			"name": "熔岩",
-			"desc": "从活火山中收集到的热熔融物质。"
-		},
-		"corium": {
-			"name": "堆芯",
-			"desc": "从切尔诺贝利四号核反应堆走私而来……"
-		},
-		"nitrogen": {
-			"name": "氮",
-			"desc": "液氮。冷到能冻住你的敌人。"
-		},
-		"landmine": {
-			"name": "地雷",
-			"desc": "你可以把这些放置在地上。敌人踩上去的时候会有有趣的事情发生嘿嘿"
-		},
-		"blood": {
-			"name": "血",
-			"desc": "尝起来像金属。"
-		},
-		"rna": {
-			"name": "RNA",
-			"desc": "让你的宠物移动得更快。"
-		},
-		"fan": {
-			"name": "扇子",
-			"desc": "降低你的燃烧速度。"
-		},
-		"graphite": {
-			"name": "石墨",
-			"desc": "增加你花瓣的放射性。"
-		},
-		"capacitor": {
-			"name": "电容器",
-			"desc": "增加相同稀有度及以下闪电的连锁攻击数目。"
-		},
-		"koban": {
-			"name": "小判",
-			"desc": "日本古钱币。非常稀有，请妥善保管！"
-		},
-		"cucumber": {
-			"name": "黄瓜",
-			"desc": "适合减肥吃。"
-		},
-		"oxygen": {
-			"name": "氧气",
-			"desc": "延长敌人的燃烧时间。"
-		},
-		"cyanide": {
-			"name": "氰化物",
-			"desc": "延长其触碰到的生物的中毒时间。"
-		},
-		"fusion": {
-			"name": "聚变",
-			"desc": "将它右侧的一个品质不高于它的花瓣的所有单体聚变成一个更强的单体。例如：如果你在超级聚变右边装备一个有六个较弱单体的超级轻，你将得到单个更强大的超级轻。"
-		},
-		"fission": {
-			"name": "裂变",
-			"desc": "将它右侧的一个品质不高于它的花瓣裂变成多个单体。例如：如果你在超级裂变右边装备一个超级仙人掌，你将得到三个更弱的超级仙人掌；如果你装备的是有六个单体的超级轻，你将得到十八个单体。"
-		},
-		"nuke_egg": {
-			"name": "核弹蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"cross": {
-			"name": "撒旦十字架",
-			"desc": "按下右键时，它会把你传送到它落下的地方。"
-		},
-		"digger_egg": {
-			"name": "挖掘者蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"spider_digger_egg": {
-			"name": "蜘蛛挖掘者蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"splitter": {
-			"name": "分裂器",
-			"desc": "将你的花瓣轨道分裂为多重轨道。\n所有位于此花瓣右侧的花瓣将组成一个新的轨道。\n其效果可以叠加，使用更多的分裂器可以分裂出更多的轨道。"
-		},
-		"nuke": {
-			"name": "核弹",
-			"desc": "它会造成一个多重爆炸。"
-		},
-		"gunpowder": {
-			"name": "火药",
-			"desc": "当敌人处于燃烧状态时，其造成5倍伤害。"
-		},
-		"compass": {
-			"name": "指南针",
-			"desc": "使你的轨道指向你的运动方向。"
-		},
-		"dark_matter": {
-			"name": "暗物质",
-			"desc": "这个不可见的物质可以在你的花瓣轨道之间形成间隔。"
-		},
-		"hel_digger_egg": {
-			"name": "冥界挖掘者蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"glass": {
-			"name": "玻璃",
-			"desc": "每隔1秒造成一次伤害。"
-		},
-		"grave_digger_egg": {
-			"name": "墓碑挖掘者蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"shovel": {
-			"name": "铲子",
-			"desc": "可以让你进入地下并遇见蠕虫。"
-		},
-		"sandstone_egg": {
-			"name": "砂岩蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"marble": {
-			"name": "弹珠",
-			"desc": "掉在地上，滚来滚去，而且每秒造成一次伤害。"
-		},
-		"trident": {
-			"name": "三叉戟",
-			"desc": "如果同一服务器有人得到更高级的三叉戟，它将被摧毁。"
-		},
-		"bandages": {
-			"name": "绷带",
-			"desc": "得把那些伤口都包起来。或许和镰刀一起用会很不错。"
-		},
-		"talisman": {
-			"name": "闪避护符",
-			"desc": "使你的花朵能够闪避伤害。"
-		},
-		"job_application": {
-			"name": "工作申请",
-			"desc": "使一个怪物失去仇恨五秒。别浪费你的天赋，快去修理管道吧！"
-		},
-		"termite_overmind_egg": {
-			"name": "白蚁主宰者蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"baby_termite_egg": {
-			"name": "白幼蚁蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"worker_termite_egg": {
-			"name": "白工蚁蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"soldier_termite_egg": {
-			"name": "白兵蚁蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"termite_hole_egg": {
-			"name": "白蚁穴蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_rose": {
-			"name": "魔法玫瑰",
-			"desc": "吸收你周围的魔法。"
-		},
-		"magic_leaf": {
-			"name": "魔法叶",
-			"desc": "吸收你周围的魔法。"
-		},
-		"magic_cactus": {
-			"name": "魔法仙人掌",
-			"desc": "增加你的最大生命值和魔力容量。"
-		},
-		"magic_missile": {
-			"name": "魔法导弹",
-			"desc": "昂贵但快速。"
-		},
-		"magic_stinger": {
-			"name": "魔法刺",
-			"desc": "很痛，但需要大量魔法才能召唤。"
-		},
-		"magic_fang": {
-			"name": "魔法尖牙",
-			"desc": "从苦痛中吸取魔力。"
-		},
-		"magic_blood_stinger": {
-			"name": "魔法血刺",
-			"desc": "此花瓣的魔法会反噬其使用者。"
-		},
-		"magic_wing": {
-			"name": "魔法翅膀",
-			"desc": "飞得更远并且可以自我复制。"
-		},
-		"magic_pea": {
-			"name": "魔法豌豆",
-			"desc": "因暴力之咒与魔法而变得憔悴"
-		},
-		"magic_grapes": {
-			"name": "魔法葡萄",
-			"desc": "黑暗魔法驱动着其中的风暴。"
-		},
-		"magic_blueberries": {
-			"name": "魔法蓝莓",
-			"desc": "被诅咒永远燃烧同时被冻结。"
-		},
-		"magic_lightning": {
-			"name": "魔法闪电",
-			"desc": "魔法增强了它索敌的能力。"
-		},
-		"magic_hel_lightning": {
-			"name": "魔法冥界闪电",
-			"desc": "魔法增强了寻找目标的能力，还能点燃它们。"
-		},
-		"magic_usain_bolt": {
-			"name": "魔法尤塞恩·博尔特",
-			"desc": "魔法增强了其追踪目标的能力，并附加了额外的毒素。"
-		},
-		"magic_banana": {
-			"name": "魔法香蕉",
-			"desc": "为魔法猴子而生的魔法香蕉。"
-		},
-		"magic_mimic": {
-			"name": "魔法拟态",
-			"desc": "它模仿它右边的花瓣的魔法变体。例如：超级魔法拟态 + 超级玫瑰 = 超级魔法玫瑰 + 超级玫瑰"
-		},
-		"magic_bomb": {
-			"name": "魔法炸弹",
-			"desc": "c。"
-		},
-		"magic_gas_bomb": {
-			"name": "魔法毒气弹",
-			"desc": "魔法结果证明它是相当具有爆炸性的，并且当与正确的化学物质混合时，它也是有毒的"
-		},
-		"magic_fire_bomb": {
-			"name": "魔法火焰炸弹",
-			"desc": "魔法结果证明它是相当易燃的，甚至更具爆炸性。"
-		},
-		"magic_bubble_bomb": {
-			"name": "魔法泡泡炸弹",
-			"desc": "强大的魔法气体产生了巨大的冲击波。"
-		},
-		"magic_cryo_bomb": {
-			"name": "魔法冷冻炸弹",
-			"desc": "使用魔法的情况下，炸弹爆炸会长时间冻结敌人。"
-		},
-		"magic_rocket": {
-			"name": "魔法火箭",
-			"desc": "魔法结果证明它是相当具有爆炸性的。"
-		},
-		"magic_orange": {
-			"name": "魔法橙子",
-			"desc": "这些橙子已经被诅咒了，不再是橙色，它们现在是品红色的……"
-		},
-		"magic_hemoglobin": {
-			"name": "魔法血红蛋白",
-			"desc": "它不是将氧气输送到身体各处，而是通过你的花瓣传递魔法"
-		},
-		"holy_water": {
-			"name": "圣水",
-			"desc": "清除一群生物的“罪恶”，使其失去仇恨。"
-		},
-		"magic_starfish": {
-			"name": "魔法海星",
-			"desc": "这只魔法般的海星只会对魔力低于50%的人使用魔法"
-		},
-		"magic_square": {
-			"name": "魔法正方形",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_sponge": {
-			"name": "魔法海绵",
-			"desc": "让你的魔力缓慢的消耗。"
-		},
-		"magic_hel_missile": {
-			"name": "魔法冥界导弹",
-			"desc": "使用更多魔法来永久点燃导弹。"
-		},
-		"magic_viper": {
-			"name": "魔法毒刺",
-			"desc": "导弹是用魔法铀制造的，使其非常有毒。"
-		},
-		"magic_electron_missile": {
-			"name": "魔法电子导弹",
-			"desc": "这枚导弹内有许多混乱的魔法。"
-		},
-		"magic_scythe": {
-			"name": "魔法镰刀",
-			"desc": "一个有魔力的长长的物体，将你所有的魔法都转换成它的伤害。"
-		},
-		"termite_digger_egg": {
-			"name": "白蚁挖掘者蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_soil": {
-			"name": "魔法土",
-			"desc": "使你变得非常胖，能够携带比平常更多的魔力。"
-		},
-		"magic_dahlia": {
-			"name": "魔法大丽花",
-			"desc": "更快地吸收魔法。"
-		},
-		"magic_mark": {
-			"name": "魔法标记",
-			"desc": "使用魔法将死掉的花朵随机向任何生物群落发送。"
-		},
-		"magic_cotton": {
-			"name": "魔法棉花",
-			"desc": "吸收伤害，但以固定比例消耗魔力。"
-		},
-		"magic_sunflower": {
-			"name": "魔法向日葵",
-			"desc": "它落在地面上，为你收集魔法……"
-		},
-		"magic_cutter": {
-			"name": "魔法锯齿",
-			"desc": "增加你的身体伤害。"
-		},
-		"magic_golden_leaf": {
-			"name": "魔法金叶",
-			"desc": "减少使用魔法花瓣所需的魔力。"
-		},
-		"magic_battery": {
-			"name": "魔法电池",
-			"desc": "它将借用你的魔力并在一段时间后还给你200%。"
-		},
-		"magic_bubble": {
-			"name": "魔法泡泡",
-			"desc": "它通过魔法在你的运动轨迹上爆发并助你突进。"
-		},
-		"magic_corruption": {
-			"name": "魔法腐化",
-			"desc": "让你立即被魔法的力量腐化。"
-		},
-		"magic_stick": {
-			"name": "魔法木棍",
-			"desc": "它从其他花朵里抢走魔法，不管是好友还是敌人。"
-		},
-		"magic_claw": {
-			"name": "魔法爪子",
-			"desc": "根据你的魔力造成最高五倍伤害。如果你有50%的魔力，则造成二点五倍伤害，依此类推。"
-		},
-		"magic_marble": {
-			"name": "魔法弹珠",
-			"desc": "这块弹珠已经破碎，但魔法将其维系在一起……只是效果有些不佳。"
-		},
-		"magic_salt": {
-			"name": "魔法盐",
-			"desc": "它会使用魔法对所有附近的敌人造成伤害，而不仅仅是对攻击者造成伤害。"
-		},
-		"magic_relic": {
-			"name": "魔法遗物",
-			"desc": "在你的队伍中，将魔法消耗分摊到其他魔法遗物持有者身上。"
-		},
-		"shipwreck_egg": {
-			"name": "沉船蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_fire": {
-			"name": "魔法火",
-			"desc": "对敌人施加一个神奇的自叠加火焰。"
-		},
-		"magic_gas": {
-			"name": "魔法毒气",
-			"desc": "向敌人注入具有自我叠加效果的魔法毒液。"
-		},
-		"magic_yggdrasil": {
-			"name": "魔法世界树之叶",
-			"desc": "你差点死在那里，但随后它将用魔法拯救你。"
-		},
-		"magic_dna": {
-			"name": "魔法DNA",
-			"desc": "为你带来将魔法宠物转化为神秘宠物的小概率，以及像原始DNA一样提升宠物稀有度的小概率。神秘宠物体型更大且速度更快。影响所有直至其稀有度的蛋。"
-		},
-		"magic_rock_egg": {
-			"name": "魔法岩石蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_ladybug_egg": {
-			"name": "魔法瓢虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_baby_ant_egg": {
-			"name": "魔法幼蚁蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_soldier_ant_egg": {
-			"name": "魔法兵蚁蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"pirate_digger_egg": {
-			"name": "海盗挖掘者蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_torch": {
-			"name": "魔法火把",
-			"desc": "持续去除宠物身上的霜冻。"
-		},
-		"palm_tree_egg": {
-			"name": "棕榈树蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"palm_leaf": {
-			"name": "棕榈叶",
-			"desc": "这些神奇的叶子既具有治疗能力，也具有护盾能力。"
-		},
-		"magic_palm_leaf": {
-			"name": "魔法棕榈叶",
-			"desc": "显然，叶子越大，魔力恢复也越快。"
-		},
-		"stalagmite_egg": {
-			"name": "石笋蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"arctic_spider_cave_egg": {
-			"name": "极地蜘蛛洞蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"aztec_coin": {
-			"name": "阿兹特克币",
-			"desc": "一个为海盗准备的魔法魔法诅咒硬币嘿嘿。商人为此提供三倍战利品。"
-		},
-		"beekeeper_egg": {
-			"name": "养蜂者蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"hel_beekeeper_egg": {
-			"name": "冥界养蜂者蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"alien_digger_egg": {
-			"name": "外星挖掘者蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"attractor": {
-			"name": "吸引器",
-			"desc": "它吸引生物们朝自己走来……"
-		},
-		"soap": {
-			"name": "肥皂",
-			"desc": "增加液态花瓣的流动速度。同时也是加入猫咪俱乐部的邀请函。"
-		},
-		"magic_bur": {
-			"name": "魔法刺果",
-			"desc": "根据敌人的身体伤害减少敌人的护甲。"
-		},
-		"magic_rock": {
-			"name": "魔法石头",
-			"desc": "魔法使它非常脆弱，每次受到撞击都会粉碎。"
-		},
-		"magic_aztec_coin": {
-			"name": "魔法阿兹特克硬币",
-			"desc": "一个为海盗准备的魔法魔法诅咒硬币嘿嘿。商人为此提供四倍战利品。"
-		},
-		"queen_bee_egg": {
-			"name": "蜂后蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"hel_queen_bee_egg": {
-			"name": "冥界蜂后蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"hel_centipede_egg": {
-			"name": "冥界蜈蚣蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"fire_eel_egg": {
-			"name": "火鳗蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"lamprey_eel_egg": {
-			"name": "七鳃鳗蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"cherry": {
-			"name": "樱桃",
-			"desc": "由于某些原因，它在燃烧。"
-		},
-		"frost_digger_egg": {
-			"name": "寒霜挖掘者蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"cube": {
-			"name": "立方体",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_cube": {
-			"name": "魔法立方体",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"white_hole_egg": {
-			"name": "白洞蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"antimatter": {
-			"name": "反物质",
-			"desc": "非常不稳定的花瓣，如果你死亡将会爆炸"
-		},
-		"magic_antimatter": {
-			"name": "魔法反物质",
-			"desc": "魔法使它更加不稳定，每次你被击中时都会爆炸"
-		},
-		"stardust": {
-			"name": "星尘",
-			"desc": "星系中的尘埃形成了这些有放射性的小球"
-		},
-		"magic_stardust": {
-			"name": "魔法星尘",
-			"desc": "魔法放大了这片花瓣的辐射性"
-		},
-		"singularity": {
-			"name": "奇点",
-			"desc": "非常重，增加你的质量。"
-		},
-		"magic_singularity": {
-			"name": "魔法奇点",
-			"desc": "缩小你的体积。"
-		},
-		"tesseract": {
-			"name": "超立方体",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_tesseract": {
-			"name": "魔法超立方体",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"copper_rod": {
-			"name": "铜棒",
-			"desc": "它可以减少受到的闪电伤害。"
-		},
-		"magic_copper_rod": {
-			"name": "魔法铜棒",
-			"desc": "它吸收闪电伤害，像棉花一样"
-		},
-		"unabomber_egg": {
-			"name": "炸弹客蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"pipe_bomb": {
-			"name": "管状炸弹",
-			"desc": "非常强烈的爆炸，但有50%的概率不会爆炸。泰德·卡辛斯基为你精心制作:3"
-		},
-		"biologist_egg": {
-			"name": "生物学家蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_ice_rose": {
-			"name": "魔法冰玫瑰",
-			"desc": "从环境中吸收大量魔力的同时带给你寒霜。"
-		},
-		"magic_pipe_bomb": {
-			"name": "魔法管状炸弹",
-			"desc": "有90%的概率造成一个真正的大爆炸。泰德·卡辛斯基用魔法为你精心制作:p"
-		},
-		"cicada_3301_egg": {
-			"name": "蝉3301蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"magic_nazar": {
-			"name": "魔法邪眼护符",
-			"desc": "它能为我方使用魔法的宠物抵挡几次攻击，然后进入冷却"
-		},
-		"magic_cherry": {
-			"name": "魔法樱桃",
-			"desc": "魔法没有任何效果，它们还未成熟……"
-		},
-		"shark_egg": {
-			"name": "鲨鱼蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"tooth": {
-			"name": "牙",
-			"desc": "一颗非常尖锐的牙齿，它造成伤害时会治疗你"
-		},
-		"magic_tooth": {
-			"name": "魔法牙",
-			"desc": "一颗还能吸取敌人魔力的魔法牙齿"
-		},
-		"ink": {
-			"name": "墨水",
-			"desc": "非常粘……还能遮住敌人的眼睛。"
-		},
-		"squid_egg": {
-			"name": "鱿鱼蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"mask": {
-			"name": "面具",
-			"desc": "它能保护你免受ZARS-CoV-69病毒的侵害，也能减少其影响。"
-		},
-		"magic_yuan": {
-			"name": "魔法人民币",
-			"desc": "魔法大陆的流通货币。"
-		},
-		"magic_dollar": {
-			"name": "魔法美元",
-			"desc": "这个到底值多少美元？"
-		},
-		"magic_bitcoin": {
-			"name": "魔法比特币",
-			"desc": "由中本聪创造。"
-		},
-		"magic_candlestick": {
-			"name": "魔法烛台",
-			"desc": "能完全恢复你的魔力，但有时甚至会杀死你。"
-		},
-		"magic_fries": {
-			"name": "魔法薯条",
-			"desc": "这些是用蓝莓油炸的"
-		},
-		"magic_dice": {
-			"name": "魔法骰子",
-			"desc": "有1%的概率用魔法造成一千倍伤害。"
-		},
-		"magic_web": {
-			"name": "魔法网",
-			"desc": "魔法蜘蛛的便便更符合空气动力学原理，能飞得更远"
-		},
-		"geyser_egg": {
-			"name": "热泉蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
-		},
-		"hot_water": {
-			"name": "热水",
-			"desc": "你也许能用它来煮些拉面。也能用来稍微减缓敌人的速度。"
-		},
-		"magic_gunpowder": {
-			"name": "魔法火药",
-			"desc": "对正在燃烧的无能的敌人造成十倍伤害。也能增加你所引发的爆炸的范围。"
-		},
-		"magic_tomato": {
-			"name": "魔法番茄",
-			"desc": "当生活给你未成熟的魔法果实时，用更多的魔法让它们更快地成熟。"
-		},
-		"magic_cancer": {
-			"name": "魔法癌细胞",
-			"desc": "你有概率生成一个宠物两次。"
-		},
-		"magic_pearl": {
-			"name": "魔法珍珠",
-			"desc": "魔法魔法珍珠，其伤害会根据其速度而增加。"
-		},
-		"magic_chromosome": {
-			"name": "魔法染色体",
-			"desc": "运用马顿第六十九魔法定律来持续地为你的花瓣提供护盾。"
-		},
-		"magic_antennae": {
-			"name": "魔法触角",
-			"desc": "增加你的视野并偏移它。"
-		},
-		"magic_crystal_leaf": {
-			"name": "魔法水晶叶",
-			"desc": "持续地为你的宠物生成魔法护盾。"
-		},
-		"magic_honey": {
-			"name": "魔法蜂蜜",
-			"desc": "减少你的蜂蜜块的大小。"
-		},
-		"magic_poo": {
-			"name": "魔法便便",
-			"desc": "增加你的宠物的仇恨范围"
-		},
-		"magic_blood_scythe": {
-			"name": "魔法血镰刀",
-			"desc": "将你置于火毒两重天。但造成疯狂的伤害。"
-		},
-		"magic_zodiac": {
-			"name": "魔法星座",
-			"desc": "消耗大量魔力，但造成大量伤害来回馈。"
 		}
 	},
 	"achievements": {
@@ -2674,30 +1606,6 @@
 		"level300": {
 			"name": "绝对最佳",
 			"desc": "达到三百级"
-		},
-		"cursed": {
-			"name": "古怪之物……",
-			"desc": "击杀一个被诅咒的生物。它们是两千里挑一的。"
-		},
-		"cursed2": {
-			"name": "是谁诅咒了它们？",
-			"desc": "击杀二十五个被诅咒的生物。"
-		},
-		"shiny": {
-			"name": "闪闪发光！",
-			"desc": "击杀一个闪亮生物。它们是万里挑一的。"
-		},
-		"shiny2": {
-			"name": "望见群星……",
-			"desc": "击杀二十五个闪亮生物。"
-		},
-		"corrupt": {
-			"name": "损坏的代码",
-			"desc": "击杀一个腐化生物。它们是五万里挑一的。"
-		},
-		"corrupt2": {
-			"name": "错误420",
-			"desc": "击杀二十五个腐化生物。"
 		}
 	},
 	"skins": {
@@ -3189,109 +2097,9 @@
 			"name": "仙大掌",
 			"desc": "这是个大——的仙人掌。"
 		},
-		"stick": {
-			"name": "木棍",
-			"desc": "从树上折断并掉下来。"
-		},
 		"worm": {
 			"name": "蠕虫",
 			"desc": "一条长长的蠕虫"
-		},
-		"relic": {
-			"name": "遗物",
-			"desc": "一个宝石商的走私物"
-		},
-		"tredor": {
-			"name": "老币登",
-			"desc": "奸商"
-		},
-		"onion": {
-			"name": "洋葱",
-			"desc": "使用 Tor 购买 :p"
-		},
-		"titan": {
-			"name": "泰坦",
-			"desc": "泽伦·泽格"
-		},
-		"a-60": {
-			"name": "A-60",
-			"desc": "炸弹载体"
-		},
-		"dwajl": {
-			"name": "Dwajl",
-			"desc": "由Dwajl制作"
-		},
-		"glitch": {
-			"name": "漏洞",
-			"desc": "赛博朋克花"
-		},
-		"bird": {
-			"name": "鸟",
-			"desc": "Ted喜欢鸟类"
-		},
-		"moon": {
-			"name": "月石",
-			"desc": "当夏至遇上满月……"
-		},
-		"umbrella": {
-			"name": "伞",
-			"desc": "红皇后做的这个。"
-		},
-		"heavy": {
-			"name": "沉重",
-			"desc": "比你妈妈还重"
-		},
-		"yoba": {
-			"name": "尤巴",
-			"desc": "俄国人时间"
-		},
-		"pinkman": {
-			"name": "粉人",
-			"desc": "*痴痴地笑*"
-		},
-		"floren": {
-			"name": "弗洛伦",
-			"desc": "图案不错"
-		},
-		"moss": {
-			"name": "苔藓",
-			"desc": "很胖"
-		},
-		"fern": {
-			"name": "蕨类",
-			"desc": "茂密的"
-		},
-		"algae": {
-			"name": "藻类",
-			"desc": "都是同性恋"
-		},
-		"sprunki": {
-			"name": "斯普伦基",
-			"desc": "看起来很具体"
-		},
-		"liu_wenzhi": {
-			"name": "刘问肢",
-			"desc": "它被肢解了"
-		},
-		"floofy": {
-			"name": "蓬松",
-			"desc": "轻着点握它，它很脆弱。"
-		},
-		"germ": {
-			"name": "生殖细胞",
-			"desc": "精子"
-		},
-		"bush": {
-			"name": "灌木丛",
-			"desc": "乔治·布什"
-		},
-		"error": {
-			"name": "错误",
-			"desc": "Windows崩溃了……"
-		},
-		"helios": {
-			"name": "赫利俄斯",
-			"desc": "太阳神。"
 		},
 		"blades": {
 			"name": "刀锋",
@@ -3319,8 +2127,6 @@
 		"passiveHeal": "持续治疗",
 		"passiveHealBelow50": "持续治疗",
 		"passivePetHeal": "持续宠物治疗",
-		"passivePetShield": "持续宠物护盾恢复",
-		"extraPetRange": "额外宠物攻击范围",
 		"shield": "护盾",
 		"passiveShield": "持续护盾恢复",
 		"poison": "剧毒",
@@ -3352,7 +2158,6 @@
 		"honeyTileDamage": "蜂蜜块伤害",
 		"honeyTilePoison": "蜂蜜块毒伤",
 		"honeyTileFire": "蜂蜜块火伤",
-		"honeySizeReduction": "蜂蜜块大小减少",
 		"sendToBiome": "传送至生物群系",
 		"flowerReloadFactor": "花朵冷却时间系数",
 		"armorDebuff": "护甲减益",
@@ -3363,11 +2168,9 @@
 		"flowerAcceleration": "花朵加速度",
 		"agroRangeReduction": "仇恨范围减少",
 		"agroRangeIncrease": "仇恨范围增加",
-		"extraFlowerKnock": "额外花朵击退",
+		"flowerKnockedFactor": "Flower Knocked Factor",
 		"damageHealed": "伤害时治疗",
 		"selfDamage": "自我伤害",
-		"selfFireDamage": "自我火伤",
-		"selfPoison": "自我毒伤",
 		"flowerBodyLightning": "花朵身体电伤",
 		"freezeTime": "冻结时间",
 		"explosionFreezeTime": "爆炸冻结时间",
@@ -3376,12 +2179,10 @@
 		"frost": "霜冻",
 		"defrost": "解冻",
 		"tempFlowerSpeed": "临时花朵速度",
-		"tempFlowerSpeedFactor": "临时花朵速度系数",
 		"subdivisionRates": "分裂概率",
 		"cureCancer": "治愈癌变",
 		"petMutation": "宠物突变",
 		"passivePetalHeal": "持续花瓣治疗",
-		"passivePetalShield": "持续花瓣护盾恢复",
 		"healBuff": "治疗增益",
 		"shieldBuff": "护盾增益",
 		"poisonReduction": "毒伤减免",
@@ -3392,149 +2193,53 @@
 		"pullReduction": "拉力减免",
 		"mobXpFactor": "生物经验值系数",
 		"fullHealRate": "完全治疗率",
-		"fullManaRegenRate": "魔力完全恢复概率",
 		"extraPetalSize": "额外花瓣大小",
 		"flowerArmor": "花朵护甲",
 		"petalCritical": "花瓣暴击",
 		"petalReloadSkipRate": "花瓣跳过冷却概率",
 		"blockDamage": "格挡伤害",
-		"petBlockDamage": "宠物格挡伤害",
 		"spreadDamage": "伤害分摊",
 		"radiationRange": "辐射范围",
 		"radiationPoison": "辐射毒伤",
 		"radiationFire": "辐射火伤",
-		"radiationHeal": "辐射治疗",
-		"radiationLightningDamage": "辐射闪电伤害",
-		"radiationLightningBounces": "辐射闪电连锁",
-		"orbitTwirl": "轨道螺旋",
-		"growth": "生长",
-		"growthTime": "生长时间",
-		"petFullRegenRate": "宠物完全恢复率",
-		"spillRate": "流动速度",
-		"extraPetSpeed": "额外宠物速度",
-		"petSpeedReduction": "宠物速度减少",
-		"fireSpeedFactor": "火焰速度系数",
-		"extraLightningBounces": "额外闪电连锁",
-		"extraRadiationRange": "额外辐射范围",
-		"extraFireDuration": "额外火焰持续时间",
-		"extraPoisonDuration": "额外剧毒持续时间",
-		"subExplosions": "子爆炸次数",
-		"lightningMultiHitRate": "闪电多次命中率",
-		"orbitRangeFactor": "轨道范围系数",
-		"flowerEvasion": "花朵闪避",
-		"fragmentDamage": "碎片伤害",
-		"fragmentHealth": "碎片生命",
-		"extraSpillRate": "额外流动速度",
-		"armorDebuffPercent": "护甲削弱百分比",
-		"flowerExplosion": "花朵爆炸",
-		"flowerExplosionSize": "花朵爆炸范围",
-		"extraFlowerMass": "额外花朵质量",
-		"extraFlowerSize": "额外花朵大小",
-		"flowerSizeReduction": "花朵大小减小",
-		"lightningReduction": "减少闪电",
-		"mobAgroRangeReduction": "生物仇恨范围减少",
-		"detox": "解毒",
-		"extraExplosionSize": "额外爆炸范围",
-		"petDupeRate": "宠物复制率",
-		"mana": "魔力",
-		"passiveMana": "持续魔力恢复",
-		"passiveManaOnGround": "持续魔力恢复",
-		"extraFlowerMana": "额外花朵魔力",
-		"damageMana": "伤害时魔力恢复",
-		"manaBuff": "魔力增益",
-		"passiveManaBelow50": "持续魔力恢复",
-		"soakManaTime": "魔力吸收时间",
-		"maxManaSoakCapacity": "最大魔力吸收容量",
-		"damageAbosrbedPerMana": "伤害吸收",
-		"manaCostFactor": "魔力消耗系数",
-		"robMana": "魔力抢夺",
-		"spreadMana": "魔力分摊",
-		"petVariantMutation": "宠物品种突变",
-		"visionOffset": "视野偏移",
-		"petalOrbitDistance": "花瓣轨道距离",
-		"flowerBodyDamage": "花朵身体伤害",
-		"damageReduction": "伤害减免",
-		"extraPetalDamagePercent": "额外花瓣伤害百分比",
-		"extraPetDamagePercent": "额外宠物伤害百分比",
-		"fission": "裂变",
-		"splitOrbitDistance": "分裂轨道距离",
-		"gap": "间隔",
-		"petDefrost": "宠物解冻",
 		"bodyLightning": "身体电伤",
-		"bodyLightningFire": "身体闪电火伤",
-		"bodyLightningPoison": "身体闪电毒伤",
 		"healAffectTime": "治疗影响时间",
 		"missileHealth": "导弹生命值",
 		"missileDamage": "导弹伤害",
 		"missilePoison": "导弹毒伤",
 		"missileHealAffectTime": "导弹治疗影响时间",
 		"missileArmorDebuff": "导弹护甲削弱",
-		"missileExplosion": "导弹爆炸",
 		"bodyFireDamage": "身体火伤",
 		"evasion": "闪避",
 		"sprayHealth": "喷射物生命值",
 		"sprayDamage": "喷射物伤害",
 		"sprayFireDamage": "喷射物火伤",
 		"telepathicDamage": "心灵感应伤害",
-		"telepathicPoison": "心灵感应毒伤",
-		"telepathicLightningDamage": "心灵感应闪电伤害",
-		"healNearby": "范围治疗",
-		"damageGrowth": "伤害增长",
-		"infectionTime": "感染时间",
-		"#controls": "#控制",
 		"keyboardControls": "键盘控制",
 		"movementHelper": "移动向导",
-		"invertAttackButton": "反转攻击控制",
-		"invertDefendButton": "反转防御控制",
-		"#chat": "#聊天",
-		"showChat": "显示聊天",
-		"showUserChats": "显示用户聊天",
-		"showDropLogs": "显示掉落日志",
-		"showBlocked": "显示屏蔽内容",
-		"#game": "#游戏",
 		"showHitbox": "显示碰撞箱",
-		"showGrid": "显示网格",
-		"showDps": "显示秒伤",
-		"potatoHardware": "土豆硬件",
-		"badwordFilter": "脏话过滤器",
-		"showMobLeaderboard": "显示生物排行榜",
-		"autoJoinSquads": "自动加入小队",
-		"showDebugInfo": "显示调试信息",
-		"showIndicators": "显示状态栏",
-		"fastCraft": "快速合成",
-		"#visuals": "#画面",
 		"showRarities": "显示稀有度",
+		"showGrid": "显示网格",
+		"showChat": "显示聊天",
 		"showCraftBubble": "显示合成气泡",
-		"showOtherPetals": "显示其他玩家的花瓣",
-		"showParticles": "显示粒子效果",
 		"showDamage": "显示伤害",
 		"showDamageFlash": "显示伤害闪烁",
 		"showHealthBar": "显示生命条",
 		"showPetHealthBar": "显示宠物生命条",
 		"showHealth": "显示生命值",
+		"showDps": "显示秒伤",
 		"showExplosion": "显示爆炸效果",
 		"showLightning": "显示闪电",
-		"showRadiation": "显示辐射效果",
 		"abbreviateDps": "缩写秒伤",
+		"showDebugInfo": "显示调试信息",
 		"fixedHudSize": "固定平视显示器大小",
 		"screenShake": "画面抖动",
 		"antiAliasing": "抗锯齿",
-		"showText": "显示文本",
-		"effect3d": "3D效果",
-		"showIcons": "显示图标",
-		"#indicators": "#状态栏",
-		"indicatorPoison": "中毒",
-		"indicatorFire": "着火",
-		"indicatorSlowness": "缓慢",
-		"indicatorDandelion": "蒲公英治疗减损",
-		"indicatorSponge": "海绵",
-		"indicatorCancer": "癌变",
-		"indicatorCoffee": "咖啡",
-		"indicatorChilly": "辣椒",
-		"indicatorFrost": "霜冻",
-		"indicatorMagicSponge": "魔法海绵",
-		"indicatorInfection": "感染",
-		"indicatorDropBuff": "掉落增益",
+		"potatoHardware": "土豆硬件",
+		"badwordFilter": "脏话过滤器",
+		"showMobLeaderboard": "显示生物排行榜",
+		"showBlocked": "显示屏蔽内容",
+		"autoJoinSquads": "自动加入小队",
 		"xp": "经验值",
 		"timeJoined": "加入时间",
 		"stars": "星星",
@@ -3553,38 +2258,9 @@
 		"maxPetalsPicked": "最高拾取花瓣数",
 		"dailyPlaytime": "今日游玩时间",
 		"maxDailyPlaytime": "最长单日游玩时间",
-		"maxStreak": "最长连签天数",
-		"zoom": "镜头拉进",
-		"spinChangeSpeed": "转速调节速度",
-		"res": "清晰度",
-		"iconRes": "图标清晰度",
-		"uiScale": "用户界面缩放",
-		"minKillLogRarity": "击杀日志最低稀有度",
-		"minCraftLogRarity": "合成日志最低品质",
-		"mobHudCount": "平视显示器生物数",
-		"maxMagicPets": "魔法宠物上限",
-		"font": "字体",
-		"language": "语言"
+		"maxStreak": "最长连签天数"
 	},
 	"commands": {
-		"kill": {
-			"desc": "击杀一名玩家。"
-		},
-		"afk": {
-			"desc": "为用户提供挂机检查。"
-		},
-		"mana": {
-			"desc": "设置持续魔力恢复。"
-		},
-		"user_petal_drops": {
-			"desc": "显示用户一天内的花瓣掉落总数。"
-		},
-		"user_petal_dps": {
-			"desc": "显示用户一天内的花瓣掉落总数。"
-		},
-		"whisper": {
-			"desc": "向一个玩家发送私信。"
-		},
 		"tp_random": {
 			"desc": "将你传送到一个随机玩家处。"
 		},
@@ -3622,13 +2298,10 @@
 			"desc": "使用代码加入一个小队。"
 		},
 		"find_public_squad": {
-			"desc": "查找一个公共小队"
+			"desc": "Finds a pubic squad"
 		},
 		"set_squad_public": {
-			"desc": "将你的小队设为公开或私密。"
-		},
-		"set_squad_private": {
-			"desc": "将小队设置为私密。"
+			"desc": "Makes your squad public or private."
 		},
 		"client_speed": {
 			"desc": "设置客户端动画速度。"
@@ -3653,9 +2326,6 @@
 		},
 		"unblock": {
 			"desc": "取消屏蔽用户的聊天。"
-		},
-		"unblock_all": {
-			"desc": "移除对屏蔽列表中所有人的屏蔽。"
 		},
 		"gen_egg": {
 			"desc": "生成蛋的冷却时间。petCount是蛋应该孵化出的生物数量。Power是给予宠物生物的力量值。如果力量值非常高，蛋将有较长的冷却时间，反之亦然。MinUseTime是增加孵化宠物稀有度的最小孵化时间。如果孵化时间低于该值，宠物的稀有度将增加。简单来说，如果截止时间较长，蛋将非常容易孵化出高稀有度的宠物。"
@@ -3788,7 +2458,7 @@
 			"desc": "使用难度生成生物。"
 		},
 		"spawn": {
-			"desc": "生成生物。在生物名称中使用下划线代替空格。大小是可选的。"
+			"desc": "Spawns mobs. Use underscore instead of spaces in mob names. Size is optional."
 		},
 		"game_speed": {
 			"desc": "加快或减慢游戏速度。"
@@ -3809,7 +2479,7 @@
 			"desc": "使你的花朵免疫任何伤害。"
 		},
 		"speed": {
-			"desc": "设置一名玩家的移动速度"
+			"desc": "Sets your movement speed."
 		},
 		"ghost": {
 			"desc": "禁用你的花朵碰撞。再次使用相同命令切换回来。"
@@ -3860,55 +2530,6 @@
 		},
 		"stars_12": {
 			"desc": "野兽先生的儿子？"
-		}
-	},
-	"memberships": {
-		"bronze": {
-			"name": "铜",
-			"desc": "比普通人好。"
-		},
-		"silver": {
-			"name": "银",
-			"desc": "只为最顶尖的那1%玩家。"
-		},
-		"gold": {
-			"name": "金",
-			"desc": "全能者专属！"
-		}
-	},
-	"featured": {
-		"rookie": {
-			"name": "低级的起始"
-		},
-		"speed": {
-			"name": "需要速度"
-		},
-		"eggs": {
-			"name": "顶级蛋"
-		},
-		"support_eggs": {
-			"name": "支持蛋"
-		},
-		"starter_eggs": {
-			"name": "入门级蛋"
-		},
-		"magic": {
-			"name": "Witchcraft"
-		},
-		"electric": {
-			"name": "Electric Starterpack"
-		},
-		"poison": {
-			"name": "Toxic Playstyle"
-		},
-		"fire": {
-			"name": "Burning For Progression"
-		},
-		"high_dps": {
-			"name": "High DPS"
-		},
-		"top_player": {
-			"name": "Top Player Pack"
 		}
 	}
 }
