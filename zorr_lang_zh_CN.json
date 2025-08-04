@@ -1,2535 +1,2535 @@
 {
-	"name": "中文（简体）",
+	"name": "custom lang uwu",
 	"ui": {
-		"nickInfo": "这朵小花叫做……",
-		"play": "游玩",
-		"squad": "小队",
-		"connecting": "连接中……"
+		"nickInfo": "This little flower is called...",
+		"play": "Play",
+		"squad": "Squad",
+		"connecting": "Connecting..."
 	},
 	"mobs": {
 		"rock": {
-			"name": "岩石",
-			"desc": "一块石头。它做不了什么"
+			"name": "Rock",
+			"desc": "A rock. It doesn't do much"
 		},
 		"ladybug": {
-			"name": "瓢虫",
-			"desc": "可爱而无害"
+			"name": "Ladybug",
+			"desc": "Cute and harmless"
 		},
 		"bush": {
-			"name": "灌木丛",
-			"desc": "乔治·布什"
+			"name": "Bush",
+			"desc": "George Bush"
 		},
 		"sponge": {
-			"name": "海绵",
-			"desc": "宝宝"
+			"name": "Sponge",
+			"desc": "Bob"
 		},
 		"cactus": {
-			"name": "仙人掌",
-			"desc": "一种非常多刺的植物。"
+			"name": "Cactus",
+			"desc": "A very thorny plant."
 		},
 		"baby_ant": {
-			"name": "幼蚁",
-			"desc": "还在襁褓中"
+			"name": "Baby Ant",
+			"desc": "Ant but baby"
 		},
 		"soldier_ant": {
-			"name": "兵蚁",
-			"desc": "为自由而战。"
+			"name": "Soldier Ant",
+			"desc": "Fights for the freedom."
 		},
 		"worker_ant": {
-			"name": "工蚁",
-			"desc": "不想战斗。"
+			"name": "Worker Ant",
+			"desc": "Doesn't want to fight."
 		},
 		"queen_ant": {
-			"name": "蚁后",
-			"desc": "蚁丽莎白六世女王。"
+			"name": "Queen Ant",
+			"desc": "Queen Antilabeth VI."
 		},
 		"baby_fire_ant": {
-			"name": "火幼蚁",
-			"desc": "还在襁褓中"
+			"name": "Baby Fire Ant",
+			"desc": "Fire Ant but baby"
 		},
 		"soldier_fire_ant": {
-			"name": "火兵蚁",
-			"desc": "为自由而战。"
+			"name": "Soldier Fire Ant",
+			"desc": "Fights for the freedom."
 		},
 		"worker_fire_ant": {
-			"name": "火工蚁",
-			"desc": "不想战斗。"
+			"name": "Worker Fire Ant",
+			"desc": "Doesn't want to fight."
 		},
 		"queen_fire_ant": {
-			"name": "火蚁后",
-			"desc": "蚁丽莎白七世女王。"
+			"name": "Queen Fire Ant",
+			"desc": "Queen Antilabeth VII."
 		},
 		"mushroom": {
-			"name": "蘑菇",
-			"desc": "伴随真菌感染。"
+			"name": "Mushroom",
+			"desc": "Comes with fungal infection."
 		},
 		"jellyfish": {
-			"name": "水母",
-			"desc": "果冻鱼。"
+			"name": "Jellyfish",
+			"desc": "Fish but jelly."
 		},
 		"spider": {
-			"name": "蜘蛛",
-			"desc": "它有八条腿和八只眼睛。"
+			"name": "Spider",
+			"desc": "It has 8 legs and eyes."
 		},
 		"bee": {
-			"name": "蜜蜂",
-			"desc": "蛰人太厉害了。"
+			"name": "Bee",
+			"desc": "It stings too hard."
 		},
 		"hornet": {
-			"name": "黄蜂",
-			"desc": "认证导弹发射员。"
+			"name": "Hornet",
+			"desc": "Certified missile shooter."
 		},
 		"shell": {
-			"name": "扇贝",
-			"desc": "一种非常“善贝”的生物。"
+			"name": "Shell",
+			"desc": "A very shellfish entity."
 		},
 		"ant_hole": {
-			"name": "蚁穴",
-			"desc": "里面有一些蚂蚁。"
+			"name": "Ant Hole",
+			"desc": "There are some ants inside of it."
 		},
 		"fire_ant_hole": {
-			"name": "火蚁穴",
-			"desc": "里面有一些火蚁。"
+			"name": "Fire Ant Hole",
+			"desc": "There are some fire ants inside of it."
 		},
 		"spider_cave": {
-			"name": "蜘蛛洞",
-			"desc": "又深又黑的洞穴。"
+			"name": "Spider Cave",
+			"desc": "Long and dark cave."
 		},
 		"hive": {
-			"name": "蜂巢",
-			"desc": "这是蜜蜂的迪士尼乐园"
+			"name": "Hive",
+			"desc": "This is the bee Disneyland"
 		},
 		"yoba": {
-			"name": "尤巴",
-			"desc": "神秘的红色生物。"
+			"name": "Yoba",
+			"desc": "Mysterious red creature."
 		},
 		"spider_yoba": {
-			"name": "尤巴蜘蛛",
-			"desc": "神秘的粉色生物。"
+			"name": "Spider Yoba",
+			"desc": "Mysterious pink creature."
 		},
 		"centipede": {
-			"name": "蜈蚣",
-			"desc": "它很长。"
+			"name": "Centipede",
+			"desc": "It is long."
 		},
 		"desert_centipede": {
-			"name": "沙漠蜈蚣",
-			"desc": "曾在奥运会得过金牌。"
+			"name": "Desert Centipede",
+			"desc": "Won a gold medal in Olympics."
 		},
 		"evil_centipede": {
-			"name": "邪恶蜈蚣",
-			"desc": "我们不确定为什么这个是邪恶的。"
+			"name": "Evil Centipede",
+			"desc": "We are not sure why this one is evil."
 		},
 		"sunflower": {
-			"name": "向日葵",
-			"desc": "它有一个护盾。"
+			"name": "Sunflower",
+			"desc": "It has a shield"
 		},
 		"boba": {
-			"name": "波巴",
-			"desc": "它会爆炸。"
+			"name": "Boba",
+			"desc": "It explodes."
 		},
 		"bubble": {
-			"name": "泡泡",
-			"desc": "快点戳破它。"
+			"name": "Bubble",
+			"desc": "Pop it quick."
 		},
 		"m28": {
 			"name": "M28",
-			"desc": "斯基比迪开发者。"
+			"desc": "Skibidi developer."
 		},
 		"beetle": {
-			"name": "甲虫",
-			"desc": "非常饥饿的昆虫。"
+			"name": "Beetle",
+			"desc": "Very hungry insect."
 		},
 		"avocado": {
-			"name": "牛油果",
-			"desc": "超级美味的水果。"
+			"name": "Avocado",
+			"desc": "Super yummy fruit."
 		},
 		"target_dummy": {
-			"name": "训练假花",
-			"desc": "杀死这些训练假花是故意破坏行为，这个游戏其实是一个秘密的IP地址获取器，我们已经向当地政府举报了你，预计三到五分钟后就会有人来敲你的门"
+			"name": "Target Dummy",
+			"desc": "killing these is vandalism, this game is secretly an ip grabber and we have already reported you to local authorities, expect a knock on your door in 3-5 minutes"
 		},
 		"dark_ladybug": {
-			"name": "深色瓢虫",
-			"desc": "深色的可爱而无害"
+			"name": "Dark Ladybug",
+			"desc": "Cute and harmless, but dark"
 		},
 		"shiny_ladybug": {
-			"name": "闪亮瓢虫",
-			"desc": "闪亮、可爱而无害"
+			"name": "Shiny Ladybug",
+			"desc": "Shiny, cute and harmless"
 		},
 		"sandstorm": {
-			"name": "沙尘暴",
-			"desc": "沙卷风"
+			"name": "Sandstorm",
+			"desc": "A sandy tornado"
 		},
 		"scorpion": {
-			"name": "蝎子",
-			"desc": "它喜欢绕着你转并射击你。"
+			"name": "Scorpion",
+			"desc": "It likes to orbit and shoot you."
 		},
 		"starfish": {
-			"name": "海星",
-			"desc": "明星鱼。"
+			"name": "Starfish",
+			"desc": "Celebrity fish."
 		},
 		"crab": {
-			"name": "螃蟹",
-			"desc": "追着你跑。"
+			"name": "Crab",
+			"desc": "Runs after you."
 		},
 		"dandelion": {
-			"name": "蒲公英",
-			"desc": "受到攻击时会发射导弹"
+			"name": "Dandelion",
+			"desc": "Shoots out its missiles when attacked"
 		},
 		"dragon": {
-			"name": "龙",
-			"desc": "它的火焰看起来很热，摸起来也很热"
+			"name": "Dragon",
+			"desc": "its fire looks very hot, and feels very hot too"
 		},
 		"leech": {
-			"name": "水蛭",
-			"desc": "莫非是slither.io里的蛇？"
+			"name": "Leech",
+			"desc": "a slither.io snake?"
 		},
 		"nazar_beetle": {
-			"name": "邪眼甲虫",
-			"desc": "已成为现代艺术"
+			"name": "Nazar Beetle",
+			"desc": "Has turned into modern art"
 		},
 		"toxic_dragon": {
-			"name": "毒龙",
-			"desc": "有人用有毒的油漆涂了它"
+			"name": "Toxic Dragon",
+			"desc": "Someone painted it using toxic paint"
 		},
 		"hel_worm": {
-			"name": "冥界蠕虫",
-			"desc": "来自digworm.io的撒旦蠕虫"
+			"name": "Hel Worm",
+			"desc": "a satanic worm from digworm.io"
 		},
 		"hel_spider": {
-			"name": "冥界蜘蛛",
-			"desc": "它有八条腿和八只眼睛。"
+			"name": "Hel Spider",
+			"desc": "It has 8 legs and eyes."
 		},
 		"hel_beetle": {
-			"name": "冥界甲虫",
-			"desc": "非常令人毛骨悚然的撒旦昆虫。"
+			"name": "Hel Beetle",
+			"desc": "Very creepy satanic insect."
 		},
 		"hel_jellyfish": {
-			"name": "冥界水母",
-			"desc": "它为什么会有牙齿？它是怎么长的牙齿？"
+			"name": "Hel Jellyfish",
+			"desc": "Why and how does it have teeth?"
 		},
 		"tumbleweed": {
-			"name": "风滚草",
-			"desc": "*风声*"
+			"name": "Tumbleweed",
+			"desc": "*Wind noises*"
 		},
 		"dragon_nest": {
-			"name": "龙巢",
-			"desc": "龙的家。"
+			"name": "Dragon Nest",
+			"desc": "House of dragons."
 		},
 		"firestorm": {
-			"name": "火尘暴",
-			"desc": "火卷风"
+			"name": "Firestorm",
+			"desc": "A fire tornado"
 		},
 		"hel_bee": {
-			"name": "冥界蜜蜂",
-			"desc": "火焰般的蜇刺。"
+			"name": "Hel Bee",
+			"desc": "Firey asf sting."
 		},
 		"hel_hornet": {
-			"name": "冥界黄蜂",
-			"desc": "认证火焰喷射员。"
+			"name": "Hel Hornet",
+			"desc": "Certified fire shooter."
 		},
 		"bugatti": {
-			"name": "布加迪",
-			"desc": "顶级阿三最喜欢的车。"
+			"name": "Bugatti",
+			"desc": "Top Jeet's favourite car."
 		},
 		"fly": {
-			"name": "苍蝇",
-			"desc": "它很脏（坦率地说）"
+			"name": "Fly",
+			"desc": "Its Filthy(frank)"
 		},
 		"mantis": {
-			"name": "螳螂",
-			"desc": "一次发射三颗穿甲豌豆。"
+			"name": "Mantis",
+			"desc": "Shoots 3 armor piercing peas at once."
 		},
 		"firefly": {
-			"name": "萤火虫",
-			"desc": "带高压电的苍蝇。"
+			"name": "Firefly",
+			"desc": "Fly with high voltage."
 		},
 		"wasp": {
-			"name": "胡蜂",
-			"desc": "喜欢用导弹狙击花朵。"
+			"name": "Wasp",
+			"desc": "Likes sniping flowers using its missiles."
 		},
 		"stickbug": {
-			"name": "竹节虫",
-			"desc": "它喜欢跳舞。"
+			"name": "Stickbug",
+			"desc": "It likes to dance."
 		},
 		"snowbush": {
-			"name": "雪地灌木丛",
-			"desc": "生长在寒冷地区的灌木丛，可能会被雪覆盖住。"
+			"name": "Snowbush",
+			"desc": "A bush that grows in cold regions, it may also me covered in snow."
 		},
 		"ice_cube": {
-			"name": "冰块",
-			"desc": "一块巨冷的冰，碰到它可能不会太好受"
+			"name": "Ice Cube",
+			"desc": "a very cold ice cube, touching it would probably not feel very nice"
 		},
 		"snowstorm": {
-			"name": "暴风雪",
-			"desc": "一个雪龙卷风，锋利的雪花似乎在里面旋转"
+			"name": "Snowstorm",
+			"desc": "A snowy tornado, sharp snowflakes seem to be orbiting inside"
 		},
 		"arctic_centipede": {
-			"name": "极地蜈蚣",
-			"desc": "皮肤因极寒而变得坚固。"
+			"name": "Arctic Centipede",
+			"desc": "The cold has hardened their skin."
 		},
 		"arctic_spider": {
-			"name": "极地蜘蛛",
-			"desc": "这只蜘蛛看起来真“冷酷”"
+			"name": "Arctic Spider",
+			"desc": "This spider looks really *cool*"
 		},
 		"ice_dragon": {
-			"name": "冰龙",
-			"desc": "它呼出的寒冰之息可以冻住它的敌人。"
+			"name": "Ice Dragon",
+			"desc": "It breathes cool breeze that can freeze its foes."
 		},
 		"tick": {
-			"name": "蜱虫",
-			"desc": "这只虫子让我发脾气！"
+			"name": "Tick",
+			"desc": "This mob ticks me off!"
 		},
 		"waterspout": {
-			"name": "水龙卷",
-			"desc": "一个水下龙卷风"
+			"name": "Waterspout",
+			"desc": "An underwater tornado"
 		},
 		"urchin": {
-			"name": "海胆",
-			"desc": "向你射击的带刺小球。"
+			"name": "Urchin",
+			"desc": "Spiky ball that shoots at you."
 		},
 		"volcano": {
-			"name": "火山",
-			"desc": "向四处挥洒火焰的巨石"
+			"name": "Volcano",
+			"desc": "A very big rock. It shoots fire everywhere"
 		},
 		"ice_hornet": {
-			"name": "极地黄蜂",
-			"desc": "斯基比迪生物多普多普耶斯耶斯"
+			"name": "Ice Hornet",
+			"desc": "Skibidi mob dop dop yes yes"
 		},
 		"virus": {
-			"name": "病毒",
-			"desc": "别碰它！"
+			"name": "Virus",
+			"desc": "Dont touch it!"
 		},
 		"red_blood_cell": {
-			"name": "红细胞",
-			"desc": "将氧气输送到任何需要它的地方"
+			"name": "Red Blood Cell",
+			"desc": "Delivers oxygen to where ever it needs to"
 		},
 		"bacteria": {
-			"name": "细菌",
-			"desc": "这种生物令我生病"
+			"name": "Bacteria",
+			"desc": "This mob makes me sick"
 		},
 		"bacteriophage": {
-			"name": "噬菌体",
-			"desc": "一个数学书呆子，过度痴狂于装满毒药的二十面体"
+			"name": "Bacteriophage",
+			"desc": "A math nerd, likes icosahedrons filled with poision too much"
 		},
 		"cancer": {
-			"name": "癌细胞",
-			"desc": "非常致命，希望你永远不要意外碰到它"
+			"name": "Cancer",
+			"desc": "Very deadly, hope you dont ever accidentaly touch it"
 		},
 		"parasite": {
-			"name": "寄生虫",
-			"desc": "喜欢惹恼它的宿主uwu"
+			"name": "Parasite",
+			"desc": "Likes to annoy its host uwu"
 		},
 		"white_blood_cell": {
-			"name": "白细胞",
-			"desc": "与身体里的黑恶势力作斗争，包括花朵"
+			"name": "White Blood Cell",
+			"desc": "Fights bad things in your body, including flowers"
 		},
 		"atom": {
-			"name": "原子",
-			"desc": "寰宇之砖，杀掉其中一个又会出什么问题？"
+			"name": "Atom",
+			"desc": "The building block of the universe, what could possibly go wrong when killing one of them"
 		},
 		"snake": {
-			"name": "蛇",
-			"desc": "很长很致命"
+			"name": "Snake",
+			"desc": "Very deadly and very long"
 		},
 		"turtle": {
-			"name": "乌龟",
-			"desc": "有很强的护甲"
+			"name": "Turtle",
+			"desc": "has a very strong shield"
 		},
 		"hel_hive": {
-			"name": "冥界蜂巢",
-			"desc": "这是冥界蜜蜂和冥界黄蜂讨论它们占领平原生物群系的邪恶计划的地方"
+			"name": "Hel Hive",
+			"desc": "This is the location where hel bees and hel hornets discuss their evil plans to take over the plains biome"
 		},
 		"fossil": {
-			"name": "化石",
-			"desc": "看起来死透了，说不定里面有一些珍贵的花瓣"
+			"name": "Fossil",
+			"desc": "looks quite dead, maybe it contains valuable petals"
 		},
 		"rattlesnake": {
-			"name": "响尾蛇",
-			"desc": "非常致命，非常长，也非常吵，你不该对它的警告掉以轻心。"
+			"name": "Rattlesnake",
+			"desc": "very deadly, very long and very loud too, maybe you should respect its warning."
 		},
 		"cicada": {
-			"name": "蝉",
-			"desc": "3301。有11%的概率造成四十二倍伤害。"
+			"name": "Cicada",
+			"desc": "3301. Has 11% chance of doing 42x damage."
 		},
 		"snowman": {
-			"name": "雪人",
-			"desc": "想和你打雪仗（他在雪球里放了石头）。"
+			"name": "Snowman",
+			"desc": "wants to have a snowball fight (he put rocks into the snowballs)."
 		},
 		"igloo": {
-			"name": "冰屋",
-			"desc": "一个非常凉爽的地方，供雪人和龙闲逛"
+			"name": "Igloo",
+			"desc": "a very cool place for snowmen and dragons to hang out"
 		},
 		"rain_frog": {
-			"name": "雨蛙",
-			"desc": "它像扇贝一样移动。"
+			"name": "Rain Frog",
+			"desc": "It moves like a shell."
 		},
 		"illuminati": {
-			"name": "光明会",
-			"desc": "黑暗笼罩一切。"
+			"name": "Illuminati",
+			"desc": "Darkness over all."
 		},
 		"black_hole": {
-			"name": "黑洞",
-			"desc": "非常有吸引力而且非常黑暗。"
+			"name": "Black Hole",
+			"desc": "Very attractive and very dark."
 		},
 		"troll": {
-			"name": "巨魔",
-			"desc": "懂的都懂：西格玛男人；不懂的：斯基比迪"
+			"name": "Troll",
+			"desc": "THOSE WHO KNOW: SIGMAS; THOSE WHO DONT KNOW: SKIBIDI"
 		},
 		"ufo": {
-			"name": "不明飞行物",
-			"desc": "里面有一群绿色的人，最好不要打扰他们"
+			"name": "UFO",
+			"desc": "There is a bunch of green people inside, might be best not to disturb them"
 		},
 		"alien": {
-			"name": "外星人",
-			"desc": "具有心灵感应能力的地外实体。"
+			"name": "Alien",
+			"desc": "An extra-terrestial entity with telepathic abilities."
 		},
 		"angel": {
-			"name": "天使",
-			"desc": "拥有非常强大的气场，你可能不应该靠得太近"
+			"name": "Angel",
+			"desc": "Has a very strong aura, you probably shouldn't come too close"
 		},
 		"momy": {
-			"name": "妈咪",
-			"desc": "一个非常可怕的生物。喜欢向其他人扔东西"
+			"name": "Momy",
+			"desc": "A really scary creature. Likes throwing stuff at other people"
 		},
 		"ghost": {
-			"name": "幽灵",
-			"desc": "呜～呜～呜～好吓人～"
+			"name": "Ghost",
+			"desc": "oOOOooOOooooOO spoOky"
 		},
 		"gravestone": {
-			"name": "墓碑",
-			"desc": "幽灵喜欢在这完全黑暗的地方待着"
+			"name": "Gravestone",
+			"desc": "Ghosts enjoy being here in complete darkness"
 		},
 		"electric_eel": {
-			"name": "电鳗",
-			"desc": "可能会电到你。"
+			"name": "Electric Eel",
+			"desc": "Might zap you."
 		},
 		"eye": {
-			"name": "眼睛",
-			"desc": "可爱的索伦之眼"
+			"name": "Eye",
+			"desc": "Cute eye of Sauron"
 		},
 		"square": {
-			"name": "正方形",
-			"desc": "走错游戏了。"
+			"name": "Square",
+			"desc": "Wrong game."
 		},
 		"target_mummy": {
-			"name": "训练木乃伊",
-			"desc": "训练假花 + 绷带 = 训练木乃伊uwu。"
+			"name": "Target Mummy",
+			"desc": "Target Dummy + Bandages = Target Mummy uwu."
 		},
 		"oracle": {
-			"name": "神谕者",
-			"desc": "非玩家角色时刻"
+			"name": "Oracle",
+			"desc": "non player character moment"
 		},
 		"trader": {
-			"name": "商人",
-			"desc": "让你可以用花瓣换取硬币。"
+			"name": "Trader",
+			"desc": "Let's you exchange petals for coins."
 		}
 	},
 	"petals": {
 		"basic": {
-			"name": "基本",
-			"desc": "有史以来最简单的花瓣。"
+			"name": "Basic",
+			"desc": "The simplest petal ever."
 		},
 		"rose": {
-			"name": "玫瑰",
-			"desc": "食用后为你治疗。"
+			"name": "Rose",
+			"desc": "Heals you when consumed."
 		},
 		"wing": {
-			"name": "翅膀",
-			"desc": "来去如风。"
+			"name": "Wing",
+			"desc": "It comes and goes."
 		},
 		"rock": {
-			"name": "岩石",
-			"desc": "它相当耐用"
+			"name": "Rock",
+			"desc": "Its quite durable"
 		},
 		"iris": {
-			"name": "鸢尾",
-			"desc": "它有剧毒。"
+			"name": "Iris",
+			"desc": "It's poisonous."
 		},
 		"stinger": {
-			"name": "刺",
-			"desc": "伤害非常大。"
+			"name": "Stinger",
+			"desc": "Very large damage."
 		},
 		"honey": {
-			"name": "蜂蜜",
-			"desc": "蜜蜂的呕吐物"
+			"name": "Honey",
+			"desc": "Bee vomit"
 		},
 		"bubble": {
-			"name": "泡泡",
-			"desc": "爆裂并推动你。"
+			"name": "Bubble",
+			"desc": "Bursts and boosts you."
 		},
 		"heavy": {
-			"name": "重",
-			"desc": "比你老母还重。"
+			"name": "Heavy",
+			"desc": "Heavier than your mom"
 		},
 		"yin_yang": {
-			"name": "阴阳",
-			"desc": "翻转你的花瓣环绕方向。"
+			"name": "Yin Yang",
+			"desc": "Flips your petal orbit direction."
 		},
 		"faster": {
-			"name": "更快",
-			"desc": "增加你的花瓣环绕速度"
+			"name": "Faster",
+			"desc": "Increases your petal orbit speed"
 		},
 		"light": {
-			"name": "轻",
-			"desc": "超级无敌快。"
+			"name": "Light",
+			"desc": "Super duper fast."
 		},
 		"sponge": {
-			"name": "海绵",
-			"desc": "洗碗并随时间吸收伤害。"
+			"name": "Sponge",
+			"desc": "Washes the dishes and soaks damage over time."
 		},
 		"rice": {
-			"name": "米",
-			"desc": "只为亚洲人。"
+			"name": "Rice",
+			"desc": "Only for asians."
 		},
 		"yggdrasil": {
-			"name": "世界树",
-			"desc": "复活死去的花朵。"
+			"name": "Yggdrasil",
+			"desc": "Revives dead flowers."
 		},
 		"leaf": {
-			"name": "叶子",
-			"desc": "被动地治疗你。"
+			"name": "Leaf",
+			"desc": "Passively heals you."
 		},
 		"lightning": {
-			"name": "闪电",
-			"desc": "生成一道闪电袭击附近的敌人。"
+			"name": "Lightning",
+			"desc": "Summons a lightning strike on nearby enemies."
 		},
 		"usain_bolt": {
-			"name": "尤塞恩·博尔特",
-			"desc": "生成一道剧毒闪电袭击附近的敌人"
+			"name": "Usain Bolt",
+			"desc": "Summons a poisonous lightning strike on nearby enemies"
 		},
 		"cotton": {
-			"name": "棉花",
-			"desc": "吸收你的伤害。"
+			"name": "Cotton",
+			"desc": "Absorbs your damage."
 		},
 		"web": {
-			"name": "网",
-			"desc": "扔出能减慢你的敌人速度的蜘蛛便便"
+			"name": "Web",
+			"desc": "Drops spider poop which slows down your enemies"
 		},
 		"pollen": {
-			"name": "花粉",
-			"desc": "落下并停留在地面上。"
+			"name": "Pollen",
+			"desc": "Falls and stays on ground."
 		},
 		"shell": {
-			"name": "贝壳",
-			"desc": "食用后为你提供护盾。"
+			"name": "Shell",
+			"desc": "Gives you shielding when consumed."
 		},
 		"sunflower": {
-			"name": "向日葵",
-			"desc": "被动地为你提供护盾。"
+			"name": "Sunflower",
+			"desc": "Gives you shielding passively."
 		},
 		"bomb": {
-			"name": "炸弹",
-			"desc": "碰到敌人就爆炸。"
+			"name": "Bomb",
+			"desc": "Explodes when it touches an enemy."
 		},
 		"gas_bomb": {
-			"name": "毒气弹",
-			"desc": "爆炸并毒害你的敌人。"
+			"name": "Gas Bomb",
+			"desc": "Explodes and poisons your enemies."
 		},
 		"missile": {
-			"name": "导弹",
-			"desc": "一种叛逆的刺，会从你身边飞走。"
+			"name": "Missile",
+			"desc": "A rebellious stinger that flies away from you."
 		},
 		"viper": {
-			"name": "毒刺",
-			"desc": "我们不知道它是怎么造成中毒的。"
+			"name": "Viper",
+			"desc": "We don't know how it poisons."
 		},
 		"rocket": {
-			"name": "火箭",
-			"desc": "又快又会爆炸"
+			"name": "Rocket",
+			"desc": "Fast and explosive"
 		},
 		"electron_missile": {
-			"name": "电子导弹",
-			"desc": "它充满了愤怒的电子，准备电击路上的一切"
+			"name": "Electron Missile",
+			"desc": "It is filled with angry electrons waiting to zap anything in their path"
 		},
 		"magnet": {
-			"name": "磁铁",
-			"desc": "吸收花瓣战利品并吸收闪电。"
+			"name": "Magnet",
+			"desc": "Pulls petal drops & absorbs lightning."
 		},
 		"salt": {
-			"name": "盐",
-			"desc": "将对花朵造成的伤害反弹给敌人"
+			"name": "Salt",
+			"desc": "Reflects damage done to the flower back to the enemy"
 		},
 		"antennae": {
-			"name": "触角",
-			"desc": "增加你的视野。"
+			"name": "Antennae",
+			"desc": "Increases your vision."
 		},
 		"third_eye": {
-			"name": "第三只眼",
-			"desc": "增加你的花瓣攻击范围"
+			"name": "Third Eye",
+			"desc": "Increases your petal range"
 		},
 		"dmca": {
-			"name": "律师函",
-			"desc": "即刻杀死那些同等或更低稀有度的生物。"
+			"name": "DMCA",
+			"desc": "Despawns mobs of the same rarity or lower."
 		},
 		"rock_egg": {
-			"name": "岩石蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Rock Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"ladybug_egg": {
-			"name": "瓢虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Ladybug Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"bush_egg": {
-			"name": "灌木丛蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Bush Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"sponge_egg": {
-			"name": "海绵蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Sponge Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"cactus_egg": {
-			"name": "仙人掌蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Cactus Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"baby_ant_egg": {
-			"name": "幼蚁蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Baby Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"soldier_ant_egg": {
-			"name": "兵蚁蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Soldier Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"worker_ant_egg": {
-			"name": "工蚁蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Worker Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"queen_ant_egg": {
-			"name": "蚁后蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Queen Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"baby_fire_ant_egg": {
-			"name": "火幼蚁蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Baby Fire Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"soldier_fire_ant_egg": {
-			"name": "火兵蚁蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Soldier Fire Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"worker_fire_ant_egg": {
-			"name": "火工蚁蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Worker Fire Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"queen_fire_ant_egg": {
-			"name": "火蚁后蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Queen Fire Ant Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"mushroom_egg": {
-			"name": "蘑菇蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Mushroom Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"jellyfish_egg": {
-			"name": "水母蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Jellyfish Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"spider_egg": {
-			"name": "蜘蛛蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Spider Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"bee_egg": {
-			"name": "蜜蜂蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Bee Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"hornet_egg": {
-			"name": "黄蜂蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Hornet Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"shell_egg": {
-			"name": "扇贝蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Shell Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"ant_hole_egg": {
-			"name": "蚁穴蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Ant Hole Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"fire_ant_hole_egg": {
-			"name": "火蚁穴蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Fire Ant Hole Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"spider_cave_egg": {
-			"name": "蜘蛛洞蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Spider Cave Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"hive_egg": {
-			"name": "蜂巢蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Hive Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"yoba_egg": {
-			"name": "尤巴蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Yoba Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"spider_yoba_egg": {
-			"name": "尤巴蜘蛛蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Spider Yoba Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"centipede_egg": {
-			"name": "蜈蚣蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Centipede Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"desert_centipede_egg": {
-			"name": "沙漠蜈蚣蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Desert Centipede Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"evil_centipede_egg": {
-			"name": "邪恶蜈蚣蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Evil Centipede Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"sunflower_egg": {
-			"name": "向日葵蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Sunflower Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"boba_egg": {
-			"name": "波巴蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Boba Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"bubble_egg": {
-			"name": "泡泡蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Bubble Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"m28_egg": {
-			"name": "M28蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "M28 Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"beetle_egg": {
-			"name": "甲虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Beetle Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"avocado_egg": {
-			"name": "牛油果蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Avocado Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"target_dummy_egg": {
-			"name": "训练假花蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Target Dummy Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"dark_ladybug_egg": {
-			"name": "深色瓢虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Dark Ladybug Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"shiny_ladybug_egg": {
-			"name": "闪亮瓢虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Shiny Ladybug Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"stick": {
-			"name": "木棍",
-			"desc": "召唤致命的狂风。"
+			"name": "Stick",
+			"desc": "Summons the deadly winds."
 		},
 		"scorpion_egg": {
-			"name": "蝎子蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Scorpion Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"starfish_egg": {
-			"name": "海星蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Starfish Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"pea": {
-			"name": "豌豆",
-			"desc": "它会“噗”地一声消失"
+			"name": "Pea",
+			"desc": "It goes poof"
 		},
 		"avocado": {
-			"name": "牛油果",
-			"desc": "增加你的宠物大小。"
+			"name": "Avocado",
+			"desc": "Increases your pet size."
 		},
 		"ring_magnet": {
-			"name": "环形磁铁",
-			"desc": "缓慢地把一切都拉向你。"
+			"name": "Ring Magnet",
+			"desc": "Pull everything towards you slowly."
 		},
 		"gas": {
-			"name": "毒气",
-			"desc": "有毒气体。"
+			"name": "Gas",
+			"desc": "Poisonous gas."
 		},
 		"fire": {
-			"name": "火",
-			"desc": "它在燃烧。"
+			"name": "Fire",
+			"desc": "It burns."
 		},
 		"nitro": {
-			"name": "硝基",
-			"desc": "它就像一个喷气背包。"
+			"name": "Nitro",
+			"desc": "It's like a jetpack."
 		},
 		"wind": {
-			"name": "风",
-			"desc": "推开敌人。"
+			"name": "Wind",
+			"desc": "Pushes enemies away."
 		},
 		"air": {
-			"name": "空气",
-			"desc": "看不见的东西。"
+			"name": "Air",
+			"desc": "Invisible asf."
 		},
 		"lightsaber": {
-			"name": "光剑",
-			"desc": "有限射程的光子剑"
+			"name": "Lightsaber",
+			"desc": "Limited range photon sword"
 		},
 		"visaber": {
-			"name": "伽马剑",
-			"desc": "它发射的是伽马射线而非可见光子"
+			"name": "Visaber",
+			"desc": "Its shooting gamma rays instead of visible photons"
 		},
 		"bone": {
-			"name": "骨头",
-			"desc": "由钙构成。"
+			"name": "Bone",
+			"desc": "Made up of calcium."
 		},
 		"cactus": {
-			"name": "仙人掌",
-			"desc": "给予你更多生命。"
+			"name": "Cactus",
+			"desc": "Gives you more health."
 		},
 		"soil": {
-			"name": "土",
-			"desc": "让花朵变胖。"
+			"name": "Soil",
+			"desc": "Makes flowers fat."
 		},
 		"grapes": {
-			"name": "葡萄",
-			"desc": "导弹……还是鸢尾？什么鬼？"
+			"name": "Grapes",
+			"desc": "Missile but iris. wtf?"
 		},
 		"mushroom": {
-			"name": "蘑菇",
-			"desc": "让花朵有毒。"
+			"name": "Mushroom",
+			"desc": "Makes your flower poisonous."
 		},
 		"ears": {
-			"name": "猫耳",
-			"desc": "心灵感应的小猫耳朵。"
+			"name": "Ears",
+			"desc": "Telepathic kitty ears."
 		},
 		"sand": {
-			"name": "沙子",
-			"desc": "可以用这个建一座沙堡。"
+			"name": "Sand",
+			"desc": "Could build a sandcastle out of this."
 		},
 		"pincer": {
-			"name": "螫针",
-			"desc": "打断你敌人的腿，即使他们没有。"
+			"name": "Pincer",
+			"desc": "Break your enemies legs, even if they dont have any."
 		},
 		"dahlia": {
-			"name": "大丽花",
-			"desc": "牺牲治疗性换取可靠性"
+			"name": "Dahlia",
+			"desc": "Sacrifices heal for reliability"
 		},
 		"starfish": {
-			"name": "海星",
-			"desc": "在你生命较少时治疗你"
+			"name": "Starfish",
+			"desc": "Heals you when you are low on healtn"
 		},
 		"dandelion": {
-			"name": "蒲公英",
-			"desc": "使你的敌人无法治疗"
+			"name": "Dandelion",
+			"desc": "Disables your enemies healing"
 		},
 		"crab_egg": {
-			"name": "螃蟹蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Crab Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"dandelion_egg": {
-			"name": "蒲公英蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Dandelion Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"dragon_egg": {
-			"name": "龙蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Dragon Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"irey": {
-			"name": "蜜蚀",
-			"desc": "使蜂蜜地块变得有毒。"
+			"name": "Irey",
+			"desc": "Turns honey tiles poisonous."
 		},
 		"leech_egg": {
-			"name": "水蛭蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Leech Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"nazar": {
-			"name": "邪眼",
-			"desc": "它可以承受一次攻击，然后进入冷却"
+			"name": "Nazar",
+			"desc": "It can tank 1 hit, and then goes on cooldown"
 		},
 		"nazar_beetle_egg": {
-			"name": "邪眼甲虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Nazar Beetle Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"golden_leaf": {
-			"name": "金叶",
-			"desc": "减少花瓣冷却时间。"
+			"name": "Golden Leaf",
+			"desc": "Reduces petal reload time."
 		},
 		"laser": {
-			"name": "激光",
-			"desc": "可造成严重烧伤"
+			"name": "Laser",
+			"desc": "Can cause severe burns"
 		},
 		"mark": {
-			"name": "标记",
-			"desc": "将一朵死去的小花送去冥界"
+			"name": "Mark",
+			"desc": "Sends a dead lil flower to Hel"
 		},
 		"bur": {
-			"name": "刺果",
-			"desc": "减少敌人的护甲"
+			"name": "Bur",
+			"desc": "Decreases enemy armor"
 		},
 		"cutter": {
-			"name": "锯齿",
-			"desc": "增加你的身体伤害。"
+			"name": "Cutter",
+			"desc": "Increases your body damage."
 		},
 		"powder": {
-			"name": "粉末",
-			"desc": "可卡因"
+			"name": "Powder",
+			"desc": "Cocaine"
 		},
 		"toxic_dragon_egg": {
-			"name": "毒龙蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Toxic Dragon Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"hel_worm_egg": {
-			"name": "冥界蠕虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Hel Worm Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"hel_spider_egg": {
-			"name": "冥界蜘蛛蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Hel Spider Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"hel_beetle_egg": {
-			"name": "冥界甲虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Hel Beetle Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"hel_jellyfish_egg": {
-			"name": "冥界水母蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Hel Jellyfish Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"hel_lightning": {
-			"name": "冥界闪电",
-			"desc": "召唤一道诅咒火焰袭击附近的敌人。"
+			"name": "Hel Lightning",
+			"desc": "Summons a cursed fire strike on nearby enemies."
 		},
 		"tumbleweed_egg": {
-			"name": "风滚草蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Tumbleweed Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"dragon_nest_egg": {
-			"name": "龙巢蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Dragon Nest Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"fire_stick": {
-			"name": "火棍",
-			"desc": "召唤致命的狂风。"
+			"name": "Fire Stick",
+			"desc": "Summons the deadly winds."
 		},
 		"hel_bee_egg": {
-			"name": "冥界蜜蜂蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Hel Bee Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"hel_hornet_egg": {
-			"name": "冥界黄蜂蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Hel Hornet Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"hel_missile": {
-			"name": "冥界导弹",
-			"desc": "炽焰爆裂弹"
+			"name": "Hel Missile",
+			"desc": "hot asf missile"
 		},
 		"bugatti": {
-			"name": "布加迪",
-			"desc": "大幅增加移动速度，但会让你滑得离谱。"
+			"name": "Bugatti",
+			"desc": "Increases your movement speed but makes you slippery asf."
 		},
 		"bugatti_egg": {
-			"name": "布加迪蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Bugatti Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"poo": {
-			"name": "便便",
-			"desc": "减少敌人的射程。"
+			"name": "Poo",
+			"desc": "Decreases enemy range."
 		},
 		"rubber": {
-			"name": "橡胶",
-			"desc": "增加你从敌人那里受到的击退效果。"
+			"name": "Rubber",
+			"desc": "Increases knockback you get from enemies."
 		},
 		"fly_egg": {
-			"name": "苍蝇蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Fly Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"fang": {
-			"name": "尖牙",
-			"desc": "用它造成的伤害治疗你。"
+			"name": "Fang",
+			"desc": "Heals you with the damage it does."
 		},
 		"blood_stinger": {
-			"name": "血刺",
-			"desc": "非常致命，但也会对你造成一些伤害。"
+			"name": "Blood Stinger",
+			"desc": "Very deadily but also casts some damage back to you."
 		},
 		"mantis_egg": {
-			"name": "螳螂蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Mantis Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"firefly_egg": {
-			"name": "萤火虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Firefly Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"wasp_egg": {
-			"name": "胡蜂蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Wasp Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"battery": {
-			"name": "电池",
-			"desc": "使你的身体在被敌人击中时产生电击。"
+			"name": "Battery",
+			"desc": "Makes your body spawn a lightning strike when an enemy hits it."
 		},
 		"stickbug_egg": {
-			"name": "竹节虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Stickbug Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"plank": {
-			"name": "木板",
-			"desc": "对敌人弹射物造成多一百倍伤害。"
+			"name": "Plank",
+			"desc": "Does 100x more damage to enemy projectiles."
 		},
 		"icicle": {
-			"name": "冰锥",
-			"desc": "冻结敌人。"
+			"name": "Icicle",
+			"desc": "Freezes enemies."
 		},
 		"dice": {
-			"name": "骰子",
-			"desc": "有7.5%的概率造成六十九倍伤害。概率受三叶草影响。"
+			"name": "Dice",
+			"desc": "Has 7.5% chance of dealing 69x damage. Rate is affected by Clover."
 		},
 		"cryo_bomb": {
-			"name": "低温炸弹",
-			"desc": "爆炸时冻结附近的敌人。"
+			"name": "Cryo Bomb",
+			"desc": "Freezes nearby enemies when exploded."
 		},
 		"clover": {
-			"name": "幸运草",
-			"desc": "给你带来好运。"
+			"name": "Clover",
+			"desc": "Gives you good luck."
 		},
 		"blueberries": {
-			"name": "蓝莓",
-			"desc": "冷冻后变得非常坚硬。"
+			"name": "Blueberries",
+			"desc": "Freezing Them has made them very hard."
 		},
 		"frost": {
-			"name": "寒霜",
-			"desc": "可以穿透敌人护甲并减慢他们速度的冷空气。"
+			"name": "Frost",
+			"desc": "Cold air that can go through armor of your enemies and slow them down."
 		},
 		"snowball": {
-			"name": "雪球",
-			"desc": "雪人的雪球，可以穿透敌人的护甲。"
+			"name": "Snowball",
+			"desc": "A snowman's ball that goes through vest of your enemies."
 		},
 		"snowflake": {
-			"name": "雪花",
-			"desc": "破碎时会爆开。"
+			"name": "Snowflake",
+			"desc": "It shoots out when broken."
 		},
 		"amethyst": {
-			"name": "紫水晶",
-			"desc": "非常锋利但易碎的宝石"
+			"name": "Amethyst",
+			"desc": "Very sharp but brittle gemstone"
 		},
 		"snowbush_egg": {
-			"name": "雪地灌木丛蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Snowbush Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"snow_stick": {
-			"name": "雪棍",
-			"desc": "召唤致命的寒冰。"
+			"name": "Snow Stick",
+			"desc": "Summons the deadly frost."
 		},
 		"ice_cube_egg": {
-			"name": "冰块蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Ice Cube Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"arctic_centipede_egg": {
-			"name": "极地蜈蚣蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Arctic Centipede Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"arctic_spider_egg": {
-			"name": "极地蜘蛛蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Arctic Spider Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"ice_dragon_egg": {
-			"name": "冰龙蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Ice Dragon Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"tick_egg": {
-			"name": "蜱虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Tick Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"ice_rose": {
-			"name": "冰玫瑰",
-			"desc": "食用后治疗你，但也会给你带来寒冰。"
+			"name": "Ice Rose",
+			"desc": "Heals you when consumed but also gives you frost."
 		},
 		"torch": {
-			"name": "火把",
-			"desc": "随时间被动地清除你花朵上的寒冰。"
+			"name": "Torch",
+			"desc": "Passively removes frost from your flower over time."
 		},
 		"water_stick": {
-			"name": "水棍",
-			"desc": "召唤水下龙卷风，即使不在水下。"
+			"name": "Water Stick",
+			"desc": "Summons underwater tornadoes, ever while not underwater."
 		},
 		"urchin_egg": {
-			"name": "海胆蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Urchin Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"volcano_egg": {
-			"name": "火山蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Volcano Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"spikeball": {
-			"name": "尖刺球",
-			"desc": "许多导弹被一个脆弱的纽带束缚在一起，如果那个纽带断裂，导弹会飞得到处都是……"
+			"name": "Spikeball",
+			"desc": "many missile bound together by one weak bond, the missiles would fly everywhere if that bond were to break..."
 		},
 		"needle": {
-			"name": "针",
-			"desc": "非常锋利而且有毒，但非常脆弱"
+			"name": "Needle",
+			"desc": "very sharp but very fragile, its also poisioned"
 		},
 		"bubble_bomb": {
-			"name": "泡泡炸弹",
-			"desc": "爆炸并将你的敌人推开很远。"
+			"name": "Bubble Bomb",
+			"desc": "Explodes and pushes your enemies a lil too much."
 		},
 		"obsidian": {
-			"name": "黑曜石",
-			"desc": "极其耐用，但同时也非常脆弱。"
+			"name": "Obsidian",
+			"desc": "extremly durable, but also very fragile at the same time."
 		},
 		"magma": {
-			"name": "熔岩",
-			"desc": "一块非常热的石头。"
+			"name": "Magma",
+			"desc": "a very hot rock."
 		},
 		"fire_bomb": {
-			"name": "火焰炸弹",
-			"desc": "爆炸并令你的敌人着火。"
+			"name": "Fire Bomb",
+			"desc": "the explosions sets your enemies on fire."
 		},
 		"ice_hornet_egg": {
-			"name": "极地黄蜂蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Ice Hornet Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"frozen_mark": {
-			"name": "寒霜标记",
-			"desc": "将一朵死去的小花送去南极洲"
+			"name": "Frozen Mark",
+			"desc": "Sends a dead lil flower to the antarticas"
 		},
 		"coffee": {
-			"name": "咖啡",
-			"desc": "食用后为你提供暂时的速度提升。"
+			"name": "Coffee",
+			"desc": "Gives your temporary speed boost when consumed."
 		},
 		"chromosome": {
-			"name": "染色体",
-			"desc": "随时间治疗你的花瓣。"
+			"name": "Chromosome",
+			"desc": "Heals your petals over time."
 		},
 		"antibody": {
-			"name": "抗体",
-			"desc": "减少敌人护甲"
+			"name": "Antibody",
+			"desc": "Decreases enemy armor"
 		},
 		"hemoglobin": {
-			"name": "血红蛋白",
-			"desc": "增加治疗花瓣造成的治疗效果"
+			"name": "Hemoglobin",
+			"desc": "Increases healing caused by healing petals"
 		},
 		"chloroplast": {
-			"name": "叶绿体",
-			"desc": "增加护盾再生。"
+			"name": "Chloroplast",
+			"desc": "Increases shield regeneration."
 		},
 		"sugar": {
-			"name": "糖",
-			"desc": "非常甜"
+			"name": "Sugar",
+			"desc": "Very sweet"
 		},
 		"pill": {
-			"name": "药丸",
-			"desc": "治愈癌症并为你提供一些治疗。"
+			"name": "Pill",
+			"desc": "Cures cancer and gives you some healing."
 		},
 		"dna": {
 			"name": "DNA",
-			"desc": "给你一个小概率增加你的宠物稀有度。影响所有蛋直到其稀有度。例如，孵化出究极蚂蚁的超级蛋 + 超级DNA = 有概率孵化出超级蚂蚁。概率受三叶草影响。"
+			"desc": "Gives you a small chance of increasing your pet rarity. Affects all eggs till its rarity. For example, Super Egg that spawns an Ultra Ant + Super DNA = Chance to spawn a Super Ant. Rate is affected by clover."
 		},
 		"virus_egg": {
-			"name": "病毒蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Virus Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"red_blood_cell_egg": {
-			"name": "红细胞蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Red Blood Cell Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"bacteria_egg": {
-			"name": "细菌蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Bacteria Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"bacteriophage_egg": {
-			"name": "噬菌体蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Bacteriophage Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"cancer_egg": {
-			"name": "癌细胞蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Cancer Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"parasite_egg": {
-			"name": "寄生虫蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Parasite Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"cancer": {
-			"name": "癌变",
-			"desc": "同稀有度的生物死亡时分裂。"
+			"name": "Cancer",
+			"desc": "Splits mob of the same rarity when they die."
 		},
 		"white_blood_cell_egg": {
-			"name": "白细胞蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "White Blood Cell Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"lotus": {
-			"name": "莲花",
-			"desc": "减少中毒效果。"
+			"name": "Lotus",
+			"desc": "Reduces poison."
 		},
 		"ice": {
-			"name": "冰",
-			"desc": "减少火焰效果。"
+			"name": "Ice",
+			"desc": "Reduces fire."
 		},
 		"atom_egg": {
-			"name": "原子蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Atom Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"snake_egg": {
-			"name": "蛇蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Snake Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"slime": {
-			"name": "史莱姆",
-			"desc": "呃，好黏"
+			"name": "Slime",
+			"desc": "eww its so sticky"
 		},
 		"turtle_egg": {
-			"name": "乌龟蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Turtle Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"hel_hive_egg": {
-			"name": "冥界蜂巢蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Hel Hive Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"hel_honey": {
-			"name": "冥界蜂蜜",
-			"desc": "使蜂蜜地块变热。"
+			"name": "Hel Honey",
+			"desc": "Turns honey tiles hot."
 		},
 		"scar": {
-			"name": "伤疤",
-			"desc": "非常致命，但也会将你传送到一个随机位置。"
+			"name": "Scar",
+			"desc": "Very deadily but also teleports you to a random location."
 		},
 		"crystal_leaf": {
-			"name": "水晶叶",
-			"desc": "被动治疗你的宠物。"
+			"name": "Crystal Leaf",
+			"desc": "Passively heals your pets."
 		},
 		"fossil_egg": {
-			"name": "化石蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Fossil Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"rattlesnake_egg": {
-			"name": "响尾蛇蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Rattlesnake Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"rattle": {
-			"name": "响尾",
-			"desc": "斯基比迪花瓣多普多普耶斯耶斯"
+			"name": "Rattle",
+			"desc": "Skibidi petal dop dop yes yes"
 		},
 		"cicada_egg": {
-			"name": "蝉蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Cicada Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"snowman_egg": {
-			"name": "雪人蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Snowman Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"carrot": {
-			"name": "胡萝卜",
-			"desc": "有人告诉我这些对眼睛有好处，但我把它们放进眼睛里时只是很疼"
+			"name": "Carrot",
+			"desc": "Someone told me these are good for your eyes, but when i put them in it just hurt a lot"
 		},
 		"igloo_egg": {
-			"name": "冰屋蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Igloo Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"rain_frog_egg": {
-			"name": "雨蛙蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Rain Frog Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"disc": {
-			"name": "圆盘",
-			"desc": "根据你的生命值增加你的身体伤害。"
+			"name": "Disc",
+			"desc": "Increases your body damage based on your health."
 		},
 		"mimic": {
-			"name": "拟态",
-			"desc": "它模仿你右边的花瓣。"
+			"name": "Mimic",
+			"desc": "It mimics the petal you have right to it."
 		},
 		"scythe": {
-			"name": "镰刀",
-			"desc": "一个长而锋利的物体。装备的花瓣越多，它就越弱。"
+			"name": "Scythe",
+			"desc": "A long sharp object. The more petals have equipped, the weaker it gets."
 		},
 		"corruption": {
-			"name": "腐化",
-			"desc": "你变得腐化，可以伤害其他花朵，它们也可以伤害你。"
+			"name": "Corruption",
+			"desc": "You become corrupt and can harm other flowers and they can harm you."
 		},
 		"moon": {
-			"name": "月石",
-			"desc": "非常胖的花瓣，可能会保护你免受生物伤害"
+			"name": "Moon",
+			"desc": "very fat petal, might protect you fom mobs"
 		},
 		"pearl": {
-			"name": "珍珠",
-			"desc": "把它放在地上，看着生物们被它绊倒"
+			"name": "Pearl",
+			"desc": "leave it on the floor and watch as mobs trip over it"
 		},
 		"orange": {
-			"name": "橙子",
-			"desc": "它们很好吃，但每个生物都对它们过敏"
+			"name": "Orange",
+			"desc": "theyre tasty, but every mob is allergic to them"
 		},
 		"dizzy": {
-			"name": "眩晕",
-			"desc": "让你头晕，但增加你的花瓣伤害。"
+			"name": "Dizzy",
+			"desc": "Makes you dizzy, but increases your petal damage."
 		},
 		"illuminati_egg": {
-			"name": "光明会蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Illuminati Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"black_hole_egg": {
-			"name": "黑洞蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Black Hole Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"gamma_ray": {
-			"name": "伽马射线",
-			"desc": "光束时刻"
+			"name": "Gamma Ray",
+			"desc": "beam moment"
 		},
 		"troll_egg": {
-			"name": "巨魔蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Troll Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"horn": {
-			"name": "角",
-			"desc": "增加你宠物的伤害。"
+			"name": "Horn",
+			"desc": "Increases damage of your pets."
 		},
 		"ufo_egg": {
-			"name": "不明飞行物蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "UFO Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"orb": {
-			"name": "宝珠",
-			"desc": "这里面有很多先进的外星科技，我想知道它有什么作用……"
+			"name": "Orb",
+			"desc": "There is a lot of advanched alien technology in this, i wonder what it does..."
 		},
 		"alien_egg": {
-			"name": "外星人蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Alien Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"angel_egg": {
-			"name": "天使蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Angel Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"momy_egg": {
-			"name": "妈咪蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Momy Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"mirror": {
-			"name": "镜子",
-			"desc": "反射同等稀有度以下的导弹。"
+			"name": "Mirror",
+			"desc": "Reflects missiles upto to the same rarity."
 		},
 		"comb": {
-			"name": "梳子",
-			"desc": "可惜这朵花是秃头"
+			"name": "Comb",
+			"desc": "Too bad that the flower is bald"
 		},
 		"ring": {
-			"name": "戒指",
-			"desc": "索伦之戒。"
+			"name": "Ring",
+			"desc": "Zauron's Ring."
 		},
 		"triangle": {
-			"name": "三角形",
-			"desc": "通过造成所有类型的伤害来发现每个生物的弱点"
+			"name": "Triangle",
+			"desc": "Has the ability to spot every mobs weaknesses by doing every type of damage"
 		},
 		"dvd": {
 			"name": "DVD",
-			"desc": "包含一些前所未见的稀有外星人录像。"
+			"desc": "Contains some rare never seen before Alien footage."
 		},
 		"eyeball": {
-			"name": "眼球",
-			"desc": "全视之眼，让你的导弹自动瞄准最近的目标。"
+			"name": "Eyeball",
+			"desc": "All seeing eye that yours makes missiles auto aim to nearest target."
 		},
 		"zodiac": {
-			"name": "黄道",
-			"desc": "增加你花瓣的装填时间，但非常强大。"
+			"name": "Zodiac",
+			"desc": "Increases reload of your petals, but very strong."
 		},
 		"ghost_egg": {
-			"name": "幽灵蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Ghost Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"gravestone_egg": {
-			"name": "墓碑蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Gravestone Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"balloon": {
-			"name": "气球",
-			"desc": "让你向上漂浮。"
+			"name": "Balloon",
+			"desc": "Makes you float upwards."
 		},
 		"void_mark": {
-			"name": "虚空标记",
-			"desc": "将一朵可爱的小死花送到星界。"
+			"name": "Void Mark",
+			"desc": "Sends a cute little dead flower to the astral realm."
 		},
 		"plasma": {
-			"name": "等离子体",
-			"desc": "非常热的物质状态。"
+			"name": "Plasma",
+			"desc": "Very hot state of matter."
 		},
 		"quantum": {
-			"name": "量子",
-			"desc": "改变你的轨道形状。"
+			"name": "Quantum",
+			"desc": "Changes the shape of your orbit."
 		},
 		"claw": {
-			"name": "爪子",
-			"desc": "当敌人生命值超过80%时造成五倍伤害。"
+			"name": "Claw",
+			"desc": "Deals 5x damage when enemy health is over 80%."
 		},
 		"electric_eel_egg": {
-			"name": "电鳗蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Electric Eel Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"thorn": {
-			"name": "荆棘",
-			"desc": "一种会分裂的加热导弹"
+			"name": "Thorn",
+			"desc": "A heated missile which splits"
 		},
 		"blood_scythe": {
-			"name": "血镰刀",
-			"desc": "不仅仅是普通的镰刀，它沾满了鲜血并且不会变弱"
+			"name": "Blood Scythe",
+			"desc": "Not just any scythe, its covered in blood and doesnt get weaker"
 		},
 		"eye_egg": {
-			"name": "眼睛蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Eye Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"square": {
-			"name": "正方形",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Square",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"target_mummy_egg": {
-			"name": "训练木乃伊蛋",
-			"desc": "它可以孵化并生成一些有趣的东西……"
+			"name": "Target Mummy Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"yen": {
-			"name": "日元",
-			"desc": "大陆的货币。"
+			"name": "Yen",
+			"desc": "The currency of the Mainland."
 		},
 		"bitcoin": {
-			"name": "比特币",
-			"desc": "由中本聪创造。"
+			"name": "Bitcoin",
+			"desc": "Created by Satoshi Nakamoto."
 		},
 		"dollar": {
-			"name": "美元",
-			"desc": "为什么我不能在现实生活中使用它？"
+			"name": "Dollar",
+			"desc": "Why can't I use it irl?"
 		},
 		"fries": {
-			"name": "薯条",
-			"desc": "你有六十九个来自麦当劳的未接来电。"
+			"name": "Fries",
+			"desc": "You have 69 missed calls from McDonalds."
 		},
 		"emerald": {
-			"name": "绿宝石",
-			"desc": "当同稀有度的生物被它击中时，从该生物身上获得更多经验值。"
+			"name": "Emerald",
+			"desc": "Gives you more XP from mobs of the same rarity when the mob is hit with it."
 		},
 		"sapphire": {
-			"name": "蓝宝石",
-			"desc": "使你所有同稀有度的花瓣掉落在地上。"
+			"name": "Sapphire",
+			"desc": "Makes all your petals of the same rarity drop on the ground."
 		},
 		"candlestick": {
-			"name": "烛台",
-			"desc": "它既可以治愈你所有的困苦，也可以杀死你。小心！"
+			"name": "Candlestick",
+			"desc": "It can either heal all your struggles or kill you. Be careful!"
 		},
 		"ruby": {
-			"name": "红宝石",
-			"desc": "赋予闪电多次击中同一敌人的能力。"
+			"name": "Ruby",
+			"desc": "Gives lightning the ability to hit the same enemy multiple times."
 		},
 		"diamond": {
-			"name": "钻石",
-			"desc": "斯基比迪花瓣多普多普耶斯耶斯"
+			"name": "Diamond",
+			"desc": "Skibidi petal dop dop yes yes"
 		},
 		"topaz": {
-			"name": "黄玉",
-			"desc": "为你提供护甲。"
+			"name": "Topaz",
+			"desc": "Gives you armor."
 		},
 		"citron": {
-			"name": "香橼",
-			"desc": "增加你的花瓣大小。"
+			"name": "Citron",
+			"desc": "Increases size of your petals."
 		},
 		"quartz": {
-			"name": "石英",
-			"desc": "使你的花瓣（直到相同稀有度）有一定几率跳过装填。"
+			"name": "Quartz",
+			"desc": "Gives your petals till the same rarity some chance to skip reload."
 		},
 		"opal": {
-			"name": "蛋白石",
-			"desc": "使你所有同稀有度的花瓣有一定几率造成额外伤害。"
+			"name": "Opal",
+			"desc": "Gives all your petals of the same rarity some chance to do extra damage."
 		},
 		"relic": {
-			"name": "遗物",
-			"desc": "在你的小队中，将伤害分摊给其他遗物佩戴者。"
+			"name": "Relic",
+			"desc": "Spreads damage between other relic wearers in your squad."
 		},
 		"uranium": {
-			"name": "铀",
-			"desc": "一种放射性元素，可能导致非常致命的感染。"
+			"name": "Uranium",
+			"desc": "A radioactive element that might cause very deadly infections."
 		},
 		"plutonium": {
-			"name": "钚",
-			"desc": "一种能够造成非常严重烧伤的放射性元素。"
+			"name": "Plutonium",
+			"desc": "A radioactive element capable of causing very severe burns."
 		}
 	},
 	"achievements": {
 		"rookie": {
-			"name": "新手",
-			"desc": "游玩十五分钟。"
+			"name": "Rookie",
+			"desc": "Play for 15 minutes."
 		},
 		"started": {
-			"name": "崭露头角……",
-			"desc": "游玩一小时。"
+			"name": "Getting started...",
+			"desc": "Play for 1 hour."
 		},
 		"player": {
-			"name": "普通玩家",
-			"desc": "游玩六小时"
+			"name": "Average Gamer",
+			"desc": "Play for 6 hours"
 		},
 		"gamer": {
-			"name": "进阶玩家",
-			"desc": "游玩一天。"
+			"name": "Better Gamer",
+			"desc": "Play for 1 day."
 		},
 		"week": {
-			"name": "全天候",
-			"desc": "游玩七天。"
+			"name": "twenty-four-seven",
+			"desc": "Play for 7 days."
 		},
 		"month": {
-			"name": "沉迷",
-			"desc": "游玩三十天。"
+			"name": "Addicted",
+			"desc": "Play for 30 days."
 		},
 		"year": {
-			"name": "新年快乐！",
-			"desc": "游玩三百五十六天。"
+			"name": "Happy new year!",
+			"desc": "Play for 365 days."
 		},
 		"epic": {
-			"name": "史诗级玩家时刻",
-			"desc": "收集一个史诗花瓣。"
+			"name": "Epic Gamer Moment",
+			"desc": "Collect 1 Epic petal."
 		},
 		"legendary": {
-			"name": "传说中的",
-			"desc": "收集一个传说花瓣。"
+			"name": "Logandary",
+			"desc": "Collect 1 Legendary petal."
 		},
 		"mythic": {
-			"name": "神话成真",
-			"desc": "收集一个神话花瓣。"
+			"name": "The Myths Are Real",
+			"desc": "Collect 1 Mythic petal."
 		},
 		"ultra": {
-			"name": "超越凡人",
-			"desc": "收集一个究极花瓣。"
+			"name": "Above the normies",
+			"desc": "Collect a ultra petal."
 		},
 		"super": {
-			"name": "超级专家",
-			"desc": "收集五个超级花瓣。"
+			"name": "super pro",
+			"desc": "COllect 5 super petals."
 		},
 		"omega": {
-			"name": "欧米伽！！！！！",
-			"desc": "收集一个欧米伽花瓣。"
+			"name": "OMEGA!!!!!",
+			"desc": "Collect an omega petal."
 		},
 		"medic": {
-			"name": "医护兵",
-			"desc": "使用世界树复活某朵花。"
+			"name": "Medic",
+			"desc": "Revive someone using a Yggdrasil."
 		},
 		"surgeon": {
-			"name": "外科医生",
-			"desc": "使用世界树复活二十五朵花。"
+			"name": "Surgeon",
+			"desc": "Revive 25 flowers using Yggdrasil."
 		},
 		"angel": {
-			"name": "天使",
-			"desc": "使用世界树复活二百五十朵花。"
+			"name": "Angel",
+			"desc": "Revive 250 flowers using Yggdrasil."
 		},
 		"god": {
-			"name": "全能者",
-			"desc": "遇到一个管理员。"
+			"name": "An omnipotent",
+			"desc": "Encounter an admin."
 		},
 		"killer": {
-			"name": "杀手",
-			"desc": "使用腐化杀死二十五名玩家。"
+			"name": "Killer",
+			"desc": "Kill 25 players using corruption."
 		},
 		"genocide": {
-			"name": "种族灭绝",
-			"desc": "杀死二百五十个生物"
+			"name": "Genocide",
+			"desc": "Kill 250 mobs"
 		},
 		"massacre": {
-			"name": "大屠杀",
-			"desc": "杀死二千五百个生物"
+			"name": "Massacre",
+			"desc": "Kill 2500 mobs"
 		},
 		"holocaust": {
-			"name": "浩劫",
-			"desc": "杀死一万个生物"
+			"name": "Halocaust",
+			"desc": "Kill 10,000 mobs"
 		},
 		"solo": {
-			"name": "单挑",
-			"desc": "以超过75%的伤害单独击杀一个超级+生物。"
+			"name": "Solo",
+			"desc": "Kill a Super+ mob with over 75% damage."
 		},
 		"money": {
-			"name": "物有所值",
-			"desc": "从商店购买星星。"
+			"name": "Money well spent",
+			"desc": "Puchase stars from shop."
 		},
 		"makeup": {
-			"name": "化妆师",
-			"desc": "从商店购买一个皮肤。"
+			"name": "Makeup Artist",
+			"desc": "Buy a skin from shop."
 		},
 		"chat": {
-			"name": "不太健谈",
-			"desc": "发送一条聊天消息。"
+			"name": "Not Very Talkative",
+			"desc": "Send a chat message."
 		},
 		"china": {
-			"name": "中国第一！！",
-			"desc": "在聊天中说十次“China Number 1”。"
+			"name": "CHINA NUMBER 1!!",
+			"desc": "Say 'China Number 1' in chat 10 times."
 		},
 		"nazar": {
-			"name": "邪眼甲虫",
-			"desc": "消灭五只究极+邪眼甲虫。"
+			"name": "The Nazar Beetles",
+			"desc": "Destroy 5 Ultra+ Nazar Beetles."
 		},
 		"baby": {
-			"name": "婴儿油",
-			"desc": "消灭五只究极+幼蚁。"
+			"name": "Baby Oil",
+			"desc": "Destroy 5 Ultra+ Baby Ants."
 		},
 		"jeet": {
-			"name": "顶级阿三",
-			"desc": "获得一个超级+布加迪。"
+			"name": "Top Jeet",
+			"desc": "Obtain a Super+ Bugatti."
 		},
 		"clown": {
-			"name": "小丑",
-			"desc": "变身为一个小丑。"
+			"name": "Clown",
+			"desc": "Transform into a clown."
 		},
 		"covid": {
-			"name": "新冠-69",
-			"desc": "消灭二十个究极+病毒。"
+			"name": "Covid-69",
+			"desc": "Destroy 20 Ultra+ Virus."
 		},
 		"useless": {
-			"name": "无用功",
-			"desc": "从五个超级+生物那里获得掉落物，但未对其造成任何伤害。"
+			"name": "Useless",
+			"desc": "Get drops from 5 Super+ mobs without doing any damage to it."
 		},
 		"cicada": {
-			"name": "蝉3301",
-			"desc": "消灭十只究极+蝉。"
+			"name": "Cicada 3301",
+			"desc": "Destroy 10 Ultra+ Cicada."
 		},
 		"slaughter": {
-			"name": "大规模屠戮",
-			"desc": "杀死五万个生物"
+			"name": "Mass slaughter",
+			"desc": "Kill 50,000 mobs"
 		},
 		"annihilation": {
-			"name": "湮灭",
-			"desc": "杀死二十五万个生物"
+			"name": "Annihilation",
+			"desc": "Kill 250,000 mobs"
 		},
 		"destruction": {
-			"name": "世界末日",
-			"desc": "杀死一千万个生物"
+			"name": "The End Of The World",
+			"desc": "Kill 10,000,000 mobs"
 		},
 		"racist": {
-			"name": "种族主义者",
-			"desc": "杀死二万五个同类生物"
+			"name": "Racist",
+			"desc": "Kill 25,000 mobs of a kind"
 		},
 		"murder": {
-			"name": "谋杀",
-			"desc": "使用腐化杀死一名玩家。"
+			"name": "Murder",
+			"desc": "Kill a player using corruption."
 		},
 		"homicide": {
-			"name": "杀人犯",
-			"desc": "使用腐化杀死五百名玩家。非常卑鄙。"
+			"name": "homicide",
+			"desc": "Kill 500 players using corruption. Very mean."
 		},
 		"level50": {
-			"name": "升级！",
-			"desc": "达到五十级"
+			"name": "Level up!",
+			"desc": "Reach level 50"
 		},
 		"level100": {
-			"name": "渐入佳境",
-			"desc": "达到一百级"
+			"name": "Getting better",
+			"desc": "Reach level 100"
 		},
 		"level150": {
-			"name": "接近专家",
-			"desc": "达到一百五十级"
+			"name": "Almost pro",
+			"desc": "Reach level 150"
 		},
 		"level200": {
-			"name": "专家！",
-			"desc": "达到二百级"
+			"name": "Pro!",
+			"desc": "Reach level 200"
 		},
 		"level250": {
-			"name": "肝帝",
-			"desc": "达到二百五十级"
+			"name": "Nolife",
+			"desc": "Reach level 250"
 		},
 		"level300": {
-			"name": "绝对最佳",
-			"desc": "达到三百级"
+			"name": "The absolute best",
+			"desc": "Reach level 300"
 		}
 	},
 	"skins": {
 		"derp": {
-			"name": "呆萌",
-			"desc": "那些眼睛里空无一物"
+			"name": "Derp",
+			"desc": "There is not a single thought between those eyes"
 		},
 		"cursed": {
-			"name": "被诅咒的",
-			"desc": "被某种更高力量腐化了"
+			"name": "Cursed",
+			"desc": "Has been corrupted by some higher forces"
 		},
 		"square": {
-			"name": "正方形",
-			"desc": "这是什么外来形状"
+			"name": "Square",
+			"desc": "What is this foregin shape"
 		},
 		"lifeless": {
-			"name": "无生命",
-			"desc": "...脸去哪了"
+			"name": "Lifeless",
+			"desc": "... where did the face go"
 		},
 		"sun": {
-			"name": "太阳",
-			"desc": "太阳出来了"
+			"name": "Sun",
+			"desc": "Here comes the sun"
 		},
 		"radioactive": {
-			"name": "放射性",
-			"desc": "喜欢吃铀矿石"
+			"name": "Radioactive",
+			"desc": "Likes eating uranium ore"
 		},
 		"blended": {
-			"name": "混合",
-			"desc": "在Temu上做了脸部手术"
+			"name": "Blended",
+			"desc": "Got face surgery on temu"
 		},
 		"cactus": {
-			"name": "仙人掌",
-			"desc": "这不算是花吧"
+			"name": "Cactus",
+			"desc": "Not really a flower, is it"
 		},
 		"ghost": {
-			"name": "幽灵",
-			"desc": "不怎么吓人"
+			"name": "Ghost",
+			"desc": "Not very spooky"
 		},
 		"cyclops": {
-			"name": "独眼巨人",
-			"desc": "其他的眼睛去哪了"
+			"name": "Cyclops",
+			"desc": "where did the other eyes go"
 		},
 		"angled": {
-			"name": "倾斜",
-			"desc": "它在歪着头，如果这可能的话"
+			"name": "Angled",
+			"desc": "Its Tilting its head, if thats even possible"
 		},
 		"small_face": {
-			"name": "小脸",
-			"desc": "是脸小还是身体大？"
+			"name": "Small face",
+			"desc": "Does it have a small face or a big body?"
 		},
 		"frozen": {
-			"name": "冰冻",
-			"desc": "随它去吧，随它去吧～"
+			"name": "Frozen",
+			"desc": "Let it go, let it gooo"
 		},
 		"omega_flowey": {
-			"name": "欧米伽福劳尔",
-			"desc": "粉色皮肤"
+			"name": "Omega flowey",
+			"desc": "Pink skin"
 		},
 		"star2": {
-			"name": "星星2",
-			"desc": "你用7500星星买了1颗星星，值了。"
+			"name": "Star2",
+			"desc": "You bought 1 star for 7500 stars, worth it."
 		},
 		"red_star": {
-			"name": "红星",
-			"desc": "非常有趣的图案。"
+			"name": "Red Star",
+			"desc": "Very interesting patterns."
 		},
 		"clover": {
-			"name": "三叶草",
-			"desc": "幸运！"
+			"name": "Clover",
+			"desc": "Lucky!"
 		},
 		"rocker": {
-			"name": "摇滚者",
-			"desc": "这个皮肤太摇滚了！"
+			"name": "Rocker",
+			"desc": "This skin rocks!"
 		},
 		"dark_mode": {
-			"name": "深色模式",
-			"desc": "谁把灯关了"
+			"name": "Dark mode",
+			"desc": "Who turned off the lights"
 		},
 		"megamind": {
-			"name": "超级大脑",
-			"desc": "它在思考"
+			"name": "Megamind",
+			"desc": "Hes thinking"
 		},
 		"pentagon": {
-			"name": "五边形",
-			"desc": "一个更加未知的形状"
+			"name": "Pentagon",
+			"desc": "An even more unknown shape"
 		},
 		"mouse": {
-			"name": "老鼠",
-			"desc": "它到底是怎么用花瓣的"
+			"name": "Mouse",
+			"desc": "How does it even use petals"
 		},
 		"one_eye": {
-			"name": "单眼",
-			"desc": "第三只眼的降级版。"
+			"name": "One eye",
+			"desc": "Third eye downgrade."
 		},
 		"complex": {
-			"name": "复杂",
-			"desc": "非常多刺，非常不自然"
+			"name": "Complex",
+			"desc": "Very spiky, very unnatural"
 		},
 		"emotional": {
-			"name": "情绪化",
-			"desc": "变得非常愤怒和非常悲伤。"
+			"name": "Emotional",
+			"desc": "Gets very angry and very sad."
 		},
 		"herobrine": {
 			"name": "Herobrine",
-			"desc": "以为我们把他移除了..."
+			"desc": "Thought we removed him..."
 		},
 		"womp": {
 			"name": "Womp",
-			"desc": "情绪波动中。"
+			"desc": "Is having a moodswing."
 		},
 		"microsoft_paint_flower": {
-			"name": "微软画图花",
-			"desc": "这是谁画的？一个5岁小孩吗？？"
+			"name": "Microsoft Paint Flower",
+			"desc": "Who drew this? a 5 yea old??"
 		},
 		"50_shades_of_flower": {
-			"name": "五十度花",
-			"desc": "应该有人拍部关于这个的电影..."
+			"name": "50 Shades of Flower",
+			"desc": "Someone should make a movie about this..."
 		},
 		"negative": {
-			"name": "负片",
-			"desc": "异次元的花。"
+			"name": "Negative",
+			"desc": "Alternate reality flower."
 		},
 		"smirk": {
-			"name": "得意笑",
-			"desc": "古怪的花。"
+			"name": "Smirk",
+			"desc": "Freaky aah flower."
 		},
 		"boba": {
-			"name": "波霸",
-			"desc": "死亡时不会爆炸。"
+			"name": "Boba",
+			"desc": "doesnt explode upon death."
 		},
 		"sawblade": {
-			"name": "锯刃",
-			"desc": "哎呦！有刺。"
+			"name": "Sawblade",
+			"desc": "Ouch! Spiky."
 		},
 		"yellow": {
-			"name": "黄色",
-			"desc": "它黄得不行"
+			"name": "Yellow",
+			"desc": "It is yellow asf"
 		},
 		"rock": {
-			"name": "岩石",
-			"desc": "来自大海的卵石"
+			"name": "Rock",
+			"desc": "A pebble from the sea"
 		},
 		"boo": {
-			"name": " 怖",
-			"desc": "吓人，不是吗？"
+			"name": "Boo",
+			"desc": "Scary, ain't it?"
 		},
 		"sus": {
-			"name": "可疑",
-			"desc": "章鱼可疑"
+			"name": "Sus",
+			"desc": "Octosus"
 		},
 		"pacman": {
-			"name": "吃豆人",
-			"desc": "请不要给我们发律师函。"
+			"name": "Pacman",
+			"desc": "Do not DMCA us pls."
 		},
 		"chicken": {
-			"name": "鸡",
-			"desc": "下反重力的鸡蛋形鸡。"
+			"name": "Chicken",
+			"desc": "Lays anti-gravity egg-shaped chicken eggs."
 		},
 		"black": {
-			"name": "黑色",
-			"desc": "来自非洲"
+			"name": "Black",
+			"desc": "From Africa"
 		},
 		"egg": {
-			"name": "蛋",
-			"desc": "由外星鸡所下，由我们烹制。"
+			"name": "Egg",
+			"desc": "Laid by an alien ckicken, cooked by us."
 		},
 		"retard": {
-			"name": "智障",
-			"desc": "哈哈"
+			"name": "Retard",
+			"desc": "lol"
 		},
 		"trader": {
-			"name": "商人",
-			"desc": "做生意的人。"
+			"name": "Trader",
+			"desc": "Trades humans."
 		},
 		"clover2": {
-			"name": "三叶草2",
-			"desc": "4chan？"
+			"name": "Clover2",
+			"desc": "4chan?"
 		},
 		"zatan": {
-			"name": "扎坦",
-			"desc": "红色和黑色的可疑尖刺。"
+			"name": "Zatan",
+			"desc": "Red and black sussy spikes."
 		},
 		"amogus": {
-			"name": "太空人",
-			"desc": "一个冒名顶替者。"
+			"name": "Amogus",
+			"desc": "An imposter."
 		},
 		"brain_damage": {
-			"name": "脑损伤",
-			"desc": "开发者皮肤？？？什么鬼？？？"
+			"name": "Brain Damage",
+			"desc": "Developer skin??? WTF???"
 		},
 		"cactuser": {
-			"name": "仙人掌者",
-			"desc": "一种沙漠植物。"
+			"name": "Cactuser",
+			"desc": "A desert plant."
 		},
 		"sad": {
-			"name": "悲伤",
-			"desc": "非常非常悲伤。"
+			"name": "Sad",
+			"desc": "Very very sad."
 		},
 		"cake": {
-			"name": "蛋糕",
-			"desc": "生日快乐！"
+			"name": "Cake",
+			"desc": "Happy birthday!"
 		},
 		"green": {
-			"name": "绿色",
-			"desc": "尤巴彩蛋？"
+			"name": "Green",
+			"desc": "Yoba easter egg?"
 		},
 		"magma": {
-			"name": "熔岩",
-			"desc": "取自活火山"
+			"name": "Magma",
+			"desc": "Taken from an active volcano"
 		},
 		"derper": {
-			"name": "更呆萌的",
-			"desc": "开发者皮肤2？？？什么鬼？？？"
+			"name": "Derper",
+			"desc": "Developer skin 2??? WTF???"
 		},
 		"target_dummy": {
-			"name": "训练假花",
-			"desc": "毫无感情。"
+			"name": "Target Dummy",
+			"desc": "Emotionless asf."
 		},
 		"mark": {
-			"name": "标记",
-			"desc": "冥界见，续集再会。"
+			"name": "Mark",
+			"desc": "See you in Hel for the sequel."
 		},
 		"frog": {
-			"name": "青蛙",
-			"desc": "佩佩蛙。"
+			"name": "Frog",
+			"desc": "Pepe the frog."
 		},
 		"goo": {
-			"name": "粘液",
-			"desc": "白色粘液很奇怪。"
+			"name": "Goo",
+			"desc": "White goo is odd."
 		},
 		"rectus": {
-			"name": "红仙人掌",
-			"desc": "红色 + 仙人掌 = 红仙人掌"
+			"name": "Rectus",
+			"desc": "Red + Cactus = Rectus"
 		},
 		"oval": {
-			"name": "椭圆",
-			"desc": "不是椭圆形"
+			"name": "Oval",
+			"desc": "Not an oval"
 		},
 		"cute": {
-			"name": "可爱",
-			"desc": "小可爱。"
+			"name": "Cute",
+			"desc": "Cutie patootie."
 		},
 		"omegasus": {
-			"name": "欧米伽可疑",
-			"desc": "蓝色看起来有点可疑。"
+			"name": "Omegasus",
+			"desc": "Blue seems kinda sus."
 		},
 		"star": {
-			"name": "星星",
-			"desc": "夜空中的一颗星。"
+			"name": "Star",
+			"desc": "A star of the night sky. "
 		},
 		"rockstar": {
-			"name": "摇滚明星",
-			"desc": "看起来更像花瓣。"
+			"name": "Rockstar",
+			"desc": "Looks more like the petal."
 		},
 		"ufo": {
-			"name": "不明飞行物",
-			"desc": "里面有外星人。"
+			"name": "UFO",
+			"desc": "Has aliens inside it."
 		},
 		"red_spikes": {
-			"name": "红色尖刺",
-			"desc": "它很痛。"
+			"name": "Red Spikes",
+			"desc": "It hurts. "
 		},
 		"sponge": {
-			"name": "海绵",
-			"desc": "洗碗。"
+			"name": "Sponge",
+			"desc": "Washes the dishes."
 		},
 		"hexagon": {
-			"name": "六边形",
-			"desc": "只是一个正多边形。"
+			"name": "Hexagon",
+			"desc": "Just a regular polygon."
 		},
 		"mech": {
-			"name": "机甲",
-			"desc": "机械花。"
+			"name": "Mech",
+			"desc": "Mechanical flower."
 		},
 		"lightning": {
-			"name": "闪电",
-			"desc": "电击！"
+			"name": "Lightning",
+			"desc": "Strike!"
 		},
 		"inverted": {
-			"name": "反转",
-			"desc": "反转了。"
+			"name": "Inverted",
+			"desc": "Flipped asf."
 		},
 		"poo": {
-			"name": "便便",
-			"desc": "便便皮肤。"
+			"name": "Poo",
+			"desc": "Poopy skin."
 		},
 		"sea_urchin": {
-			"name": "海胆",
-			"desc": "我忘了💀"
+			"name": "Sea Urchin",
+			"desc": "i forgor :skull:"
 		},
 		"long": {
-			"name": "长",
-			"desc": "液压机的副作用。"
+			"name": "Long",
+			"desc": "Side-effect of hydraulic press."
 		},
 		"blue": {
-			"name": "蓝色",
-			"desc": "傻乎乎的"
+			"name": "Blue",
+			"desc": "Goofy asf"
 		},
 		"right-angle": {
-			"name": "直角",
-			"desc": "你被旋转了90度。"
+			"name": "Right-Angle",
+			"desc": "You are rotated by 90 degrees."
 		},
 		"facist": {
-			"name": "法西斯",
-			"desc": "黑白的。"
+			"name": "Facist",
+			"desc": "Black & White asf."
 		},
 		"faster": {
-			"name": "更快",
-			"desc": "可疑的表情。"
+			"name": "Faster",
+			"desc": "Sussy expressions."
 		},
 		"amobae": {
-			"name": "阿米巴",
-			"desc": "微生物"
+			"name": "Amobae",
+			"desc": "Micro-organism"
 		},
 		"melon": {
-			"name": "甜瓜",
-			"desc": "可可瓜"
+			"name": "Melon",
+			"desc": "cocomelon"
 		},
 		"ant_hole": {
-			"name": "蚁穴",
-			"desc": "蚂蚁的洞穴"
+			"name": "Ant Hole",
+			"desc": "The hole of an ant"
 		},
 		"eye": {
-			"name": "眼睛",
-			"desc": "福劳伦的全视之眼"
+			"name": "Eye",
+			"desc": "The all seeing eye of Flouron"
 		},
 		"roach": {
-			"name": "蟑螂",
-			"desc": "小强"
+			"name": "Roach",
+			"desc": "Cockroach"
 		},
 		"lava": {
-			"name": "熔岩",
-			"desc": "9999℃时刻"
+			"name": "Lava",
+			"desc": "9999°C moment"
 		},
 		"rose": {
-			"name": "玫瑰",
-			"desc": "一朵美丽的小花"
+			"name": "Rose",
+			"desc": "A beautiful little flower"
 		},
 		"stupid": {
-			"name": "愚蠢",
-			"desc": "它看起来有点傻"
+			"name": "Stupid",
+			"desc": "It looks kinda stoopid"
 		},
 		"barbie": {
-			"name": "芭比",
-			"desc": "少女心"
+			"name": "Barbie",
+			"desc": "Girly"
 		},
 		"virus": {
-			"name": "病毒",
-			"desc": "非常具有传染性"
+			"name": "Virus",
+			"desc": "Very contagious"
 		},
 		"slanted": {
-			"name": "倾斜的",
+			"name": "Slanted",
 			"desc": ":/"
 		},
 		"wloop": {
 			"name": "Wloop",
-			"desc": "我们不知道这到底是什么..."
+			"desc": "We don't know what this really is..."
 		},
 		"ara_ara": {
-			"name": "啊啦啊啦",
-			"desc": "可爱的小花"
+			"name": "Ara Ara",
+			"desc": "Cute lil flower"
 		},
 		"sirius": {
-			"name": "天狼星",
-			"desc": "天空中最亮的星星"
+			"name": "Sirius",
+			"desc": "Brightest star in the sky"
 		},
 		"acid": {
-			"name": "酸",
-			"desc": "不会造成烧伤..."
+			"name": "Acid",
+			"desc": "Won't cause burns..."
 		},
 		"dark": {
-			"name": "黑暗",
-			"desc": "极其黑暗的物质。"
+			"name": "Dark",
+			"desc": "Exremely dark substance."
 		},
 		"nazar": {
-			"name": "邪眼",
+			"name": "Nazar",
 			"desc": "🧿🧿🧿🧿🧿"
 		},
 		"omega": {
-			"name": "欧米伽",
-			"desc": "最后的稀有度"
+			"name": "Omega",
+			"desc": "The Last Rarity"
 		},
 		"goof": {
-			"name": "傻瓜",
-			"desc": "看起来相当傻..."
+			"name": "Goof",
+			"desc": "Appears pretty goofy..."
 		},
 		"flower": {
-			"name": "花朵",
-			"desc": "一朵花献给一朵花"
+			"name": "Flower",
+			"desc": "A flower for a flower"
 		},
 		"banana": {
-			"name": "香蕉",
-			"desc": "一种长长的水果"
+			"name": "Banana",
+			"desc": "A long fruit"
 		},
 		"potato": {
-			"name": "土豆",
-			"desc": "富含纤维"
+			"name": "Potato",
+			"desc": "Fiberous"
 		},
 		"urchin": {
-			"name": "海胆",
-			"desc": "取自大海"
+			"name": "Urchin",
+			"desc": "Taken from the sea"
 		},
 		"fq69": {
 			"name": "fq69",
-			"desc": "粉色"
+			"desc": "Pink"
 		},
 		"gren": {
-			"name": "绿色",
-			"desc": "摸摸草地"
+			"name": "Gren",
+			"desc": "Touch grass"
 		},
 		"zurchin": {
-			"name": "祖尔钦",
-			"desc": "更好看的海胆"
+			"name": "Zurchin",
+			"desc": "Better looking sea urchin"
 		},
 		"bacteria": {
-			"name": "细菌",
-			"desc": "从微观世界偷来的"
+			"name": "Bacteria",
+			"desc": "Stolen from the microscopic world"
 		},
 		"florr": {
 			"name": "Florr",
-			"desc": "这才是真正的florr"
+			"desc": "A real florr"
 		},
 		"alien": {
-			"name": "外星人",
-			"desc": "地外时刻"
+			"name": "Alien",
+			"desc": "Extra-terrestial moment"
 		},
 		"avacado": {
-			"name": "牛油果",
-			"desc": "一种水果"
+			"name": "Avacado",
+			"desc": "A fruit"
 		},
 		"clown": {
-			"name": "小丑",
-			"desc": "杀手小丑。"
+			"name": "Clown",
+			"desc": "Killer clown."
 		},
 		"baby_ant": {
-			"name": "幼蚁",
-			"desc": "迪迪的幼蚁"
+			"name": "Baby Ant",
+			"desc": "Diddy's Baby Ant"
 		},
 		"reddit": {
 			"name": "Reddit",
-			"desc": "高质量Reddit标志时刻"
+			"desc": "quality reddit logo moment"
 		},
 		"wtf": {
-			"name": "什么鬼",
-			"desc": "我完全不知道这是什么"
+			"name": "WTF",
+			"desc": "i have no clue what this is"
 		},
 		"zatrix": {
-			"name": "扎特里克斯",
-			"desc": "来自矩阵的花"
+			"name": "Zatrix",
+			"desc": "A flower from the matrix"
 		},
 		"inception": {
-			"name": "盗梦空间",
-			"desc": "眼-ception"
+			"name": "Inception",
+			"desc": "Eye-ception"
 		},
 		"yin_yang": {
-			"name": "阴阳",
+			"name": "Yin Yang",
 			"desc": "69"
 		},
 		"angey": {
-			"name": "愤怒",
-			"desc": "愤怒的小鸟"
+			"name": "Angey",
+			"desc": "Angry Bird"
 		},
 		"blocked": {
-			"name": "禁止通行",
-			"desc": "禁止进入！"
+			"name": "Blocked",
+			"desc": "NO ENTRY!"
 		},
 		"stewie": {
-			"name": "斯图伊",
-			"desc": "面无表情"
+			"name": "Stewie",
+			"desc": "Straight face"
 		},
 		"face": {
-			"name": "脸",
-			"desc": "一个人类的头。"
+			"name": "Face",
+			"desc": "A human head."
 		},
-		"bigtus": {
-			"name": "仙大掌",
-			"desc": "这是个大——的仙人掌。"
-		}
 		"peanut": {
-			"name": "花生",
-			"desc": "为你光线追踪的2个球。"
+			"name": "Peanut",
+			"desc": "2 balls raymarched just for you."
 		},
 		"balls": {
-			"name": "球球",
+			"name": "Balls",
 			"desc": "OwO"
 		},
 		"tear": {
-			"name": "眼泪",
-			"desc": "眼睛里滴出血。"
+			"name": "Tear",
+			"desc": "Drips blood from the eye."
+		},
+		"bigtus": {
+			"name": "Bigtus",
+			"desc": "It's a big ahh cactus."
 		},
 		"worm": {
-			"name": "蠕虫",
-			"desc": "一条长长的蠕虫"
+			"name": "Worm",
+			"desc": "A long worm"
 		},
 		"blades": {
-			"name": "刀锋",
-			"desc": "非常非常长的刀锋……"
+			"name": "Blades",
+			"desc": "Really really long blades..."
 		},
 		"godrays": {
-			"name": "上帝之光",
-			"desc": "太阳的光芒。"
+			"name": "Godrays",
+			"desc": "Rays of the Sun."
 		},
 		"beam": {
-			"name": "光束",
-			"desc": "非常适合用来恶搞的上帝之光 uwu"
+			"name": "Beam",
+			"desc": "God rays that are very good for trolling uwu"
 		},
 		"griffin": {
-			"name": "格里芬",
-			"desc": "比你想象的更大，更适合恶搞……"
+			"name": "Griffin",
+			"desc": "Much bigger & troll worthy than you would think..."
 		}
 	},
 	"objectKeys": {
-		"health": "生命",
-		"damage": "伤害",
-		"boost": "加速",
-		"swing": "摇晃",
-		"heal": "治疗",
-		"passiveHeal": "被动治疗",
-		"passiveHealBelow50": "被动治疗（生命<50%）",
-		"passivePetHeal": "被动宠物治疗",
-		"shield": "护盾",
-		"passiveShield": "被动护盾",
-		"poison": "剧毒",
-		"orbitSpeed": "环绕速度",
-		"lightningDamage": "闪电伤害",
-		"lightningFireDamage": "闪电火伤",
-		"lightningPoison": "闪电毒伤",
-		"lightningBounces": "闪电连锁",
-		"webSize": "蛛网大小",
-		"explosion": "爆炸伤害",
-		"explosionSize": "爆炸范围",
-		"explosionPoison": "爆炸毒伤",
-		"explosionFire": "爆炸火伤",
-		"pickRange": "拾取范围",
-		"damageReflection": "伤害反弹",
-		"extraVision": "额外视野",
-		"extraRange": "额外射程",
-		"despawnTime": "消失时间",
-		"pet": "宠物",
-		"petSize": "宠物大小",
-		"passiveBoost": "被动加速",
-		"push": "推力",
-		"armor": "护甲",
-		"extraFlowerHealth": "额外花朵生命值",
-		"flowerPoison": "花朵剧毒",
-		"slownessTime": "减速时间",
-		"soakDamageTime": "伤害吸收时间",
-		"honeyRange": "蜂蜜范围",
-		"honeyTileDamage": "蜂蜜地块伤害",
-		"honeyTilePoison": "蜂蜜地块毒伤",
-		"honeyTileFire": "蜂蜜地块火伤",
-		"sendToBiome": "传送至生物群系",
-		"flowerReloadFactor": "花朵装填系数",
-		"armorDebuff": "护甲削弱",
-		"flowerSpeed": "花朵速度",
-		"fireDamage": "火焰伤害",
-		"firePoison": "火焰中毒",
-		"fireTime": "燃烧时间",
-		"flowerAcceleration": "花朵加速度",
-		"agroRangeReduction": "仇恨范围减少",
-		"agroRangeIncrease": "仇恨范围增加",
-		"flowerKnockedFactor": "花朵被击退系数",
-		"damageHealed": "伤害治疗转化",
-		"selfDamage": "自我伤害",
-		"flowerBodyLightning": "花朵身体电伤",
-		"freezeTime": "冻结时间",
-		"explosionFreezeTime": "爆炸冻结时间",
-		"explosionKnockback": "爆炸击退",
-		"luck": "幸运",
-		"frost": "霜冻",
-		"defrost": "解冻",
-		"tempFlowerSpeed": "临时花朵速度",
-		"subdivisionRates": "细分率",
-		"cureCancer": "治愈癌变",
-		"petMutation": "宠物突变",
-		"passivePetalHeal": "被动花瓣治疗",
-		"healBuff": "治疗增益",
-		"shieldBuff": "护盾增益",
-		"poisonReduction": "剧毒减免",
-		"fireReduction": "火伤减免",
-		"cancer": "癌变",
-		"orbit": "轨道",
-		"boostUpwards": "向上加速",
-		"pullReduction": "拉力减免",
-		"mobXpFactor": "生物经验系数",
-		"fullHealRate": "完全治疗率",
-		"extraPetalSize": "额外花瓣大小",
-		"flowerArmor": "花朵护甲",
-		"petalCritical": "花瓣暴击",
-		"petalReloadSkipRate": "花瓣跳过装填率",
-		"bodyLightning": "身体闪电",
-		"blockDamage": "格挡伤害",
-		"spreadDamage": "伤害分摊",
-		"radiationRange": "辐射范围",
-		"radiationPoison": "辐射毒伤",
-		"radiationFire": "辐射火伤"
-		"healAffectTime": "治疗影响时间",
-		"missileHealth": "导弹生命值",
-		"missileDamage": "导弹伤害",
-		"missilePoison": "导弹毒伤",
-		"missileHealAffectTime": "导弹治疗影响时间",
-		"missileArmorDebuff": "导弹护甲削弱",
-		"bodyFireDamage": "身体火伤",
-		"evasion": "闪避",
-		"sprayHealth": "喷射物生命值",
-		"sprayDamage": "喷射物伤害",
-		"sprayFireDamage": "喷射物火伤",
-		"telepathicDamage": "心灵感应伤害",
-		"keyboardControls": "键盘控制",
-		"movementHelper": "移动辅助",
-		"showHitbox": "显示碰撞箱",
-		"showRarities": "显示稀有度",
-		"showGrid": "显示网格",
-		"showChat": "显示聊天",
-		"showCraftBubble": "显示合成气泡",
-		"showDamage": "显示伤害",
-		"showDamageFlash": "显示伤害闪烁",
-		"showHealthBar": "显示生命条",
-		"showPetHealthBar": "显示宠物生命条",
-		"showHealth": "显示生命值",
-		"showDps": "显示DPS",
-		"showExplosion": "显示爆炸",
-		"showLightning": "显示闪电",
-		"abbreviateDps": "缩写DPS",
-		"showDebugInfo": "显示调试信息",
-		"fixedHudSize": "固定HUD大小",
-		"screenShake": "屏幕震动",
-		"antiAliasing": "抗锯齿",
-		"potatoHardware": "低配硬件",
-		"badwordFilter": "脏话过滤器",
-		"showMobLeaderboard": "显示生物排行榜",
-		"showBlocked": "显示已屏蔽",
-		"autoJoinSquads": "自动加入小队",
-		"xp": "经验值",
-		"timeJoined": "加入时间",
-		"stars": "星星",
-		"timePlayed": "游玩时间",
-		"gamesPlayed": "游戏局数",
-		"mobsKilled": "击杀生物数",
-		"playersKilled": "击杀玩家数",
-		"petalsPicked": "拾取花瓣数",
-		"petalsCrafted": "合成花瓣数",
-		"petalsBurned": "燃烧花瓣数",
-		"challengesCompleted": "完成挑战数",
-		"chatSent": "发送聊天数",
-		"maxScore": "最高分数",
-		"maxTimeAlive": "最长存活时间",
-		"maxMobsKilled": "最高击杀生物数",
-		"maxPetalsPicked": "最高拾取花瓣数",
-		"dailyPlaytime": "每日游玩时间",
-		"maxDailyPlaytime": "最高每日游玩时间",
-		"maxStreak": "最高连胜天数"
+		"health": "Health",
+		"damage": "Damage",
+		"boost": "Boost",
+		"swing": "Swing",
+		"heal": "Heal",
+		"passiveHeal": "Passive Heal",
+		"passiveHealBelow50": "Passive Heal",
+		"passivePetHeal": "Passive Pet Heal",
+		"shield": "Shield",
+		"passiveShield": "Passive Shield",
+		"poison": "Poison",
+		"orbitSpeed": "Orbit Speed",
+		"lightningDamage": "Lightning Damage",
+		"lightningFireDamage": "Lightning Fire Damage",
+		"lightningPoison": "Lightning Poison",
+		"lightningBounces": "Lightning Bounces",
+		"webSize": "Web Size",
+		"explosion": "Explosion",
+		"explosionSize": "Explosion Size",
+		"explosionPoison": "Explosion Poison",
+		"explosionFire": "Explosion Fire",
+		"pickRange": "Pick Range",
+		"damageReflection": "Damage Reflection",
+		"extraVision": "Extra Vision",
+		"extraRange": "Extra Range",
+		"despawnTime": "Despawn Time",
+		"pet": "Pet",
+		"petSize": "Pet Size",
+		"passiveBoost": "Passive Boost",
+		"push": "Push",
+		"armor": "Armor",
+		"extraFlowerHealth": "Extra Flower Health",
+		"flowerPoison": "Flower Poison",
+		"slownessTime": "Slowness Time",
+		"soakDamageTime": "Soak Damage Time",
+		"honeyRange": "Honey Range",
+		"honeyTileDamage": "Honey Tile Damage",
+		"honeyTilePoison": "Honey Tile Poison",
+		"honeyTileFire": "Honey Tile Fire",
+		"sendToBiome": "Send To Biome",
+		"flowerReloadFactor": "Flower Reload Factor",
+		"armorDebuff": "Armor Debuff",
+		"flowerSpeed": "Flower Speed",
+		"fireDamage": "Fire Damage",
+		"firePoison": "Fire Poison",
+		"fireTime": "Fire Time",
+		"flowerAcceleration": "Flower Acceleration",
+		"agroRangeReduction": "Agro Range Reduction",
+		"agroRangeIncrease": "Agro Range Increase",
+		"flowerKnockedFactor": "Flower Knocked Factor",
+		"damageHealed": "Damage Healed",
+		"selfDamage": "Self Damage",
+		"flowerBodyLightning": "Flower Body Lightning",
+		"freezeTime": "Freeze Time",
+		"explosionFreezeTime": "Explosion Freeze Time",
+		"explosionKnockback": "Explosion Knockback",
+		"luck": "Luck",
+		"frost": "Frost",
+		"defrost": "Defrost",
+		"tempFlowerSpeed": "Temp Flower Speed",
+		"subdivisionRates": "Subdivision Rates",
+		"cureCancer": "Cure Cancer",
+		"petMutation": "Pet Mutation",
+		"passivePetalHeal": "Passive Petal Heal",
+		"healBuff": "Heal Buff",
+		"shieldBuff": "Shield Buff",
+		"poisonReduction": "Poison Reduction",
+		"fireReduction": "Fire Reduction",
+		"cancer": "Cancer",
+		"orbit": "Orbit",
+		"boostUpwards": "Boost Upwards",
+		"pullReduction": "Pull Reduction",
+		"mobXpFactor": "Mob Xp Factor",
+		"fullHealRate": "Full Heal Rate",
+		"extraPetalSize": "Extra Petal Size",
+		"flowerArmor": "Flower Armor",
+		"petalCritical": "Petal Critical",
+		"petalReloadSkipRate": "Petal Reload Skip Rate",
+		"blockDamage": "Block Damage",
+		"spreadDamage": "Spread Damage",
+		"radiationRange": "Radiation Range",
+		"radiationPoison": "Radiation Poison",
+		"radiationFire": "Radiation Fire",
+		"bodyLightning": "Body Lightning",
+		"healAffectTime": "Heal Affect Time",
+		"missileHealth": "Missile Health",
+		"missileDamage": "Missile Damage",
+		"missilePoison": "Missile Poison",
+		"missileHealAffectTime": "Missile Heal Affect Time",
+		"missileArmorDebuff": "Missile Armor Debuff",
+		"bodyFireDamage": "Body Fire Damage",
+		"evasion": "Evasion",
+		"sprayHealth": "Spray Health",
+		"sprayDamage": "Spray Damage",
+		"sprayFireDamage": "Spray Fire Damage",
+		"telepathicDamage": "Telepathic Damage",
+		"keyboardControls": "Keyboard Controls",
+		"movementHelper": "Movement Helper",
+		"showHitbox": "Show Hitbox",
+		"showRarities": "Show Rarities",
+		"showGrid": "Show Grid",
+		"showChat": "Show Chat",
+		"showCraftBubble": "Show Craft Bubble",
+		"showDamage": "Show Damage",
+		"showDamageFlash": "Show Damage Flash",
+		"showHealthBar": "Show Health Bar",
+		"showPetHealthBar": "Show Pet Health Bar",
+		"showHealth": "Show Health",
+		"showDps": "Show Dps",
+		"showExplosion": "Show Explosion",
+		"showLightning": "Show Lightning",
+		"abbreviateDps": "Abbreviate Dps",
+		"showDebugInfo": "Show Debug Info",
+		"fixedHudSize": "Fixed Hud Size",
+		"screenShake": "Screen Shake",
+		"antiAliasing": "Anti Aliasing",
+		"potatoHardware": "Potato Hardware",
+		"badwordFilter": "Badword Filter",
+		"showMobLeaderboard": "Show Mob Leaderboard",
+		"showBlocked": "Show Blocked",
+		"autoJoinSquads": "Auto Join Squads",
+		"xp": "Xp",
+		"timeJoined": "Time Joined",
+		"stars": "Stars",
+		"timePlayed": "Time Played",
+		"gamesPlayed": "Games Played",
+		"mobsKilled": "Mobs Killed",
+		"playersKilled": "Players Killed",
+		"petalsPicked": "Petals Picked",
+		"petalsCrafted": "Petals Crafted",
+		"petalsBurned": "Petals Burned",
+		"challengesCompleted": "Challenges Completed",
+		"chatSent": "Chat Sent",
+		"maxScore": "Max Score",
+		"maxTimeAlive": "Max Time Alive",
+		"maxMobsKilled": "Max Mobs Killed",
+		"maxPetalsPicked": "Max Petals Picked",
+		"dailyPlaytime": "Daily Playtime",
+		"maxDailyPlaytime": "Max Daily Playtime",
+		"maxStreak": "Max Streak"
 	},
 	"commands": {
 		"tp_random": {
-			"desc": "将你传送到一个随机玩家处。"
+			"desc": "Teleports you to a random player."
 		},
 		"user_pass": {
-			"desc": "获取用户密码。"
+			"desc": "Gets user password."
 		},
 		"squad_code": {
-			"desc": "显示并复制你当前的小队代码。"
+			"desc": "Displays and copies your current squad code."
 		},
 		"petal_reload": {
-			"desc": "设置花瓣装填系数。"
+			"desc": "Sets petal reload factor."
 		},
 		"petal_damage": {
-			"desc": "设置花瓣伤害系数。"
+			"desc": "Sets petal damage factor."
 		},
 		"guild_transfer_owner": {
-			"desc": "转移公会所有权。"
+			"desc": "Transfers guild ownership."
 		},
 		"guild_name": {
-			"desc": "设置你的公会名称。"
+			"desc": "Sets the name of your guild."
 		},
 		"guild": {
-			"desc": "仅向所有服务器上的公会成员发送聊天消息。"
+			"desc": "Sends a chat message to guild members only across all servers."
 		},
 		"squad": {
-			"desc": "仅向小队发送聊天消息。"
+			"desc": "Sends a chat message to squad only."
 		},
 		"new_squad": {
-			"desc": "创建一个新的小队。"
+			"desc": "Creates a new squad."
 		},
 		"leave_squad": {
-			"desc": "离开你当前的小队。"
+			"desc": "Leave your current squad."
 		},
 		"join_squad": {
-			"desc": "使用代码加入一个小队。"
+			"desc": "Join a squad using a code."
 		},
 		"find_public_squad": {
-			"desc": "查找一个公共小队"
+			"desc": "Finds a pubic squad"
 		},
 		"set_squad_public": {
-			"desc": "将你的小队设为公开或私密。"
+			"desc": "Makes your squad public or private."
 		},
 		"client_speed": {
-			"desc": "设置客户端时间缩放系数。"
+			"desc": "Sets the client time scale factor."
 		},
 		"yay": {
-			"desc": "Yayvideogames彩蛋时刻。"
+			"desc": "Yayvideogames easter egg moment."
 		},
 		"cicada": {
-			"desc": "ASCII后期效果时刻"
+			"desc": "ASCII post effect moment"
 		},
 		"server_times": {
-			"desc": "显示玩家在服务器中花费的总时间。"
+			"desc": "Shows the total time players have spent in a server."
 		},
 		"claim": {
-			"desc": "领取每日连胜奖励和星星掉落增益。"
+			"desc": "Claims daily streak rewards & stars drop buffs."
 		},
 		"report": {
-			"desc": "举报用户聊天恶意行为。"
+			"desc": "Reports a user for chat toxicity."
 		},
 		"block": {
-			"desc": "屏蔽用户的聊天。"
+			"desc": "Blocks a user from chat."
 		},
 		"unblock": {
-			"desc": "取消屏蔽用户的聊天。"
+			"desc": "Unblocks a user from chat."
 		},
 		"gen_egg": {
-			"desc": "生成蛋的冷却时间。petCount是蛋应该孵化出的生物数量。Power是给予宠物生物的力量值。如果力量值非常高，蛋将有较长的冷却时间，反之亦然。MinUseTime是增加孵化宠物稀有度的最小孵化时间。如果孵化时间低于该值，宠物的稀有度将增加。简单来说，如果截止时间较长，蛋将非常容易孵化出高稀有度的宠物。"
+			"desc": "Generates egg reloads. petCount is how many mobs the egg should spawn. Power is a strength value given to the pet mob. If the power is very high, egg will have large reloads and vice-versa. MinUseTime is the minimum hatch time to increase the rarity of the spawned pet. If hatch time goes below that, rarity of the pet is increased. In simpler words, if the cutoff is large, eggs will very easily spawn high rarity pets."
 		},
 		"stars_to_usd": {},
 		"spin_speed": {
-			"desc": "设置你的花朵旋转速度。"
+			"desc": "Sets your flower's spin speed."
 		},
 		"mob_gif": {
-			"desc": "为生物渲染GIF。"
+			"desc": "Renders GIF for a mob."
 		},
 		"petal_power": {
-			"desc": "显示自动计算的花瓣强度。可能不准确。"
+			"desc": "Displays auto computed petal powers. Might not be accurate."
 		},
 		"global_user_list": {
-			"desc": "显示全球在线用户。"
+			"desc": "Displays globally online users."
 		},
 		"user_petal_purchases": {
-			"desc": "让你查看用户购买的花瓣总数。"
+			"desc": "Lets you see total petals purchased by users."
 		},
 		"petal_usage": {
-			"desc": "显示花瓣使用情况。"
+			"desc": "Displays petal usage."
 		},
 		"edit_petals": {
-			"desc": "让你修改花瓣。"
+			"desc": "Lets you modify petals."
 		},
 		"lang": {
-			"desc": "让你为游戏设置一个自定义语言文件。尚未完全实现。"
+			"desc": "Let's you set a custom lanuage file for the game. Not fully implementd."
 		},
 		"give_all": {
-			"desc": "给予某种稀有度的所有花瓣。"
+			"desc": "Gives all petals of a rarity."
 		},
 		"run_on_join": {
-			"desc": "当你以管理员身份加入时运行命令。用逗号分隔。"
+			"desc": "Runs the commands when you join as an admin. Separate by comma."
 		},
 		"stars": {
-			"desc": "给你星星。"
+			"desc": "Gives you stars."
 		},
 		"skin": {
-			"desc": "给你一个皮肤"
+			"desc": "Gives you a skin"
 		},
 		"portal": {
-			"desc": "创建一个传送门。"
+			"desc": "Creates a portal."
 		},
 		"del_portal": {
-			"desc": "删除一个传送门。"
+			"desc": "Creates a portal."
 		},
 		"mute": {
-			"desc": "禁言一个用户。"
+			"desc": "Mutes a user."
 		},
 		"unmute": {
-			"desc": "取消禁言一个用户。"
+			"desc": "Unmutes a user."
 		},
 		"ban": {
-			"desc": "封禁一个用户。"
+			"desc": "Bans a user."
 		},
 		"unban": {
-			"desc": "解封一个用户。"
+			"desc": "Unbans a user."
 		},
 		"kick": {
-			"desc": "踢出一个用户。"
+			"desc": "Kicks a user."
 		},
 		"user_petals": {
-			"desc": "显示全球花瓣图鉴。"
+			"desc": "Displays global petal gallery."
 		},
 		"user_mobs": {
-			"desc": "显示全球生物图鉴。"
+			"desc": "Displays global mob gallery."
 		},
 		"user_equipped_petals": {
-			"desc": "显示全球已装备花瓣图鉴。"
+			"desc": "Displays global equipped petal gallery."
 		},
 		"user_mob_deaths": {
-			"desc": "显示全球玩家被生物击杀情况。"
+			"desc": "Displays global mob player deaths."
 		},
 		"diff_rates": {
-			"desc": "显示难度稀有度概率。"
+			"desc": "Displays difficulty rarity rates."
 		},
 		"restart": {
-			"desc": "重启服务器。"
+			"desc": "Restarts server."
 		},
 		"wipe": {
-			"desc": "清空你的背包"
+			"desc": "Wipes your inventory"
 		},
 		"profile": {
-			"desc": "请求某人的个人资料"
+			"desc": "Requests profile of a person"
 		},
 		"tickrate": {
-			"desc": "设置服务器更新频率。默认为每秒二十次。"
+			"desc": "Sets server update rate. Default is 20 times per second."
 		},
 		"lerp": {
-			"desc": "设置插值延迟。默认为100毫秒。"
+			"desc": "Sets interpolation delay. Default is 100ms."
 		},
 		"drop": {
-			"desc": "掉落一个花瓣。"
+			"desc": "Drops a petal."
 		},
 		"petal_icon": {
-			"desc": "为花瓣渲染图标。"
+			"desc": "Renders icon for a petal."
 		},
 		"mob_icon": {
-			"desc": "为生物渲染图标。"
+			"desc": "Renders icon for a mob."
 		},
 		"petal_size": {
-			"desc": "设置你的花瓣大小系数。默认为1。"
+			"desc": "Sets your petal size factor. Default is 1."
 		},
 		"orbit": {
-			"desc": "改变你的花瓣轨道轨迹。输入“/orbit reset”恢复到圆形轨道。形状参数是可选的，但你可以像这样传递它们：“/orbit 3 5 18 18”。"
+			"desc": "Changes trajectory of your petal orbit. Do \"/orbit reset\" to revert back to circular orbit. Shape params are optional but you can pass them like \"/orbit 3 5 18 18\"."
 		},
 		"reset": {
-			"desc": "杀死所有生物和投射物。"
+			"desc": "Kills all mobs & projectiles."
 		},
 		"wall_thickness": {
-			"desc": "定义墙壁边缘厚度。默认为12。"
+			"desc": "Defines wall edge thickness. Default is 12."
 		},
 		"tp_all": {
-			"desc": "将所有人传送到网格坐标(x, y)。"
+			"desc": "Teleports everyone to (x, y) in grid coordinates."
 		},
 		"tp_to": {
-			"desc": "将你传送到用户处。"
+			"desc": "Teleports you to user."
 		},
 		"tp": {
-			"desc": "将你传送到网格坐标(x, y)。"
+			"desc": "Teleports you to (x, y) in grid coordinates."
 		},
 		"die": {
-			"desc": "杀死你。"
+			"desc": "Kills you."
 		},
 		"sprite": {
-			"desc": "显示花瓣精灵表。"
+			"desc": "Shows petal spritesheet."
 		},
 		"spawn_diff": {
-			"desc": "使用难度生成生物。"
+			"desc": "Spawns mobs using difficulty."
 		},
 		"spawn": {
-			"desc": "生成生物。在生物名称中使用下划线代替空格。大小是可选的。"
+			"desc": "Spawns mobs. Use underscore instead of spaces in mob names. Size is optional."
 		},
 		"game_speed": {
-			"desc": "增加或减少游戏速度。"
+			"desc": "Increases or decreases game speed."
 		},
 		"droprates": {
-			"desc": "显示花瓣稀有度系数的掉落率表。越接近0表示花瓣越稀有，反之亦然。应介于0和1之间。"
+			"desc": "Display droprates table for a petal rarity factor. Closer to 0 means more rare petal and vice-versa. Should be betwen 0 and 1."
 		},
 		"sim_craft": {
-			"desc": "模拟合成。"
+			"desc": "Simulates crafting."
 		},
 		"give": {
-			"desc": "将花瓣放入你的库存。在花瓣名称中使用下划线代替空格。"
+			"desc": "Puts petal in your inventory. Use underscore instead of spaces in petal names."
 		},
 		"ygg": {
-			"desc": "如果你死了，复活你。"
+			"desc": "Revives you if you are dead."
 		},
 		"immune": {
-			"desc": "使你的花朵免疫任何伤害。"
+			"desc": "Makes your flower immune to any damage."
 		},
 		"speed": {
-			"desc": "设置你的移动速度。"
+			"desc": "Sets your movement speed."
 		},
 		"ghost": {
-			"desc": "禁用你的花朵碰撞。再次使用相同命令切换回来。"
+			"desc": "Disables collision on your flower. Use the same command to toggle it back on."
 		},
 		"toggle_game": {
-			"desc": "启用/禁用游戏更新循环。"
+			"desc": "Enables/disables game update loop."
 		},
 		"fov": {
-			"desc": "设置你的视野系数。"
+			"desc": "Sets your field of view factor."
 		},
 		"april_fools": {
-			"desc": "愚人节玩笑时刻uwu。"
+			"desc": "April fools joke moment uwu."
 		}
 	},
 	"starProducts": {
 		"stars_1": {
-			"desc": "新手包"
+			"desc": "Starter pack"
 		},
 		"stars_2": {
-			"desc": "稍大的星星包"
+			"desc": "Slightly bigger star pack"
 		},
 		"stars_3": {
-			"desc": "大星星包"
+			"desc": "Big star pack"
 		},
 		"stars_4": {
-			"desc": "巨型星星包"
+			"desc": "Large star pack"
 		},
 		"stars_5": {
-			"desc": "更大的星星包"
+			"desc": "Larger star pack"
 		},
 		"stars_6": {
-			"desc": "超大星星包"
+			"desc": "Very big star pack"
 		},
 		"stars_7": {
-			"desc": "巨无霸星星包"
+			"desc": "Huge star pack"
 		},
 		"stars_8": {
-			"desc": "可疑的巨无霸星星包"
+			"desc": "Susily huge star pack"
 		},
 		"stars_9": {
-			"desc": "更可疑的巨无霸星星包"
+			"desc": "Susily huger star pack"
 		},
 		"stars_10": {
-			"desc": "可疑的超大巨无霸星星包"
+			"desc": "Susily large and huge star pack"
 		},
 		"stars_11": {
-			"desc": "可疑的超大巨无霸星星包"
+			"desc": "Susily large and huge star pack"
 		},
 		"stars_12": {
-			"desc": "野兽先生的儿子？"
+			"desc": "Mrbeast son?"
 		}
 	}
 }
