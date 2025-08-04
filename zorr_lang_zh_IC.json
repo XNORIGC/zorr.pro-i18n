@@ -1854,7 +1854,7 @@
 		},
 		"fan": {
 			"name": "清风灭火幡",
-			"desc": "降低你的着火速度。"
+			"desc": "Reduces incoming burns on you. Stacks in harmonic series."
 		},
 		"graphite": {
 			"name": "蚀魄石墨精",
@@ -1958,7 +1958,7 @@
 		},
 		"talisman": {
 			"name": "闪避护符",
-			"desc": "使你的花朵能够闪避伤害。"
+			"desc": "Makes your flower evade damage. Stacks in harmonic series & is capped at 75% evasion."
 		},
 		"job_application": {
 			"name": "工作申请",
@@ -3208,6 +3208,10 @@
 			"name": "洋葱",
 			"desc": "使用 Tor 购买 :p"
 		},
+		"big_brain": {
+			"name": "Big Brain",
+			"desc": "3 dimensional big brain"
+		},
 		"titan": {
 			"name": "泰坦",
 			"desc": "泽伦·泽格"
@@ -3385,6 +3389,7 @@
 		"shieldBuff": "护盾增益",
 		"poisonReduction": "毒伤减免",
 		"fireReduction": "火伤减免",
+		"fireReductionPercent": "Fire Reduction Percent",
 		"cancer": "癌变",
 		"orbit": "轨道",
 		"boostUpwards": "向上推进",
@@ -3412,7 +3417,6 @@
 		"spillRate": "流动速度",
 		"extraPetSpeed": "额外宠物速度",
 		"petSpeedReduction": "宠物速度减少",
-		"fireSpeedFactor": "火焰速度系数",
 		"extraLightningBounces": "额外闪电连锁",
 		"extraRadiationRange": "额外辐射范围",
 		"extraFireDuration": "额外火焰持续时间",
