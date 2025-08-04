@@ -171,7 +171,7 @@
 		"enterOldPassword": "输入旧密码……",
 		"profileBubble": [
 			"设置密码。",
-			"得到用户名。"
+			"获得用户名。"
 		]
 	},
 	"texts": {
@@ -1202,7 +1202,7 @@
 		},
 		"bur": {
 			"name": "刺球",
-			"desc": "减少敌人的护甲"
+			"desc": "降低敌人护甲"
 		},
 		"cutter": {
 			"name": "切割盘",
@@ -1270,7 +1270,7 @@
 		},
 		"poo": {
 			"name": "谢特",
-			"desc": "减少敌人的仇恨范围。"
+			"desc": "减小敌人的仇恨范围。"
 		},
 		"rubber": {
 			"name": "橡胶",
@@ -1438,7 +1438,7 @@
 		},
 		"antibody": {
 			"name": "抗体",
-			"desc": "减少敌人护甲"
+			"desc": "降低敌人护甲"
 		},
 		"hemoglobin": {
 			"name": "血红蛋白",
@@ -1494,11 +1494,11 @@
 		},
 		"lotus": {
 			"name": "莲花",
-			"desc": "减少中毒效果。"
+			"desc": "降低中毒效果。"
 		},
 		"ice": {
 			"name": "我超，冰",
-			"desc": "减少火焰效果。"
+			"desc": "降低着火效果。"
 		},
 		"atom_egg": {
 			"name": "原子蛋",
@@ -1566,7 +1566,7 @@
 		},
 		"disc": {
 			"name": "盾",
-			"desc": "减少受到的伤害。"
+			"desc": "降低受到的伤害。"
 		},
 		"mimic": {
 			"name": "我是->",
@@ -1854,7 +1854,7 @@
 		},
 		"fan": {
 			"name": "扇子",
-			"desc": "降低你的燃烧速度。"
+			"desc": "降低你的着火速度。"
 		},
 		"graphite": {
 			"name": "墨",
@@ -2338,7 +2338,7 @@
 		},
 		"magic_singularity": {
 			"name": "魔法奇点",
-			"desc": "缩小你的体积。"
+			"desc": "减小你的大小。"
 		},
 		"tesseract": {
 			"name": "超立方体",
@@ -2382,7 +2382,7 @@
 		},
 		"magic_nazar": {
 			"name": "魔法邪眼护符",
-			"desc": "它能为我方使用魔法的宠物抵挡几次攻击，然后进入冷却"
+			"desc": "它能用魔法为我方宠物抵挡几次攻击，然后进入冷却"
 		},
 		"magic_cherry": {
 			"name": "魔法樱桃",
@@ -2478,7 +2478,7 @@
 		},
 		"magic_honey": {
 			"name": "魔法蜂蜜",
-			"desc": "减少你的蜂蜜块的大小。"
+			"desc": "减小你的蜂蜜块的大小。"
 		},
 		"magic_poo": {
 			"name": "魔法便便",
@@ -3269,12 +3269,12 @@
 			"desc": "看起来很具体"
 		},
 		"liu_wenzhi": {
-			"name": "刘问肢",
+			"name": "刘刎肢",
 			"desc": "它被肢解了"
 		},
 		"floofy": {
 			"name": "蓬松",
-			"desc": "轻着点握它，它很脆弱。"
+			"desc": "轻着点握，它很脆弱的。"
 		},
 		"germ": {
 			"name": "生殖细胞",
@@ -3319,7 +3319,7 @@
 		"passiveHealBelow50": "持续治疗",
 		"passivePetHeal": "持续宠物治疗",
 		"passivePetShield": "持续宠物护盾恢复",
-		"extraPetRange": "额外宠物攻击范围",
+		"extraPetRange": "额外宠物仇恨范围",
 		"shield": "护盾",
 		"passiveShield": "持续护盾恢复",
 		"poison": "剧毒",
@@ -3360,7 +3360,7 @@
 		"firePoison": "火焰毒伤",
 		"fireTime": "燃烧时间",
 		"flowerAcceleration": "花朵加速度",
-		"agroRangeReduction": "仇恨范围减少",
+		"agroRangeReduction": "仇恨范围减小",
 		"agroRangeIncrease": "仇恨范围增加",
 		"extraFlowerKnock": "额外花朵击退",
 		"damageHealed": "伤害时治疗",
@@ -3403,7 +3403,7 @@
 		"radiationPoison": "辐射毒伤",
 		"radiationFire": "辐射火伤",
 		"radiationHeal": "辐射治疗",
-		"radiationLightningDamage": "辐射闪电伤害",
+		"radiationLightningDamage": "辐射电伤",
 		"radiationLightningBounces": "辐射闪电连锁",
 		"orbitTwirl": "轨道螺旋",
 		"growth": "生长",
@@ -3430,8 +3430,8 @@
 		"extraFlowerMass": "额外花朵质量",
 		"extraFlowerSize": "额外花朵大小",
 		"flowerSizeReduction": "花朵大小减小",
-		"lightningReduction": "减少闪电",
-		"mobAgroRangeReduction": "生物仇恨范围减少",
+		"lightningReduction": "电伤减免",
+		"mobAgroRangeReduction": "生物仇恨范围减小",
 		"detox": "解毒",
 		"extraExplosionSize": "额外爆炸范围",
 		"petDupeRate": "宠物复制率",
@@ -3476,7 +3476,7 @@
 		"sprayFireDamage": "喷射物火伤",
 		"telepathicDamage": "心灵感应伤害",
 		"telepathicPoison": "心灵感应毒伤",
-		"telepathicLightningDamage": "心灵感应闪电伤害",
+		"telepathicLightningDamage": "心灵感应电伤",
 		"healNearby": "范围治疗",
 		"damageGrowth": "伤害增长",
 		"infectionTime": "感染时间",
@@ -3876,7 +3876,7 @@
 	},
 	"featured": {
 		"rookie": {
-			"name": "低级的起始"
+			"name": "卑微的起点"
 		},
 		"speed": {
 			"name": "极品飞车"
@@ -3885,10 +3885,10 @@
 			"name": "顶级蛋"
 		},
 		"support_eggs": {
-			"name": "支持蛋"
+			"name": "支援蛋"
 		},
 		"starter_eggs": {
-			"name": "入门蛋"
+			"name": "新手蛋"
 		},
 		"magic": {
 			"name": "巫术"
@@ -3900,7 +3900,7 @@
 			"name": "有毒游戏风格"
 		},
 		"fire": {
-			"name": "燃烧以取得进展"
+			"name": "让火焰净化一切"
 		},
 		"high_dps": {
 			"name": "高秒伤"
