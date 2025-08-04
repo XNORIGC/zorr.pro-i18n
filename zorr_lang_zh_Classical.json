@@ -1,0 +1,3912 @@
+{
+	"name": "自定方言",
+	"ui": {
+		"deathInfo": "汝死於：",
+		"continue": "續",
+		"minimize": "縮",
+		"deathEscape": "（或按鍵遁）",
+		"nickInfo": "此小花名曰...",
+		"play": "戲",
+		"squad": "伍",
+		"connecting": "連中...",
+		"chatInfo": "按【回車】以言",
+		"achievements": "功",
+		"shop": "肆",
+		"commands": "令",
+		"users": "眾",
+		"loadouts": "裝",
+		"changelog": "變冊",
+		"guild": "盟",
+		"credits": "致謝",
+		"settings": "設",
+		"toggleFullscreen": "切換全屏",
+		"privacy": "隱私政策",
+		"terms": "服務條款",
+		"wiki": "維基",
+		"inventory": "藏",
+		"stack": "Stack",
+		"inventoryInstructions": "拖曳花瓣以佩之",
+		"yourProfile": "您的個人資料",
+		"globalLeaderboard": "全球排行榜",
+		"globalCrafts": "全球合成日誌",
+		"challenges": "Challenges",
+		"mapEditor": "Map Editor",
+		"joinDiscord": "Join our Discord server!",
+		"leaveGame": "Leave game",
+		"commandHelper": "Command Helper",
+		"craft": "Craft",
+		"mobGallery": "妖怪圖鑑",
+		"dailyStreakRewards": "Daily Streak Rewards",
+		"findPublic": "Find Public",
+		"new": "New",
+		"leave": "Leave",
+		"empty": "Empty",
+		"join": "Join",
+		"you": "(You)",
+		"public": "Public",
+		"privateSquad": "Private Squad",
+		"loadout": "Loadout",
+		"reset": "Reset",
+		"clear": "Clear",
+		"speed": "SPEED",
+		"servers": "Servers",
+		"viewRewards": "View Rewards",
+		"claimRewards": "Claim Rewards",
+		"timeAlive": "Time Alive",
+		"mobsKilled": "Mobs Killed",
+		"score": "Score",
+		"totalDamage": "Total Damage",
+		"lastDamage": "Last Damage",
+		"dps": "DPS",
+		"averageDps": "Average DPS",
+		"fps": "FPS",
+		"ping": "Ping",
+		"throughput": "Throughput",
+		"objectCount": "Object Count",
+		"clientTickTime": "Client Tick Time",
+		"cacheCount": "Cache Canvas",
+		"particleCount": "Particle Count",
+		"collisionChecks": "Collision Checks",
+		"serverTickTime": "Server Tick Time",
+		"currentPosition": "Current Position",
+		"plains": "Plains",
+		"desert": "Desert",
+		"ocean": "Ocean",
+		"jungle": "Jungle",
+		"arctic": "Arctic",
+		"bio": "Bio",
+		"void": "Void",
+		"hel": "Hel",
+		"as": "AS",
+		"eu": "EU",
+		"us": "US",
+		"equip": "Equip",
+		"unequip": "Unequip",
+		"biome": "Biome",
+		"rarity": "Rarity",
+		"inUSD": "In USD",
+		"hoverToPreview": "(Hover to preview)",
+		"shopFeaturedInfo": "Not sure where to start?",
+		"seeFeatured": "See Featured",
+		"shopAllInfo": "Nothing interesting here?",
+		"buyForFriend": "Buy for someone else:",
+		"seeAll": "See All",
+		"stars": "Stars",
+		"skins": "Skins",
+		"petals": "Petals",
+		"mobSkins": "Mob Skins",
+		"memberships": "Memberships",
+		"shopPolicy": "Asking for a refund will get your account banned.",
+		"shopSupport": "For any issues related to payments, send us an email at:",
+		"shopNazarBeetles": "Beware of nazar beetles!",
+		"controls": "Controls",
+		"chat": "Chat",
+		"game": "Game",
+		"visuals": "Visuals",
+		"indicators": "Indicators",
+		"done": "DONE",
+		"all": "All",
+		"complete": "Complete",
+		"incomplete": "Incomplete",
+		"cmdInfo": "Click to run command.",
+		"stealthMode": "Stealth Mode",
+		"save": "Save",
+		"includeBothRows": "Include Both Rows",
+		"includeSpinSpeed": "Include Spin Speed",
+		"copyCode": "Copy Code",
+		"delete": "Delete",
+		"rename": "Rename",
+		"update": "Update",
+		"moveUp": "Move Up",
+		"moveDown": "Move Down",
+		"singleLoadoutCode": "Single Loadout Code",
+		"fullLoadoutCode": "Full Loadout Code",
+		"import": "Import",
+		"copy": "Copy",
+		"notInGuild": "You are not in any guild.",
+		"guildCreateRequirement": "Need to be over level 50 to create guild.",
+		"create": "Create",
+		"creating": "Creating...",
+		"invite": "Invite",
+		"kick": "Kick",
+		"leader": "(Leader)",
+		"oracle": "Oracle",
+		"trade": "Trade",
+		"showAll": "Show All",
+		"craftLog": "Craft Log",
+		"petalsCrafted": "Petals Crafted",
+		"petalsBurned": "Petals Burned",
+		"craftAttempts": "Craft Attempts",
+		"petalsLeft": "Petals Left",
+		"minRng": "Min RNG",
+		"craftInfo": {
+			"0": "Combine 5 of the same petal to craft an upgrade.",
+			"1": "Failure will destroy 1-4 petals."
+		},
+		"oracleInfo": {
+			"0": "Find the Oracle in Ocean",
+			"1": "The Oracle will guarantee a craft... for the right price.",
+			"2": "Has 0.001% of giving 2x crafts."
+		},
+		"tradeInfo": {
+			"0": "Find the Trader in Jungle",
+			"1": "Trade petals for a random coin."
+		},
+		"prev": "Prev",
+		"next": "Next",
+		"hideFailed": "Hide Failed",
+		"logout": "Logout",
+		"login": "Login",
+		"set": "Set",
+		"findUser": "Find User",
+		"specialChatTag": "Special Chat Tag",
+		"clickToCopy": "Click to copy!",
+		"noMembership": "You don't have any subscription active.",
+		"search": "Search",
+		"enterUsername": "Enter Username...",
+		"setUsername": "Set Username:",
+		"setPassword": "Set Password:",
+		"setDescription": "Set Description:",
+		"enterNewPassword": "Enter new password...",
+		"enterOldPassword": "Enter old password...",
+		"profileBubble": {
+			"0": "Set a new password.",
+			"1": "Get a new username."
+		}
+	},
+	"texts": {
+		"requiresMana": "Requires Mana to spawn.",
+		"petManaDrain": "A pet drains {1} mana/s. A flower can spawn upto 30 magic pets.",
+		"manaDrain": "Drains {1} mana/sec",
+		"manaToDamage": "Requires full mana to spawn. Damage = 0.18 * mana * log2(mana) * (rarity + 1) ^ 3",
+		"growthMana": "Requires {1} mana to grow to max size.",
+		"petDupeMana": "Requires {1} mana to dupe pets.",
+		"streakRewardTimer": "Come back in {1} to claim rewards.",
+		"streak": "Daily Streak #{1}",
+		"day": "Day #{1}",
+		"joinedSquad": "You've joined a squad! (Code: {1})",
+		"noPublicSquad": "No joinable public squad found for your level.",
+		"creatingSquad": "Creating new squad...",
+		"findingPublicSquad": "Finding public squad...",
+		"notInSquad": "You are not in any squad",
+		"chatInfo": "Type \"{1}\" to view commands.\nBeing toxic or using slurs in chat will get your account banned.",
+		"dropBuffInfo": "Drop buffs apply to upto (1) drops only.",
+		"resetsIn": "Resets in {1}...",
+		"craftRate": "{1}% success rate",
+		"xpFactor": "{1}% extra XP",
+		"extraDropRate": "{1}% extra drop rates",
+		"extraDropBuffTime": "{1}m extra drop buff time",
+		"extraStars": "{1} stars per month",
+		"membershipExpiry": "Your {2} membership will expire in {1}...",
+		"usernameMinLength": "Username should be minimum of length {1}",
+		"usernameMaxLength": "Username should be of length less than {1}",
+		"usernameCharRule": "Only letters, numbers & underscore are allowed",
+		"usernameChangeRule": "Username can only be changed once every 14 days.",
+		"passwordMinLength": "Password should be minimum of length {1}",
+		"passwordMaxLength": "Password should be maximum of length {1}"
+	},
+	"mobs": {
+		"rock": {
+			"name": "磐石",
+			"desc": "頑石也，無甚能為"
+		},
+		"ladybug": {
+			"name": "瓢蟲",
+			"desc": "可愛而無害"
+		},
+		"bush": {
+			"name": "灌木",
+			"desc": "喬治·布什"
+		},
+		"sponge": {
+			"name": "海綿",
+			"desc": "海綿子嗣"
+		},
+		"cactus": {
+			"name": "仙人掌",
+			"desc": "多刺之植。"
+		},
+		"baby_ant": {
+			"name": "幼蟻",
+			"desc": "蟻之稚者。"
+		},
+		"soldier_ant": {
+			"name": "兵蟻",
+			"desc": "為自由而戰。"
+		},
+		"worker_ant": {
+			"name": "工蟻",
+			"desc": "不欲爭鬥。"
+		},
+		"queen_ant": {
+			"name": "蟻后",
+			"desc": "蟻之女皇安蒂拉貝斯六世。"
+		},
+		"baby_fire_ant": {
+			"name": "幼火蟻",
+			"desc": "火蟻之稚者。"
+		},
+		"soldier_fire_ant": {
+			"name": "火兵蟻",
+			"desc": "為自由而戰。"
+		},
+		"worker_fire_ant": {
+			"name": "火工蟻",
+			"desc": "不欲爭鬥。"
+		},
+		"queen_fire_ant": {
+			"name": "火蟻后",
+			"desc": "蟻之女皇安蒂拉貝斯七世。"
+		},
+		"mushroom": {
+			"name": "蘑菇",
+			"desc": "伴黴菌而生。"
+		},
+		"jellyfish": {
+			"name": "水母",
+			"desc": "魚而若膠。"
+		},
+		"spider": {
+			"name": "蜘蛛",
+			"desc": "八足而多目。"
+		},
+		"bee": {
+			"name": "蜂",
+			"desc": "其刺甚痛。"
+		},
+		"hornet": {
+			"name": "胡蜂",
+			"desc": "認證之矢射者也。"
+		},
+		"shell": {
+			"name": "介殼",
+			"desc": "甚為自私之生靈。"
+		},
+		"ant_hole": {
+			"name": "蟻穴",
+			"desc": "內有數蟻。"
+		},
+		"fire_ant_hole": {
+			"name": "火蟻穴",
+			"desc": "內有數火蟻。"
+		},
+		"spider_cave": {
+			"name": "蛛穴",
+			"desc": "長而幽暗之穴。"
+		},
+		"hive": {
+			"name": "蜂巢",
+			"desc": "此乃蜂之極樂所。"
+		},
+		"yoba": {
+			"name": "耀霸",
+			"desc": "神秘赤色生靈。"
+		},
+		"spider_yoba": {
+			"name": "蛛形耀霸",
+			"desc": "神秘粉色生靈。"
+		},
+		"centipede": {
+			"name": "百足蟲",
+			"desc": "其形修長。"
+		},
+		"desert_centipede": {
+			"name": "漠百足",
+			"desc": "奧運奪金者也."
+		},
+		"evil_centipede": {
+			"name": "惡之百足蟲",
+			"desc": "吾等不知其何以惡。"
+		},
+		"sunflower": {
+			"name": "向日葵",
+			"desc": "其有盾焉。"
+		},
+		"boba": {
+			"name": "波霸",
+			"desc": "其爆裂焉。"
+		},
+		"bubble": {
+			"name": "泡",
+			"desc": "速破之。"
+		},
+		"m28": {
+			"name": "M28",
+			"desc": "斯奇比迪開發者。"
+		},
+		"beetle": {
+			"name": "甲蟲",
+			"desc": "飢甚之蟲。"
+		},
+		"avocado": {
+			"name": "鱷梨",
+			"desc": "極美之果。"
+		},
+		"target_dummy": {
+			"name": "靶偶",
+			"desc": "毀此乃暴行，此戲實為IP之擒，吾等已報官，汝門三刻內當有叩者至"
+		},
+		"dark_ladybug": {
+			"name": "暗瓢蟲",
+			"desc": "可愛無害，然黯"
+		},
+		"shiny_ladybug": {
+			"name": "閃瓢蟲",
+			"desc": "閃、可愛無害"
+		},
+		"sandstorm": {
+			"name": "沙暴",
+			"desc": "沙之颶風"
+		},
+		"scorpion": {
+			"name": "蠍",
+			"desc": "好繞行且射汝。"
+		},
+		"starfish": {
+			"name": "海星",
+			"desc": "名魚也。"
+		},
+		"crab": {
+			"name": "蟹",
+			"desc": "追逐汝。"
+		},
+		"dandelion": {
+			"name": "蒲公英",
+			"desc": "遇襲則射其矢。"
+		},
+		"dragon": {
+			"name": "龍",
+			"desc": "其炎甚熾，觸之亦灼。"
+		},
+		"leech": {
+			"name": "螞蟥",
+			"desc": "莫非 slither.io 之蛇耶？"
+		},
+		"nazar_beetle": {
+			"name": "魔眼甲蟲",
+			"desc": "已化為當代藝品。"
+		},
+		"toxic_dragon": {
+			"name": "毒龍",
+			"desc": "人以毒彩繪之。"
+		},
+		"hel_worm": {
+			"name": "冥蟲",
+			"desc": "自 digworm.io 來之魔蟲。"
+		},
+		"hel_spider": {
+			"name": "冥蛛",
+			"desc": "八足而多目。"
+		},
+		"hel_beetle": {
+			"name": "冥甲蟲",
+			"desc": "極為可怖之魔蟲。"
+		},
+		"hel_jellyfish": {
+			"name": "冥水母",
+			"desc": "何以生齒耶？"
+		},
+		"tumbleweed": {
+			"name": "風滾草",
+			"desc": "*風聲颯颯*"
+		},
+		"dragon_nest": {
+			"name": "龍巢",
+			"desc": "群龍所居。"
+		},
+		"firestorm": {
+			"name": "焰風",
+			"desc": "烈火旋風"
+		},
+		"hel_bee": {
+			"name": "冥蜂",
+			"desc": "熾灼之刺"
+		},
+		"hel_hornet": {
+			"name": "冥胡蜂",
+			"desc": "真火射手"
+		},
+		"bugatti": {
+			"name": "布加迪",
+			"desc": "杰特至尊座駕"
+		},
+		"fly": {
+			"name": "蠅",
+			"desc": "穢物也"
+		},
+		"mantis": {
+			"name": "螳螂",
+			"desc": "一發三矢，貫甲如豆"
+		},
+		"firefly": {
+			"name": "螢",
+			"desc": "振翅挾雷"
+		},
+		"wasp": {
+			"name": "黃蜂",
+			"desc": "好以飛弩狙花"
+		},
+		"stickbug": {
+			"name": "竹節蟲",
+			"desc": "善舞"
+		},
+		"snowbush": {
+			"name": "雪叢",
+			"desc": "生於寒地之灌木，覆雪如冠"
+		},
+		"ice_cube": {
+			"name": "冰魄",
+			"desc": "寒徹髓骨，觸之非樂"
+		},
+		"snowstorm": {
+			"name": "雪暴",
+			"desc": "飛雪龍捲，內有冰刃迴旋"
+		},
+		"arctic_centipede": {
+			"name": "極地百足",
+			"desc": "寒冰使其甲殼堅不可摧。"
+		},
+		"arctic_spider": {
+			"name": "極地蜘蛛",
+			"desc": "此蛛形態*凜冽*如霜"
+		},
+		"ice_dragon": {
+			"name": "寒霜巨龍",
+			"desc": "吐息成霜，可凍斃敵寇"
+		},
+		"tick": {
+			"name": "蜱蟲",
+			"desc": "見此孽畜，吾心甚惱！"
+		},
+		"waterspout": {
+			"name": "水龍捲",
+			"desc": "水下渦旋，狀若龍騰"
+		},
+		"urchin": {
+			"name": "海膽",
+			"desc": "棘刺如戟，迸射傷人"
+		},
+		"volcano": {
+			"name": "火山",
+			"desc": "巨巖噴火，炎浪四濺"
+		},
+		"ice_hornet": {
+			"name": "冰鋒胡蜂",
+			"desc": "斯奇比迪魔物，喋喋不休"
+		},
+		"virus": {
+			"name": "病毒",
+			"desc": "切勿觸之！"
+		},
+		"red_blood_cell": {
+			"name": "赤血珠",
+			"desc": "攜氣運血，周行全身"
+		},
+		"bacteria": {
+			"name": "菌蟲",
+			"desc": "此物觀之令吾作嘔"
+		},
+		"bacteriophage": {
+			"name": "噬菌者",
+			"desc": "嗜毒幾何痴，尤愛二十面毒囊"
+		},
+		"cancer": {
+			"name": "癌魔",
+			"desc": "觸之即歿，願君勿近"
+		},
+		"parasite": {
+			"name": "寄生者",
+			"desc": "好擾其主，嗚呼"
+		},
+		"white_blood_cell": {
+			"name": "白血球",
+			"desc": "御體內之惡物，花亦在其列"
+		},
+		"atom": {
+			"name": "原子",
+			"desc": "宇宙之基石，滅其一者，禍焉知所至"
+		},
+		"snake": {
+			"name": "蛇",
+			"desc": "極毒且極長"
+		},
+		"turtle": {
+			"name": "龜",
+			"desc": "持堅盾"
+		},
+		"hel_hive": {
+			"name": "冥蜂巢",
+			"desc": "冥蜂與冥胡蜂謀霸平原之議所"
+		},
+		"fossil": {
+			"name": "化石",
+			"desc": "形似已死，或藏珍瓣"
+		},
+		"rattlesnake": {
+			"name": "響尾蛇",
+			"desc": "極毒、極長且極喧，宜敬其警"
+		},
+		"cicada": {
+			"name": "蟬",
+			"desc": "三千三百零一也。有十一之機，可作四十二倍之傷"
+		},
+		"snowman": {
+			"name": "雪人",
+			"desc": "欲戲雪球（球中藏石）"
+		},
+		"igloo": {
+			"name": "冰屋",
+			"desc": "雪人與龍聚之清涼處"
+		},
+		"rain_frog": {
+			"name": "雨蛙",
+			"desc": "行如甲殼"
+		},
+		"illuminati": {
+			"name": "光明會",
+			"desc": "黑暗籠罩一切。"
+		},
+		"black_hole": {
+			"name": "玄洞",
+			"desc": "極具吸引力，深邃幽暗。"
+		},
+		"troll": {
+			"name": "巨魔",
+			"desc": "知者謂之英傑，不知者謂之異類。"
+		},
+		"ufo": {
+			"name": "不明飛行物",
+			"desc": "內有綠膚眾，擾之非善。"
+		},
+		"alien": {
+			"name": "異星來客",
+			"desc": "具心通之能，來自天外。"
+		},
+		"angel": {
+			"name": "天使",
+			"desc": "輝光強烈，勿近為宜。"
+		},
+		"momy": {
+			"name": "媽咪",
+			"desc": "形貌可怖，喜以物擲人。"
+		},
+		"ghost": {
+			"name": "幽魂",
+			"desc": "幽幽然，森森然。"
+		},
+		"gravestone": {
+			"name": "墓碑",
+			"desc": "幽魂樂居於此，永夜相伴。"
+		},
+		"electric_eel": {
+			"name": "電鰻",
+			"desc": "或使汝觸電。"
+		},
+		"eye": {
+			"name": "魔眼",
+			"desc": "索倫之目，玲瓏可愛。"
+		},
+		"square": {
+			"name": "方體",
+			"desc": "誤入此戲。"
+		},
+		"target_mummy": {
+			"name": "標靶木乃伊",
+			"desc": "標靶傀儡裹以布，遂成此物。"
+		},
+		"oracle": {
+			"name": "先知",
+			"desc": "非玩家角色時刻"
+		},
+		"trader": {
+			"name": "商賈",
+			"desc": "許君以花瓣易錢幣。"
+		},
+		"tesla_coil": {
+			"name": "特斯拉線圈",
+			"desc": "可遙擊敵之特斯拉線圈"
+		},
+		"snail": {
+			"name": "蝸牛",
+			"desc": "行甚緩。"
+		},
+		"stem_cell": {
+			"name": "幹細胞",
+			"desc": "可隨時間自愈。"
+		},
+		"barrel": {
+			"name": "桶",
+			"desc": "內藏兇險之物。"
+		},
+		"nuke": {
+			"name": "核彈",
+			"desc": "沙皇炸彈者，俄製氫彈之極巨者也。"
+		},
+		"digger": {
+			"name": "掘者",
+			"desc": "終日掘地之盟友。"
+		},
+		"spider_digger": {
+			"name": "蜘蛛掘者",
+			"desc": "曾築蜘蛛洞穴。"
+		},
+		"hel_digger": {
+			"name": "冥掘者",
+			"desc": "馴龍者也..."
+		},
+		"grave_digger": {
+			"name": "掘墓人",
+			"desc": "欲引君入新掘之冢"
+		},
+		"sandstone": {
+			"name": "砂岩",
+			"desc": "脆弱多塵之石"
+		},
+		"termite_overmind": {
+			"name": "白蟻主腦",
+			"desc": "彼有備以久戰，敵莫能當。"
+		},
+		"baby_termite": {
+			"name": "白蟻稚子",
+			"desc": "幼時多艱"
+		},
+		"worker_termite": {
+			"name": "工白蟻",
+			"desc": "不欲戰，然為勢所迫。"
+		},
+		"soldier_termite": {
+			"name": "兵白蟻",
+			"desc": "為自由而戰，然每誤傷友軍。"
+		},
+		"termite_hole": {
+			"name": "白蟻穴",
+			"desc": "內有白蟻棲焉。"
+		},
+		"termite_digger": {
+			"name": "白蟻掘者",
+			"desc": "與本土白蟻相交善。"
+		},
+		"shipwreck": {
+			"name": "沉舟",
+			"desc": "水下舟禍，似為百獸所據。"
+		},
+		"pirate_digger": {
+			"name": "海寇掘者",
+			"desc": "咖豆海寇"
+		},
+		"palm_tree": {
+			"name": "棕櫚樹",
+			"desc": "其巨葉助其於此氣候中存焉"
+		},
+		"stalagmite": {
+			"name": "石筍",
+			"desc": "將屢次刺汝。"
+		},
+		"arctic_spider_cave": {
+			"name": "極地蛛穴",
+			"desc": "洞中有洞，洞尤奇也。洞中洞焉。"
+		},
+		"beekeeper": {
+			"name": "養蜂人",
+			"desc": "乃蜂之守者也。"
+		},
+		"hel_beekeeper": {
+			"name": "養冥蜂人",
+			"desc": "乃冥蜂之守者也。"
+		},
+		"alien_digger": {
+			"name": "異星掘者",
+			"desc": "於異星開採資源"
+		},
+		"queen_bee": {
+			"name": "蜂后",
+			"desc": "蜂王之君。"
+		},
+		"hel_queen_bee": {
+			"name": "冥蜂后",
+			"desc": "魔蜂之獄主。"
+		},
+		"hel_centipede": {
+			"name": "冥百足蟲",
+			"desc": "長焰獄群，亦習其自落之物用焉。"
+		},
+		"fire_eel": {
+			"name": "火鰻",
+			"desc": "其刺尤帶烈焰。"
+		},
+		"lamprey_eel": {
+			"name": "七鰓鰻",
+			"desc": "極毒之鰻也…"
+		},
+		"frost_digger": {
+			"name": "霜鑿者",
+			"desc": "寒令其脆，然猶前行。"
+		},
+		"cube": {
+			"name": "立方",
+			"desc": "此景甚熟……乃將三維點投於二維平面耳。易如反掌。"
+		},
+		"white_hole": {
+			"name": "白穴",
+			"desc": "甚為令人厭惡，光耀炫目。"
+		},
+		"tesseract": {
+			"name": "超立方體",
+			"desc": "此形已非此維度所屬……何以致之？"
+		},
+		"unabomber": {
+			"name": "獨行炸彈客",
+			"desc": "泰德·卡辛斯基之刻"
+		},
+		"biologist": {
+			"name": "生物學家",
+			"desc": "友者，唯研生物於爾細胞中也。其力隨受損而增焉。"
+		},
+		"cicada_3301": {
+			"name": "蟬三三零一",
+			"desc": "有三分之一之機，致三十三倍傷害（含心靈傷害）。頓悟臨身。朝聖始矣。覺悟待汝。"
+		},
+		"shark": {
+			"name": "鯊魚",
+			"desc": "嬰鯊嘟嘟嘟嘟嘟嘟…"
+		},
+		"squid": {
+			"name": "魷魚",
+			"desc": "求厠乎，抑或墨耶？"
+		},
+		"geyser": {
+			"name": "Geyser",
+			"desc": "Shoots out very hot water everywhere."
+		}
+	},
+	"petals": {
+		"basic": {
+			"name": "素瓣",
+			"desc": "至簡之花。"
+		},
+		"rose": {
+			"name": "玫瑰",
+			"desc": "食之療傷。"
+		},
+		"wing": {
+			"name": "飛翼",
+			"desc": "來去倏忽。"
+		},
+		"rock": {
+			"name": "磐石",
+			"desc": "其質甚堅"
+		},
+		"iris": {
+			"name": "鳶尾",
+			"desc": "此物有毒。"
+		},
+		"stinger": {
+			"name": "毒刺",
+			"desc": "其傷彌劇。"
+		},
+		"honey": {
+			"name": "蜜",
+			"desc": "蜂之唾"
+		},
+		"bubble": {
+			"name": "泡",
+			"desc": "破而助汝。"
+		},
+		"heavy": {
+			"name": "重",
+			"desc": "重於汝母"
+		},
+		"yin_yang": {
+			"name": "陰陽",
+			"desc": "反轉汝之花軌。"
+		},
+		"faster": {
+			"name": "疾",
+			"desc": "增汝花軌之速"
+		},
+		"light": {
+			"name": "輕",
+			"desc": "迅疾如風。"
+		},
+		"sponge": {
+			"name": "海綿",
+			"desc": "滌器皿而漸吸損傷。"
+		},
+		"rice": {
+			"name": "稻",
+			"desc": "惟亞細亞人可用。"
+		},
+		"yggdrasil": {
+			"name": "世界樹",
+			"desc": "復甦亡花。"
+		},
+		"leaf": {
+			"name": "葉",
+			"desc": "徐徐愈汝。"
+		},
+		"lightning": {
+			"name": "雷",
+			"desc": "召天雷擊近敵。"
+		},
+		"usain_bolt": {
+			"name": "飛人博爾特",
+			"desc": "召劇毒之雷擊近敵"
+		},
+		"cotton": {
+			"name": "棉",
+			"desc": "吸汝之傷"
+		},
+		"web": {
+			"name": "蛛絲",
+			"desc": "墜蛛穢而緩敵速"
+		},
+		"pollen": {
+			"name": "花粉",
+			"desc": "墜地而存"
+		},
+		"shell": {
+			"name": "介殼",
+			"desc": "食之則獲護"
+		},
+		"sunflower": {
+			"name": "向日葵",
+			"desc": "自然得護"
+		},
+		"bomb": {
+			"name": "爆彈",
+			"desc": "觸敵則爆"
+		},
+		"gas_bomb": {
+			"name": "毒霧彈",
+			"desc": "爆而毒敵"
+		},
+		"missile": {
+			"name": "飛刺",
+			"desc": "逆主而飛之螫針"
+		},
+		"viper": {
+			"name": "蝮蛇",
+			"desc": "其毒未知何來"
+		},
+		"rocket": {
+			"name": "火箭",
+			"desc": "迅疾且暴烈"
+		},
+		"electron_missile": {
+			"name": "電子飛彈",
+			"desc": "內蘊怒電子，伺機噬徑中萬物"
+		},
+		"magnet": {
+			"name": "磁石",
+			"desc": "引落瓣，納雷電"
+		},
+		"salt": {
+			"name": "鹽晶",
+			"desc": "返花之傷於敵"
+		},
+		"antennae": {
+			"name": "觸角",
+			"desc": "增爾目力。"
+		},
+		"third_eye": {
+			"name": "第三魔眼",
+			"desc": "增爾花瓣之射程"
+		},
+		"dmca": {
+			"name": "數字千年版權法",
+			"desc": "消弭同品或下品之怪物。"
+		},
+		"rock_egg": {
+			"name": "磐石之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"ladybug_egg": {
+			"name": "瓢蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"bush_egg": {
+			"name": "灌木之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"sponge_egg": {
+			"name": "海綿之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"cactus_egg": {
+			"name": "仙人掌之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"baby_ant_egg": {
+			"name": "幼蟻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"soldier_ant_egg": {
+			"name": "兵蟻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"worker_ant_egg": {
+			"name": "工蟻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"queen_ant_egg": {
+			"name": "蟻后之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"baby_fire_ant_egg": {
+			"name": "幼火蟻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"soldier_fire_ant_egg": {
+			"name": "火兵蟻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"worker_fire_ant_egg": {
+			"name": "火工蟻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"queen_fire_ant_egg": {
+			"name": "火蟻后之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"mushroom_egg": {
+			"name": "蘑菇之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"jellyfish_egg": {
+			"name": "水母之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"spider_egg": {
+			"name": "蜘蛛之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"bee_egg": {
+			"name": "蜂之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hornet_egg": {
+			"name": "胡蜂之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"shell_egg": {
+			"name": "介殼之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"ant_hole_egg": {
+			"name": "蟻穴之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"fire_ant_hole_egg": {
+			"name": "火蟻穴之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"spider_cave_egg": {
+			"name": "蜘蛛洞穴之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hive_egg": {
+			"name": "蜂巢之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"yoba_egg": {
+			"name": "耀霸之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"spider_yoba_egg": {
+			"name": "蛛形耀霸之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"centipede_egg": {
+			"name": "百足蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"desert_centipede_egg": {
+			"name": "漠百足之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"evil_centipede_egg": {
+			"name": "惡之百足蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"sunflower_egg": {
+			"name": "向日葵之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"boba_egg": {
+			"name": "波霸之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"bubble_egg": {
+			"name": "泡之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"m28_egg": {
+			"name": "M28之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"beetle_egg": {
+			"name": "甲蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"avocado_egg": {
+			"name": "鱷梨之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"target_dummy_egg": {
+			"name": "靶偶之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"dark_ladybug_egg": {
+			"name": "暗瓢蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"shiny_ladybug_egg": {
+			"name": "閃瓢蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"stick": {
+			"name": "枯枝",
+			"desc": "召致命之風。"
+		},
+		"scorpion_egg": {
+			"name": "蠍之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"starfish_egg": {
+			"name": "海星之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"pea": {
+			"name": "豆",
+			"desc": "砰然而散。"
+		},
+		"avocado": {
+			"name": "鱷梨",
+			"desc": "增汝寵物體型。"
+		},
+		"ring_magnet": {
+			"name": "圓磁石",
+			"desc": "緩引萬物向汝。"
+		},
+		"gas": {
+			"name": "毒氣",
+			"desc": "劇毒之氣。"
+		},
+		"fire": {
+			"name": "火",
+			"desc": "熾燃之物。"
+		},
+		"nitro": {
+			"name": "硝石",
+			"desc": "若飛遁之器。"
+		},
+		"wind": {
+			"name": "風",
+			"desc": "驅敵於外。"
+		},
+		"air": {
+			"name": "氣",
+			"desc": "無形無質。"
+		},
+		"lightsaber": {
+			"name": "光劍",
+			"desc": "射程有限之光刃"
+		},
+		"visaber": {
+			"name": "視刃",
+			"desc": "其射伽馬射線而非可見之光子"
+		},
+		"bone": {
+			"name": "骨",
+			"desc": "以鈣質構成。"
+		},
+		"cactus": {
+			"name": "仙人掌",
+			"desc": "增益汝之氣血。"
+		},
+		"soil": {
+			"name": "壤",
+			"desc": "使花肥碩。"
+		},
+		"grapes": {
+			"name": "葡萄",
+			"desc": "彈矢如虹。何哉？"
+		},
+		"mushroom": {
+			"name": "蘑菇",
+			"desc": "使汝之花含毒。"
+		},
+		"ears": {
+			"name": "耳",
+			"desc": "通靈貓耳。"
+		},
+		"sand": {
+			"name": "沙",
+			"desc": "可築沙堡於此。"
+		},
+		"pincer": {
+			"name": "螯",
+			"desc": "折敵之足，縱其無足亦然。"
+		},
+		"dahlia": {
+			"name": "大麗花",
+			"desc": "舍愈傷之效而求穩"
+		},
+		"starfish": {
+			"name": "海星",
+			"desc": "汝體衰之際，能愈汝疾"
+		},
+		"dandelion": {
+			"name": "蒲公英",
+			"desc": "禁敵愈傷之能"
+		},
+		"crab_egg": {
+			"name": "蟹之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"dandelion_egg": {
+			"name": "蒲公英之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"dragon_egg": {
+			"name": "龍之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"irey": {
+			"name": "艾蕊",
+			"desc": "化蜜為鴆"
+		},
+		"leech_egg": {
+			"name": "螞蟥之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"nazar": {
+			"name": "魔眼",
+			"desc": "受一擊而隱，須臾復現"
+		},
+		"nazar_beetle_egg": {
+			"name": "魔眼甲蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"golden_leaf": {
+			"name": "金葉",
+			"desc": "減花瓣復裝之遲"
+		},
+		"laser": {
+			"name": "鐳射",
+			"desc": "可致焦灼"
+		},
+		"mark": {
+			"name": "烙印",
+			"desc": "遣亡花入幽冥"
+		},
+		"bur": {
+			"name": "伯爾",
+			"desc": "削敵之甲"
+		},
+		"cutter": {
+			"name": "割者",
+			"desc": "增汝身之傷。"
+		},
+		"powder": {
+			"name": "粉齏",
+			"desc": "五石散"
+		},
+		"toxic_dragon_egg": {
+			"name": "毒龍之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_worm_egg": {
+			"name": "冥蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_spider_egg": {
+			"name": "冥蛛之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_beetle_egg": {
+			"name": "冥甲蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_jellyfish_egg": {
+			"name": "冥水母之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_lightning": {
+			"name": "冥雷",
+			"desc": "召詛咒之火擊近敵。"
+		},
+		"tumbleweed_egg": {
+			"name": "風滾草之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"dragon_nest_egg": {
+			"name": "龍巢之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"fire_stick": {
+			"name": "火枯枝",
+			"desc": "召致命之風。"
+		},
+		"hel_bee_egg": {
+			"name": "冥蜂之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_hornet_egg": {
+			"name": "冥胡蜂之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_missile": {
+			"name": "冥飛刺",
+			"desc": "熾熱如熔之飛刺"
+		},
+		"bugatti": {
+			"name": "布加迪",
+			"desc": "增行速而滑如鰍。"
+		},
+		"bugatti_egg": {
+			"name": "布加迪之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"poo": {
+			"name": "穢",
+			"desc": "減敵之射程。"
+		},
+		"rubber": {
+			"name": "膠",
+			"desc": "增敵擊汝之退距。"
+		},
+		"fly_egg": {
+			"name": "蠅之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"fang": {
+			"name": "獠牙",
+			"desc": "傷敵愈己。"
+		},
+		"blood_stinger": {
+			"name": "血毒刺",
+			"desc": "甚毒然亦自傷。"
+		},
+		"mantis_egg": {
+			"name": "螳螂之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"firefly_egg": {
+			"name": "螢之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"wasp_egg": {
+			"name": "黃蜂之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"battery": {
+			"name": "雷池",
+			"desc": "敵觸汝身則召天雷。"
+		},
+		"stickbug_egg": {
+			"name": "竹節蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"plank": {
+			"name": "木板",
+			"desc": "Does 300x more damage to enemy projectiles."
+		},
+		"icicle": {
+			"name": "冰錐",
+			"desc": "凝敵如霜"
+		},
+		"dice": {
+			"name": "骰子",
+			"desc": "Has 8% chance of dealing 69x damage. Rate is affected by Clover."
+		},
+		"cryo_bomb": {
+			"name": "寒霜爆彈",
+			"desc": "爆則四周皆凍"
+		},
+		"clover": {
+			"name": "三葉草",
+			"desc": "賜汝福運"
+		},
+		"blueberries": {
+			"name": "藍莓",
+			"desc": "冰凍則堅"
+		},
+		"frost": {
+			"name": "寒霜",
+			"desc": "凜冽之氣可透敵甲而緩其行"
+		},
+		"snowball": {
+			"name": "雪球",
+			"desc": "雪人之球，可透敵胄"
+		},
+		"snowflake": {
+			"name": "雪晶",
+			"desc": "碎則迸射"
+		},
+		"amethyst": {
+			"name": "紫水晶",
+			"desc": "銳利而易碎之寶"
+		},
+		"snowbush_egg": {
+			"name": "雪叢之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"snow_stick": {
+			"name": "雪杖",
+			"desc": "召喚致命之寒霜。"
+		},
+		"ice_cube_egg": {
+			"name": "寒冰之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"arctic_centipede_egg": {
+			"name": "極地百足之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"arctic_spider_egg": {
+			"name": "極地蜘蛛之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"ice_dragon_egg": {
+			"name": "寒霜巨龍之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"tick_egg": {
+			"name": "蜱蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"ice_rose": {
+			"name": "寒霜玫瑰",
+			"desc": "啜之可愈傷，然亦覆寒霜。"
+		},
+		"torch": {
+			"name": "火把",
+			"desc": "徐徐驅散繁花之寒霜。"
+		},
+		"water_stick": {
+			"name": "水之枯枝",
+			"desc": "縱無水亦召漩渦，滔滔不絕。"
+		},
+		"urchin_egg": {
+			"name": "海膽之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"volcano_egg": {
+			"name": "火山之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"spikeball": {
+			"name": "棘刺球",
+			"desc": "眾矢縛以弱結，若斷則四散迸飛..."
+		},
+		"needle": {
+			"name": "毒針",
+			"desc": "鋒銳易折，且淬劇毒"
+		},
+		"bubble_bomb": {
+			"name": "泡爆彈之謂",
+			"desc": "爆而推敵甚力。"
+		},
+		"obsidian": {
+			"name": "黑曜石之謂",
+			"desc": "極固，然亦甚脆。"
+		},
+		"magma": {
+			"name": "岩漿之謂",
+			"desc": "熾熱之石也。"
+		},
+		"fire_bomb": {
+			"name": "火爆彈之謂",
+			"desc": "爆而燃敵。"
+		},
+		"ice_hornet_egg": {
+			"name": "冰鋒胡蜂之卵之謂",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"frozen_mark": {
+			"name": "寒霜烙印之謂",
+			"desc": "遣亡花至南極之地"
+		},
+		"coffee": {
+			"name": "咖啡之謂",
+			"desc": "飲之暫得疾行。"
+		},
+		"chromosome": {
+			"name": "染色體之謂",
+			"desc": "徐徐愈汝之花。"
+		},
+		"antibody": {
+			"name": "抗體之謂",
+			"desc": "削敵之甲。"
+		},
+		"hemoglobin": {
+			"name": "血紅素之謂",
+			"desc": "增療愈之花效。"
+		},
+		"chloroplast": {
+			"name": "葉綠體之謂",
+			"desc": "增盾之復。"
+		},
+		"sugar": {
+			"name": "糖之謂",
+			"desc": "甚甘。"
+		},
+		"pill": {
+			"name": "藥丸之謂",
+			"desc": "療癌愈疾，兼養其身。"
+		},
+		"dna": {
+			"name": "脫氧核糖核酸",
+			"desc": "略增靈寵稀有之機。凡所覆之卵，皆受其澤。譬如：超級之卵生至高蟻，復加超級之脫氧核糖核酸，則可生超級蟻。蓍草多寡，攸關機率。"
+		},
+		"virus_egg": {
+			"name": "病毒之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"red_blood_cell_egg": {
+			"name": "赤血珠之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"bacteria_egg": {
+			"name": "菌蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"bacteriophage_egg": {
+			"name": "噬菌者之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"cancer_egg": {
+			"name": "癌魔之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"parasite_egg": {
+			"name": "寄生者之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"cancer": {
+			"name": "癌魔",
+			"desc": "誅戮同儕，則裂其身。"
+		},
+		"white_blood_cell_egg": {
+			"name": "白血球之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"lotus": {
+			"name": "蓮華",
+			"desc": "祛毒辟邪。"
+		},
+		"ice": {
+			"name": "玄冰",
+			"desc": "御火消災。"
+		},
+		"atom_egg": {
+			"name": "原子之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"snake_egg": {
+			"name": "蛇之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"slime": {
+			"name": "黏液",
+			"desc": "噫，何其黏也"
+		},
+		"turtle_egg": {
+			"name": "龜之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_hive_egg": {
+			"name": "冥蜂巢之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_honey": {
+			"name": "冥蜜",
+			"desc": "使蜜地灼熱"
+		},
+		"scar": {
+			"name": "傷痕",
+			"desc": "甚險，然亦可傳送君於隨機之地"
+		},
+		"crystal_leaf": {
+			"name": "水晶葉",
+			"desc": "徐徐療愈君之寵物"
+		},
+		"fossil_egg": {
+			"name": "化石之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"rattlesnake_egg": {
+			"name": "響尾蛇之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"rattle": {
+			"name": "響尾",
+			"desc": "古怪花瓣，哆哆嗦嗦然"
+		},
+		"cicada_egg": {
+			"name": "蟬之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"snowman_egg": {
+			"name": "雪人之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"carrot": {
+			"name": "胡蘿蔔",
+			"desc": "人或餘曰此有益於目，然吾置之目則痛甚。"
+		},
+		"igloo_egg": {
+			"name": "冰屋之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"rain_frog_egg": {
+			"name": "雨蛙之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"disc": {
+			"name": "圓盾",
+			"desc": "減傷之器。"
+		},
+		"mimic": {
+			"name": "擬形",
+			"desc": "效爾右側花瓣之形。"
+		},
+		"scythe": {
+			"name": "長鐮",
+			"desc": "銳長之物。裝配愈多，其力愈弱。"
+		},
+		"corruption": {
+			"name": "腐化",
+			"desc": "爾化為穢，可傷眾花，眾花亦可傷爾。"
+		},
+		"moon": {
+			"name": "明月",
+			"desc": "厚重花瓣，或可禦敵。"
+		},
+		"pearl": {
+			"name": "珍珠",
+			"desc": "置之地上，觀敵踉蹌。"
+		},
+		"orange": {
+			"name": "橘",
+			"desc": "甘美之物，然眾敵皆畏其味。"
+		},
+		"dizzy": {
+			"name": "眩暈",
+			"desc": "使爾目眩，然增花瓣之傷。"
+		},
+		"illuminati_egg": {
+			"name": "光明會之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"black_hole_egg": {
+			"name": "玄洞之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"gamma_ray": {
+			"name": "伽馬射線",
+			"desc": "光束瞬間"
+		},
+		"troll_egg": {
+			"name": "巨魔之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"horn": {
+			"name": "角",
+			"desc": "增汝寵物之傷，然亦使其行緩。"
+		},
+		"ufo_egg": {
+			"name": "不明飛行物之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"orb": {
+			"name": "寶珠",
+			"desc": "內含諸多玄妙異星之術，吾不知其用..."
+		},
+		"alien_egg": {
+			"name": "異星來客之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"angel_egg": {
+			"name": "天使之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"momy_egg": {
+			"name": "媽咪之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"mirror": {
+			"name": "鏡",
+			"desc": "可反飛矢，至稀品秩加一。若飛矢之稀逾鏡者，則其傷減九五之數。譬如，至高之鏡可反至尊黃蜂之矢，然其傷消減九五。"
+		},
+		"comb": {
+			"name": "櫛",
+			"desc": "惜乎花首無發"
+		},
+		"ring": {
+			"name": "指環",
+			"desc": "佐隆之環。"
+		},
+		"triangle": {
+			"name": "三角",
+			"desc": "具察諸怪弱處之能，以施諸類之傷"
+		},
+		"dvd": {
+			"name": "影碟",
+			"desc": "內含罕見異域影像，前所未見。"
+		},
+		"eyeball": {
+			"name": "魔眼",
+			"desc": "洞悉永珍之目，可使飛矢自尋最近之的。"
+		},
+		"zodiac": {
+			"name": "黃道",
+			"desc": "增汝花瓣重灌之速，然其威甚猛。"
+		},
+		"ghost_egg": {
+			"name": "幽魂之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"gravestone_egg": {
+			"name": "墓碑之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"balloon": {
+			"name": "輕球",
+			"desc": "託汝身浮於空。"
+		},
+		"void_mark": {
+			"name": "虛空烙印",
+			"desc": "送纖弱亡花入星界之境。"
+		},
+		"plasma": {
+			"name": "炎漿",
+			"desc": "Very hot state of matter. Lightning stikes multi hit the same target."
+		},
+		"quantum": {
+			"name": "玄子",
+			"desc": "易汝花瓣執行之軌。"
+		},
+		"claw": {
+			"name": "利爪",
+			"desc": "敵命逾八成時，可施五倍之傷。"
+		},
+		"electric_eel_egg": {
+			"name": "電鰻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"thorn": {
+			"name": "棘刺",
+			"desc": "熾熱飛矢，觸之即裂。"
+		},
+		"blood_scythe": {
+			"name": "血鐮",
+			"desc": "非常鐮也，赤刃覆血，鋒芒不衰。"
+		},
+		"eye_egg": {
+			"name": "魔眼之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"square": {
+			"name": "方體",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"target_mummy_egg": {
+			"name": "標靶木乃伊之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"yuan": {
+			"name": "元",
+			"desc": "中原之通貨也"
+		},
+		"bitcoin": {
+			"name": "比特幣",
+			"desc": "中本聰所創"
+		},
+		"dollar": {
+			"name": "美刀",
+			"desc": "為何現世不可用耶？"
+		},
+		"fries": {
+			"name": "薯條",
+			"desc": "汝有六十九通未接來電自麥當勞"
+		},
+		"emerald": {
+			"name": "翡翠",
+			"desc": "擊怪得經驗尤多"
+		},
+		"sapphire": {
+			"name": "藍寶石",
+			"desc": "使汝同品花瓣盡落於地"
+		},
+		"candlestick": {
+			"name": "燭臺",
+			"desc": "可愈汝疾，亦可奪汝命，慎之！"
+		},
+		"ruby": {
+			"name": "紅玉",
+			"desc": "賜雷霆貫敵之能"
+		},
+		"diamond": {
+			"name": "金剛石",
+			"desc": "碎則迸裂"
+		},
+		"topaz": {
+			"name": "黃玉",
+			"desc": "予爾甲冑。"
+		},
+		"citron": {
+			"name": "香櫞",
+			"desc": "增爾花瓣之巨。"
+		},
+		"quartz": {
+			"name": "石英",
+			"desc": "令爾同品花瓣偶可免過載之勞。"
+		},
+		"opal": {
+			"name": "歐珀",
+			"desc": "令爾同品花瓣偶可施額外之傷。"
+		},
+		"relic": {
+			"name": "遺物",
+			"desc": "分傷於同隊佩遺物者。"
+		},
+		"uranium": {
+			"name": "鈾",
+			"desc": "放射性之物，或致斃命之疾。"
+		},
+		"plutonium": {
+			"name": "鈽",
+			"desc": "放射性之物，可致灼傷之劇。"
+		},
+		"lithium": {
+			"name": "鋰",
+			"desc": "見於電池之中。"
+		},
+		"tesla_coil_egg": {
+			"name": "特斯拉線圈之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"snail": {
+			"name": "蝸牛",
+			"desc": "其可旋繞爾之軌跡。"
+		},
+		"snail_egg": {
+			"name": "蝸牛之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"iodine": {
+			"name": "碘",
+			"desc": "善存爾之碘片，呵呵。"
+		},
+		"chilly": {
+			"name": "寒椒",
+			"desc": "患胃疾者勿近。"
+		},
+		"tomato": {
+			"name": "番茄",
+			"desc": "其歷久彌堅。"
+		},
+		"banana": {
+			"name": "蕉",
+			"desc": "其附敵軀。"
+		},
+		"stem_cell": {
+			"name": "幹細胞",
+			"desc": "當汝寵氣血降至六成又三成時，可使其復元如初。受苜蓿之惠。"
+		},
+		"stem_cell_egg": {
+			"name": "幹細胞之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"barrel_egg": {
+			"name": "桶之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"acid": {
+			"name": "酸液",
+			"desc": "自眾生脘中採得鹽酸，獨奉群芳。"
+		},
+		"lava": {
+			"name": "熔岩",
+			"desc": "自火山噴發處取熾熱流質。"
+		},
+		"corium": {
+			"name": "堆芯熔體",
+			"desc": "自切爾諾貝利四號堆密運而至..."
+		},
+		"nitrogen": {
+			"name": "氮氣",
+			"desc": "液態氮氣。極寒，可凍敵軀。"
+		},
+		"landmine": {
+			"name": "地雷",
+			"desc": "可佈於地。敵觸之則妙趣橫生，嘻嘻。"
+		},
+		"blood": {
+			"name": "血珀",
+			"desc": "其味若金鐵。"
+		},
+		"rna": {
+			"name": "核糖核酸",
+			"desc": "使汝寵移速更疾。"
+		},
+		"fan": {
+			"name": "扇",
+			"desc": "減汝焚速。"
+		},
+		"graphite": {
+			"name": "石墨",
+			"desc": "增汝瓣之放射。"
+		},
+		"capacitor": {
+			"name": "電容器",
+			"desc": "增汝電之躍，至於同品。"
+		},
+		"koban": {
+			"name": "小判",
+			"desc": "東瀛古錢。慎藏之，稀世之物也！"
+		},
+		"cucumber": {
+			"name": "黃瓜",
+			"desc": "善減重。"
+		},
+		"oxygen": {
+			"name": "氧氣",
+			"desc": "增敵焚之時。"
+		},
+		"cyanide": {
+			"name": "氰化物",
+			"desc": "增所觸之物毒之時。"
+		},
+		"fusion": {
+			"name": "融合",
+			"desc": "合其右瓣之子，至於同品，成更強之瓣。例：若汝有超級融合與超級光瓣在其右，並有眾弱粒子，則得一更強之超級光瓣。"
+		},
+		"fission": {
+			"name": "裂變",
+			"desc": "裂其右瓣，至於同品，為眾子。例：若汝有超級裂變與超級仙人掌在其右，則得二弱超級仙人掌。若汝有超級光瓣含六子，則得十二子。"
+		},
+		"nuke_egg": {
+			"name": "核彈之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"cross": {
+			"name": "十字",
+			"desc": "按汝右鍵，則瞬至其落處。"
+		},
+		"digger_egg": {
+			"name": "掘者之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"spider_digger_egg": {
+			"name": "蜘蛛掘者之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"splitter": {
+			"name": "裂瓣",
+			"desc": "令汝花瓣軌跡裂為數道。凡置於其右者，皆入新軌。其效可疊，多用則裂愈甚。"
+		},
+		"nuke": {
+			"name": "核彈",
+			"desc": "可造連環爆震。"
+		},
+		"gunpowder": {
+			"name": "火藥",
+			"desc": "敵若燃燒，則傷五倍。"
+		},
+		"compass": {
+			"name": "司南",
+			"desc": "令汝軌跡隨行而轉。"
+		},
+		"dark_matter": {
+			"name": "玄冥",
+			"desc": "無形之物，可於花軌中造隙。"
+		},
+		"hel_digger_egg": {
+			"name": "冥掘者之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"glass": {
+			"name": "琉璃",
+			"desc": "每息傷敵一次。"
+		},
+		"grave_digger_egg": {
+			"name": "掘墓人之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"shovel": {
+			"name": "鋤",
+			"desc": "可使汝入地遇蟲。"
+		},
+		"sandstone_egg": {
+			"name": "砂岩之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"marble": {
+			"name": "碝磐",
+			"desc": "墜地而滾，每息傷敵。"
+		},
+		"trident": {
+			"name": "三叉戟",
+			"desc": "若他人持更強之戟於此域，則毀。"
+		},
+		"bandages": {
+			"name": "素帛",
+			"desc": "須盡覆諸創。或可與鐮合用。"
+		},
+		"talisman": {
+			"name": "辟邪符",
+			"desc": "令汝花避傷。"
+		},
+		"job_application": {
+			"name": "職牒",
+			"desc": "使妖獸失怒五息。勿負才學，速應修管之差！"
+		},
+		"termite_overmind_egg": {
+			"name": "白蟻主腦之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"baby_termite_egg": {
+			"name": "白蟻稚子之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"worker_termite_egg": {
+			"name": "工白蟻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"soldier_termite_egg": {
+			"name": "兵白蟻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"termite_hole_egg": {
+			"name": "白蟻穴之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_rose": {
+			"name": "靈玫",
+			"desc": "納周遭之靈氣。"
+		},
+		"magic_leaf": {
+			"name": "靈葉",
+			"desc": "納周遭之靈氣。"
+		},
+		"magic_cactus": {
+			"name": "靈掌",
+			"desc": "增汝氣血靈元之限。"
+		},
+		"magic_missile": {
+			"name": "靈矢",
+			"desc": "耗巨而疾。"
+		},
+		"magic_stinger": {
+			"name": "靈刺",
+			"desc": "痛甚，然耗靈甚巨。"
+		},
+		"magic_fang": {
+			"name": "魔牙",
+			"desc": "噬苦痛而蓄魔力"
+		},
+		"magic_blood_stinger": {
+			"name": "魔血刺",
+			"desc": "此瓣之術亦反噬其主"
+		},
+		"magic_wing": {
+			"name": "魔翼",
+			"desc": "翔於九霄，自生幻影"
+		},
+		"magic_pea": {
+			"name": "魔豆",
+			"desc": "飽飲暴咒與邪法"
+		},
+		"magic_grapes": {
+			"name": "魔葡",
+			"desc": "暗術為引，內蘊風雷"
+		},
+		"magic_blueberries": {
+			"name": "魔莓",
+			"desc": "永焚之詛，極寒之刑"
+		},
+		"magic_lightning": {
+			"name": "魔雷",
+			"desc": "術增其尋敵之能"
+		},
+		"magic_hel_lightning": {
+			"name": "魔冥雷",
+			"desc": "術增其尋敵之能，更添業火"
+		},
+		"magic_usain_bolt": {
+			"name": "魔飛霆",
+			"desc": "術增其尋敵之能，附骨之毒"
+		},
+		"magic_banana": {
+			"name": "魔蕉",
+			"desc": "靈猿當食此靈果"
+		},
+		"magic_mimic": {
+			"name": "魔擬",
+			"desc": "幻右側瓣為魔變之形。例：超級魔擬+超級玫瑰=超級魔玫瑰+超級玫瑰"
+		},
+		"magic_bomb": {
+			"name": "魔爆彈",
+			"desc": "術法原可崩山裂石"
+		},
+		"magic_gas_bomb": {
+			"name": "魔霧彈",
+			"desc": "術法之物，竟極爆烈，合藥則成劇毒"
+		},
+		"magic_fire_bomb": {
+			"name": "魔焰爆彈",
+			"desc": "術法之物，遇火愈烈，爆勢更甚"
+		},
+		"magic_bubble_bomb": {
+			"name": "魔泡爆彈",
+			"desc": "強術之氣，可生巨震波"
+		},
+		"magic_cryo_bomb": {
+			"name": "魔霜爆彈",
+			"desc": "以術凝爆，冰封敵久"
+		},
+		"magic_rocket": {
+			"name": "魔火矢",
+			"desc": "術法之物，極盡爆烈"
+		},
+		"magic_orange": {
+			"name": "魔染橘",
+			"desc": "此橘受詛褪色，今呈紺紫"
+		},
+		"magic_hemoglobin": {
+			"name": "魔運血紅素",
+			"desc": "非運生氣，乃轉術力於瓣間"
+		},
+		"holy_water": {
+			"name": "聖水",
+			"desc": "滌淨妖物之\"罪孽\"，消其兇性"
+		},
+		"magic_starfish": {
+			"name": "魔星魚",
+			"desc": "此星魚唯對法力未半者施術"
+		},
+		"magic_square": {
+			"name": "魔方體",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_sponge": {
+			"name": "魔噬海",
+			"desc": "緩汲汝耗之法力"
+		},
+		"magic_hel_missile": {
+			"name": "魔冥飛刺",
+			"desc": "耗術燃矢，永焰不熄"
+		},
+		"magic_viper": {
+			"name": "魔蝮蛇",
+			"desc": "此矢以魔鈾所鑄，劇毒非常"
+		},
+		"magic_electron_missile": {
+			"name": "術法電子飛彈",
+			"desc": "此矢內藏諸多混沌術法"
+		},
+		"magic_scythe": {
+			"name": "術法之鐮",
+			"desc": "修長法器，可轉化汝之全數術法為刃"
+		},
+		"termite_digger_egg": {
+			"name": "白蟻掘者之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_soil": {
+			"name": "術法之壤",
+			"desc": "令汝體碩沉重，承術法之量遠超尋常"
+		},
+		"magic_dahlia": {
+			"name": "術法大麗花",
+			"desc": "汲取術法之速倍增"
+		},
+		"magic_mark": {
+			"name": "術法烙印",
+			"desc": "以術法遣送枯萎小花至隨機之境"
+		},
+		"magic_cotton": {
+			"name": "術法棉",
+			"desc": "雖可吸納傷害，然須持續消耗靈力"
+		},
+		"magic_sunflower": {
+			"name": "術法向日葵",
+			"desc": "墮地之後，為汝聚斂術法……"
+		},
+		"magic_cutter": {
+			"name": "術法割者",
+			"desc": "增益汝身之刃"
+		},
+		"magic_golden_leaf": {
+			"name": "術法金葉",
+			"desc": "削減術法花瓣所需之靈力"
+		},
+		"magic_battery": {
+			"name": "術法雷池",
+			"desc": "蓄汝靈力，經時而償，利達倍蓰"
+		},
+		"magic_bubble": {
+			"name": "術法泡",
+			"desc": "迸裂之際，借術法催汝前行"
+		},
+		"magic_corruption": {
+			"name": "術法腐化",
+			"desc": "借術法之力，瞬息遭腐化。"
+		},
+		"magic_stick": {
+			"name": "術法枯枝",
+			"desc": "掠諸花之術法，無問敵友。"
+		},
+		"magic_claw": {
+			"name": "術法利爪",
+			"desc": "依靈力之多寡，可致五倍之創。若具半成靈力，則傷倍半，餘類推。"
+		},
+		"magic_marble": {
+			"name": "術法碝磐",
+			"desc": "此磐本已碎裂，然術法維其形...然稍顯力不從心。"
+		},
+		"magic_salt": {
+			"name": "術法鹽晶",
+			"desc": "假術法之力，反彈傷害於周遭之敵，非獨施害者。"
+		},
+		"magic_relic": {
+			"name": "術法遺物",
+			"desc": "將術法消耗分攤於同伍持遺物者。"
+		},
+		"shipwreck_egg": {
+			"name": "沉舟之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_fire": {
+			"name": "術法業火",
+			"desc": "施疊燃之業火於敵身。"
+		},
+		"magic_gas": {
+			"name": "術法毒氣",
+			"desc": "注疊毒之瘴癘入敵軀。"
+		},
+		"magic_yggdrasil": {
+			"name": "術法世界樹",
+			"desc": "瀕死之際，得世界樹以術法相救。"
+		},
+		"magic_dna": {
+			"name": "術法脫氧核糖核酸",
+			"desc": "有微機率使術法生靈化為玄奇生靈，亦有機緣提升生靈品階如初代脫氧核糖核酸。玄奇生靈更形肥碩迅捷。凡品階不逾此物之卵皆受其效。"
+		},
+		"magic_rock_egg": {
+			"name": "磐石之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_ladybug_egg": {
+			"name": "瓢蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_baby_ant_egg": {
+			"name": "玄妙幼蟻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_soldier_ant_egg": {
+			"name": "玄妙兵蟻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"pirate_digger_egg": {
+			"name": "海寇掘者之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_torch": {
+			"name": "靈火炬",
+			"desc": "持續除寵物之霜凍。"
+		},
+		"palm_tree_egg": {
+			"name": "棕櫚樹之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"palm_leaf": {
+			"name": "棕櫚葉",
+			"desc": "此等神奇之葉，既有療效，亦具護盾之能。"
+		},
+		"magic_palm_leaf": {
+			"name": "魔法棕櫚葉",
+			"desc": "顯然，葉愈大，魔力復也愈速。"
+		},
+		"stalagmite_egg": {
+			"name": "石筍之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"arctic_spider_cave_egg": {
+			"name": "極地蛛洞之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"aztec_coin": {
+			"name": "阿茲特克幣    ",
+			"desc": "為海贼備之魔法詛咒硬幣也，嘿嘿。商賈以三倍戰利品相酬。"
+		},
+		"beekeeper_egg": {
+			"name": "養蜂人之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_beekeeper_egg": {
+			"name": "養冥蜂人之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"alien_digger_egg": {
+			"name": "異星掘者之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"attractor": {
+			"name": "吸引器",
+			"desc": "彼引生物向己而來……"
+		},
+		"soap": {
+			"name": "香皂",
+			"desc": "增液態花瓣之溢率。亦為邀貓咪俱樂部之禮。"
+		},
+		"magic_bur": {
+			"name": "靈刺果",
+			"desc": "依敵體所受傷害，減其護甲。"
+		},
+		"magic_rock": {
+			"name": "靈磐石",
+			"desc": "法術使之甚脆，每遭撞擊輒碎。"
+		},
+		"magic_aztec_coin": {
+			"name": "魔法阿茲特克錢幣",
+			"desc": "A magic magic cursed coin for the pirates hehe. Trader gives 4x loot for this."
+		},
+		"queen_bee_egg": {
+			"name": "蜂后之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_queen_bee_egg": {
+			"name": "冥蜂后之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"hel_centipede_egg": {
+			"name": "冥百足蟲之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"fire_eel_egg": {
+			"name": "火鰻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"lamprey_eel_egg": {
+			"name": "七鰓鰻之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"cherry": {
+			"name": "櫻桃",
+			"desc": "因某故，焚之。"
+		},
+		"frost_digger_egg": {
+			"name": "霜鑿者之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"cube": {
+			"name": "立方",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_cube": {
+			"name": "靈立方",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"white_hole_egg": {
+			"name": "白穴之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"antimatter": {
+			"name": "反物質    ",
+			"desc": "極不穩之花瓣，若汝死則爆焉"
+		},
+		"magic_antimatter": {
+			"name": "靈反物質",
+			"desc": "妖術使之愈加不穩，凡汝受擊，則爆焉"
+		},
+		"stardust": {
+			"name": "星塵    ",
+			"desc": "星系之塵埃，成此輻射小球"
+		},
+		"magic_stardust": {
+			"name": "魔法星塵    ",
+			"desc": "魔力放大此瓣之輻射焉"
+		},
+		"singularity": {
+			"name": "奇點    ",
+			"desc": "甚重，增汝之質。"
+		},
+		"magic_singularity": {
+			"name": "靈奇點",
+			"desc": "縮汝之體積。"
+		},
+		"tesseract": {
+			"name": "超立方體",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_tesseract": {
+			"name": "靈超立方體",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"copper_rod": {
+			"name": "銅杖",
+			"desc": "其能減少所受閃電之害。"
+		},
+		"magic_copper_rod": {
+			"name": "靈銅杖",
+			"desc": "其吸閃電之害，若棉焉"
+		},
+		"unabomber_egg": {
+			"name": "獨行炸彈客之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"pipe_bomb": {
+			"name": "筒狀炸彈",
+			"desc": "爆裂甚烈，然有五成機不爆。泰德·卡辛斯基精心為汝製作：3"
+		},
+		"biologist_egg": {
+			"name": "生物學家之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_ice_rose": {
+			"name": "靈寒霜玫瑰",
+			"desc": "於環境中汲取巨量魔力，亦賜汝寒霜。"
+		},
+		"magic_pipe_bomb": {
+			"name": "靈筒狀炸彈",
+			"desc": "有九成之機，致一真大爆炸。泰德·卡辛斯基以術為汝精製:p"
+		},
+		"cicada_3301_egg": {
+			"name": "蟬三三零一之卵",
+			"desc": "可孵化，誕生奇異之物..."
+		},
+		"magic_nazar": {
+			"name": "靈魔眼",
+			"desc": "其能以魔法為我方寵物擋數次攻擊，然後入冷卻"
+		},
+		"magic_cherry": {
+			"name": "魔櫻",
+			"desc": "魔法沒有任何效果，它們還未成熟……"
+		},
+		"shark_egg": {
+			"name": "鯊魚蛋",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"tooth": {
+			"name": "Tooth",
+			"desc": "A very pointy tooth, restores health when you deal damage using it"
+		},
+		"magic_tooth": {
+			"name": "Magic Tooth",
+			"desc": "A magic tooth which can also drain the enemies mana"
+		},
+		"ink": {
+			"name": "Ink",
+			"desc": "Very viscous... also covers your enemies eyes."
+		},
+		"squid_egg": {
+			"name": "魷魚蛋",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"mask": {
+			"name": "口罩",
+			"desc": "It protects you from ZARS-CoV-69 virus. Also reduces its effect."
+		},
+		"magic_yuan": {
+			"name": "Magic Yuan",
+			"desc": "The currency of the Magicland."
+		},
+		"magic_dollar": {
+			"name": "Magic Dollar",
+			"desc": "How many dollars is this one truly worth?"
+		},
+		"magic_bitcoin": {
+			"name": "Magic Bitcoin",
+			"desc": "Created by Satoshi Nakamoto."
+		},
+		"magic_candlestick": {
+			"name": "Magic Candlestick",
+			"desc": "can fully restore your mana, but sometimes even kill thee."
+		},
+		"magic_fries": {
+			"name": "Magic Fries",
+			"desc": "These were fried in blueberry oil"
+		},
+		"magic_dice": {
+			"name": "魔法骰子",
+			"desc": "Has 1% chance of dealing 1000x damage using magic."
+		},
+		"magic_web": {
+			"name": "Magic Web",
+			"desc": "Magic spider poo is more aerodynamic and can fly further"
+		},
+		"geyser_egg": {
+			"name": "Geyser Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hot_water": {
+			"name": "Hot Water",
+			"desc": "You could probably cook some ramen using this. Slightly slows down your enemies too."
+		},
+		"magic_gunpowder": {
+			"name": "Magic Gunpowder",
+			"desc": "Deals 10x damage when an incompetent enemy is burning. Also increases the size of your explosions."
+		},
+		"magic_tomato": {
+			"name": "Magic Tomato",
+			"desc": "When life gives you unripe magic fruits, use even more magic to ripen them quicker."
+		},
+		"magic_cancer": {
+			"name": "Magic Cancer",
+			"desc": "You get some chance to spawn a pet twice."
+		},
+		"magic_pearl": {
+			"name": "Magic Pearl",
+			"desc": "Magic magic pearl whose damage increases based on its speed."
+		},
+		"magic_chromosome": {
+			"name": "Magic Chromosome",
+			"desc": "Gives your petals shield over time using Zewton's 69th law of magic."
+		},
+		"magic_antennae": {
+			"name": "Magic Antennae",
+			"desc": "Increases and offsets your vision."
+		},
+		"magic_crystal_leaf": {
+			"name": "Magic Crystal Leaf",
+			"desc": "Passively generates magical shield for your pets."
+		},
+		"magic_honey": {
+			"name": "Magic Honey",
+			"desc": "Reduces the size of your honey tiles."
+		},
+		"magic_poo": {
+			"name": "Magic Poo",
+			"desc": "Increases the agro range of your pets"
+		},
+		"magic_blood_scythe": {
+			"name": "Magic Blood Scythe",
+			"desc": "Sets you on fire & poison. but deals insane damage."
+		},
+		"magic_zodiac": {
+			"name": "Magic Zodiac",
+			"desc": "Requires a lot of mana, but deals a lot of damage in return."
+		}
+	},
+	"achievements": {
+		"rookie": {
+			"name": "新雛",
+			"desc": "遊嬉一刻鐘。"
+		},
+		"started": {
+			"name": "初涉…",
+			"desc": "遊嬉一時辰。"
+		},
+		"player": {
+			"name": "中庸之戲者",
+			"desc": "遊嬉六時辰。"
+		},
+		"gamer": {
+			"name": "善戲者",
+			"desc": "遊嬉一日。"
+		},
+		"week": {
+			"name": "晝夜不息",
+			"desc": "遊嬉七日。"
+		},
+		"month": {
+			"name": "沉溺",
+			"desc": "遊嬉卅日。"
+		},
+		"year": {
+			"name": "新歲安康！",
+			"desc": "遊嬉三百六十五日。"
+		},
+		"epic": {
+			"name": "史詩戲者之瞬",
+			"desc": "擷史詩花瓣一。"
+		},
+		"legendary": {
+			"name": "傳奇",
+			"desc": "擷傳奇花瓣一。"
+		},
+		"mythic": {
+			"name": "神話非虛",
+			"desc": "擷神話花瓣一。"
+		},
+		"ultra": {
+			"name": "至高",
+			"desc": "集一至高之瓣。"
+		},
+		"super": {
+			"name": "超凡大師",
+			"desc": "集五超凡之瓣。"
+		},
+		"omega": {
+			"name": "究極！！！",
+			"desc": "集一究極之瓣。"
+		},
+		"medic": {
+			"name": "醫者",
+			"desc": "以世界樹復活一人。"
+		},
+		"surgeon": {
+			"name": "神醫",
+			"desc": "以世界樹復活廿五花。"
+		},
+		"angel": {
+			"name": "天使",
+			"desc": "以世界樹復活二百五十花。"
+		},
+		"god": {
+			"name": "全能者",
+			"desc": "遇一主事者。"
+		},
+		"killer": {
+			"name": "獵殺者",
+			"desc": "以腐化之力殺廿五玩家。"
+		},
+		"genocide": {
+			"name": "屠戮者",
+			"desc": "戮二百五十怪物。"
+		},
+		"massacre": {
+			"name": "滅絕者",
+			"desc": "戮二千五百怪物。"
+		},
+		"holocaust": {
+			"name": "浩劫者",
+			"desc": "戮萬數怪物。"
+		},
+		"solo": {
+			"name": "獨行者",
+			"desc": "獨力誅超凡之上怪物，傷其逾七成五。"
+		},
+		"money": {
+			"name": "千金散盡",
+			"desc": "自市肆購星辰。"
+		},
+		"makeup": {
+			"name": "飾容之師",
+			"desc": "購鋪中一膚"
+		},
+		"chat": {
+			"name": "緘默寡言",
+			"desc": "發一言於眾"
+		},
+		"china": {
+			"name": "華夏第一！！",
+			"desc": "言'華夏第一'十次"
+		},
+		"nazar": {
+			"name": "魔眼甲蟲",
+			"desc": "摧五至高納札甲蟲"
+		},
+		"baby": {
+			"name": "幼蟻油",
+			"desc": "摧五至高幼蟻"
+		},
+		"jeet": {
+			"name": "至尊捷特",
+			"desc": "獲一超絕布加迪"
+		},
+		"clown": {
+			"name": "優孟",
+			"desc": "化身為優孟"
+		},
+		"covid": {
+			"name": "疫疾六九",
+			"desc": "摧二十至高病毒"
+		},
+		"useless": {
+			"name": "無用之輩",
+			"desc": "損五超絕之怪而未傷之，得其遺物"
+		},
+		"cicada": {
+			"name": "蟬三千三百零一",
+			"desc": "摧十至高蟬"
+		},
+		"slaughter": {
+			"name": "屠戮眾生",
+			"desc": "滅五萬怪"
+		},
+		"annihilation": {
+			"name": "寂滅萬物",
+			"desc": "滅二十五萬怪"
+		},
+		"destruction": {
+			"name": "乾坤終結",
+			"desc": "戮百萬眾"
+		},
+		"racist": {
+			"name": "偏執者",
+			"desc": "戮同類二萬五千"
+		},
+		"murder": {
+			"name": "弒戮",
+			"desc": "以腐化之術戕害玩家"
+		},
+		"homicide": {
+			"name": "屠戮",
+			"desc": "以腐化之術戕五百玩家，甚毒也"
+		},
+		"level50": {
+			"name": "晉階",
+			"desc": "達五十級"
+		},
+		"level100": {
+			"name": "漸入佳境",
+			"desc": "達百級"
+		},
+		"level150": {
+			"name": "幾近化境",
+			"desc": "達百五十級"
+		},
+		"level200": {
+			"name": "臻於化境",
+			"desc": "達二百級"
+		},
+		"level250": {
+			"name": "廢寢忘食",
+			"desc": "達二百五十級"
+		},
+		"level300": {
+			"name": "登峰造極",
+			"desc": "達三百級"
+		},
+		"cursed": {
+			"name": "此物詭異...",
+			"desc": "誅受詛之怪，其稀若二千之一"
+		},
+		"cursed2": {
+			"name": "何人施咒？",
+			"desc": "誅二十五受詛之怪"
+		},
+		"shiny": {
+			"name": "爍爍其華！",
+			"desc": "誅爍光之怪，其稀若萬之一"
+		},
+		"shiny2": {
+			"name": "目眩星辰...",
+			"desc": "誅爍光之獸二十五。"
+		},
+		"corrupt": {
+			"name": "碼崩",
+			"desc": "誅一腐化之獸。彼乃五萬中存一。"
+		},
+		"corrupt2": {
+			"name": "謬誤四百二十",
+			"desc": "誅腐化之獸二十五。"
+		}
+	},
+	"skins": {
+		"derp": {
+			"name": "痴相",
+			"desc": "雙目間無纖毫思緒"
+		},
+		"cursed": {
+			"name": "受詛",
+			"desc": "為高階之力所蝕"
+		},
+		"square": {
+			"name": "方體",
+			"desc": "此乃何等異形"
+		},
+		"lifeless": {
+			"name": "無生",
+			"desc": "...面龐何往"
+		},
+		"sun": {
+			"name": "旭日",
+			"desc": "曦和將至"
+		},
+		"radioactive": {
+			"name": "放射性",
+			"desc": "好食鈾礦"
+		},
+		"blended": {
+			"name": "混融",
+			"desc": "於梯木受面部易容術"
+		},
+		"cactus": {
+			"name": "仙人掌",
+			"desc": "實非花也"
+		},
+		"ghost": {
+			"name": "幽魂",
+			"desc": "不甚可怖"
+		},
+		"cyclops": {
+			"name": "獨目巨人",
+			"desc": "其餘之目安在"
+		},
+		"angled": {
+			"name": "傾側",
+			"desc": "其首傾斜，若可為者"
+		},
+		"small_face": {
+			"name": "小顏",
+			"desc": "其顏小耶，抑其身巨耶"
+		},
+		"frozen": {
+			"name": "冰封",
+			"desc": "釋之，釋之"
+		},
+		"omega_flowey": {
+			"name": "究極花妖",
+			"desc": "桃色之膚"
+		},
+		"star2": {
+			"name": "星辰二",
+			"desc": "君以七千五百星辰購一星辰，值矣"
+		},
+		"red_star": {
+			"name": "赤星",
+			"desc": "紋甚奇"
+		},
+		"clover": {
+			"name": "苜蓿",
+			"desc": "幸哉"
+		},
+		"rocker": {
+			"name": "磐石者",
+			"desc": "此膚甚磐"
+		},
+		"dark_mode": {
+			"name": "玄暗",
+			"desc": "何人熄燈"
+		},
+		"megamind": {
+			"name": "巨智",
+			"desc": "其思也"
+		},
+		"pentagon": {
+			"name": "五芒",
+			"desc": "愈非常之形"
+		},
+		"mouse": {
+			"name": "鼠",
+			"desc": "其何用瓣為"
+		},
+		"one_eye": {
+			"name": "獨目",
+			"desc": "魔眼之劣品"
+		},
+		"complex": {
+			"name": "繁複",
+			"desc": "芒刺森然，非自然之物"
+		},
+		"emotional": {
+			"name": "情識",
+			"desc": "大喜大悲，情識難抑"
+		},
+		"herobrine": {
+			"name": "魔王",
+			"desc": "本欲除之而未絕"
+		},
+		"womp": {
+			"name": "鬱卒",
+			"desc": "心緒翻湧難平"
+		},
+		"microsoft_paint_flower": {
+			"name": "稚子繪花",
+			"desc": "此作莫非五歲稚童所為？"
+		},
+		"50_shades_of_flower": {
+			"name": "五十色花",
+			"desc": "可據此敷演傳奇"
+		},
+		"negative": {
+			"name": "逆色",
+			"desc": "異界之花"
+		},
+		"smirk": {
+			"name": "哂笑",
+			"desc": "詭譎之花也"
+		},
+		"boba": {
+			"name": "波霸",
+			"desc": "瀕死不炸裂"
+		},
+		"sawblade": {
+			"name": "鋸刃",
+			"desc": "痛哉！鋒芒逼人"
+		},
+		"yellow": {
+			"name": "玄黃",
+			"desc": "其色極黃"
+		},
+		"rock": {
+			"name": "磐石",
+			"desc": "海中之小石"
+		},
+		"boo": {
+			"name": "幽魂",
+			"desc": "豈不怖乎？"
+		},
+		"sus": {
+			"name": "疑似",
+			"desc": "八爪疑形"
+		},
+		"pacman": {
+			"name": "吞食者",
+			"desc": "勿以律令相逼"
+		},
+		"chicken": {
+			"name": "雞",
+			"desc": "產反重力雞卵"
+		},
+		"black": {
+			"name": "玄色",
+			"desc": "源自阿非利加"
+		},
+		"egg": {
+			"name": "之卵",
+			"desc": "異雞所產，經吾輩烹製"
+		},
+		"retard": {
+			"name": "痴愚",
+			"desc": "戲言耳"
+		},
+		"trader": {
+			"name": "商賈",
+			"desc": "販人族類"
+		},
+		"clover2": {
+			"name": "苜蓿二",
+			"desc": "四縵論壇乎？"
+		},
+		"zatan": {
+			"name": "扎坦",
+			"desc": "赤黑相間之刺狀疑形"
+		},
+		"amogus": {
+			"name": "偽裝者",
+			"desc": "奸細也"
+		},
+		"brain_damage": {
+			"name": "腦創",
+			"desc": "開發者之膚耶？怪哉！"
+		},
+		"cactuser": {
+			"name": "仙人掌者",
+			"desc": "荒漠之植。"
+		},
+		"sad": {
+			"name": "悲慼",
+			"desc": "慼慼然也。"
+		},
+		"cake": {
+			"name": "糕餅",
+			"desc": "誕辰安樂！"
+		},
+		"green": {
+			"name": "青碧",
+			"desc": "耶巴之彩卵乎？"
+		},
+		"magma": {
+			"name": "熾漿",
+			"desc": "取自活火山。"
+		},
+		"derper": {
+			"name": "痴者貳",
+			"desc": "匠者皮相貳？？？此何物耶？？？"
+		},
+		"target_dummy": {
+			"name": "靶偶",
+			"desc": "無情若斯。"
+		},
+		"mark": {
+			"name": "烙印",
+			"desc": "續章冥府相逢。"
+		},
+		"frog": {
+			"name": "蛙",
+			"desc": "佩佩蛙。"
+		},
+		"goo": {
+			"name": "濁漿",
+			"desc": "白濁漿甚異。"
+		},
+		"rectus": {
+			"name": "赤掌",
+			"desc": "赤色＋仙人掌＝赤掌"
+		},
+		"oval": {
+			"name": "卵形",
+			"desc": "非卵形也"
+		},
+		"cute": {
+			"name": "嬌婉",
+			"desc": "嬌婉可人。"
+		},
+		"omegasus": {
+			"name": "究極天馬",
+			"desc": "青騎疑似不軌。"
+		},
+		"star": {
+			"name": "星辰",
+			"desc": "夜穹之星曜。"
+		},
+		"rockstar": {
+			"name": "磐石星",
+			"desc": "形肖花瓣。"
+		},
+		"ufo": {
+			"name": "不明飛行物",
+			"desc": "內有異星生靈。"
+		},
+		"red_spikes": {
+			"name": "赤刺",
+			"desc": "其鋒傷人。"
+		},
+		"sponge": {
+			"name": "海綿",
+			"desc": "可滌器皿。"
+		},
+		"hexagon": {
+			"name": "六合形",
+			"desc": "尋常多邊耳。"
+		},
+		"mech": {
+			"name": "機巧",
+			"desc": "機械之花。"
+		},
+		"lightning": {
+			"name": "雷霆",
+			"desc": "霹靂貫空！"
+		},
+		"inverted": {
+			"name": "逆反",
+			"desc": "顛倒至極。"
+		},
+		"poo": {
+			"name": "穢",
+			"desc": "穢質膚表。"
+		},
+		"sea_urchin": {
+			"name": "海膽",
+			"desc": "吾忘矣 :骷髏:"
+		},
+		"long": {
+			"name": "長",
+			"desc": "水力壓機之副作用。"
+		},
+		"blue": {
+			"name": "靛",
+			"desc": "痴頑如斯"
+		},
+		"right-angle": {
+			"name": "直角",
+			"desc": "汝身旋轉九十度矣。"
+		},
+		"facist": {
+			"name": "幻白",
+			"desc": "玄素分明"
+		},
+		"faster": {
+			"name": "疾",
+			"desc": "詭譎之相"
+		},
+		"amobae": {
+			"name": "阿米巴",
+			"desc": "微蟲"
+		},
+		"melon": {
+			"name": "瓜",
+			"desc": "椰瓜"
+		},
+		"ant_hole": {
+			"name": "蟻穴",
+			"desc": "蟻之巢穴"
+		},
+		"eye": {
+			"name": "魔眼",
+			"desc": "芙羅倫之全視瞳"
+		},
+		"roach": {
+			"name": "螔",
+			"desc": "蜚蠊"
+		},
+		"lava": {
+			"name": "熔岩",
+			"desc": "九千九百九十九度之瞬"
+		},
+		"rose": {
+			"name": "玫瑰",
+			"desc": "芳菲細蕊"
+		},
+		"stupid": {
+			"name": "愚",
+			"desc": "其貌甚愚"
+		},
+		"barbie": {
+			"name": "芭比",
+			"desc": "嬌娥之物"
+		},
+		"virus": {
+			"name": "病毒",
+			"desc": "極具傳染性"
+		},
+		"slanted": {
+			"name": "斜睨",
+			"desc": "：/"
+		},
+		"wloop": {
+			"name": "渦旋",
+			"desc": "此物本相難測..."
+		},
+		"ara_ara": {
+			"name": "嘖嘖",
+			"desc": "嬌小玲瓏之花"
+		},
+		"sirius": {
+			"name": "天狼",
+			"desc": "蒼穹至明之星"
+		},
+		"acid": {
+			"name": "酸液",
+			"desc": "無灼傷之虞..."
+		},
+		"dark": {
+			"name": "玄冥",
+			"desc": "至暗之物"
+		},
+		"nazar": {
+			"name": "魔眼",
+			"desc": "🧿🧿🧿🧿🧿"
+		},
+		"omega": {
+			"name": "究極",
+			"desc": "終末之稀有"
+		},
+		"goof": {
+			"name": "憨態",
+			"desc": "狀甚滑稽..."
+		},
+		"flower": {
+			"name": "花",
+			"desc": "以花飾花"
+		},
+		"banana": {
+			"name": "蕉",
+			"desc": "修果"
+		},
+		"potato": {
+			"name": "薯",
+			"desc": "多纖"
+		},
+		"urchin": {
+			"name": "海膽",
+			"desc": "取自滄海"
+		},
+		"fq69": {
+			"name": "fq69",
+			"desc": "硃色"
+		},
+		"gren": {
+			"name": "格倫",
+			"desc": "撫草"
+		},
+		"zurchin": {
+			"name": "澤膽",
+			"desc": "美於海膽"
+		},
+		"bacteria": {
+			"name": "菌蟲",
+			"desc": "竊自微觀世界"
+		},
+		"florr": {
+			"name": "芙蘿",
+			"desc": "真芙蘿"
+		},
+		"alien": {
+			"name": "異域",
+			"desc": "天外之物"
+		},
+		"avacado": {
+			"name": "鱷梨",
+			"desc": "一果"
+		},
+		"clown": {
+			"name": "伶人",
+			"desc": "奪命伶人"
+		},
+		"baby_ant": {
+			"name": "幼蟻",
+			"desc": "迪迪之幼蟻"
+		},
+		"reddit": {
+			"name": "紅迪",
+			"desc": "佳紅迪徽標之時"
+		},
+		"wtf": {
+			"name": "WTF",
+			"desc": "吾不知此為何物"
+		},
+		"zatrix": {
+			"name": "Zatrix",
+			"desc": "矩陣之花"
+		},
+		"inception": {
+			"name": "Inception",
+			"desc": "目之幻境"
+		},
+		"yin_yang": {
+			"name": "陰陽",
+			"desc": "六九"
+		},
+		"angey": {
+			"name": "Angey",
+			"desc": "怒鳥"
+		},
+		"blocked": {
+			"name": "Blocked",
+			"desc": "禁入！"
+		},
+		"stewie": {
+			"name": "Stewie",
+			"desc": "肅面"
+		},
+		"face": {
+			"name": "Face",
+			"desc": "人首"
+		},
+		"peanut": {
+			"name": "Peanut",
+			"desc": "雙球唯汝而渲"
+		},
+		"balls": {
+			"name": "Balls",
+			"desc": "OwO"
+		},
+		"tear": {
+			"name": "Tear",
+			"desc": "目泣血"
+		},
+		"bigtus": {
+			"name": "Bigtus",
+			"desc": "巨碩仙人掌也"
+		},
+		"stick": {
+			"name": "枯枝",
+			"desc": "其斷而墜於木。"
+		},
+		"worm": {
+			"name": "蠕蟲",
+			"desc": "長蟲也"
+		},
+		"relic": {
+			"name": "遺物",
+			"desc": "珠玉商之禁品"
+		},
+		"tredor": {
+			"name": "特雷多",
+			"desc": "愚鈍商賈"
+		},
+		"onion": {
+			"name": "洋蔥",
+			"desc": "以Tor幣購之 :p"
+		},
+		"titan": {
+			"name": "泰坦",
+			"desc": "澤倫·澤格"
+		},
+		"a-60": {
+			"name": "A-60",
+			"desc": "負彈者"
+		},
+		"dwajl": {
+			"name": "德瓦吉爾",
+			"desc": "德瓦吉爾所制"
+		},
+		"glitch": {
+			"name": "亂碼",
+			"desc": "賽博朋克之花"
+		},
+		"bird": {
+			"name": "鳥雀",
+			"desc": "泰德好鳥"
+		},
+		"moon": {
+			"name": "明月",
+			"desc": "夏至逢望月時..."
+		},
+		"umbrella": {
+			"name": "傘",
+			"desc": "紅後所制"
+		},
+		"heavy": {
+			"name": "沉重",
+			"desc": "比你媽媽還重"
+		},
+		"yoba": {
+			"name": "尤巴",
+			"desc": "俄國人時間"
+		},
+		"pinkman": {
+			"name": "粉人",
+			"desc": "*痴痴地笑*"
+		},
+		"floren": {
+			"name": "弗洛倫",
+			"desc": "圖案不錯"
+		},
+		"moss": {
+			"name": "苔蘚",
+			"desc": "很胖"
+		},
+		"fern": {
+			"name": "Fern",
+			"desc": "Bushy"
+		},
+		"algae": {
+			"name": "Algae",
+			"desc": "Al Gae"
+		},
+		"sprunki": {
+			"name": "Sprunki",
+			"desc": "It looks like concrete"
+		},
+		"liu_wenzhi": {
+			"name": "Liu Wenzhi",
+			"desc": "It is dismembered"
+		},
+		"floofy": {
+			"name": "Floofy",
+			"desc": "Hold it gently, very weak."
+		},
+		"germ": {
+			"name": "Germ",
+			"desc": "A germ cell"
+		},
+		"bush": {
+			"name": "Bush",
+			"desc": "George Bush"
+		},
+		"error": {
+			"name": "Error",
+			"desc": "Windows crashed..."
+		},
+		"helios": {
+			"name": "Helios",
+			"desc": "Sun God."
+		},
+		"blades": {
+			"name": "刃",
+			"desc": "刃之極長者也..."
+		},
+		"godrays": {
+			"name": "全能者之光",
+			"desc": "大日之芒。"
+		},
+		"beam": {
+			"name": "光柱",
+			"desc": "全能者之光，甚善戲謔也。"
+		},
+		"griffin": {
+			"name": "獅鷲",
+			"desc": "較汝所思尤為巨碩，且堪戲謔..."
+		}
+	},
+	"objectKeys": {
+		"health": "氣血",
+		"damage": "創",
+		"boost": "疾",
+		"swing": "揮",
+		"heal": "愈",
+		"passiveHeal": "徐徐愈",
+		"passiveHealBelow50": "徐徐愈",
+		"passivePetHeal": "徐徐愈寵",
+		"passivePetShield": "Passive Pet Shield",
+		"extraPetRange": "Extra Pet Range",
+		"shield": "御",
+		"passiveShield": "徐徐御",
+		"poison": "附骨毒",
+		"orbitSpeed": "軌跡之速",
+		"lightningDamage": "雷霆之創",
+		"lightningFireDamage": "雷霆業火之創",
+		"lightningPoison": "雷霆附骨毒",
+		"lightningBounces": "雷霆躍",
+		"webSize": "蛛絲之巨",
+		"explosion": "爆裂",
+		"explosionSize": "爆裂之巨",
+		"explosionPoison": "爆裂附骨毒",
+		"explosionFire": "爆裂業火",
+		"pickRange": "採擷之距",
+		"damageReflection": "創之反噬",
+		"extraVision": "增目力",
+		"extraRange": "增距",
+		"despawnTime": "消逝之時",
+		"pet": "寵物",
+		"petSize": "寵物之巨",
+		"passiveBoost": "被動之疾",
+		"push": "驅",
+		"armor": "甲冑",
+		"extraFlowerHealth": "增花之氣血",
+		"flowerPoison": "花附骨毒",
+		"slownessTime": "緩行之期",
+		"soakDamageTime": "承創之期",
+		"honeyRange": "蜜之距",
+		"honeyTileDamage": "蜜磚之創",
+		"honeyTilePoison": "蜜磚附骨毒",
+		"honeyTileFire": "蜜磚業火",
+		"honeySizeReduction": "Honey Size Reduction",
+		"sendToBiome": "遣入境",
+		"flowerReloadFactor": "花過載之數",
+		"armorDebuff": "甲冑之弱",
+		"flowerSpeed": "花之速",
+		"fireDamage": "業火創",
+		"firePoison": "業火附骨毒",
+		"fireTime": "業火時",
+		"flowerAcceleration": "花之速",
+		"agroRangeReduction": "兇性距縮減",
+		"agroRangeIncrease": "兇性距增益",
+		"extraFlowerKnock": "額外花朵擊退",
+		"damageHealed": "創之愈",
+		"selfDamage": "自創",
+		"selfFireDamage": "自受業火創",
+		"selfPoison": "Self Poison",
+		"flowerBodyLightning": "花體雷霆",
+		"freezeTime": "凝滯時",
+		"explosionFreezeTime": "爆裂凝滯時",
+		"explosionKnockback": "爆裂退距",
+		"luck": "氣運",
+		"frost": "寒霜",
+		"defrost": "融霜",
+		"tempFlowerSpeed": "瞬花之速",
+		"tempFlowerSpeedFactor": "瞬花倍速",
+		"subdivisionRates": "分裂率",
+		"cureCancer": "除癌魔",
+		"petMutation": "寵物異變",
+		"passivePetalHeal": "被動瓣愈",
+		"passivePetalShield": "Passive Petal Shield",
+		"healBuff": "愈之增益",
+		"shieldBuff": "御之增益",
+		"poisonReduction": "附骨毒消減",
+		"fireReduction": "業火消減",
+		"cancer": "癌魔",
+		"orbit": "軌跡",
+		"boostUpwards": "向上疾行",
+		"pullReduction": "引力消減",
+		"mobXpFactor": "妖獸閱歷增益",
+		"fullHealRate": "全愈之率",
+		"fullManaRegenRate": "Full Mana Regen Rate",
+		"extraPetalSize": "花瓣巨化",
+		"flowerArmor": "花之甲冑",
+		"petalCritical": "花瓣致命",
+		"petalReloadSkipRate": "花瓣過載跳過之率",
+		"blockDamage": "格擋之創",
+		"petBlockDamage": "寵物格擋傷害",
+		"spreadDamage": "擴散之創",
+		"radiationRange": "輻射之距",
+		"radiationPoison": "輻射附骨毒",
+		"radiationFire": "輻射業火",
+		"radiationHeal": "輻射愈傷",
+		"radiationLightningDamage": "輻射雷霆之創",
+		"radiationLightningBounces": "輻射雷霆躍",
+		"orbitTwirl": "軌跡旋舞",
+		"growth": "生長",
+		"growthTime": "生長之時",
+		"petFullRegenRate": "寵物全愈之率",
+		"spillRate": "溢散之率",
+		"extraPetSpeed": "增益寵物之速",
+		"petSpeedReduction": "寵物減速之效",
+		"fireSpeedFactor": "業火速之因子",
+		"extraLightningBounces": "增益雷霆之躍",
+		"extraRadiationRange": "增益輻射之距",
+		"extraFireDuration": "增益業火之時",
+		"extraPoisonDuration": "增益附骨毒之時",
+		"subExplosions": "次級爆裂",
+		"lightningMultiHitRate": "雷霆連擊之率",
+		"orbitRangeFactor": "軌跡距之因子",
+		"flowerEvasion": "花之閃避",
+		"fragmentDamage": "碎片之創",
+		"fragmentHealth": "碎片氣血",
+		"extraSpillRate": "額外溢位機率",
+		"armorDebuffPercent": "護甲削弱百分比",
+		"flowerExplosion": "花朵爆炸",
+		"flowerExplosionSize": "花朵爆炸範圍",
+		"extraFlowerMass": "額外花朵質量",
+		"extraFlowerSize": "額外花朵大小",
+		"flowerSizeReduction": "花朵尺寸減小",
+		"lightningReduction": "減少閃電",
+		"mobAgroRangeReduction": "Mob Agro Range Reduction",
+		"detox": "Detox",
+		"extraExplosionSize": "Extra Explosion Size",
+		"petDupeRate": "Pet Dupe Rate",
+		"mana": "靈力",
+		"passiveMana": "被動靈力",
+		"passiveManaOnGround": "被動靈力",
+		"extraFlowerMana": "增益花之靈力",
+		"damageMana": "創之靈力",
+		"manaBuff": "靈力增益",
+		"passiveManaBelow50": "被動靈力",
+		"soakManaTime": "承靈力之時",
+		"maxManaSoakCapacity": "承靈力之極",
+		"damageAbosrbedPerMana": "受創之效",
+		"manaCostFactor": "Mana Cost Factor",
+		"robMana": "奪靈力",
+		"spreadMana": "散之靈力",
+		"petVariantMutation": "寵物異變",
+		"visionOffset": "Vision Offset",
+		"petalOrbitDistance": "Petal Orbit Distance",
+		"flowerBodyDamage": "Flower Body Damage",
+		"damageReduction": "Damage Reduction",
+		"extraPetalDamagePercent": "Extra Petal Damage Percent",
+		"extraPetDamagePercent": "Extra Pet Damage Percent",
+		"fission": "Fission",
+		"splitOrbitDistance": "Split Orbit Distance",
+		"gap": "空隙",
+		"petDefrost": "Pet Defrost",
+		"bodyLightning": "體附雷霆",
+		"bodyLightningFire": "身體閃電火焰",
+		"bodyLightningPoison": "體傷閃電毒傷",
+		"healAffectTime": "愈之效時",
+		"missileHealth": "矢之氣血",
+		"missileDamage": "矢之創",
+		"missilePoison": "矢附骨毒",
+		"missileHealAffectTime": "矢愈之效時",
+		"missileArmorDebuff": "矢甲冑弱",
+		"missileExplosion": "導彈爆炸",
+		"bodyFireDamage": "體業火創",
+		"evasion": "避",
+		"sprayHealth": "噴之氣血",
+		"sprayDamage": "噴之創",
+		"sprayFireDamage": "噴業火創",
+		"telepathicDamage": "心念之創",
+		"telepathicPoison": "心念附骨毒",
+		"telepathicLightningDamage": "心念雷霆之創",
+		"healNearby": "範圍治療",
+		"damageGrowth": "傷害增長",
+		"infectionTime": "Infection Time",
+		"#controls": "#controls",
+		"keyboardControls": "鍵之御",
+		"movementHelper": "移之助",
+		"invertAttackButton": "反攻之鈕",
+		"invertDefendButton": "反御之鈕",
+		"#chat": "#chat",
+		"showChat": "顯言",
+		"showUserChats": "顯眾之言",
+		"showDropLogs": "顯掉落錄",
+		"showBlocked": "顯攔截錄",
+		"#game": "#game",
+		"showHitbox": "顯擊框",
+		"showGrid": "顯格",
+		"showDps": "顯創秒",
+		"potatoHardware": "薯硬體",
+		"badwordFilter": "惡言濾",
+		"showMobLeaderboard": "顯妖獸榜",
+		"autoJoinSquads": "自入同伍",
+		"showDebugInfo": "顯除錯訊",
+		"showIndicators": "顯指示物",
+		"fastCraft": "Fast Craft",
+		"#visuals": "#visuals",
+		"showRarities": "顯珍稀",
+		"showCraftBubble": "顯制泡",
+		"showOtherPetals": "顯他瓣",
+		"showParticles": "顯微塵",
+		"showDamage": "顯創",
+		"showDamageFlash": "顯創閃",
+		"showHealthBar": "顯氣血條",
+		"showPetHealthBar": "顯寵氣血條",
+		"showHealth": "顯氣血",
+		"showExplosion": "顯爆裂",
+		"showLightning": "顯雷霆",
+		"showRadiation": "顯輻射",
+		"abbreviateDps": "創秒之縮寫",
+		"fixedHudSize": "固定巨之HUD",
+		"screenShake": "屏震",
+		"antiAliasing": "抗混疊",
+		"showText": "顯文",
+		"effect3d": "三界效",
+		"showIcons": "顯符",
+		"#indicators": "#indicators",
+		"indicatorPoison": "附骨毒",
+		"indicatorFire": "業火",
+		"indicatorSlowness": "緩行",
+		"indicatorDandelion": "蒲公英",
+		"indicatorSponge": "海綿",
+		"indicatorCancer": "癌魔",
+		"indicatorCoffee": "咖啡",
+		"indicatorChilly": "寒椒",
+		"indicatorFrost": "寒霜",
+		"indicatorMagicSponge": "術法海綿",
+		"indicatorInfection": "Infection",
+		"indicatorDropBuff": "掉落之增",
+		"xp": "閱歷",
+		"timeJoined": "入時",
+		"stars": "星辰",
+		"timePlayed": "遊嬉之時",
+		"gamesPlayed": "戲之數",
+		"mobsKilled": "妖獸之戮",
+		"playersKilled": "玩家所戮",
+		"petalsPicked": "瓣之採擷",
+		"petalsCrafted": "瓣之冶制",
+		"petalsBurned": "瓣之熾燃",
+		"challengesCompleted": "試煉既成",
+		"chatSent": "言既發",
+		"maxScore": "極數",
+		"maxTimeAlive": "極壽",
+		"maxMobsKilled": "妖獸之極戮",
+		"maxPetalsPicked": "瓣之極採",
+		"dailyPlaytime": "日嬉之辰",
+		"maxDailyPlaytime": "日嬉之極",
+		"maxStreak": "連擊之極",
+		"zoom": "Zoom",
+		"spinChangeSpeed": "Spin Change Speed",
+		"res": "Resolution",
+		"iconRes": "Icon Resolution",
+		"uiScale": "UI Scale",
+		"minKillLogRarity": "Min Kill Log Rarity",
+		"minCraftLogRarity": "Min Craft Log Rarity",
+		"mobHudCount": "Mob Hud Count",
+		"maxMagicPets": "Max Magic Pets",
+		"font": "Font",
+		"language": "Language"
+	},
+	"commands": {
+		"kill": {
+			"desc": "擊殺一名玩家。"
+		},
+		"afk": {
+			"desc": "為使用者提供掛機檢查。"
+		},
+		"mana": {
+			"desc": "設靈力之自然生髮"
+		},
+		"user_petal_drops": {
+			"desc": "示一日落瓣之總數"
+		},
+		"user_petal_dps": {
+			"desc": "示一日落瓣之總數"
+		},
+		"whisper": {
+			"desc": "為玩家傳密言"
+		},
+		"tp_random": {
+			"desc": "忽傳於隨機玩家處"
+		},
+		"user_pass": {
+			"desc": "得使用者之文符"
+		},
+		"squad_code": {
+			"desc": "顯而襲汝同伍之今符"
+		},
+		"petal_reload": {
+			"desc": "設瓣過載之因"
+		},
+		"petal_damage": {
+			"desc": "設瓣創之因"
+		},
+		"guild_transfer_owner": {
+			"desc": "易盟主之位"
+		},
+		"guild_name": {
+			"desc": "定汝盟之名"
+		},
+		"guild": {
+			"desc": "惟傳盟眾之言於諸伺服器"
+		},
+		"squad": {
+			"desc": "僅發訊息於同伍。"
+		},
+		"new_squad": {
+			"desc": "創立新伍。"
+		},
+		"leave_squad": {
+			"desc": "離汝之伍。"
+		},
+		"join_squad": {
+			"desc": "憑碼入伍。"
+		},
+		"find_public_squad": {
+			"desc": "尋開放之伍。"
+		},
+		"set_squad_public": {
+			"desc": "使汝伍為公開。"
+		},
+		"set_squad_private": {
+			"desc": "使汝伍為私密。"
+		},
+		"client_speed": {
+			"desc": "定其時之速。"
+		},
+		"yay": {
+			"desc": "欣樂遊戲之彩蛋時。"
+		},
+		"cicada": {
+			"desc": "蟬符之效時。"
+		},
+		"server_times": {
+			"desc": "顯眾者於斯服所耗之時。"
+		},
+		"claim": {
+			"desc": "領日連之賞及星墜之益。"
+		},
+		"report": {
+			"desc": "舉使用者之惡言。"
+		},
+		"block": {
+			"desc": "停用戶之語。"
+		},
+		"unblock": {
+			"desc": "解使用者之禁。"
+		},
+		"unblock_all": {
+			"desc": "解眾禁之語。"
+		},
+		"gen_egg": {
+			"desc": "生卵之再填。petCount乃卵生妖獸之數。power為賜寵獸之力。力甚大，則卵之填甚久，反之亦然。minUseTime乃孵化之時限，以增所生寵之稀。若孵化時短於此限，則寵之稀增。簡言之，若限甚大，則卵甚易生稀寵。"
+		},
+		"spin_speed": {
+			"desc": "定花旋之速。"
+		},
+		"mob_gif": {
+			"desc": "為妖獸製圖。"
+		},
+		"petal_power": {
+			"desc": "顯瓣力之自算。或未確。"
+		},
+		"global_user_list": {
+			"desc": "顯舉世線上之眾。"
+		},
+		"user_petal_purchases": {
+			"desc": "觀使用者購瓣之總數。"
+		},
+		"petal_usage": {
+			"desc": "顯瓣之用。"
+		},
+		"edit_petals": {
+			"desc": "可改瓣之屬。"
+		},
+		"lang": {
+			"desc": "可設遊戲之言語檔。未全備。"
+		},
+		"give_all": {
+			"desc": "賜予某稀有等級之諸瓣。"
+		},
+		"run_on_join": {
+			"desc": "以管理者身份入時，執行諸命。以逗點分隔之。"
+		},
+		"stars": {
+			"desc": "賜汝星辰。"
+		},
+		"skin": {
+			"desc": "賜汝膚。"
+		},
+		"portal": {
+			"desc": "造傳送門。"
+		},
+		"del_portal": {
+			"desc": "造傳送門。"
+		},
+		"mute": {
+			"desc": "停用戶言。"
+		},
+		"unmute": {
+			"desc": "解使用者言禁。"
+		},
+		"ban": {
+			"desc": "逐使用者。"
+		},
+		"unban": {
+			"desc": "許使用者返。"
+		},
+		"kick": {
+			"desc": "踢使用者。"
+		},
+		"user_petals": {
+			"desc": "示眾生瓣圖鑑。"
+		},
+		"user_mobs": {
+			"desc": "示眾生妖獸圖鑑。"
+		},
+		"user_equipped_petals": {
+			"desc": "示眾生佩瓣圖鑑。"
+		},
+		"user_mob_deaths": {
+			"desc": "示眾生為妖獸所戮之數。"
+		},
+		"diff_rates": {
+			"desc": "示難易稀有之率。"
+		},
+		"restart": {
+			"desc": "重啟伺服。"
+		},
+		"wipe": {
+			"desc": "拭汝藏。"
+		},
+		"profile": {
+			"desc": "索某人簡牘。"
+		},
+		"tickrate": {
+			"desc": "設伺服更新之率。本為每瞬廿次。"
+		},
+		"lerp": {
+			"desc": "設插值之延。本為百毫瞬。"
+		},
+		"drop": {
+			"desc": "掉落一瓣。"
+		},
+		"petal_icon": {
+			"desc": "繪瓣之徽。"
+		},
+		"mob_icon": {
+			"desc": "繪妖獸之徽。"
+		},
+		"petal_size": {
+			"desc": "設汝瓣之巨。本為一。"
+		},
+		"orbit": {
+			"desc": "改變爾之花瓣軌道之軌跡。執行“/orbit reset”可復原為圓軌。形態引數非必需，然可如“/orbit 3 5 18 18”般傳遞之。"
+		},
+		"reset": {
+			"desc": "滅盡所有妖物及飛矢。"
+		},
+		"wall_thickness": {
+			"desc": "定牆壁邊緣之厚薄。預設乃十二。"
+		},
+		"tp_all": {
+			"desc": "將眾人傳送至座標（x, y）之格位。"
+		},
+		"tp_to": {
+			"desc": "將爾傳送至某客處。"
+		},
+		"tp": {
+			"desc": "將爾傳送至座標（x, y）之格位。"
+		},
+		"die": {
+			"desc": "誅戮爾身。"
+		},
+		"sprite": {
+			"desc": "顯示花瓣之圖鑑。"
+		},
+		"spawn_diff": {
+			"desc": "據難易度現物。"
+		},
+		"spawn": {
+			"desc": "現妖物。妖物之名以下劃線代空格。"
+		},
+		"game_speed": {
+			"desc": "增減戲之速。"
+		},
+		"droprates": {
+			"desc": "展花瓣稀有度掉落率表。近零者愈稀，反之亦然。宜在零與壹之間。"
+		},
+		"sim_craft": {
+			"desc": "模擬製器。"
+		},
+		"give": {
+			"desc": "贈花瓣入爾囊中。花瓣之名以下劃線代空格。"
+		},
+		"ygg": {
+			"desc": "若爾已亡，則復生之。"
+		},
+		"immune": {
+			"desc": "使爾之花免受諸傷。"
+		},
+		"speed": {
+			"desc": "定玩家移步之疾緩"
+		},
+		"ghost": {
+			"desc": "禁爾之花碰撞。復施此令可還啟之。"
+		},
+		"toggle_game": {
+			"desc": "啟閉戲之更新迴圈。"
+		},
+		"fov": {
+			"desc": "設爾視野之廣狹。"
+		},
+		"april_fools": {
+			"desc": "愚人節戲謔之刻也，嗚呼哉（uwu）。"
+		}
+	},
+	"starProducts": {
+		"stars_1": {
+			"desc": "初啟之星辰包"
+		},
+		"stars_2": {
+			"desc": "略大之星辰包"
+		},
+		"stars_3": {
+			"desc": "碩大之星辰包"
+		},
+		"stars_4": {
+			"desc": "巨量星辰包"
+		},
+		"stars_5": {
+			"desc": "星辰之囊_大者"
+		},
+		"stars_6": {
+			"desc": "星辰之囊_甚大"
+		},
+		"stars_7": {
+			"desc": "星辰之囊_巨"
+		},
+		"stars_8": {
+			"desc": "星辰之囊_詭巨"
+		},
+		"stars_9": {
+			"desc": "星辰之囊_詭愈巨"
+		},
+		"stars_10": {
+			"desc": "星辰之囊_詭巨且碩"
+		},
+		"stars_11": {
+			"desc": "星辰之囊_詭巨且碩"
+		},
+		"stars_12": {
+			"desc": "獸公子嗣？"
+		}
+	},
+	"memberships": {
+		"bronze": {
+			"name": "Bronze",
+			"desc": "Better than the average."
+		},
+		"silver": {
+			"name": "Silver",
+			"desc": "For the top 1%."
+		},
+		"gold": {
+			"name": "Gold",
+			"desc": "Omnipotents only!"
+		}
+	},
+	"featured": {
+		"rookie": {
+			"name": "The Humble Beginnings"
+		},
+		"speed": {
+			"name": "Need For Speed"
+		},
+		"eggs": {
+			"name": "Top Eggs"
+		},
+		"support_eggs": {
+			"name": "Support Eggs"
+		},
+		"starter_eggs": {
+			"name": "Starter Eggs"
+		},
+		"magic": {
+			"name": "Witchcraft"
+		},
+		"electric": {
+			"name": "Electric Starterpack"
+		},
+		"poison": {
+			"name": "Toxic Playstyle"
+		},
+		"fire": {
+			"name": "Burning For Progression"
+		},
+		"high_dps": {
+			"name": "High DPS"
+		},
+		"top_player": {
+			"name": "Top Player Pack"
+		}
+	}
+}
