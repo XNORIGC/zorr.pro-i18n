@@ -1854,7 +1854,7 @@
 		},
 		"fan": {
 			"name": "扇",
-			"desc": "減汝焚速。"
+			"desc": "Reduces incoming burns on you. Stacks in harmonic series."
 		},
 		"graphite": {
 			"name": "石墨",
@@ -1958,7 +1958,7 @@
 		},
 		"talisman": {
 			"name": "辟邪符",
-			"desc": "令汝花避傷。"
+			"desc": "Makes your flower evade damage. Stacks in harmonic series & is capped at 75% evasion."
 		},
 		"job_application": {
 			"name": "職牒",
@@ -3208,6 +3208,10 @@
 			"name": "洋蔥",
 			"desc": "以Tor幣購之 :p"
 		},
+		"big_brain": {
+			"name": "Big Brain",
+			"desc": "3 dimensional big brain"
+		},
 		"titan": {
 			"name": "泰坦",
 			"desc": "澤倫·澤格"
@@ -3385,6 +3389,7 @@
 		"shieldBuff": "御之增益",
 		"poisonReduction": "附骨毒消減",
 		"fireReduction": "業火消減",
+		"fireReductionPercent": "Fire Reduction Percent",
 		"cancer": "癌魔",
 		"orbit": "軌跡",
 		"boostUpwards": "向上疾行",
@@ -3412,7 +3417,6 @@
 		"spillRate": "溢散之率",
 		"extraPetSpeed": "增益寵物之速",
 		"petSpeedReduction": "寵物減速之效",
-		"fireSpeedFactor": "業火速之因子",
 		"extraLightningBounces": "增益雷霆之躍",
 		"extraRadiationRange": "增益輻射之距",
 		"extraFireDuration": "增益業火之時",
