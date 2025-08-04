@@ -1854,7 +1854,7 @@
 		},
 		"fan": {
 			"name": "Fan",
-			"desc": "Reduces the pace of your burning."
+			"desc": "Reduces incoming burns on you. Stacks in harmonic series."
 		},
 		"graphite": {
 			"name": "Graphite",
@@ -1958,7 +1958,7 @@
 		},
 		"talisman": {
 			"name": "Talisman",
-			"desc": "Makes your flower evade damage."
+			"desc": "Makes your flower evade damage. Stacks in harmonic series & is capped at 75% evasion."
 		},
 		"job_application": {
 			"name": "Job Application",
@@ -3208,6 +3208,10 @@
 			"name": "Onion",
 			"desc": "Purchased using Tor :p"
 		},
+		"big_brain": {
+			"name": "Big Brain",
+			"desc": "3 dimensional big brain"
+		},
 		"titan": {
 			"name": "Titan",
 			"desc": "Zeren Zeager"
@@ -3385,6 +3389,7 @@
 		"shieldBuff": "Shield Buff",
 		"poisonReduction": "Poison Reduction",
 		"fireReduction": "Fire Reduction",
+		"fireReductionPercent": "Fire Reduction Percent",
 		"cancer": "Cancer",
 		"orbit": "Orbit",
 		"boostUpwards": "Boost Upwards",
@@ -3412,7 +3417,6 @@
 		"spillRate": "Spill Rate",
 		"extraPetSpeed": "Extra Pet Speed",
 		"petSpeedReduction": "Pet Speed Reduction",
-		"fireSpeedFactor": "Fire Speed Factor",
 		"extraLightningBounces": "Extra Lightning Bounces",
 		"extraRadiationRange": "Extra Radiation Range",
 		"extraFireDuration": "Extra Fire Duration",
