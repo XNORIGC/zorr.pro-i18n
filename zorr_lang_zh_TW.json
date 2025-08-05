@@ -2146,7 +2146,7 @@
 		},
 		"magic_battery": {
 			"name": "魔法電池",
-			"desc": "它將借用你的魔力並在一段時間後還給你200%。"
+			"desc": "It stores your mana and repays them back to you with 400% interest after some time. In simpler words, it will take X mana to spawn and then give you 5X mana after a while."
 		},
 		"magic_bubble": {
 			"name": "魔法泡泡",
@@ -2491,6 +2491,10 @@
 		"magic_zodiac": {
 			"name": "Magic Zodiac",
 			"desc": "Requires a lot of mana, but deals a lot of damage in return."
+		},
+		"chargesheet": {
+			"name": "Chargesheet",
+			"desc": "Does 100x damage to corrupt individuals of the system."
 		}
 	},
 	"achievements": {
