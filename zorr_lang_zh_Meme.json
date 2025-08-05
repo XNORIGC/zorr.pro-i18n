@@ -1854,7 +1854,7 @@
 		},
 		"fan": {
 			"name": "扇子",
-			"desc": "Reduces incoming burns on you. Stacks in harmonic series."
+			"desc": "降低你将要受到的燃烧效果。以调和级数叠加。"
 		},
 		"graphite": {
 			"name": "墨",
@@ -1958,7 +1958,7 @@
 		},
 		"talisman": {
 			"name": "闪避护符",
-			"desc": "Makes your flower evade damage. Stacks in harmonic series & is capped at 75% evasion."
+			"desc": "使你的花朵能够闪避伤害。以调和级数叠加并且上限为75%闪避。"
 		},
 		"job_application": {
 			"name": "工作申请",
