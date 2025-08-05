@@ -2146,7 +2146,7 @@
 		},
 		"magic_battery": {
 			"name": "魔法电池",
-			"desc": "它将借用你的魔力并在一段时间后还给你200%。"
+			"desc": "它会储存你的法力值，并在一段时间后以400%的利息返还给你。简单来说，它会消耗X点魔力来生成，一段时间后会给你5X点魔力。"
 		},
 		"magic_bubble": {
 			"name": "魔法泡泡",
@@ -2491,6 +2491,10 @@
 		"magic_zodiac": {
 			"name": "魔法星座",
 			"desc": "消耗大量魔力，但造成大量伤害来回馈。"
+		},
+		"chargesheet": {
+			"name": "Chargesheet",
+			"desc": "Does 100x damage to corrupt individuals of the system."
 		}
 	},
 	"achievements": {
