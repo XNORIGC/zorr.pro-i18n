@@ -2493,8 +2493,8 @@
 			"desc": "消耗大量魔力，但造成大量伤害来回馈。"
 		},
 		"chargesheet": {
-			"name": "Chargesheet",
-			"desc": "Does 100x damage to corrupt individuals of the system."
+			"name": "起诉书",
+			"desc": "对系统中的“腐败”个体造成一百倍伤害。"
 		}
 	},
 	"achievements": {
@@ -3213,8 +3213,8 @@
 			"desc": "使用 Tor 购买 :p"
 		},
 		"big_brain": {
-			"name": "Big Brain",
-			"desc": "3 dimensional big brain"
+			"name": "大聪明",
+			"desc": "三维大聪明"
 		},
 		"titan": {
 			"name": "泰坦",
@@ -3393,7 +3393,7 @@
 		"shieldBuff": "护盾增益",
 		"poisonReduction": "毒伤减免",
 		"fireReduction": "火伤减免",
-		"fireReductionPercent": "减少火焰伤害百分比",
+		"fireReductionPercent": "火焰伤害减免",
 		"cancer": "癌变",
 		"orbit": "轨道",
 		"boostUpwards": "向上推进",
