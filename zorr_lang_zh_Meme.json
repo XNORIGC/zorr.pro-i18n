@@ -3460,7 +3460,7 @@
 		"manaBuff": "魔力增益",
 		"passiveManaBelow50": "持续魔力恢复",
 		"soakManaTime": "魔力吸收时间",
-		"maxManaSoakCapacity": "魔力吸收容量上限",
+		"maxManaSoakCapacity": "魔力吸收容量",
 		"damageAbosrbedPerMana": "伤害吸收",
 		"manaCostFactor": "魔力消耗系数",
 		"robMana": "魔力抢夺",
