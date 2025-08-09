@@ -1,0 +1,3930 @@
+{
+	"name": "中文（繁體）",
+	"ui": {
+		"deathInfo": "你死於",
+		"continue": "繼續",
+		"minimize": "最小化",
+		"deathEscape": "（或按Escape鍵）",
+		"nickInfo": "這朵小花叫……",
+		"play": "遊玩",
+		"squad": "小隊",
+		"connecting": "連線中……",
+		"chatInfo": "按[Enter]以聊天",
+		"achievements": "成就",
+		"shop": "商店",
+		"commands": "指令",
+		"users": "使用者",
+		"loadouts": "裝備",
+		"changelog": "變更日誌",
+		"guild": "公會",
+		"credits": "致謝",
+		"settings": "設定",
+		"toggleFullscreen": "切換全屏",
+		"privacy": "隱私政策",
+		"terms": "服務條款",
+		"wiki": "維基",
+		"inventory": "背包",
+		"stack": "Stack",
+		"inventoryInstructions": "拖放花瓣以裝備。",
+		"yourProfile": "您的個人資料",
+		"globalLeaderboard": "全球排行榜",
+		"globalCrafts": "全球合成日誌",
+		"challenges": "Challenges",
+		"mapEditor": "Map Editor",
+		"joinDiscord": "Join our Discord server!",
+		"leaveGame": "Leave game",
+		"commandHelper": "Command Helper",
+		"craft": "Craft",
+		"mobGallery": "生物圖鑑",
+		"dailyStreakRewards": "Daily Streak Rewards",
+		"findPublic": "Find Public",
+		"new": "New",
+		"leave": "Leave",
+		"empty": "Empty",
+		"join": "Join",
+		"you": "(You)",
+		"public": "Public",
+		"privateSquad": "Private Squad",
+		"loadout": "Loadout",
+		"reset": "Reset",
+		"clear": "Clear",
+		"speed": "SPEED",
+		"servers": "Servers",
+		"viewRewards": "View Rewards",
+		"claimRewards": "Claim Rewards",
+		"timeAlive": "Time Alive",
+		"mobsKilled": "Mobs Killed",
+		"score": "Score",
+		"totalDamage": "Total Damage",
+		"lastDamage": "Last Damage",
+		"dps": "DPS",
+		"averageDps": "Average DPS",
+		"fps": "FPS",
+		"ping": "Ping",
+		"throughput": "Throughput",
+		"objectCount": "Object Count",
+		"clientTickTime": "Client Tick Time",
+		"cacheCount": "Cache Canvas",
+		"particleCount": "Particle Count",
+		"collisionChecks": "Collision Checks",
+		"serverTickTime": "Server Tick Time",
+		"currentPosition": "Current Position",
+		"plains": "Plains",
+		"desert": "Desert",
+		"ocean": "Ocean",
+		"jungle": "Jungle",
+		"arctic": "Arctic",
+		"bio": "Bio",
+		"void": "Void",
+		"hel": "Hel",
+		"as": "AS",
+		"eu": "EU",
+		"us": "US",
+		"equip": "Equip",
+		"unequip": "Unequip",
+		"biome": "Biome",
+		"rarity": "Rarity",
+		"inUSD": "In USD",
+		"hoverToPreview": "(Hover to preview)",
+		"shopFeaturedInfo": "Not sure where to start?",
+		"seeFeatured": "See Featured",
+		"shopAllInfo": "Nothing interesting here?",
+		"buyForFriend": "Buy for someone else:",
+		"seeAll": "See All",
+		"stars": "Stars",
+		"skins": "Skins",
+		"petals": "Petals",
+		"mobSkins": "Mob Skins",
+		"memberships": "Memberships",
+		"shopPolicy": "Asking for a refund will get your account banned.",
+		"shopSupport": "For any issues related to payments, send us an email at:",
+		"shopNazarBeetles": "Beware of nazar beetles!",
+		"controls": "Controls",
+		"chat": "Chat",
+		"game": "Game",
+		"visuals": "Visuals",
+		"indicators": "Indicators",
+		"done": "DONE",
+		"all": "All",
+		"complete": "Complete",
+		"incomplete": "Incomplete",
+		"cmdInfo": "Click to run command.",
+		"stealthMode": "Stealth Mode",
+		"save": "Save",
+		"includeBothRows": "Include Both Rows",
+		"includeSpinSpeed": "Include Spin Speed",
+		"copyCode": "Copy Code",
+		"delete": "Delete",
+		"rename": "Rename",
+		"update": "Update",
+		"moveUp": "Move Up",
+		"moveDown": "Move Down",
+		"singleLoadoutCode": "Single Loadout Code",
+		"fullLoadoutCode": "Full Loadout Code",
+		"import": "Import",
+		"copy": "Copy",
+		"notInGuild": "You are not in any guild.",
+		"guildCreateRequirement": "Need to be over level 50 to create guild.",
+		"create": "Create",
+		"creating": "Creating...",
+		"invite": "Invite",
+		"kick": "Kick",
+		"leader": "(Leader)",
+		"oracle": "Oracle",
+		"trade": "Trade",
+		"showAll": "Show All",
+		"craftLog": "Craft Log",
+		"petalsCrafted": "Petals Crafted",
+		"petalsBurned": "Petals Burned",
+		"craftAttempts": "Craft Attempts",
+		"petalsLeft": "Petals Left",
+		"minRng": "Min RNG",
+		"craftInfo": [
+			"Combine 5 of the same petal to craft an upgrade.",
+			"Failure will destroy 1-4 petals."
+		],
+		"oracleInfo": [
+			"Find the Oracle in Ocean",
+			"The Oracle will guarantee a craft... for the right price.",
+			"Has 0.001% of giving 2x crafts."
+		],
+		"tradeInfo": [
+			"Find the Trader in Jungle",
+			"Trade petals for a random coin."
+		],
+		"prev": "Prev",
+		"next": "Next",
+		"hideFailed": "Hide Failed",
+		"logout": "Logout",
+		"login": "Login",
+		"set": "Set",
+		"findUser": "Find User",
+		"specialChatTag": "Special Chat Tag",
+		"clickToCopy": "Click to copy!",
+		"noMembership": "You don't have any subscription active.",
+		"search": "Search",
+		"enterUsername": "Enter Username...",
+		"setUsername": "Set Username:",
+		"setPassword": "Set Password:",
+		"setDescription": "Set Description:",
+		"enterNewPassword": "Enter new password...",
+		"enterOldPassword": "Enter old password...",
+		"profileBubble": [
+			"Set a new password.",
+			"Get a new username."
+		]
+	},
+	"texts": {
+		"requiresMana": "Requires Mana to spawn.",
+		"petManaDrain": "A pet drains {1} mana/s. A flower can spawn upto 30 magic pets.",
+		"manaDrain": "Drains {1} mana/sec",
+		"manaToDamage": "Requires full mana to spawn. Damage = 0.18 * mana * log2(mana) * (rarity + 1) ^ 3",
+		"growthMana": "Requires {1} mana to grow to max size.",
+		"petDupeMana": "Requires {1} mana to dupe pets.",
+		"streakRewardTimer": "Come back in {1} to claim rewards.",
+		"streak": "Daily Streak #{1}",
+		"day": "Day #{1}",
+		"joinedSquad": "You've joined a squad! (Code: {1})",
+		"noPublicSquad": "No joinable public squad found for your level.",
+		"creatingSquad": "Creating new squad...",
+		"findingPublicSquad": "Finding public squad...",
+		"notInSquad": "You are not in any squad",
+		"chatInfo": "Type \"{1}\" to view commands.\nBeing toxic or using slurs in chat will get your account banned.",
+		"dropBuffInfo": "Drop buffs apply to upto (1) drops only.",
+		"resetsIn": "Resets in {1}...",
+		"craftRate": "{1}% success rate",
+		"xpFactor": "{1}% extra XP",
+		"extraDropRate": "{1}% extra drop rates",
+		"extraDropBuffTime": "{1}m extra drop buff time",
+		"extraStars": "{1} stars per month",
+		"membershipExpiry": "Your {2} membership will expire in {1}...",
+		"usernameMinLength": "Username should be minimum of length {1}",
+		"usernameMaxLength": "Username should be of length less than {1}",
+		"usernameCharRule": "Only letters, numbers & underscore are allowed",
+		"usernameChangeRule": "Username can only be changed once every 14 days.",
+		"passwordMinLength": "Password should be minimum of length {1}",
+		"passwordMaxLength": "Password should be maximum of length {1}"
+	},
+	"mobs": {
+		"rock": {
+			"name": "岩石",
+			"desc": "一塊石頭。它做不了什麼"
+		},
+		"ladybug": {
+			"name": "瓢蟲",
+			"desc": "可愛而無害"
+		},
+		"bush": {
+			"name": "灌木叢",
+			"desc": "喬治·布希"
+		},
+		"sponge": {
+			"name": "海綿",
+			"desc": "寶寶"
+		},
+		"cactus": {
+			"name": "仙人掌",
+			"desc": "一種非常多刺的植物。"
+		},
+		"baby_ant": {
+			"name": "幼蟻",
+			"desc": "還在襁褓中"
+		},
+		"soldier_ant": {
+			"name": "兵蟻",
+			"desc": "為自由而戰。"
+		},
+		"worker_ant": {
+			"name": "工蟻",
+			"desc": "不想戰鬥。"
+		},
+		"queen_ant": {
+			"name": "蟻后",
+			"desc": "蟻莉莎白六世女王。"
+		},
+		"baby_fire_ant": {
+			"name": "火幼蟻",
+			"desc": "還在襁褓中"
+		},
+		"soldier_fire_ant": {
+			"name": "火兵蟻",
+			"desc": "為自由而戰。"
+		},
+		"worker_fire_ant": {
+			"name": "火工蟻",
+			"desc": "不想戰鬥。"
+		},
+		"queen_fire_ant": {
+			"name": "火蟻后",
+			"desc": "蟻莉莎白七世女王。"
+		},
+		"mushroom": {
+			"name": "蘑菇",
+			"desc": "伴隨真菌感染。"
+		},
+		"jellyfish": {
+			"name": "水母",
+			"desc": "果凍魚。"
+		},
+		"spider": {
+			"name": "蜘蛛",
+			"desc": "它有八條腿和八隻眼睛。"
+		},
+		"bee": {
+			"name": "蜜蜂",
+			"desc": "它蟄人太疼了。"
+		},
+		"hornet": {
+			"name": "黃蜂",
+			"desc": "認證導彈發射員。"
+		},
+		"shell": {
+			"name": "扇貝",
+			"desc": "一種非常“善貝”的生物。"
+		},
+		"ant_hole": {
+			"name": "蟻穴",
+			"desc": "裡面有一些螞蟻。"
+		},
+		"fire_ant_hole": {
+			"name": "火蟻穴",
+			"desc": "裡面有一些火蟻。"
+		},
+		"spider_cave": {
+			"name": "蜘蛛洞",
+			"desc": "又深又黑的洞穴。"
+		},
+		"hive": {
+			"name": "蜂巢",
+			"desc": "這是蜜蜂的迪斯尼樂園"
+		},
+		"yoba": {
+			"name": "尤巴",
+			"desc": "神祕的紅色生物。"
+		},
+		"spider_yoba": {
+			"name": "尤巴蜘蛛",
+			"desc": "神祕的粉色生物。"
+		},
+		"centipede": {
+			"name": "蜈蚣",
+			"desc": "它很長。"
+		},
+		"desert_centipede": {
+			"name": "沙漠蜈蚣",
+			"desc": "曾在奧運會得過金牌。"
+		},
+		"evil_centipede": {
+			"name": "邪惡蜈蚣",
+			"desc": "我們不確定為什麼這個是邪惡的。"
+		},
+		"sunflower": {
+			"name": "向日葵",
+			"desc": "它有一個護盾"
+		},
+		"boba": {
+			"name": "波巴",
+			"desc": "它會爆炸。"
+		},
+		"bubble": {
+			"name": "泡泡",
+			"desc": "快點戳破它。"
+		},
+		"m28": {
+			"name": "M28",
+			"desc": "斯基比迪開發者。"
+		},
+		"beetle": {
+			"name": "甲蟲",
+			"desc": "非常飢餓的昆蟲。"
+		},
+		"avocado": {
+			"name": "酪梨",
+			"desc": "超級美味的水果。"
+		},
+		"target_dummy": {
+			"name": "訓練假花",
+			"desc": "殺死這些訓練假花是故意破壞行為，這個遊戲其實是一個祕密的IP地址抓取器，我們已經向當地政府舉報了你，預計三到五分鐘後就會有人來敲你的門"
+		},
+		"dark_ladybug": {
+			"name": "深色瓢蟲",
+			"desc": "深色的可愛而無害"
+		},
+		"shiny_ladybug": {
+			"name": "閃亮瓢蟲",
+			"desc": "閃亮、可愛而無害"
+		},
+		"sandstorm": {
+			"name": "沙塵暴",
+			"desc": "沙捲風"
+		},
+		"scorpion": {
+			"name": "蠍子",
+			"desc": "它喜歡繞著你轉並射擊你。"
+		},
+		"starfish": {
+			"name": "海星",
+			"desc": "明星魚。"
+		},
+		"crab": {
+			"name": "螃蟹",
+			"desc": "追著你跑。"
+		},
+		"dandelion": {
+			"name": "蒲公英",
+			"desc": "受到攻擊時會發射導彈"
+		},
+		"dragon": {
+			"name": "龍",
+			"desc": "它的火焰看起來很熱，摸起來也很熱"
+		},
+		"leech": {
+			"name": "水蛭",
+			"desc": "莫非是slither.io裡的蛇？"
+		},
+		"nazar_beetle": {
+			"name": "邪眼甲蟲",
+			"desc": "已成為現代藝術"
+		},
+		"toxic_dragon": {
+			"name": "毒龍",
+			"desc": "有人用有毒的油漆塗了它"
+		},
+		"hel_worm": {
+			"name": "冥界蠕蟲",
+			"desc": "來自digworm.io的撒但蠕蟲"
+		},
+		"hel_spider": {
+			"name": "冥界蜘蛛",
+			"desc": "它有八條腿和八隻眼睛。"
+		},
+		"hel_beetle": {
+			"name": "冥界甲蟲",
+			"desc": "非常令人毛骨悚然的撒但昆蟲。"
+		},
+		"hel_jellyfish": {
+			"name": "冥界水母",
+			"desc": "它為什麼會有牙齒？它是怎麼長的牙齒？"
+		},
+		"tumbleweed": {
+			"name": "風滾草",
+			"desc": "*風聲*"
+		},
+		"dragon_nest": {
+			"name": "龍巢",
+			"desc": "龍的家。"
+		},
+		"firestorm": {
+			"name": "火風暴",
+			"desc": "火捲風"
+		},
+		"hel_bee": {
+			"name": "冥界蜜蜂",
+			"desc": "他媽的火辣辣地疼。"
+		},
+		"hel_hornet": {
+			"name": "冥界黃蜂",
+			"desc": "認證火焰噴射員。"
+		},
+		"bugatti": {
+			"name": "布卡堤",
+			"desc": "頂級阿三最喜歡的車。"
+		},
+		"fly": {
+			"name": "蒼蠅",
+			"desc": "骯髒的（弗蘭克）"
+		},
+		"mantis": {
+			"name": "螳螂",
+			"desc": "一次發射三顆穿甲豌豆。"
+		},
+		"firefly": {
+			"name": "螢火蟲",
+			"desc": "帶有高壓電的蒼蠅。"
+		},
+		"wasp": {
+			"name": "胡蜂",
+			"desc": "喜歡用導彈狙擊花朵。"
+		},
+		"stickbug": {
+			"name": "竹節蟲",
+			"desc": "它喜歡跳舞。"
+		},
+		"snowbush": {
+			"name": "雪地灌木叢",
+			"desc": "生長在寒冷地區的灌木叢，也可能會被雪覆蓋。"
+		},
+		"ice_cube": {
+			"name": "冰塊",
+			"desc": "一塊巨冷的冰，碰到它可能不會太好受"
+		},
+		"snowstorm": {
+			"name": "暴風雪",
+			"desc": "一個雪捲風，鋒利的雪花似乎在裡面旋轉"
+		},
+		"arctic_centipede": {
+			"name": "極地蜈蚣",
+			"desc": "寒冷硬化了它們的皮膚。"
+		},
+		"arctic_spider": {
+			"name": "極地蜘蛛",
+			"desc": "這隻蜘蛛看起來真“冷酷”"
+		},
+		"ice_dragon": {
+			"name": "冰龍",
+			"desc": "它撥出的寒冰之息能凍結它的敵人。"
+		},
+		"tick": {
+			"name": "蜱蟲",
+			"desc": "這隻蟲子讓我發“蜱”氣！"
+		},
+		"waterspout": {
+			"name": "水龍捲",
+			"desc": "水下龍捲風"
+		},
+		"urchin": {
+			"name": "海膽",
+			"desc": "向你射擊的帶刺小球。"
+		},
+		"volcano": {
+			"name": "火山",
+			"desc": "一座巨大的石頭。向周圍噴射火焰"
+		},
+		"ice_hornet": {
+			"name": "冰黃蜂",
+			"desc": "斯基比迪生物多普多普耶斯耶斯"
+		},
+		"virus": {
+			"name": "病毒",
+			"desc": "別碰它！"
+		},
+		"red_blood_cell": {
+			"name": "紅血球",
+			"desc": "將氧氣輸送到任何需要它的地方"
+		},
+		"bacteria": {
+			"name": "細菌",
+			"desc": "這種生物令我生病"
+		},
+		"bacteriophage": {
+			"name": "噬菌體",
+			"desc": "一個數學書呆子，過度痴狂於裝滿毒物的二十面體"
+		},
+		"cancer": {
+			"name": "癌細胞",
+			"desc": "非常致命，希望你永遠不要意外碰到它"
+		},
+		"parasite": {
+			"name": "寄生蟲",
+			"desc": "喜歡惹惱它的宿主uwu"
+		},
+		"white_blood_cell": {
+			"name": "白血球",
+			"desc": "與身體裡的黑惡勢力作鬥爭，包括花朵本身"
+		},
+		"atom": {
+			"name": "原子",
+			"desc": "寰宇之磚，殺掉其中一個可能會出什麼問題"
+		},
+		"snake": {
+			"name": "蛇",
+			"desc": "很長很致命"
+		},
+		"turtle": {
+			"name": "海龜",
+			"desc": "有很強的護盾"
+		},
+		"hel_hive": {
+			"name": "冥界蜂巢",
+			"desc": "這是冥界蜜蜂和冥界黃蜂討論它們佔領平原生物群系的邪惡計劃的地方"
+		},
+		"fossil": {
+			"name": "化石",
+			"desc": "看起來死透了，說不定裡面有一些珍貴的花瓣"
+		},
+		"rattlesnake": {
+			"name": "響尾蛇",
+			"desc": "非常致命，非常長，也非常吵，也許你不該對它的警告掉以輕心。"
+		},
+		"cicada": {
+			"name": "蟬",
+			"desc": "3301。有11%的機率造成四十二倍傷害。"
+		},
+		"snowman": {
+			"name": "雪人",
+			"desc": "想和你打雪仗（它在雪球裡放了石頭）。"
+		},
+		"igloo": {
+			"name": "冰屋",
+			"desc": "一個非常涼爽的地方，供雪人和龍閒逛"
+		},
+		"rain_frog": {
+			"name": "雨蛙",
+			"desc": "它像扇貝一樣移動。"
+		},
+		"illuminati": {
+			"name": "光明會",
+			"desc": "黑暗籠罩一切。"
+		},
+		"black_hole": {
+			"name": "黑洞",
+			"desc": "非常有吸引力而且非常黑暗。"
+		},
+		"troll": {
+			"name": "巨魔",
+			"desc": "懂的都懂：西格瑪男人；不懂的：斯基比迪"
+		},
+		"ufo": {
+			"name": "不明飛行物",
+			"desc": "裡面有一群綠色的人，最好不要打擾他們"
+		},
+		"alien": {
+			"name": "外星人",
+			"desc": "具有心靈感應能力的地外實體。"
+		},
+		"angel": {
+			"name": "天使",
+			"desc": "擁有非常強大的氣場，你可能不應該靠得太近"
+		},
+		"momy": {
+			"name": "媽咪",
+			"desc": "一個非常可怕的生物。喜歡向其他人扔東西"
+		},
+		"ghost": {
+			"name": "幽靈",
+			"desc": "嗚～嗚～嗚～好嚇人～"
+		},
+		"gravestone": {
+			"name": "墓碑",
+			"desc": "幽靈喜歡在這完全黑暗的地方待著"
+		},
+		"electric_eel": {
+			"name": "電鰻",
+			"desc": "可能會電到你。"
+		},
+		"eye": {
+			"name": "眼睛",
+			"desc": "可愛的索倫之眼"
+		},
+		"square": {
+			"name": "正方形",
+			"desc": "走錯遊戲了。"
+		},
+		"target_mummy": {
+			"name": "訓練木乃伊",
+			"desc": "訓練假花 + 繃帶 = 訓練木乃伊uwu。"
+		},
+		"oracle": {
+			"name": "神諭者",
+			"desc": "非玩家角色時刻"
+		},
+		"trader": {
+			"name": "商人",
+			"desc": "讓你可以用花瓣來交換硬幣。"
+		},
+		"tesla_coil": {
+			"name": "特斯拉線圈",
+			"desc": "一個可以遠距離電擊敵人的特斯拉線圈 "
+		},
+		"snail": {
+			"name": "蝸牛",
+			"desc": "它跑得非常慢。"
+		},
+		"stem_cell": {
+			"name": "幹細胞",
+			"desc": "它會隨時間再生。"
+		},
+		"barrel": {
+			"name": "鈾桶",
+			"desc": "裡面裝著非常危險的東西。"
+		},
+		"nuke": {
+			"name": "核彈",
+			"desc": "沙皇核彈是一個非常巨大的蘇聯氫彈。"
+		},
+		"digger": {
+			"name": "挖掘者",
+			"desc": "一個遁地而逃的友軍。"
+		},
+		"spider_digger": {
+			"name": "蜘蛛挖掘者",
+			"desc": "它建造了蜘蛛洞。"
+		},
+		"hel_digger": {
+			"name": "冥界挖掘者",
+			"desc": "它馴服了龍……"
+		},
+		"grave_digger": {
+			"name": "墓碑挖掘者",
+			"desc": "它想讓你進入剛挖好的墓中"
+		},
+		"sandstone": {
+			"name": "砂岩",
+			"desc": "一個易碎且佈滿灰塵的石頭"
+		},
+		"termite_overmind": {
+			"name": "白蟻主宰者",
+			"desc": "他已做好充分準備，消滅他的敵人。"
+		},
+		"baby_termite": {
+			"name": "白幼蟻",
+			"desc": "有一個非常殘酷的童年"
+		},
+		"worker_termite": {
+			"name": "白工蟻",
+			"desc": "不想戰鬥，但無奈被迫。"
+		},
+		"soldier_termite": {
+			"name": "白兵蟻",
+			"desc": "為自由而戰，但它所做的只是無意中傷害了自己的朋友。"
+		},
+		"termite_hole": {
+			"name": "白蟻穴",
+			"desc": "裡面有一些白蟻。"
+		},
+		"termite_digger": {
+			"name": "白蟻穴挖掘者",
+			"desc": "已經與當地白蟻群建立了友誼。"
+		},
+		"shipwreck": {
+			"name": "沉船",
+			"desc": "水下車禍，似乎當地野生動物佔據了這輛車。"
+		},
+		"pirate_digger": {
+			"name": "海盜挖掘者",
+			"desc": "咖哩豆海盜"
+		},
+		"palm_tree": {
+			"name": "棕櫚樹",
+			"desc": "它巨大的葉子幫助它在這種氣候中生存"
+		},
+		"stalagmite": {
+			"name": "石筍",
+			"desc": "它會反覆試圖刺傷你。"
+		},
+		"arctic_spider_cave": {
+			"name": "極地蜘蛛洞",
+			"desc": "一個非常酷的洞穴，位於一個已經很酷的洞穴內部。洞穴中的洞穴。"
+		},
+		"beekeeper": {
+			"name": "養蜂人",
+			"desc": "它是蜜蜂的飼養者。"
+		},
+		"hel_beekeeper": {
+			"name": "冥界養蜂人",
+			"desc": "它是冥界蜜蜂的飼養者。"
+		},
+		"alien_digger": {
+			"name": "外星人挖掘者",
+			"desc": "在其他行星上開採資源"
+		},
+		"queen_bee": {
+			"name": "蜂后",
+			"desc": "蜜蜂的皇家領袖。"
+		},
+		"hel_queen_bee": {
+			"name": "冥界蜂后",
+			"desc": "惡魔蜜蜂的惡毒領袖。"
+		},
+		"hel_centipede": {
+			"name": "冥界蜈蚣",
+			"desc": "地獄般的長條生物。它也學會了如何使用它自己的掉落物。"
+		},
+		"fire_eel": {
+			"name": "火鰻",
+			"desc": "它的刺痛感伴隨著額外的燒傷因素。"
+		},
+		"lamprey_eel": {
+			"name": "七鰓鰻",
+			"desc": "一條劇毒無比的鰻魚……"
+		},
+		"frost_digger": {
+			"name": "寒霜挖掘者",
+			"desc": "嚴寒將它侵蝕得脆弱不堪，但它仍未停下腳步。"
+		},
+		"cube": {
+			"name": "立方體",
+			"desc": "這個東西看起來好熟悉…你這不就是把3D點投影到2D平面嘛。簡單得很。"
+		},
+		"white_hole": {
+			"name": "白洞",
+			"desc": "輻射著讓人感到非常噁心的炫目強光。"
+		},
+		"tesseract": {
+			"name": "超立方體",
+			"desc": "這個形狀甚至不來自這個維度...這種情況是如何發生的。"
+		},
+		"unabomber": {
+			"name": "炸彈客",
+			"desc": "泰德·卡欽斯基時刻"
+		},
+		"biologist": {
+			"name": "生物學家",
+			"desc": "一個只是在你的細胞裡研究生物學的盟友。它的傷害會隨著受傷而增加。"
+		},
+		"cicada_3301": {
+			"name": "蟬3301",
+			"desc": "有33%的機率造成三十三倍傷害（包括心靈感應傷害）。頓悟將至。汝之朝聖路已開啟。真理之光待君採擷。"
+		},
+		"shark": {
+			"name": "鯊魚",
+			"desc": "Baby shark doo doo doo doo doo doo..."
+		},
+		"squid": {
+			"name": "魷魚",
+			"desc": "Is seeking a toilet, or maybe thats just ink."
+		},
+		"geyser": {
+			"name": "Geyser",
+			"desc": "Shoots out very hot water everywhere."
+		}
+	},
+	"petals": {
+		"basic": {
+			"name": "基本",
+			"desc": "有史以來最簡單的花瓣。"
+		},
+		"rose": {
+			"name": "玫瑰",
+			"desc": "食用後為你治療。"
+		},
+		"wing": {
+			"name": "翅膀",
+			"desc": "來去如風。"
+		},
+		"rock": {
+			"name": "岩石",
+			"desc": "它相當耐用"
+		},
+		"iris": {
+			"name": "鳶尾",
+			"desc": "它有劇毒。"
+		},
+		"stinger": {
+			"name": "刺",
+			"desc": "傷害非常大。"
+		},
+		"honey": {
+			"name": "蜂蜜",
+			"desc": "蜜蜂的嘔吐物"
+		},
+		"bubble": {
+			"name": "泡泡",
+			"desc": "爆裂並推動你。"
+		},
+		"heavy": {
+			"name": "重",
+			"desc": "比你媽媽還重"
+		},
+		"yin_yang": {
+			"name": "陰陽",
+			"desc": "翻轉你的花瓣環繞方向。"
+		},
+		"faster": {
+			"name": "更快",
+			"desc": "增加你的花瓣環繞速度"
+		},
+		"light": {
+			"name": "輕盈",
+			"desc": "超級無敵快。"
+		},
+		"sponge": {
+			"name": "海綿",
+			"desc": "洗碗並隨時間吸收傷害。"
+		},
+		"rice": {
+			"name": "米",
+			"desc": "只為亞洲人。"
+		},
+		"yggdrasil": {
+			"name": "世界樹",
+			"desc": "復活死去的花朵。"
+		},
+		"leaf": {
+			"name": "葉子",
+			"desc": "被動地治療你。"
+		},
+		"lightning": {
+			"name": "閃電",
+			"desc": "生成一道閃電襲擊附近的敵人。"
+		},
+		"usain_bolt": {
+			"name": "尤塞恩·博爾特",
+			"desc": "生成一道劇毒閃電襲擊附近的敵人"
+		},
+		"cotton": {
+			"name": "棉花",
+			"desc": "吸收你的傷害。"
+		},
+		"web": {
+			"name": "網",
+			"desc": "扔出能減慢你的敵人速度的蜘蛛便便"
+		},
+		"pollen": {
+			"name": "花粉",
+			"desc": "落下並停留在地面上。"
+		},
+		"shell": {
+			"name": "貝殼",
+			"desc": "食用後為你提供護盾。"
+		},
+		"sunflower": {
+			"name": "向日葵",
+			"desc": "被動地為你提供護盾。"
+		},
+		"bomb": {
+			"name": "炸彈",
+			"desc": "碰到敵人就爆炸。"
+		},
+		"gas_bomb": {
+			"name": "毒氣彈",
+			"desc": "爆炸並毒害你的敵人。"
+		},
+		"missile": {
+			"name": "導彈",
+			"desc": "一種叛逆的刺，會從你的身邊飛走。"
+		},
+		"viper": {
+			"name": "毒刺",
+			"desc": "我們不知道它是怎麼造成中毒的。"
+		},
+		"rocket": {
+			"name": "火箭",
+			"desc": "又快又會爆炸"
+		},
+		"electron_missile": {
+			"name": "電子導彈",
+			"desc": "它充滿了憤怒的電子，準備電擊路上的一切"
+		},
+		"magnet": {
+			"name": "磁鐵",
+			"desc": "吸收花瓣戰利品並吸收閃電。"
+		},
+		"salt": {
+			"name": "鹽",
+			"desc": "將對花朵造成的傷害反彈給敵人"
+		},
+		"antennae": {
+			"name": "觸角",
+			"desc": "增加你的視野。"
+		},
+		"third_eye": {
+			"name": "第三隻眼",
+			"desc": "增加你的花瓣攻擊範圍"
+		},
+		"dmca": {
+			"name": "律師函",
+			"desc": "即刻殺死那些同等或更低稀有度的生物。"
+		},
+		"rock_egg": {
+			"name": "岩石卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"ladybug_egg": {
+			"name": "瓢蟲卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"bush_egg": {
+			"name": "灌木叢卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"sponge_egg": {
+			"name": "海綿卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"cactus_egg": {
+			"name": "仙人掌卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"baby_ant_egg": {
+			"name": "幼蟻卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"soldier_ant_egg": {
+			"name": "兵蟻卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"worker_ant_egg": {
+			"name": "工蟻卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"queen_ant_egg": {
+			"name": "蟻后卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"baby_fire_ant_egg": {
+			"name": "火幼蟻卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"soldier_fire_ant_egg": {
+			"name": "火兵蟻蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"worker_fire_ant_egg": {
+			"name": "火工蟻蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"queen_fire_ant_egg": {
+			"name": "火蟻后蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"mushroom_egg": {
+			"name": "蘑菇蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"jellyfish_egg": {
+			"name": "水母蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"spider_egg": {
+			"name": "蜘蛛蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"bee_egg": {
+			"name": "蜜蜂蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hornet_egg": {
+			"name": "黃蜂蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"shell_egg": {
+			"name": "扇貝蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"ant_hole_egg": {
+			"name": "蟻穴蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"fire_ant_hole_egg": {
+			"name": "火蟻穴蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"spider_cave_egg": {
+			"name": "蜘蛛洞蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hive_egg": {
+			"name": "蜂巢蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"yoba_egg": {
+			"name": "尤巴蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"spider_yoba_egg": {
+			"name": "蜘蛛尤巴蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"centipede_egg": {
+			"name": "蜈蚣蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"desert_centipede_egg": {
+			"name": "沙漠蜈蚣蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"evil_centipede_egg": {
+			"name": "邪惡蜈蚣蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"sunflower_egg": {
+			"name": "向日葵蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"boba_egg": {
+			"name": "波巴蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"bubble_egg": {
+			"name": "泡泡蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"m28_egg": {
+			"name": "M28蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"beetle_egg": {
+			"name": "甲蟲蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"avocado_egg": {
+			"name": "牛油果蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"target_dummy_egg": {
+			"name": "訓練假花蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"dark_ladybug_egg": {
+			"name": "深色瓢蟲卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"shiny_ladybug_egg": {
+			"name": "閃亮瓢蟲卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"stick": {
+			"name": "樹枝",
+			"desc": "召喚致命的狂風。"
+		},
+		"scorpion_egg": {
+			"name": "蠍子卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"starfish_egg": {
+			"name": "海星卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"pea": {
+			"name": "豌豆",
+			"desc": "它會“噗”地一聲消失"
+		},
+		"avocado": {
+			"name": "牛油果",
+			"desc": "增加你的寵物大小。"
+		},
+		"ring_magnet": {
+			"name": "環形磁鐵",
+			"desc": "緩慢地把一切都拉向你。"
+		},
+		"gas": {
+			"name": "毒氣",
+			"desc": "劇毒的氣體。"
+		},
+		"fire": {
+			"name": "火",
+			"desc": "它在燃燒。"
+		},
+		"nitro": {
+			"name": "氮氣加速器",
+			"desc": "它就像一個噴氣揹包。"
+		},
+		"wind": {
+			"name": "風",
+			"desc": "推開敵人。"
+		},
+		"air": {
+			"name": "空氣",
+			"desc": "看不見的東西。"
+		},
+		"lightsaber": {
+			"name": "光劍",
+			"desc": "有限射程的光子劍"
+		},
+		"visaber": {
+			"name": "伽馬劍",
+			"desc": "它發射的是伽馬射線而非可見光子"
+		},
+		"bone": {
+			"name": "骨頭",
+			"desc": "由鈣構成。"
+		},
+		"cactus": {
+			"name": "仙人掌",
+			"desc": "給予你更多生命。"
+		},
+		"soil": {
+			"name": "泥土",
+			"desc": "讓花朵變胖。"
+		},
+		"grapes": {
+			"name": "葡萄",
+			"desc": "導彈……還是鳶尾？什麼鬼？"
+		},
+		"mushroom": {
+			"name": "蘑菇",
+			"desc": "讓你的花朵有毒。"
+		},
+		"ears": {
+			"name": "貓耳",
+			"desc": "心靈感應的小貓耳朵。"
+		},
+		"sand": {
+			"name": "沙子",
+			"desc": "可以用這個建一座沙堡。"
+		},
+		"pincer": {
+			"name": "螫針",
+			"desc": "打斷你敵人的腿，即使他們沒有。"
+		},
+		"dahlia": {
+			"name": "大麗花",
+			"desc": "犧牲治療性換取可靠性"
+		},
+		"starfish": {
+			"name": "海星",
+			"desc": "在你生命較少時治療你"
+		},
+		"dandelion": {
+			"name": "蒲公英",
+			"desc": "使你的敵人無法治療"
+		},
+		"crab_egg": {
+			"name": "螃蟹蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"dandelion_egg": {
+			"name": "蒲公英蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"dragon_egg": {
+			"name": "龍蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"irey": {
+			"name": "蜜蝕",
+			"desc": "使蜂蜜地塊變得有毒。"
+		},
+		"leech_egg": {
+			"name": "水蛭蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"nazar": {
+			"name": "邪眼",
+			"desc": "它能抵擋幾次攻擊，然後進入冷卻"
+		},
+		"nazar_beetle_egg": {
+			"name": "邪眼甲蟲蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"golden_leaf": {
+			"name": "金葉",
+			"desc": "減少花瓣冷卻時間。"
+		},
+		"laser": {
+			"name": "雷射",
+			"desc": "Can cause severe burns. Fire stacks."
+		},
+		"mark": {
+			"name": "標記",
+			"desc": "將一朵死去的小花送去冥界"
+		},
+		"bur": {
+			"name": "刺果",
+			"desc": "減少敵人的護甲"
+		},
+		"cutter": {
+			"name": "鋸齒",
+			"desc": "增加你的身體傷害。"
+		},
+		"powder": {
+			"name": "粉末",
+			"desc": "可卡因"
+		},
+		"toxic_dragon_egg": {
+			"name": "毒龍蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_worm_egg": {
+			"name": "冥界蠕蟲卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_spider_egg": {
+			"name": "冥界蜘蛛蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_beetle_egg": {
+			"name": "冥界甲蟲蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_jellyfish_egg": {
+			"name": "冥界水母蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_lightning": {
+			"name": "冥界閃電",
+			"desc": "召喚一道詛咒火焰襲擊附近的敵人。"
+		},
+		"tumbleweed_egg": {
+			"name": "風滾草蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"dragon_nest_egg": {
+			"name": "龍巢蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"fire_stick": {
+			"name": "火棍",
+			"desc": "召喚致命的狂風。"
+		},
+		"hel_bee_egg": {
+			"name": "冥界蜜蜂蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_hornet_egg": {
+			"name": "冥界黃蜂蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_missile": {
+			"name": "冥界導彈",
+			"desc": "熾焰爆裂彈"
+		},
+		"bugatti": {
+			"name": "布加迪",
+			"desc": "大幅增加移動速度，但會讓你滑得離譜。"
+		},
+		"bugatti_egg": {
+			"name": "布加迪卵",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"poo": {
+			"name": "糞便",
+			"desc": "減少敵人的射程。"
+		},
+		"rubber": {
+			"name": "橡膠",
+			"desc": "增加你從敵人那裡受到的擊退效果。"
+		},
+		"fly_egg": {
+			"name": "蒼蠅蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"fang": {
+			"name": "尖牙",
+			"desc": "用它造成的傷害治療你。"
+		},
+		"blood_stinger": {
+			"name": "血刺",
+			"desc": "非常致命，但也會對你造成一些傷害。"
+		},
+		"mantis_egg": {
+			"name": "螳螂蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"firefly_egg": {
+			"name": "螢火蟲蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"wasp_egg": {
+			"name": "胡蜂蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"battery": {
+			"name": "電池",
+			"desc": "使你的身體在被敵人擊中時產生電擊。"
+		},
+		"stickbug_egg": {
+			"name": "竹節蟲蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"plank": {
+			"name": "木板",
+			"desc": "Does 300x more damage to enemy projectiles."
+		},
+		"icicle": {
+			"name": "冰錐",
+			"desc": "凍結敵人。"
+		},
+		"dice": {
+			"name": "骰子",
+			"desc": "Has 8% chance of dealing 69x damage. Rate is affected by Clover."
+		},
+		"cryo_bomb": {
+			"name": "低溫炸彈",
+			"desc": "爆炸時凍結附近的敵人。"
+		},
+		"clover": {
+			"name": "幸運草",
+			"desc": "給你帶來好運。"
+		},
+		"blueberries": {
+			"name": "藍莓",
+			"desc": "冷凍後變得非常堅硬。"
+		},
+		"frost": {
+			"name": "寒霜",
+			"desc": "可以穿透敵人護甲並減慢他們速度的冷空氣。"
+		},
+		"snowball": {
+			"name": "雪球",
+			"desc": "雪人的雪球，可以穿透敵人的護甲。"
+		},
+		"snowflake": {
+			"name": "雪花",
+			"desc": "破碎時會爆開。"
+		},
+		"amethyst": {
+			"name": "紫水晶",
+			"desc": "非常鋒利但易碎的寶石"
+		},
+		"snowbush_egg": {
+			"name": "雪地灌木叢蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"snow_stick": {
+			"name": "雪棍",
+			"desc": "召喚致命的寒冰。"
+		},
+		"ice_cube_egg": {
+			"name": "冰塊蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"arctic_centipede_egg": {
+			"name": "極地蜈蚣蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"arctic_spider_egg": {
+			"name": "極地蜘蛛蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"ice_dragon_egg": {
+			"name": "冰龍蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"tick_egg": {
+			"name": "蜱蟲蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"ice_rose": {
+			"name": "冰玫瑰",
+			"desc": "食用後治療你，但也會給你帶來寒冰。"
+		},
+		"torch": {
+			"name": "火把",
+			"desc": "隨時間被動地清除你花朵上的寒冰。"
+		},
+		"water_stick": {
+			"name": "水棍",
+			"desc": "召喚水下龍捲風，即使不在水下。"
+		},
+		"urchin_egg": {
+			"name": "海膽蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"volcano_egg": {
+			"name": "火山蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"spikeball": {
+			"name": "尖刺球",
+			"desc": "許多導彈被一個脆弱的紐帶束縛在一起，如果那個紐帶斷裂，導彈會飛得到處都是……"
+		},
+		"needle": {
+			"name": "針",
+			"desc": "非常鋒利而且有毒，但非常脆弱"
+		},
+		"bubble_bomb": {
+			"name": "泡泡炸彈",
+			"desc": "爆炸並將你的敵人推開很遠。"
+		},
+		"obsidian": {
+			"name": "黑曜石",
+			"desc": "極其耐用，但同時也非常脆弱。"
+		},
+		"magma": {
+			"name": "熔岩",
+			"desc": "一塊非常熱的岩石。"
+		},
+		"fire_bomb": {
+			"name": "火焰炸彈",
+			"desc": "爆炸並令你的敵人著火。"
+		},
+		"ice_hornet_egg": {
+			"name": "極地黃蜂蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"frozen_mark": {
+			"name": "寒霜標記",
+			"desc": "將一朵死去的小花送去南極洲"
+		},
+		"coffee": {
+			"name": "咖啡",
+			"desc": "食用後為你提供暫時的速度提升。"
+		},
+		"chromosome": {
+			"name": "染色體",
+			"desc": "隨時間治療你的花瓣。"
+		},
+		"antibody": {
+			"name": "抗體",
+			"desc": "減少敵人護甲"
+		},
+		"hemoglobin": {
+			"name": "血紅蛋白",
+			"desc": "增加治療花瓣造成的治療效果"
+		},
+		"chloroplast": {
+			"name": "葉綠體",
+			"desc": "增加護盾再生。"
+		},
+		"sugar": {
+			"name": "糖",
+			"desc": "非常甜"
+		},
+		"pill": {
+			"name": "藥丸",
+			"desc": "治癒癌症併為你提供一些治療。"
+		},
+		"dna": {
+			"name": "DNA",
+			"desc": "給你一個小機率增加你的寵物稀有度。影響所有蛋直到其稀有度。例如，孵化出究極螞蟻的超級蛋 + 超級DNA = 有機率孵化出超級螞蟻。機率受三葉草影響。"
+		},
+		"virus_egg": {
+			"name": "病毒蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"red_blood_cell_egg": {
+			"name": "紅細胞蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"bacteria_egg": {
+			"name": "細菌蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"bacteriophage_egg": {
+			"name": "噬菌體蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"cancer_egg": {
+			"name": "癌細胞蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"parasite_egg": {
+			"name": "寄生蟲蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"cancer": {
+			"name": "癌變",
+			"desc": "同稀有度的生物死亡時分裂。"
+		},
+		"white_blood_cell_egg": {
+			"name": "白血球蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"lotus": {
+			"name": "蓮花",
+			"desc": "減少中毒效果。"
+		},
+		"ice": {
+			"name": "冰",
+			"desc": "減少火焰效果。"
+		},
+		"atom_egg": {
+			"name": "原子蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"snake_egg": {
+			"name": "蛇蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"slime": {
+			"name": "史萊姆",
+			"desc": "呃，好黏"
+		},
+		"turtle_egg": {
+			"name": "海龜蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_hive_egg": {
+			"name": "冥界蜂巢蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_honey": {
+			"name": "冥界蜂蜜",
+			"desc": "使蜂蜜地塊變熱。"
+		},
+		"scar": {
+			"name": "疤痕",
+			"desc": "非常致命，但也會將你傳送到一個隨機位置。"
+		},
+		"crystal_leaf": {
+			"name": "水晶葉",
+			"desc": "被動治療你的寵物。"
+		},
+		"fossil_egg": {
+			"name": "化石蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"rattlesnake_egg": {
+			"name": "響尾蛇蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"rattle": {
+			"name": "響尾",
+			"desc": "斯基比迪花瓣多普多普耶斯耶斯"
+		},
+		"cicada_egg": {
+			"name": "蟬蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"snowman_egg": {
+			"name": "雪人蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"carrot": {
+			"name": "胡蘿蔔",
+			"desc": "有人告訴我這些對眼睛有好處，但我把它們放進眼睛裡時只是很疼"
+		},
+		"igloo_egg": {
+			"name": "冰屋蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"rain_frog_egg": {
+			"name": "雨蛙蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"disc": {
+			"name": "圓盤",
+			"desc": "減少受傷。"
+		},
+		"mimic": {
+			"name": "擬態",
+			"desc": "它模仿你右邊的花瓣。"
+		},
+		"scythe": {
+			"name": "鐮刀",
+			"desc": "一個長而鋒利的物體。裝備的花瓣越多，它就越弱。"
+		},
+		"corruption": {
+			"name": "腐化",
+			"desc": "你變得腐化，可以傷害其他花朵，它們也可以傷害你。"
+		},
+		"moon": {
+			"name": "月石",
+			"desc": "非常胖的花瓣，可能會保護你免受生物傷害"
+		},
+		"pearl": {
+			"name": "珍珠",
+			"desc": "把它放在地上，看著生物們被它絆倒"
+		},
+		"orange": {
+			"name": "橙子",
+			"desc": "它們很好吃，但每個生物都對它們過敏"
+		},
+		"dizzy": {
+			"name": "眩暈",
+			"desc": "讓你頭暈，但增加你的花瓣傷害。"
+		},
+		"illuminati_egg": {
+			"name": "光明會蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"black_hole_egg": {
+			"name": "黑洞蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"gamma_ray": {
+			"name": "伽馬射線",
+			"desc": "光束時刻"
+		},
+		"troll_egg": {
+			"name": "巨魔蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"horn": {
+			"name": "角",
+			"desc": "增加你寵物的傷害。"
+		},
+		"ufo_egg": {
+			"name": "不明飛行物蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"orb": {
+			"name": "寶珠",
+			"desc": "這裡面有很多先進的外星科技，我想知道它有什麼作用……"
+		},
+		"alien_egg": {
+			"name": "外星人蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"angel_egg": {
+			"name": "天使蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"momy_egg": {
+			"name": "媽咪蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"mirror": {
+			"name": "鏡子",
+			"desc": "反射最高到稀有度+1的導彈。比他等級高的導彈的傷害會被削弱95%。例如：究極鏡子可以反射超級黃蜂的導彈，但是它的傷害將會被削弱95%。"
+		},
+		"comb": {
+			"name": "梳子",
+			"desc": "可惜這朵花是禿頭"
+		},
+		"ring": {
+			"name": "戒指",
+			"desc": "索倫之戒。"
+		},
+		"triangle": {
+			"name": "三角形",
+			"desc": "透過造成所有型別的傷害來發現每個生物的弱點"
+		},
+		"dvd": {
+			"name": "DVD",
+			"desc": "包含一些前所未見的稀有外星人錄影。"
+		},
+		"eyeball": {
+			"name": "眼球",
+			"desc": "全視之眼，讓你的導彈自動瞄準最近的目標。"
+		},
+		"zodiac": {
+			"name": "黃道",
+			"desc": "增加你花瓣的裝填時間，但非常強大。"
+		},
+		"ghost_egg": {
+			"name": "幽靈蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"gravestone_egg": {
+			"name": "墓碑蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"balloon": {
+			"name": "氣球",
+			"desc": "讓你向上漂浮。"
+		},
+		"void_mark": {
+			"name": "虛空標記",
+			"desc": "將一朵可愛的小死花送到星界。"
+		},
+		"plasma": {
+			"name": "等離子體",
+			"desc": "Very hot state of matter. Lightning stikes multi hit the same target."
+		},
+		"quantum": {
+			"name": "量子",
+			"desc": "改變你的軌道形狀。"
+		},
+		"claw": {
+			"name": "爪子",
+			"desc": "當敵人生命值超過80%時造成五倍傷害。"
+		},
+		"electric_eel_egg": {
+			"name": "電鰻蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"thorn": {
+			"name": "荊棘",
+			"desc": "一種會分裂的加熱導彈"
+		},
+		"blood_scythe": {
+			"name": "血鐮刀",
+			"desc": "不僅僅是普通的鐮刀，它沾滿了鮮血並且不會變弱"
+		},
+		"eye_egg": {
+			"name": "眼睛蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"square": {
+			"name": "正方形",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"target_mummy_egg": {
+			"name": "訓練木乃伊蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"yuan": {
+			"name": "人民幣",
+			"desc": "大陸的流通貨幣。"
+		},
+		"bitcoin": {
+			"name": "比特幣",
+			"desc": "由中本聰創造。"
+		},
+		"dollar": {
+			"name": "美元",
+			"desc": "為什麼我不能在現實生活中使用它？"
+		},
+		"fries": {
+			"name": "薯條",
+			"desc": "你有六十九個來自麥當勞的未接來電。"
+		},
+		"emerald": {
+			"name": "綠寶石",
+			"desc": "當生物被這種晶體擊中時，會給你帶來更多經驗值。"
+		},
+		"sapphire": {
+			"name": "藍寶石",
+			"desc": "使你所有同稀有度的花瓣掉落在地上。"
+		},
+		"candlestick": {
+			"name": "燭臺",
+			"desc": "它既可以治癒你所有的困苦，也可以殺死你。小心！"
+		},
+		"ruby": {
+			"name": "紅寶石",
+			"desc": "賦予閃電多次擊中同一敵人的能力。"
+		},
+		"diamond": {
+			"name": "鑽石",
+			"desc": "它被損毀是會破碎。"
+		},
+		"topaz": {
+			"name": "黃玉",
+			"desc": "為你提供護甲。"
+		},
+		"citron": {
+			"name": "香櫞",
+			"desc": "增加你的花瓣大小。"
+		},
+		"quartz": {
+			"name": "石英",
+			"desc": "記得及時吃藥。"
+		},
+		"opal": {
+			"name": "蛋白石",
+			"desc": "使你所有同稀有度的花瓣有一定機率造成額外傷害。"
+		},
+		"relic": {
+			"name": "遺物",
+			"desc": "在你的小隊中，將傷害分攤給其他遺物佩戴者。"
+		},
+		"uranium": {
+			"name": "鈾",
+			"desc": "一種放射性元素，可能導致非常致命的感染。"
+		},
+		"plutonium": {
+			"name": "鈽",
+			"desc": "一種能夠造成非常嚴重燒傷的放射性元素。"
+		},
+		"lithium": {
+			"name": "鋰",
+			"desc": "在你的電池裡找到的。"
+		},
+		"tesla_coil_egg": {
+			"name": "特斯拉線圈蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"snail": {
+			"name": "蝸牛殼",
+			"desc": "它讓你花瓣軌道變成漩渦形的。"
+		},
+		"snail_egg": {
+			"name": "蝸牛蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"iodine": {
+			"name": "碘",
+			"desc": "記得及時吃藥。"
+		},
+		"chilly": {
+			"name": "辣椒",
+			"desc": "GERD患者請勿食用。"
+		},
+		"tomato": {
+			"name": "番茄",
+			"desc": "它隨著時間的推移而變得更加強大。"
+		},
+		"banana": {
+			"name": "香蕉",
+			"desc": "它會黏在其攻擊的目標上。"
+		},
+		"stem_cell": {
+			"name": "幹細胞",
+			"desc": "召喚物血量下降至66%與33%時，它有機率再生你稀有度不高於它的召喚物。可以受三葉草加成"
+		},
+		"stem_cell_egg": {
+			"name": "幹細胞蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"barrel_egg": {
+			"name": "鈾桶蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"acid": {
+			"name": "酸",
+			"desc": "為花花們從各種各樣的胃裡收集到的鹽酸。"
+		},
+		"lava": {
+			"name": "岩漿",
+			"desc": "從活火山中收集到的熱熔融物質。"
+		},
+		"corium": {
+			"name": "堆芯",
+			"desc": "從切爾諾貝利4號核反應堆走私而來……"
+		},
+		"nitrogen": {
+			"name": "寒氣",
+			"desc": "液態氮氣。它非常冷，可以冰凍你的敵人。"
+		},
+		"landmine": {
+			"name": "地雷",
+			"desc": "你可以把它們丟在地上。敵人踩上去的話會有有趣的事情發生...哈哈哈"
+		},
+		"blood": {
+			"name": "血液",
+			"desc": "嚐起來像金屬。"
+		},
+		"rna": {
+			"name": "RNA",
+			"desc": "讓你的寵物移動得更快。"
+		},
+		"fan": {
+			"name": "風扇",
+			"desc": "Reduces incoming burns on you. Stacks in harmonic series."
+		},
+		"graphite": {
+			"name": "石墨",
+			"desc": "增加你花瓣的放射性。"
+		},
+		"capacitor": {
+			"name": "電容器",
+			"desc": "增加相同稀有度及以下閃電的連鎖攻擊數目。"
+		},
+		"koban": {
+			"name": "小判",
+			"desc": "日本古錢幣。\n把它儲存好，它非常稀有！"
+		},
+		"cucumber": {
+			"name": "黃瓜",
+			"desc": "減肥時適合吃。"
+		},
+		"oxygen": {
+			"name": "氧氣",
+			"desc": "延長敵人的燃燒時間。"
+		},
+		"cyanide": {
+			"name": "氰化物",
+			"desc": "延長其觸碰到的生物的中毒時間。"
+		},
+		"fusion": {
+			"name": "聚變",
+			"desc": "將它右側的一個稀有度不高於它的花瓣的所有生成物聚合為單個更強的生成物。\n例如:如果你在 超級聚變 右邊放置一個 超級輕 (單個輕有多個生成物) ，你將生成單個更強大的超級輕花瓣。"
+		},
+		"fission": {
+			"name": "裂變",
+			"desc": "將它右側的一個稀有度不高於它的花瓣的生成物分裂為更多的生成物。\n例如:如果你在 超級裂變 右邊放置一個 超級仙人掌 你將生成兩個更弱的 超級仙人掌 ；如果你放置的是 超級輕花瓣 (擁有6個生成物) 你將生成12個生成物。"
+		},
+		"nuke_egg": {
+			"name": "核彈蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"cross": {
+			"name": "撒旦十字架",
+			"desc": "按下右鍵時，它會把你傳送到它落下的地方。"
+		},
+		"digger_egg": {
+			"name": "挖掘者蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"spider_digger_egg": {
+			"name": "蜘蛛挖掘者蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"splitter": {
+			"name": "分裂器",
+			"desc": "將你的花瓣軌道分裂為多重軌道。\n所有位於此花瓣右側的花瓣將組成一個新的軌道。\n其效果可以疊加，使用更多的分裂器可以分裂出更多的軌道。"
+		},
+		"nuke": {
+			"name": "核彈",
+			"desc": "它會造成一個多重爆炸。"
+		},
+		"gunpowder": {
+			"name": "火藥",
+			"desc": "當敵人處於燃燒狀態時，其造成5倍傷害。"
+		},
+		"compass": {
+			"name": "指南針",
+			"desc": "使你的軌道指向你的運動方向。"
+		},
+		"dark_matter": {
+			"name": "暗物質",
+			"desc": "這個不可見的物質可以在你的花瓣之間形成間隙。"
+		},
+		"hel_digger_egg": {
+			"name": "冥界挖掘者蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"glass": {
+			"name": "玻璃",
+			"desc": "每隔1秒造成一次傷害。"
+		},
+		"grave_digger_egg": {
+			"name": "墓碑挖掘者蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"shovel": {
+			"name": "鏟子",
+			"desc": "可以讓你進入地下並遇見蠕蟲。"
+		},
+		"sandstone_egg": {
+			"name": "砂岩蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"marble": {
+			"name": "彈珠",
+			"desc": "掉在地上，滾來滾去，每時每刻造成傷害。"
+		},
+		"trident": {
+			"name": "三叉戟",
+			"desc": "如果同一伺服器有人得到更高階的三叉戟，它將被摧毀。"
+		},
+		"bandages": {
+			"name": "繃帶",
+			"desc": "將要覆蓋所有傷口。可能對鐮刀有用。"
+		},
+		"talisman": {
+			"name": "閃避護符",
+			"desc": "Makes your flower evade damage. Stacks in harmonic series & is capped at 75% evasion."
+		},
+		"job_application": {
+			"name": "工作申請",
+			"desc": "使一個怪物失去仇恨 5 秒。別浪費你的天賦，快去修理管道吧！"
+		},
+		"termite_overmind_egg": {
+			"name": "白蟻主宰者蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"baby_termite_egg": {
+			"name": "白幼蟻蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"worker_termite_egg": {
+			"name": "白工蟻蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"soldier_termite_egg": {
+			"name": "白兵蟻蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"termite_hole_egg": {
+			"name": "白蟻穴蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_rose": {
+			"name": "魔法玫瑰",
+			"desc": "吸收你周圍的魔法。"
+		},
+		"magic_leaf": {
+			"name": "魔法葉",
+			"desc": "吸收你周圍的魔法。"
+		},
+		"magic_cactus": {
+			"name": "魔法仙人掌",
+			"desc": "增加你的最大生命值和法力容量。"
+		},
+		"magic_missile": {
+			"name": "魔法導彈",
+			"desc": "昂貴但快速。"
+		},
+		"magic_stinger": {
+			"name": "魔法刺",
+			"desc": "很痛，但需要大量魔法才能召喚。"
+		},
+		"magic_fang": {
+			"name": "魔法尖牙",
+			"desc": "從苦痛中吸取魔力。"
+		},
+		"magic_blood_stinger": {
+			"name": "魔法血刺",
+			"desc": "此花瓣的魔法終將反噬其使用者。"
+		},
+		"magic_wing": {
+			"name": "魔法翅膀",
+			"desc": "飛的更遠並且自我複製。"
+		},
+		"magic_pea": {
+			"name": "魔法豌豆",
+			"desc": "因暴力之咒與魔法而變得憔悴"
+		},
+		"magic_grapes": {
+			"name": "魔法葡萄",
+			"desc": "黑暗魔法驅動著其中的風暴。"
+		},
+		"magic_blueberries": {
+			"name": "魔法藍莓",
+			"desc": "被詛咒永遠燃燒同時被凍結。"
+		},
+		"magic_lightning": {
+			"name": "魔法閃電",
+			"desc": "魔法增強了它索敵的能力。"
+		},
+		"magic_hel_lightning": {
+			"name": "魔法地獄閃電",
+			"desc": "魔法增強了尋找目標的能力，還能點燃它們。。"
+		},
+		"magic_usain_bolt": {
+			"name": "魔法尤塞恩·博爾特",
+			"desc": "魔法增強了其追蹤目標的能力，並附加了額外的毒素。"
+		},
+		"magic_banana": {
+			"name": "魔法香蕉",
+			"desc": "為魔法猴子而生的魔法香蕉。"
+		},
+		"magic_mimic": {
+			"name": "魔法擬態",
+			"desc": "它模仿放置於它右邊的花瓣成其魔法變體。例如：超級魔法模仿 + 超級玫瑰 = 超級魔法玫瑰 + 超級玫瑰"
+		},
+		"magic_bomb": {
+			"name": "魔法炸彈",
+			"desc": "魔法竟然相當爆炸性。"
+		},
+		"magic_gas_bomb": {
+			"name": "魔法瓦斯炸彈",
+			"desc": "魔法實際上相當具有爆炸性，並且當與正確的化學物質混合時，它也是有毒的"
+		},
+		"magic_fire_bomb": {
+			"name": "魔法火焰炸彈",
+			"desc": "魔法原來非常易燃，甚至更具爆炸性。"
+		},
+		"magic_bubble_bomb": {
+			"name": "魔法泡泡炸彈",
+			"desc": "強大的魔法氣體產生了巨大的衝擊波。"
+		},
+		"magic_cryo_bomb": {
+			"name": "魔法冷凍炸彈",
+			"desc": "使用魔法，炸彈爆炸會長時間凍結敵人。"
+		},
+		"magic_rocket": {
+			"name": "魔法火箭",
+			"desc": "魔法被證明很有爆炸性。"
+		},
+		"magic_orange": {
+			"name": "魔法橙子",
+			"desc": "這些橙子已經被詛咒了，不再是橙色，它們現在是品紅色的……"
+		},
+		"magic_hemoglobin": {
+			"name": "魔法血紅蛋白",
+			"desc": "它不是將氧氣輸送到身體各處，而是透過你的花瓣傳遞魔法"
+		},
+		"holy_water": {
+			"name": "聖水",
+			"desc": "清除一群生物的“罪惡”，使其失去仇恨。"
+		},
+		"magic_starfish": {
+			"name": "魔法海星",
+			"desc": "這隻神奇的海星只會對魔力值低於 50%的人使用魔法"
+		},
+		"magic_square": {
+			"name": "魔法正方形",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_sponge": {
+			"name": "魔法海綿",
+			"desc": "讓你的魔力緩慢的消耗。"
+		},
+		"magic_hel_missile": {
+			"name": "魔法地獄導彈",
+			"desc": "用更多魔法讓這個導彈燃氣永燃之火。"
+		},
+		"magic_viper": {
+			"name": "魔法毒刺",
+			"desc": "導彈是用魔法鈾製造的，使其非常有毒。"
+		},
+		"magic_electron_missile": {
+			"name": "魔法電子導彈",
+			"desc": "這枚導彈內有許多混亂的魔法。"
+		},
+		"magic_scythe": {
+			"name": "魔法鐮刀",
+			"desc": "一個有魔力的長長的物體，將你所有的魔法都轉換成它的傷害。"
+		},
+		"termite_digger_egg": {
+			"name": "白蟻穴挖掘者蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_soil": {
+			"name": "魔法泥土",
+			"desc": "使你變得非常胖，能夠攜帶比平常更多的魔力。"
+		},
+		"magic_dahlia": {
+			"name": "魔法大麗花",
+			"desc": "更快的吸收魔法。"
+		},
+		"magic_mark": {
+			"name": "魔法標記",
+			"desc": "使用魔法將死掉的花朵隨機向任何生物群落髮送。"
+		},
+		"magic_cotton": {
+			"name": "魔法棉花",
+			"desc": "吸收傷害，但以固定比例消耗魔力。"
+		},
+		"magic_sunflower": {
+			"name": "魔法太陽花",
+			"desc": "它落在地面上，為你收集魔法……"
+		},
+		"magic_cutter": {
+			"name": "魔法鋸齒",
+			"desc": "增加你的身體傷害。"
+		},
+		"magic_golden_leaf": {
+			"name": "魔法金葉",
+			"desc": "減少使用魔法花瓣所需的魔法。"
+		},
+		"magic_battery": {
+			"name": "魔法電池",
+			"desc": "It stores your mana and repays them back to you with 400% interest after some time. In simpler words, it will take X mana to spawn and then give you 5X mana after a while."
+		},
+		"magic_bubble": {
+			"name": "魔法泡泡",
+			"desc": "它透過魔法在你的運動軌跡上爆發並助你突進。"
+		},
+		"magic_corruption": {
+			"name": "魔法腐化",
+			"desc": "讓你立即被魔法的力量腐化。"
+		},
+		"magic_stick": {
+			"name": "魔法木棍",
+			"desc": "它從其他花朵裡搶走魔法，不管是好友還是敵人。"
+		},
+		"magic_claw": {
+			"name": "魔法爪",
+			"desc": "根據你的法力值造成最高 5 倍傷害。如果你的法力值為 50%，則造成 2.5 倍傷害，依此類推。"
+		},
+		"magic_marble": {
+			"name": "魔法彈珠",
+			"desc": "這塊彈珠已經破碎，但魔法將其維繫在一起……只是效果有些不佳。"
+		},
+		"magic_salt": {
+			"name": "魔法鹽",
+			"desc": "它會使用魔法對所有附近的敵人造成傷害，而不僅僅是對攻擊者造成傷害。"
+		},
+		"magic_relic": {
+			"name": "魔法遺物",
+			"desc": "在你的隊伍中，將魔法消耗分攤到其他魔法遺物持有者身上。"
+		},
+		"shipwreck_egg": {
+			"name": "沉船蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_fire": {
+			"name": "魔法火",
+			"desc": "對敵人施加一個神奇的自疊加火焰。"
+		},
+		"magic_gas": {
+			"name": "魔法毒氣",
+			"desc": "向敵人注入具有自我疊加效果的魔法毒液。"
+		},
+		"magic_yggdrasil": {
+			"name": "魔法世界樹",
+			"desc": "你差點死在那裡，但隨後它將用魔法拯救你。"
+		},
+		"magic_dna": {
+			"name": "魔法DNA",
+			"desc": "為你帶來將魔法寵物轉化為神秘寵物的小機率，以及像原始DNA一樣提升寵物稀有度的小機率。神秘寵物體型更大且速度更快。影響所有直至其稀有度的蛋。"
+		},
+		"magic_rock_egg": {
+			"name": "魔法岩石蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_ladybug_egg": {
+			"name": "魔法瓢蟲蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_baby_ant_egg": {
+			"name": "魔法幼蟻蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_soldier_ant_egg": {
+			"name": "魔法兵蟻蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"pirate_digger_egg": {
+			"name": "海盜挖掘者蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_torch": {
+			"name": "魔法火把",
+			"desc": "持續去除寵物身上的霜凍。"
+		},
+		"palm_tree_egg": {
+			"name": "棕櫚樹蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"palm_leaf": {
+			"name": "棕櫚葉",
+			"desc": "這些神奇的葉子既具有治療能力，也具有護盾能力。"
+		},
+		"magic_palm_leaf": {
+			"name": "魔法棕櫚葉",
+			"desc": "顯然，葉子越大，魔力恢復也越快。"
+		},
+		"stalagmite_egg": {
+			"name": "石筍蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"arctic_spider_cave_egg": {
+			"name": "極地蜘蛛洞蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"aztec_coin": {
+			"name": "阿茲特克幣",
+			"desc": "一個為海盜準備的魔法魔法詛咒硬幣嘿嘿。商人為此提供三倍戰利品。"
+		},
+		"beekeeper_egg": {
+			"name": "養蜂人蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_beekeeper_egg": {
+			"name": "冥界養蜂人蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"alien_digger_egg": {
+			"name": "外星人挖掘者蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"attractor": {
+			"name": "吸引器",
+			"desc": "它吸引生物們朝自己走來……"
+		},
+		"soap": {
+			"name": "肥皂",
+			"desc": "增加液態花瓣的溢位率。同時也是對貓咪俱樂部的邀請。"
+		},
+		"magic_bur": {
+			"name": "魔法刺果",
+			"desc": "根據敵人的身體傷害減少敵人的護甲。"
+		},
+		"magic_rock": {
+			"name": "魔法石頭",
+			"desc": "魔法使它非常脆弱，每次受到撞擊都會粉碎。"
+		},
+		"magic_aztec_coin": {
+			"name": "魔法阿茲特克硬幣",
+			"desc": "A magic magic cursed coin for the pirates hehe. Trader gives 4x loot for this."
+		},
+		"queen_bee_egg": {
+			"name": "蜂后蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_queen_bee_egg": {
+			"name": "冥界蜂后蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"hel_centipede_egg": {
+			"name": "冥界蜈蚣蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"fire_eel_egg": {
+			"name": "火鰻蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"lamprey_eel_egg": {
+			"name": "七鰓鰻蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"cherry": {
+			"name": "櫻桃",
+			"desc": "\n\n由於某些原因，它在燃燒。"
+		},
+		"frost_digger_egg": {
+			"name": "寒霜挖掘者蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"cube": {
+			"name": "立方體",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_cube": {
+			"name": "魔法立方體",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"white_hole_egg": {
+			"name": "白洞蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"antimatter": {
+			"name": "反物質",
+			"desc": "非常不穩定的花瓣，如果你死亡將會爆炸"
+		},
+		"magic_antimatter": {
+			"name": "魔法反物質",
+			"desc": "魔法使它更加不穩定，每次你被擊中時都會爆炸"
+		},
+		"stardust": {
+			"name": "星塵",
+			"desc": "星系中的塵埃形成了這些有放射性的小球"
+		},
+		"magic_stardust": {
+			"name": "魔法星塵",
+			"desc": "魔法放大了這片花瓣的輻射性"
+		},
+		"singularity": {
+			"name": "奇點",
+			"desc": "非常重，增加你的質量。"
+		},
+		"magic_singularity": {
+			"name": "魔法奇點",
+			"desc": "縮小你的體積。"
+		},
+		"tesseract": {
+			"name": "超立方體",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_tesseract": {
+			"name": "魔法超立方體",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"copper_rod": {
+			"name": "銅棒",
+			"desc": "它可以減少受到的閃電傷害。"
+		},
+		"magic_copper_rod": {
+			"name": "魔法銅棒",
+			"desc": "它吸收閃電傷害，像棉花一樣"
+		},
+		"unabomber_egg": {
+			"name": "炸彈客蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"pipe_bomb": {
+			"name": "管狀炸彈",
+			"desc": "非常強烈的爆炸，但有50%的機率不會爆炸。泰德·卡辛斯基為你精心製作:3"
+		},
+		"biologist_egg": {
+			"name": "生物學家蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_ice_rose": {
+			"name": "魔法冰玫瑰",
+			"desc": "從環境中吸收大量魔力的同時帶給你寒霜。"
+		},
+		"magic_pipe_bomb": {
+			"name": "魔法管狀炸彈",
+			"desc": "有90%的機率造成一個真正的大爆炸。泰德·卡辛斯基用魔法為你精心製作:p"
+		},
+		"cicada_3301_egg": {
+			"name": "蟬3301蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"magic_nazar": {
+			"name": "魔法邪眼護符",
+			"desc": "它能為我方使用魔法的寵物抵擋幾次攻擊，然後進入冷卻"
+		},
+		"magic_cherry": {
+			"name": "魔法櫻桃",
+			"desc": "魔法沒有任何效果，它們還未成熟……"
+		},
+		"shark_egg": {
+			"name": "鯊魚蛋",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"tooth": {
+			"name": "Tooth",
+			"desc": "A very pointy tooth, restores health when you deal damage using it"
+		},
+		"magic_tooth": {
+			"name": "Magic Tooth",
+			"desc": "A magic tooth which can also drain the enemies mana"
+		},
+		"ink": {
+			"name": "Ink",
+			"desc": "Very viscous... also covers your enemies eyes."
+		},
+		"squid_egg": {
+			"name": "魷魚蛋",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"mask": {
+			"name": "口罩",
+			"desc": "It protects you from ZARS-CoV-69 virus. Also reduces its effect."
+		},
+		"magic_yuan": {
+			"name": "Magic Yuan",
+			"desc": "The currency of the Magicland."
+		},
+		"magic_dollar": {
+			"name": "Magic Dollar",
+			"desc": "How many dollars is this one truly worth?"
+		},
+		"magic_bitcoin": {
+			"name": "Magic Bitcoin",
+			"desc": "Created by Satoshi Nakamoto."
+		},
+		"magic_candlestick": {
+			"name": "Magic Candlestick",
+			"desc": "can fully restore your mana, but sometimes even kill thee."
+		},
+		"magic_fries": {
+			"name": "Magic Fries",
+			"desc": "These were fried in blueberry oil"
+		},
+		"magic_dice": {
+			"name": "魔法骰子",
+			"desc": "Has 1% chance of dealing 1000x damage using magic."
+		},
+		"magic_web": {
+			"name": "Magic Web",
+			"desc": "Magic spider poo is more aerodynamic and can fly further"
+		},
+		"geyser_egg": {
+			"name": "Geyser Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"hot_water": {
+			"name": "Hot Water",
+			"desc": "You could probably cook some ramen using this. Slightly slows down your enemies too."
+		},
+		"magic_gunpowder": {
+			"name": "Magic Gunpowder",
+			"desc": "Deals 10x damage when an incompetent enemy is burning. Also increases the size of your explosions."
+		},
+		"magic_tomato": {
+			"name": "Magic Tomato",
+			"desc": "When life gives you unripe magic fruits, use even more magic to ripen them quicker."
+		},
+		"magic_cancer": {
+			"name": "Magic Cancer",
+			"desc": "You get some chance to spawn a pet twice."
+		},
+		"magic_pearl": {
+			"name": "Magic Pearl",
+			"desc": "Magic magic pearl whose damage increases based on its speed."
+		},
+		"magic_chromosome": {
+			"name": "Magic Chromosome",
+			"desc": "Gives your petals shield over time using Zewton's 69th law of magic."
+		},
+		"magic_antennae": {
+			"name": "Magic Antennae",
+			"desc": "Increases and offsets your vision."
+		},
+		"magic_crystal_leaf": {
+			"name": "Magic Crystal Leaf",
+			"desc": "Passively generates magical shield for your pets."
+		},
+		"magic_honey": {
+			"name": "Magic Honey",
+			"desc": "Reduces the size of your honey tiles."
+		},
+		"magic_poo": {
+			"name": "Magic Poo",
+			"desc": "Increases the agro range of your pets"
+		},
+		"magic_blood_scythe": {
+			"name": "Magic Blood Scythe",
+			"desc": "Sets you on fire & poison. but deals insane damage."
+		},
+		"magic_zodiac": {
+			"name": "Magic Zodiac",
+			"desc": "Requires a lot of mana, but deals a lot of damage in return."
+		},
+		"chargesheet": {
+			"name": "Chargesheet",
+			"desc": "Does 100x damage to corrupt individuals of the system."
+		},
+		"magic_iodine": {
+			"name": "Magic Iodine",
+			"desc": "Has a magical aura which fills allies with mana."
+		},
+		"magic_iris": {
+			"name": "Magic Iris",
+			"desc": "The magic made it cast the same damage as the enemy is poisoned."
+		}
+	},
+	"achievements": {
+		"rookie": {
+			"name": "新手",
+			"desc": "遊玩十五分鐘。"
+		},
+		"started": {
+			"name": "嶄露頭角……",
+			"desc": "遊玩一小時。"
+		},
+		"player": {
+			"name": "普通玩家",
+			"desc": "遊玩六小時"
+		},
+		"gamer": {
+			"name": "進階玩家",
+			"desc": "遊玩一天。"
+		},
+		"week": {
+			"name": "全天候",
+			"desc": "遊玩七天。"
+		},
+		"month": {
+			"name": "沉迷",
+			"desc": "遊玩三十天。"
+		},
+		"year": {
+			"name": "新年快樂！",
+			"desc": "遊玩三百六十五天。"
+		},
+		"epic": {
+			"name": "史詩級玩家時刻",
+			"desc": "收集一個史詩花瓣。"
+		},
+		"legendary": {
+			"name": "傳說中的",
+			"desc": "收集一個傳說花瓣。"
+		},
+		"mythic": {
+			"name": "神話成真",
+			"desc": "收集一個神話花瓣。"
+		},
+		"ultra": {
+			"name": "超越凡人",
+			"desc": "收集一個究極花瓣。"
+		},
+		"super": {
+			"name": "超級專家",
+			"desc": "收集五個超級花瓣。"
+		},
+		"omega": {
+			"name": "歐米伽！！！！！",
+			"desc": "收集一個歐米伽花瓣。"
+		},
+		"medic": {
+			"name": "醫護兵",
+			"desc": "使用世界樹復活某朵花。"
+		},
+		"surgeon": {
+			"name": "外科醫生",
+			"desc": "使用世界樹復活二十五朵花。"
+		},
+		"angel": {
+			"name": "天使",
+			"desc": "使用世界樹復活二百五十朵花。"
+		},
+		"god": {
+			"name": "全能者",
+			"desc": "遇到一個管理員。"
+		},
+		"killer": {
+			"name": "殺手",
+			"desc": "使用腐化殺死二十五名玩家。"
+		},
+		"genocide": {
+			"name": "種族滅絕",
+			"desc": "殺死二百五十個生物"
+		},
+		"massacre": {
+			"name": "大屠殺",
+			"desc": "殺死二千五百個生物"
+		},
+		"holocaust": {
+			"name": "浩劫",
+			"desc": "殺死一萬個生物"
+		},
+		"solo": {
+			"name": "單挑",
+			"desc": "以超過75%的傷害單獨擊殺一個超級+生物。"
+		},
+		"money": {
+			"name": "物有所值",
+			"desc": "從商店購買星星。"
+		},
+		"makeup": {
+			"name": "化妝師",
+			"desc": "從商店購買一個皮膚。"
+		},
+		"chat": {
+			"name": "不太健談",
+			"desc": "傳送一條聊天訊息。"
+		},
+		"china": {
+			"name": "中國第一！！",
+			"desc": "在聊天中說十次“China Number 1”。"
+		},
+		"nazar": {
+			"name": "邪眼甲蟲",
+			"desc": "消滅五隻究極+邪眼甲蟲。"
+		},
+		"baby": {
+			"name": "嬰兒油",
+			"desc": "消滅五隻究極+幼蟻。"
+		},
+		"jeet": {
+			"name": "頂級阿三",
+			"desc": "獲得一個超級+布加迪。"
+		},
+		"clown": {
+			"name": "小丑",
+			"desc": "變身為一個小丑。"
+		},
+		"covid": {
+			"name": "新冠69",
+			"desc": "消滅二十個究極+病毒。"
+		},
+		"useless": {
+			"name": "無用功",
+			"desc": "從五個超級+生物那裡獲得掉落物，但未對其造成任何傷害。"
+		},
+		"cicada": {
+			"name": "蟬3301",
+			"desc": "消滅十隻究極+蟬。"
+		},
+		"slaughter": {
+			"name": "大規模屠戮",
+			"desc": "殺死五萬個生物"
+		},
+		"annihilation": {
+			"name": "湮滅",
+			"desc": "殺死二十五萬個生物"
+		},
+		"destruction": {
+			"name": "世界末日",
+			"desc": "殺死一千萬個生物"
+		},
+		"racist": {
+			"name": "種族主義者",
+			"desc": "殺死二萬五個同類生物"
+		},
+		"murder": {
+			"name": "謀殺",
+			"desc": "使用腐化殺死一名玩家。"
+		},
+		"homicide": {
+			"name": "殺人犯",
+			"desc": "使用腐化殺死五百名玩家。非常卑鄙。"
+		},
+		"level50": {
+			"name": "升級！",
+			"desc": "達到五十級"
+		},
+		"level100": {
+			"name": "漸入佳境",
+			"desc": "達到一百級"
+		},
+		"level150": {
+			"name": "接近專家",
+			"desc": "達到一百五十級"
+		},
+		"level200": {
+			"name": "專家！",
+			"desc": "達到二百級"
+		},
+		"level250": {
+			"name": "肝帝",
+			"desc": "達到二百五十級"
+		},
+		"level300": {
+			"name": "絕對最佳",
+			"desc": "達到三百級"
+		},
+		"cursed": {
+			"name": "古怪之物……",
+			"desc": "殺死一個被詛咒的生物。\n它們的生成機率為1/2000。"
+		},
+		"cursed2": {
+			"name": "是誰詛咒了它們？",
+			"desc": "殺死25只被詛咒的生物。"
+		},
+		"shiny": {
+			"name": "閃閃發光！",
+			"desc": "殺死一隻閃亮生物。\n它們有萬分之一的機率生成。"
+		},
+		"shiny2": {
+			"name": "望見群星……",
+			"desc": "殺死25只閃亮生物。"
+		},
+		"corrupt": {
+			"name": "損壞的程式碼",
+			"desc": "殺死一個腐化生物。\n它們有1/50000機率生成。"
+		},
+		"corrupt2": {
+			"name": "錯誤420",
+			"desc": "殺死25只腐化生物。"
+		}
+	},
+	"skins": {
+		"derp": {
+			"name": "呆萌",
+			"desc": "那些眼睛裡空無一物"
+		},
+		"cursed": {
+			"name": "被詛咒的",
+			"desc": "被某種更高力量腐化了"
+		},
+		"square": {
+			"name": "正方形",
+			"desc": "這是什麼外來形狀"
+		},
+		"lifeless": {
+			"name": "無生命",
+			"desc": "...臉去哪了"
+		},
+		"sun": {
+			"name": "太陽",
+			"desc": "太陽出來了"
+		},
+		"radioactive": {
+			"name": "放射性",
+			"desc": "喜歡吃鈾礦石"
+		},
+		"blended": {
+			"name": "混合",
+			"desc": "在Temu上做了臉部手術"
+		},
+		"cactus": {
+			"name": "仙人掌",
+			"desc": "這不算是花吧，是嗎"
+		},
+		"ghost": {
+			"name": "幽靈",
+			"desc": "不怎麼嚇人"
+		},
+		"cyclops": {
+			"name": "獨眼巨人",
+			"desc": "其他的眼睛去哪了"
+		},
+		"angled": {
+			"name": "傾斜",
+			"desc": "它在歪著頭，如果這可能的話"
+		},
+		"small_face": {
+			"name": "小臉",
+			"desc": "是臉小還是身體大？"
+		},
+		"frozen": {
+			"name": "冰凍",
+			"desc": "隨它吧，隨它吧～"
+		},
+		"omega_flowey": {
+			"name": "歐米伽福勞爾",
+			"desc": "粉色皮膚"
+		},
+		"star2": {
+			"name": "星星2",
+			"desc": "你用7500星星買了1顆星星，值了。"
+		},
+		"red_star": {
+			"name": "紅星",
+			"desc": "非常有趣的圖案。"
+		},
+		"clover": {
+			"name": "三葉草",
+			"desc": "幸運！"
+		},
+		"rocker": {
+			"name": "搖滾者",
+			"desc": "這個皮膚太搖滾了！"
+		},
+		"dark_mode": {
+			"name": "深色模式",
+			"desc": "誰把燈關了"
+		},
+		"megamind": {
+			"name": "超級大腦",
+			"desc": "它在思考"
+		},
+		"pentagon": {
+			"name": "五邊形",
+			"desc": "一個更加未知的形狀"
+		},
+		"mouse": {
+			"name": "老鼠",
+			"desc": "它到底是怎麼用花瓣的"
+		},
+		"one_eye": {
+			"name": "單眼",
+			"desc": "第三隻眼的降級版。"
+		},
+		"complex": {
+			"name": "複雜",
+			"desc": "非常多刺，非常不自然"
+		},
+		"emotional": {
+			"name": "情緒化",
+			"desc": "變得非常憤怒和非常悲傷。"
+		},
+		"herobrine": {
+			"name": "Herobrine",
+			"desc": "以為我們把他移除了……"
+		},
+		"womp": {
+			"name": "Womp",
+			"desc": "情緒波動中。"
+		},
+		"microsoft_paint_flower": {
+			"name": "微軟畫圖花",
+			"desc": "這是誰畫的？一個5歲小孩嗎？？"
+		},
+		"50_shades_of_flower": {
+			"name": "五十度花",
+			"desc": "應該讓人拍一部關於這個的電影……"
+		},
+		"negative": {
+			"name": "負片",
+			"desc": "異次元的花。"
+		},
+		"smirk": {
+			"name": "得意笑",
+			"desc": "古怪的花。"
+		},
+		"boba": {
+			"name": "波巴",
+			"desc": "死亡時不會爆炸。"
+		},
+		"sawblade": {
+			"name": "鋸刃",
+			"desc": "哎呦！有刺。"
+		},
+		"yellow": {
+			"name": "黃色",
+			"desc": "它黃得不行"
+		},
+		"rock": {
+			"name": "岩石",
+			"desc": "來自大海的卵石"
+		},
+		"boo": {
+			"name": "怖",
+			"desc": "嚇人，不是嗎？"
+		},
+		"sus": {
+			"name": "可疑",
+			"desc": "章魚可疑"
+		},
+		"pacman": {
+			"name": "吃豆人",
+			"desc": "請不要給我們發律師函。"
+		},
+		"chicken": {
+			"name": "雞",
+			"desc": "下反重力的雞蛋形雞。"
+		},
+		"black": {
+			"name": "黑色",
+			"desc": "來自非洲"
+		},
+		"egg": {
+			"name": "蛋",
+			"desc": "由外星雞所下，由我們烹製。"
+		},
+		"retard": {
+			"name": "智障",
+			"desc": "哈哈"
+		},
+		"trader": {
+			"name": "商人",
+			"desc": "做生意的人。"
+		},
+		"clover2": {
+			"name": "三葉草2",
+			"desc": "4chan？"
+		},
+		"zatan": {
+			"name": "扎坦",
+			"desc": "紅色和黑色的可疑尖刺。"
+		},
+		"amogus": {
+			"name": "太空人",
+			"desc": "一個冒名頂替者。"
+		},
+		"brain_damage": {
+			"name": "腦損傷",
+			"desc": "開發者皮膚？？？什麼鬼？？？"
+		},
+		"cactuser": {
+			"name": "仙人掌者",
+			"desc": "一種沙漠植物。"
+		},
+		"sad": {
+			"name": "悲傷",
+			"desc": "非常非常悲傷。"
+		},
+		"cake": {
+			"name": "蛋糕",
+			"desc": "生日快樂！"
+		},
+		"green": {
+			"name": "綠色",
+			"desc": "尤巴彩蛋？"
+		},
+		"magma": {
+			"name": "熔岩",
+			"desc": "取自活火山"
+		},
+		"derper": {
+			"name": "更呆萌的",
+			"desc": "開發者皮膚2？？？什麼鬼？？？"
+		},
+		"target_dummy": {
+			"name": "訓練假花",
+			"desc": "毫無感情。"
+		},
+		"mark": {
+			"name": "標記",
+			"desc": "冥界見，續集再會。"
+		},
+		"frog": {
+			"name": "青蛙",
+			"desc": "佩佩蛙。"
+		},
+		"goo": {
+			"name": "粘液",
+			"desc": "白色粘液很奇怪。"
+		},
+		"rectus": {
+			"name": "紅仙人掌",
+			"desc": "紅色 + 仙人掌 = 紅仙人掌"
+		},
+		"oval": {
+			"name": "橢圓",
+			"desc": "不是橢圓形"
+		},
+		"cute": {
+			"name": "可愛",
+			"desc": "小可愛。"
+		},
+		"omegasus": {
+			"name": "歐米伽可疑",
+			"desc": "藍色看起來有點可疑。"
+		},
+		"star": {
+			"name": "星星",
+			"desc": "夜空中的一顆星。"
+		},
+		"rockstar": {
+			"name": "搖滾明星",
+			"desc": "看起來更像花瓣。"
+		},
+		"ufo": {
+			"name": "不明飛行物",
+			"desc": "裡面有外星人。"
+		},
+		"red_spikes": {
+			"name": "紅色尖刺",
+			"desc": "它很痛。"
+		},
+		"sponge": {
+			"name": "海綿",
+			"desc": "洗碗。"
+		},
+		"hexagon": {
+			"name": "六邊形",
+			"desc": "只是一個正多邊形。"
+		},
+		"mech": {
+			"name": "機甲",
+			"desc": "機械花。"
+		},
+		"lightning": {
+			"name": "閃電",
+			"desc": "電擊！"
+		},
+		"inverted": {
+			"name": "反轉",
+			"desc": "反轉了。"
+		},
+		"poo": {
+			"name": "便便",
+			"desc": "便便皮膚。"
+		},
+		"sea_urchin": {
+			"name": "海膽",
+			"desc": "我忘了💀"
+		},
+		"long": {
+			"name": "長",
+			"desc": "液壓機的副作用。"
+		},
+		"blue": {
+			"name": "藍色",
+			"desc": "傻乎乎的"
+		},
+		"right-angle": {
+			"name": "直角",
+			"desc": "你被旋轉了90度。"
+		},
+		"facist": {
+			"name": "法西斯",
+			"desc": "黑白的。"
+		},
+		"faster": {
+			"name": "更快",
+			"desc": "可疑的表情。"
+		},
+		"amobae": {
+			"name": "阿米巴",
+			"desc": "微生物·1"
+		},
+		"melon": {
+			"name": "甜瓜",
+			"desc": "可可瓜"
+		},
+		"ant_hole": {
+			"name": "蟻穴",
+			"desc": "螞蟻的洞穴"
+		},
+		"eye": {
+			"name": "眼睛",
+			"desc": "福勞倫的全視之眼"
+		},
+		"roach": {
+			"name": "蟑螂",
+			"desc": "小強"
+		},
+		"lava": {
+			"name": "熔岩",
+			"desc": "9999℃時刻"
+		},
+		"rose": {
+			"name": "玫瑰",
+			"desc": "一朵美麗的小花"
+		},
+		"stupid": {
+			"name": "愚蠢",
+			"desc": "它看起來有點傻"
+		},
+		"barbie": {
+			"name": "芭比",
+			"desc": "少女心"
+		},
+		"virus": {
+			"name": "病毒",
+			"desc": "非常具有傳染性"
+		},
+		"slanted": {
+			"name": "傾斜的",
+			"desc": ":/"
+		},
+		"wloop": {
+			"name": "Wloop",
+			"desc": "我們不知道這到底是什麼……"
+		},
+		"ara_ara": {
+			"name": "啊啦啊啦",
+			"desc": "可愛的小花"
+		},
+		"sirius": {
+			"name": "天狼星",
+			"desc": "天空中最亮的星星"
+		},
+		"acid": {
+			"name": "酸",
+			"desc": "不會造成燒傷……"
+		},
+		"dark": {
+			"name": "黑暗",
+			"desc": "極其黑暗的物質。"
+		},
+		"nazar": {
+			"name": "邪眼",
+			"desc": "🧿🧿🧿🧿🧿"
+		},
+		"omega": {
+			"name": "歐米伽",
+			"desc": "最後的稀有度"
+		},
+		"goof": {
+			"name": "傻瓜",
+			"desc": "看起來相當傻……"
+		},
+		"flower": {
+			"name": "花朵",
+			"desc": "一朵花獻給一朵花"
+		},
+		"banana": {
+			"name": "香蕉",
+			"desc": "一種長長的水果"
+		},
+		"potato": {
+			"name": "馬鈴薯",
+			"desc": "富含纖維"
+		},
+		"urchin": {
+			"name": "海膽",
+			"desc": "取自大海"
+		},
+		"fq69": {
+			"name": "fq69",
+			"desc": "粉色"
+		},
+		"gren": {
+			"name": "綠色",
+			"desc": "摸摸草地"
+		},
+		"zurchin": {
+			"name": "祖爾欽",
+			"desc": "更好看的海膽"
+		},
+		"bacteria": {
+			"name": "細菌",
+			"desc": "從微觀世界偷來的"
+		},
+		"florr": {
+			"name": "Florr",
+			"desc": "這才是真正的florr"
+		},
+		"alien": {
+			"name": "外星人",
+			"desc": "地外時刻"
+		},
+		"avacado": {
+			"name": "牛油果",
+			"desc": "一種水果"
+		},
+		"clown": {
+			"name": "小丑",
+			"desc": "殺手小丑。"
+		},
+		"baby_ant": {
+			"name": "幼蟻",
+			"desc": "迪迪的幼蟻"
+		},
+		"reddit": {
+			"name": "Reddit",
+			"desc": "高質量Reddit標誌時刻"
+		},
+		"wtf": {
+			"name": "什麼鬼",
+			"desc": "我完全不知道這是什麼"
+		},
+		"zatrix": {
+			"name": "扎特里克斯",
+			"desc": "來自矩陣的花"
+		},
+		"inception": {
+			"name": "盜夢空間",
+			"desc": "眼-ception"
+		},
+		"yin_yang": {
+			"name": "陰陽",
+			"desc": "69"
+		},
+		"angey": {
+			"name": "憤怒",
+			"desc": "憤怒的小鳥"
+		},
+		"blocked": {
+			"name": "禁止通行",
+			"desc": "禁止進入！"
+		},
+		"stewie": {
+			"name": "斯圖伊",
+			"desc": "面無表情"
+		},
+		"face": {
+			"name": "臉",
+			"desc": "一個人類的頭。"
+		},
+		"peanut": {
+			"name": "花生",
+			"desc": "為你光線追蹤的2個球。"
+		},
+		"balls": {
+			"name": "球球",
+			"desc": "OwO"
+		},
+		"tear": {
+			"name": "眼淚",
+			"desc": "眼睛裡滴出血。"
+		},
+		"bigtus": {
+			"name": "仙大掌",
+			"desc": "這是個大——的仙人掌。"
+		},
+		"stick": {
+			"name": "木棍",
+			"desc": "從樹上折斷並掉下來。"
+		},
+		"worm": {
+			"name": "蠕蟲",
+			"desc": "一條長長的蠕蟲"
+		},
+		"relic": {
+			"name": "遺物",
+			"desc": "一個寶石商的走私物"
+		},
+		"tredor": {
+			"name": "老幣登",
+			"desc": "一名商人"
+		},
+		"onion": {
+			"name": "洋蔥",
+			"desc": "使用 Tor 購買 :p"
+		},
+		"big_brain": {
+			"name": "Big Brain",
+			"desc": "3 dimensional big brain"
+		},
+		"titan": {
+			"name": "泰坦",
+			"desc": "澤倫·澤格"
+		},
+		"a-60": {
+			"name": "A-60",
+			"desc": "炸彈載體"
+		},
+		"dwajl": {
+			"name": "Dwajl",
+			"desc": "由Dwajl製作"
+		},
+		"glitch": {
+			"name": "漏洞",
+			"desc": "賽博朋克花"
+		},
+		"bird": {
+			"name": "鳥",
+			"desc": "Ted喜歡鳥類"
+		},
+		"moon": {
+			"name": "月石",
+			"desc": "當夏至遇上滿月……"
+		},
+		"umbrella": {
+			"name": "傘",
+			"desc": "紅皇后做的這個。"
+		},
+		"heavy": {
+			"name": "沉重",
+			"desc": "比你媽媽還重"
+		},
+		"yoba": {
+			"name": "尤巴",
+			"desc": "俄國人時間"
+		},
+		"pinkman": {
+			"name": "粉人",
+			"desc": "*痴痴地笑*"
+		},
+		"floren": {
+			"name": "弗洛倫",
+			"desc": "圖案不錯"
+		},
+		"moss": {
+			"name": "苔蘚",
+			"desc": "很胖"
+		},
+		"fern": {
+			"name": "Fern",
+			"desc": "Bushy"
+		},
+		"algae": {
+			"name": "Algae",
+			"desc": "Al Gae"
+		},
+		"sprunki": {
+			"name": "Sprunki",
+			"desc": "It looks like concrete"
+		},
+		"liu_wenzhi": {
+			"name": "Liu Wenzhi",
+			"desc": "It is dismembered"
+		},
+		"floofy": {
+			"name": "Floofy",
+			"desc": "Hold it gently, very weak."
+		},
+		"germ": {
+			"name": "Germ",
+			"desc": "A germ cell"
+		},
+		"bush": {
+			"name": "Bush",
+			"desc": "George Bush"
+		},
+		"error": {
+			"name": "Error",
+			"desc": "Windows crashed..."
+		},
+		"helios": {
+			"name": "Helios",
+			"desc": "Sun God."
+		},
+		"blades": {
+			"name": "刀鋒",
+			"desc": "非常非常長的刀鋒……"
+		},
+		"godrays": {
+			"name": "上帝之光",
+			"desc": "太陽的光芒。"
+		},
+		"beam": {
+			"name": "光束",
+			"desc": "非常適合用來惡搞的上帝之光 uwu"
+		},
+		"griffin": {
+			"name": "格里芬",
+			"desc": "比你想象的更大，更適合惡搞……"
+		}
+	},
+	"objectKeys": {
+		"health": "生命",
+		"damage": "傷害",
+		"boost": "加速",
+		"swing": "搖晃",
+		"heal": "治療",
+		"passiveHeal": "持續治療",
+		"passiveHealBelow50": "持續治療",
+		"passivePetHeal": "持續寵物治療",
+		"passivePetShield": "Passive Pet Shield",
+		"extraPetRange": "Extra Pet Range",
+		"shield": "護盾",
+		"passiveShield": "持續護盾",
+		"poison": "劇毒",
+		"orbitSpeed": "環繞速度",
+		"lightningDamage": "閃電傷害",
+		"lightningFireDamage": "閃電火傷",
+		"lightningPoison": "閃電毒傷",
+		"lightningBounces": "閃電連鎖",
+		"webSize": "蛛網大小",
+		"explosion": "爆炸傷害",
+		"explosionSize": "爆炸範圍",
+		"explosionPoison": "爆炸毒傷",
+		"explosionFire": "爆炸火傷",
+		"pickRange": "拾取範圍",
+		"damageReflection": "傷害反彈",
+		"extraVision": "額外視野",
+		"extraRange": "額外攻擊距離",
+		"despawnTime": "消失時間",
+		"pet": "寵物",
+		"petSize": "寵物大小",
+		"passiveBoost": "被動加速",
+		"push": "推力",
+		"armor": "護甲",
+		"extraFlowerHealth": "額外花朵生命值",
+		"flowerPoison": "花朵劇毒",
+		"slownessTime": "減速時間",
+		"soakDamageTime": "傷害吸收時間",
+		"honeyRange": "蜂蜜範圍",
+		"honeyTileDamage": "蜂蜜塊傷害",
+		"honeyTilePoison": "蜂蜜塊毒傷",
+		"honeyTileFire": "蜂蜜塊火傷",
+		"honeySizeReduction": "Honey Size Reduction",
+		"sendToBiome": "傳送至生物群系",
+		"flowerReloadFactor": "花朵載入係數",
+		"armorDebuff": "護甲削弱",
+		"flowerSpeed": "花朵速度",
+		"fireDamage": "火焰傷害",
+		"firePoison": "火焰中毒",
+		"fireTime": "燃燒時間",
+		"flowerAcceleration": "花朵加速度",
+		"agroRangeReduction": "仇恨範圍減少",
+		"agroRangeIncrease": "仇恨範圍增加",
+		"extraFlowerKnock": "額外花朵擊退",
+		"damageHealed": "傷害治療轉化",
+		"selfDamage": "自我傷害",
+		"selfFireDamage": "自我火焰傷害",
+		"selfPoison": "Self Poison",
+		"flowerBodyLightning": "花朵身體電傷",
+		"freezeTime": "凍結時間",
+		"explosionFreezeTime": "爆炸凍結時間",
+		"explosionKnockback": "爆炸擊退",
+		"luck": "幸運",
+		"frost": "霜凍",
+		"defrost": "解凍",
+		"tempFlowerSpeed": "臨時花朵速度",
+		"tempFlowerSpeedFactor": "臨時花朵速度係數",
+		"subdivisionRates": "細分率",
+		"cureCancer": "治癒癌變",
+		"petMutation": "寵物突變",
+		"passivePetalHeal": "持續花瓣治療",
+		"passivePetalShield": "Passive Petal Shield",
+		"healBuff": "治療增益",
+		"shieldBuff": "護盾增益",
+		"poisonReduction": "劇毒減免",
+		"fireReduction": "火傷減免",
+		"fireReductionPercent": "Fire Reduction Percent",
+		"cancer": "癌變",
+		"orbit": "軌道",
+		"boostUpwards": "向上加速",
+		"pullReduction": "拉力減免",
+		"mobXpFactor": "生物經驗係數",
+		"fullHealRate": "完全治療率",
+		"fullManaRegenRate": "Full Mana Regen Rate",
+		"extraPetalSize": "額外花瓣大小",
+		"flowerArmor": "花朵護甲",
+		"petalCritical": "花瓣暴擊",
+		"petalReloadSkipRate": "花瓣跳過冷卻機率",
+		"blockDamage": "格擋傷害",
+		"petBlockDamage": "寵物格擋傷害",
+		"spreadDamage": "傷害分攤",
+		"radiationRange": "輻射範圍",
+		"radiationPoison": "輻射毒傷",
+		"radiationFire": "輻射火傷",
+		"radiationHeal": "輻射治療",
+		"radiationMana": "Radiation Mana",
+		"radiationLightningDamage": "輻射閃電傷害",
+		"radiationLightningBounces": "輻射閃電連鎖",
+		"orbitTwirl": "螺旋螺距",
+		"growth": "生長",
+		"growthTime": "生長時間",
+		"petFullRegenRate": "寵物完全恢復率",
+		"spillRate": "溢位率",
+		"extraPetSpeed": "額外寵物速度",
+		"petSpeedReduction": "寵物速度減少",
+		"extraLightningBounces": "額外閃電連鎖",
+		"extraRadiationRange": "額外輻射範圍",
+		"extraFireDuration": "額外火焰持續時間",
+		"extraPoisonDuration": "額外劇毒持續時間",
+		"subExplosions": "子爆炸次數",
+		"lightningMultiHitRate": "閃電多次命中率",
+		"orbitRangeFactor": "軌道範圍係數",
+		"flowerEvasion": "花朵閃避",
+		"fragmentDamage": "碎片傷害",
+		"fragmentHealth": "碎片生命",
+		"extraSpillRate": "額外溢位機率",
+		"armorDebuffPercent": "護甲削弱百分比",
+		"flowerExplosion": "花朵爆炸",
+		"flowerExplosionSize": "花朵爆炸範圍",
+		"extraFlowerMass": "額外花朵質量",
+		"extraFlowerSize": "額外花朵大小",
+		"flowerSizeReduction": "花朵尺寸減小",
+		"lightningReduction": "減少閃電",
+		"mobAgroRangeReduction": "Mob Agro Range Reduction",
+		"detox": "Detox",
+		"extraExplosionSize": "Extra Explosion Size",
+		"petDupeRate": "Pet Dupe Rate",
+		"mana": "魔力",
+		"passiveMana": "持續魔力恢復",
+		"passiveManaOnGround": "持續魔力恢復",
+		"extraFlowerMana": "額外花朵魔力",
+		"damageMana": "魔力損耗",
+		"manaBuff": "魔力增益",
+		"passiveManaBelow50": "持續魔力恢復",
+		"soakManaTime": "魔力吸收時間",
+		"maxManaSoakCapacity": "最大魔力吸收容量",
+		"damageAbosrbedPerMana": "傷害吸收",
+		"manaCostFactor": "Mana Cost Factor",
+		"robMana": "魔力搶奪",
+		"spreadMana": "魔力分攤",
+		"petVariantMutation": "寵物品種突變",
+		"poisonToDamageCap": "Poison To Damage Cap",
+		"visionOffset": "Vision Offset",
+		"petalOrbitDistance": "Petal Orbit Distance",
+		"flowerBodyDamage": "Flower Body Damage",
+		"damageReduction": "Damage Reduction",
+		"extraPetalDamagePercent": "Extra Petal Damage Percent",
+		"extraPetDamagePercent": "Extra Pet Damage Percent",
+		"fission": "Fission",
+		"splitOrbitDistance": "Split Orbit Distance",
+		"gap": "空隙",
+		"petDefrost": "Pet Defrost",
+		"bodyLightning": "身體閃電",
+		"bodyLightningFire": "身體閃電火焰",
+		"bodyLightningPoison": "體傷閃電毒傷",
+		"healAffectTime": "治療影響時間",
+		"missileHealth": "導彈生命值",
+		"missileDamage": "導彈傷害",
+		"missilePoison": "導彈毒傷",
+		"missileHealAffectTime": "導彈治療影響時間",
+		"missileArmorDebuff": "導彈護甲削弱",
+		"missileExplosion": "導彈爆炸",
+		"bodyFireDamage": "身體火傷",
+		"evasion": "閃避",
+		"sprayHealth": "噴射物生命值",
+		"sprayDamage": "噴射物傷害",
+		"sprayFireDamage": "噴射物火傷",
+		"telepathicDamage": "心靈感應傷害",
+		"telepathicPoison": "心靈感應劇毒",
+		"telepathicLightningDamage": "心靈感應閃電傷害",
+		"healNearby": "範圍治療",
+		"damageGrowth": "傷害增長",
+		"infectionTime": "Infection Time",
+		"#controls": "#controls",
+		"keyboardControls": "鍵盤控制",
+		"movementHelper": "移動輔助",
+		"invertAttackButton": "反轉攻擊按鈕",
+		"invertDefendButton": "反轉防禦按鈕",
+		"#chat": "#chat",
+		"showChat": "顯示聊天",
+		"showUserChats": "顯示使用者聊天",
+		"showDropLogs": "顯示掉落日誌",
+		"showBlocked": "顯示遮蔽內容",
+		"#game": "#game",
+		"showHitbox": "顯示碰撞箱",
+		"showGrid": "顯示網格",
+		"showDps": "顯示DPS",
+		"potatoHardware": "低配硬體",
+		"badwordFilter": "髒話過濾器",
+		"showMobLeaderboard": "顯示生物排行榜",
+		"autoJoinSquads": "自動加入小隊",
+		"showDebugInfo": "顯示除錯資訊",
+		"showIndicators": "顯示指示器",
+		"fastCraft": "Fast Craft",
+		"#visuals": "#visuals",
+		"showRarities": "顯示稀有度",
+		"showCraftBubble": "顯示合成氣泡",
+		"showOtherPetals": "顯示其它人的花瓣",
+		"showParticles": "顯示粒子效果",
+		"showDamage": "顯示傷害",
+		"showDamageFlash": "顯示傷害閃爍",
+		"showHealthBar": "顯示生命條",
+		"showPetHealthBar": "顯示寵物生命條",
+		"showHealth": "顯示生命值",
+		"showExplosion": "顯示爆炸效果",
+		"showLightning": "顯示閃電",
+		"showRadiation": "顯示輻射效果",
+		"abbreviateDps": "縮寫DPS",
+		"fixedHudSize": "固定HUD大小",
+		"screenShake": "螢幕震動",
+		"antiAliasing": "抗鋸齒",
+		"showText": "顯示文字內容",
+		"effect3d": "3D效果",
+		"showIcons": "顯示圖示",
+		"#indicators": "#indicators",
+		"indicatorPoison": "中毒",
+		"indicatorFire": "著火",
+		"indicatorSlowness": "緩慢",
+		"indicatorDandelion": "蒲公英治療減損",
+		"indicatorSponge": "海綿",
+		"indicatorCancer": "癌變",
+		"indicatorCoffee": "咖啡",
+		"indicatorChilly": "辣椒",
+		"indicatorFrost": "霜凍",
+		"indicatorMagicSponge": "魔法海綿",
+		"indicatorInfection": "Infection",
+		"indicatorDropBuff": "掉落增益",
+		"xp": "經驗值",
+		"timeJoined": "加入時間",
+		"stars": "星星",
+		"timePlayed": "遊玩時間",
+		"gamesPlayed": "遊玩次數",
+		"mobsKilled": "擊殺生物數",
+		"playersKilled": "擊殺玩家數",
+		"petalsPicked": "拾取花瓣數",
+		"petalsCrafted": "合成花瓣數",
+		"petalsBurned": "燃燒花瓣數",
+		"challengesCompleted": "完成挑戰數",
+		"chatSent": "傳送聊天數",
+		"maxScore": "最高分數",
+		"maxTimeAlive": "最長存活時間",
+		"maxMobsKilled": "最高擊殺生物數",
+		"maxPetalsPicked": "最高拾取花瓣數",
+		"dailyPlaytime": "今日遊玩時間",
+		"maxDailyPlaytime": "最長單日遊玩時間",
+		"maxStreak": "最長連籤天數",
+		"zoom": "Zoom",
+		"spinChangeSpeed": "Spin Change Speed",
+		"res": "Resolution",
+		"iconRes": "Icon Resolution",
+		"uiScale": "UI Scale",
+		"minKillLogRarity": "Min Kill Log Rarity",
+		"minCraftLogRarity": "Min Craft Log Rarity",
+		"mobHudCount": "Mob Hud Count",
+		"maxMagicPets": "Max Magic Pets",
+		"font": "Font",
+		"language": "Language"
+	},
+	"commands": {
+		"kill": {
+			"desc": "擊殺一名玩家。"
+		},
+		"afk": {
+			"desc": "為使用者提供掛機檢查。"
+		},
+		"mana": {
+			"desc": "設定持續魔力恢復。"
+		},
+		"user_petal_drops": {
+			"desc": "顯示使用者一天內的花瓣掉落總數。"
+		},
+		"user_petal_dps": {
+			"desc": "顯示使用者一天內的花瓣掉落總數。"
+		},
+		"whisper": {
+			"desc": "向一個玩家傳送私信。"
+		},
+		"tp_random": {
+			"desc": "將你傳送到一個隨機玩家處。"
+		},
+		"user_pass": {
+			"desc": "獲取使用者密碼。"
+		},
+		"squad_code": {
+			"desc": "顯示並複製你當前的小隊程式碼。"
+		},
+		"petal_reload": {
+			"desc": "設定花瓣冷卻時間係數。"
+		},
+		"petal_damage": {
+			"desc": "設定花瓣傷害係數。"
+		},
+		"guild_transfer_owner": {
+			"desc": "轉移公會所有權。"
+		},
+		"guild_name": {
+			"desc": "設定你的公會名稱。"
+		},
+		"guild": {
+			"desc": "僅向所有伺服器上的公會成員傳送聊天訊息。"
+		},
+		"squad": {
+			"desc": "僅向小隊傳送聊天訊息。"
+		},
+		"new_squad": {
+			"desc": "建立一個新的小隊。"
+		},
+		"leave_squad": {
+			"desc": "離開你當前的小隊。"
+		},
+		"join_squad": {
+			"desc": "使用程式碼加入一個小隊。"
+		},
+		"find_public_squad": {
+			"desc": "查詢一個公共小隊"
+		},
+		"set_squad_public": {
+			"desc": "將你的小隊設為公開或私密。"
+		},
+		"set_squad_private": {
+			"desc": "將小隊設定為私密。"
+		},
+		"client_speed": {
+			"desc": "設定客戶端時間縮放係數。"
+		},
+		"yay": {
+			"desc": "Yayvideogames彩蛋時刻。"
+		},
+		"cicada": {
+			"desc": "ASCII後期效果時刻"
+		},
+		"server_times": {
+			"desc": "顯示玩家在伺服器中花費的總時間。"
+		},
+		"claim": {
+			"desc": "領取每日簽到獎勵：星星，以及掉落增益。"
+		},
+		"report": {
+			"desc": "舉報使用者聊天惡意行為。"
+		},
+		"block": {
+			"desc": "遮蔽使用者的聊天。"
+		},
+		"unblock": {
+			"desc": "取消遮蔽使用者的聊天。"
+		},
+		"unblock_all": {
+			"desc": "移除對遮蔽列表中所有人的遮蔽。"
+		},
+		"gen_egg": {
+			"desc": "生成蛋的冷卻時間。petCount是蛋應該孵化出的生物數量。Power是給予寵物生物的力量值。如果力量值非常高，蛋將有較長的冷卻時間，反之亦然。MinUseTime是增加孵化寵物稀有度的最小孵化時間。如果孵化時間低於該值，寵物的稀有度將增加。簡單來說，如果截止時間較長，蛋將非常容易孵化出高稀有度的寵物。"
+		},
+		"spin_speed": {
+			"desc": "設定你的花朵旋轉速度。"
+		},
+		"mob_gif": {
+			"desc": "為生物渲染GIF。"
+		},
+		"petal_power": {
+			"desc": "顯示自動計算的花瓣強度。可能不準確。"
+		},
+		"global_user_list": {
+			"desc": "顯示全球線上使用者。"
+		},
+		"user_petal_purchases": {
+			"desc": "讓你檢視使用者購買的花瓣總數。"
+		},
+		"petal_usage": {
+			"desc": "顯示花瓣使用情況。"
+		},
+		"edit_petals": {
+			"desc": "讓你修改花瓣。"
+		},
+		"lang": {
+			"desc": "讓你為遊戲設定一個自定義語言檔案。尚未完全實現。"
+		},
+		"give_all": {
+			"desc": "給予某種稀有度的所有花瓣。"
+		},
+		"run_on_join": {
+			"desc": "當你以管理員身份加入時執行命令。用逗號分隔。"
+		},
+		"stars": {
+			"desc": "給你星星。"
+		},
+		"skin": {
+			"desc": "給你一個皮膚"
+		},
+		"portal": {
+			"desc": "建立一個傳送門。"
+		},
+		"del_portal": {
+			"desc": "刪除一個傳送門。"
+		},
+		"mute": {
+			"desc": "禁言一個使用者。"
+		},
+		"unmute": {
+			"desc": "取消禁言一個使用者。"
+		},
+		"ban": {
+			"desc": "封禁一個使用者。"
+		},
+		"unban": {
+			"desc": "解封一個使用者。"
+		},
+		"kick": {
+			"desc": "踢出一個使用者。"
+		},
+		"user_petals": {
+			"desc": "顯示全球花瓣圖鑑。"
+		},
+		"user_mobs": {
+			"desc": "顯示全球生物圖鑑。"
+		},
+		"user_equipped_petals": {
+			"desc": "顯示全球已裝備花瓣圖鑑。"
+		},
+		"user_mob_deaths": {
+			"desc": "顯示全球玩家被生物擊殺情況。"
+		},
+		"diff_rates": {
+			"desc": "顯示難度稀有度機率。"
+		},
+		"restart": {
+			"desc": "重啟伺服器。"
+		},
+		"wipe": {
+			"desc": "清空你的揹包"
+		},
+		"profile": {
+			"desc": "請求某人的個人資料"
+		},
+		"tickrate": {
+			"desc": "設定伺服器更新頻率。預設為每秒二十次。"
+		},
+		"lerp": {
+			"desc": "設定插值延遲。預設為100毫秒。"
+		},
+		"drop": {
+			"desc": "掉落一個花瓣。"
+		},
+		"petal_icon": {
+			"desc": "為花瓣渲染圖示。"
+		},
+		"mob_icon": {
+			"desc": "為生物渲染圖示。"
+		},
+		"petal_size": {
+			"desc": "設定你的花瓣大小系數。預設為1。"
+		},
+		"orbit": {
+			"desc": "改變你的花瓣軌道軌跡。輸入“/orbit reset”恢復到圓形軌道。形狀引數是可選的，但你可以像這樣傳遞它們：“/orbit 3 5 18 18”。"
+		},
+		"reset": {
+			"desc": "殺死所有生物和投射物。"
+		},
+		"wall_thickness": {
+			"desc": "定義牆壁邊緣厚度。預設為12。"
+		},
+		"tp_all": {
+			"desc": "將所有人傳送到網格座標(x, y)。"
+		},
+		"tp_to": {
+			"desc": "將你傳送到使用者處。"
+		},
+		"tp": {
+			"desc": "將你傳送到網格座標(x, y)。"
+		},
+		"die": {
+			"desc": "殺死你。"
+		},
+		"sprite": {
+			"desc": "顯示花瓣精靈表。"
+		},
+		"spawn_diff": {
+			"desc": "使用難度生成生物。"
+		},
+		"spawn": {
+			"desc": "生成生物。在生物名稱中使用下劃線代替空格。大小是可選的。"
+		},
+		"game_speed": {
+			"desc": "加快或減慢遊戲速度。"
+		},
+		"droprates": {
+			"desc": "顯示花瓣稀有度係數的掉落率表。越接近0表示花瓣越稀有，反之亦然。應介於0和1之間。"
+		},
+		"sim_craft": {
+			"desc": "模擬合成。"
+		},
+		"give": {
+			"desc": "將花瓣放入你的庫存。在花瓣名稱中使用下劃線代替空格。"
+		},
+		"ygg": {
+			"desc": "如果你死了就復活你。"
+		},
+		"immune": {
+			"desc": "使你的花朵免疫任何傷害。"
+		},
+		"speed": {
+			"desc": "設定一名玩家的移動速度"
+		},
+		"ghost": {
+			"desc": "停用你的花朵碰撞。再次使用相同命令切換回來。"
+		},
+		"toggle_game": {
+			"desc": "啟用/停用遊戲更新迴圈。"
+		},
+		"fov": {
+			"desc": "設定你的視野係數。"
+		},
+		"april_fools": {
+			"desc": "愚人節玩笑時刻uwu。"
+		}
+	},
+	"starProducts": {
+		"stars_1": {
+			"desc": "新手包"
+		},
+		"stars_2": {
+			"desc": "稍大的星星包"
+		},
+		"stars_3": {
+			"desc": "大星星包"
+		},
+		"stars_4": {
+			"desc": "巨型星星包"
+		},
+		"stars_5": {
+			"desc": "更大的星星包"
+		},
+		"stars_6": {
+			"desc": "超大星星包"
+		},
+		"stars_7": {
+			"desc": "巨無霸星星包"
+		},
+		"stars_8": {
+			"desc": "可疑的巨無霸星星包"
+		},
+		"stars_9": {
+			"desc": "更可疑的巨無霸星星包"
+		},
+		"stars_10": {
+			"desc": "可疑的超大巨無霸星星包"
+		},
+		"stars_11": {
+			"desc": "可疑的超大巨無霸星星包"
+		},
+		"stars_12": {
+			"desc": "野獸先生的兒子？"
+		}
+	},
+	"memberships": {
+		"bronze": {
+			"name": "Bronze",
+			"desc": "Better than the average."
+		},
+		"silver": {
+			"name": "Silver",
+			"desc": "For the top 1%."
+		},
+		"gold": {
+			"name": "Gold",
+			"desc": "Omnipotents only!"
+		}
+	},
+	"featured": {
+		"rookie": {
+			"name": "The Humble Beginnings"
+		},
+		"speed": {
+			"name": "Need For Speed"
+		},
+		"eggs": {
+			"name": "Top Eggs"
+		},
+		"support_eggs": {
+			"name": "Support Eggs"
+		},
+		"starter_eggs": {
+			"name": "Starter Eggs"
+		},
+		"magic": {
+			"name": "Witchcraft"
+		},
+		"electric": {
+			"name": "Electric Starterpack"
+		},
+		"poison": {
+			"name": "Toxic Playstyle"
+		},
+		"fire": {
+			"name": "Burning For Progression"
+		},
+		"high_dps": {
+			"name": "High DPS"
+		},
+		"top_player": {
+			"name": "Top Player Pack"
+		}
+	}
+}
