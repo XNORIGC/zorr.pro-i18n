@@ -1194,7 +1194,7 @@
 		},
 		"laser": {
 			"name": "鐳射",
-			"desc": "可致焦灼"
+			"desc": "Can cause severe burns. Fire stacks."
 		},
 		"mark": {
 			"name": "烙印",
@@ -2495,6 +2495,14 @@
 		"chargesheet": {
 			"name": "Chargesheet",
 			"desc": "Does 100x damage to corrupt individuals of the system."
+		},
+		"magic_iodine": {
+			"name": "Magic Iodine",
+			"desc": "Has a magical aura which fills allies with mana."
+		},
+		"magic_iris": {
+			"name": "Magic Iris",
+			"desc": "The magic made it cast the same damage as the enemy is poisoned."
 		}
 	},
 	"achievements": {
@@ -3412,6 +3420,7 @@
 		"radiationPoison": "輻射附骨毒",
 		"radiationFire": "輻射業火",
 		"radiationHeal": "輻射愈傷",
+		"radiationMana": "Radiation Mana",
 		"radiationLightningDamage": "輻射雷霆之創",
 		"radiationLightningBounces": "輻射雷霆躍",
 		"orbitTwirl": "軌跡旋舞",
@@ -3457,6 +3466,7 @@
 		"robMana": "奪靈力",
 		"spreadMana": "散之靈力",
 		"petVariantMutation": "寵物異變",
+		"poisonToDamageCap": "Poison To Damage Cap",
 		"visionOffset": "Vision Offset",
 		"petalOrbitDistance": "Petal Orbit Distance",
 		"flowerBodyDamage": "Flower Body Damage",
