@@ -1194,7 +1194,7 @@
 		},
 		"laser": {
 			"name": "激光",
-			"desc": "可造成严重烧伤"
+			"desc": "可造成严重烧伤。火焰伤害叠加。"
 		},
 		"mark": {
 			"name": "标记",
@@ -2495,6 +2495,14 @@
 		"chargesheet": {
 			"name": "起诉书",
 			"desc": "对系统中的“腐败”个体造成一百倍伤害。"
+		},
+		"magic_iodine": {
+			"name": "魔法碘",
+			"desc": "有一个能为盟友恢复魔力的魔法光环。"
+		},
+		"magic_iris": {
+			"name": "魔法鸢尾",
+			"desc": "魔法使其造成与敌人中毒所受伤害相同的伤害。"
 		}
 	},
 	"achievements": {
@@ -3412,6 +3420,7 @@
 		"radiationPoison": "辐射毒伤",
 		"radiationFire": "辐射火伤",
 		"radiationHeal": "辐射治疗",
+		"radiationMana": "辐射魔力恢复",
 		"radiationLightningDamage": "辐射电伤",
 		"radiationLightningBounces": "辐射闪电连锁",
 		"orbitTwirl": "轨道螺旋",
@@ -3457,6 +3466,7 @@
 		"robMana": "魔力抢夺",
 		"spreadMana": "魔力分摊",
 		"petVariantMutation": "宠物品种突变",
+		"poisonToDamageCap": "Poison To Damage Cap",
 		"visionOffset": "视野偏移",
 		"petalOrbitDistance": "花瓣轨道距离",
 		"flowerBodyDamage": "花朵身体伤害",
