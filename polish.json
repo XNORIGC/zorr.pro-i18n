@@ -1,0 +1,1752 @@
+{
+	"name": "Polish/Polski by Kube",
+	"ui": {
+		"nickInfo": "Ten Mały kwiatek się nazywa...",
+		"play": "Graj",
+		"connecting": "Łączenie..."
+	},
+	"mobs": {
+		"rock": {
+			"name": "Głaz",
+			"desc": "Zwykły Głaz, nie robi zbyt wiele."
+		},
+		"ladybug": {
+			"name": "Biedronka",
+			"desc": "Słodka i Niegroźna."
+		},
+		"bush": {
+			"name": "Krzak",
+			"desc": "Jdżordż Krzak."
+		},
+		"sponge": {
+			"name": "Gąbka",
+			"desc": "Ulubiony element kobiety."
+		},
+		"cactus": {
+			"name": "Kaktus",
+			"desc": "Bardzo kolczasty kwiatek."
+		},
+		"baby_ant": {
+			"name": "Mrówka Dziecko",
+			"desc": "Mrówka lecz jako dziecko."
+		},
+		"soldier_ant": {
+			"name": "Mrówka Żołnierz",
+			"desc": "Walczy dla wolności."
+		},
+		"worker_ant": {
+			"name": "Mrówka Robotnicza",
+			"desc": "Nie ma zamiaru walczyć."
+		},
+		"queen_ant": {
+			"name": "Królowa Mrówek",
+			"desc": "Królowa elmrówka VI."
+		},
+		"baby_fire_ant": {
+			"name": "Ognista Mrówka Dziecko",
+			"desc": "Ognista Mrówka lecz jako dziecko."
+		},
+		"soldier_fire_ant": {
+			"name": "Ognista Mrówka Żołnierz",
+			"desc": "Walczy dla wolności."
+		},
+		"worker_fire_ant": {
+			"name": "Ognista Mrówka Robotnicza",
+			"desc": "Nie ma zamiaru walczyć."
+		},
+		"queen_fire_ant": {
+			"name": "Ognista Królowa Mrówek",
+			"desc": "Ognista Królowa elmrówka VI."
+		},
+		"mushroom": {
+			"name": "Grzyb",
+			"desc": "Przychodzi z zakażeniem grzybowym."
+		},
+		"jellyfish": {
+			"name": "Meduza",
+			"desc": "Ta morskie zwierze nie jest taka miła jak inne"
+		},
+		"spider": {
+			"name": "Pająk",
+			"desc": "On ma 8 rąk i oczu."
+		},
+		"bee": {
+			"name": "Pszczoła",
+			"desc": "Ona kuje za mocno."
+		},
+		"hornet": {
+			"name": "Szerszeń",
+			"desc": "Certyfikowany strzelec pocisków."
+		},
+		"shell": {
+			"name": "Muszla",
+			"desc": "Certyfikowany strzelec pereł."
+		},
+		"ant_hole": {
+			"name": "Mrowisko",
+			"desc": "W Środku znajdują sie Mrówki."
+		},
+		"fire_ant_hole": {
+			"name": "Ogniste mrowisko",
+			"desc": "W środku znajdują sie Ogniste Mrówki."
+		},
+		"spider_cave": {
+			"name": "Jaskinia Pająków",
+			"desc": "Długa i ciemna jaskinia."
+		},
+		"hive": {
+			"name": "Pszczelisko",
+			"desc": "To jest Disneyland pszczół"
+		},
+		"yoba": {
+			"name": "Yoba",
+			"desc": "Tajemnicza czerwona kreatura."
+		},
+		"spider_yoba": {
+			"name": "Pająk Yoba",
+			"desc": "Tajemnicza różowa kreatura."
+		},
+		"centipede": {
+			"name": "Stonoga",
+			"desc": "Jest bardzo długa."
+		},
+		"desert_centipede": {
+			"name": "Pustynna Stonoga",
+			"desc": "Wygrała złoty medal na igrzyskach olimpijskich."
+		},
+		"evil_centipede": {
+			"name": "Zła Stonoga",
+			"desc": "Nie jesteśmy pewni dlaczego jest zła."
+		},
+		"sunflower": {
+			"name": "Słonecznik",
+			"desc": "Ma on Tarcze."
+		},
+		"boba": {
+			"name": "Boba",
+			"desc": "To exploduje."
+		},
+		"bubble": {
+			"name": "Bańka",
+			"desc": "Pęknij ją szybko."
+		},
+		"m28": {
+			"name": "M28",
+			"desc": "Deweloper gier IO."
+		},
+		"beetle": {
+			"name": "Chrząszcz",
+			"desc": "Bardzo Głodny owad."
+		},
+		"avocado": {
+			"name": "Awokado",
+			"desc": "Bardzo pyszny owoc."
+		},
+		"target_dummy": {
+			"name": "Manekin Treningowy",
+			"desc": "Zabijanie ich to zbrodnia, ta gra ma sekretnie zdobywacza adresu IP i już ciebie zgłosiłem do lokanej władzy, Spowdziewaj sie klupania na drzwiach w ciągu 3-5 minut."
+		},
+		"dark_ladybug": {
+			"name": "Ciemna Biedronka",
+			"desc": "Słodka i niegroźna, lecz ciemna"
+		},
+		"shiny_ladybug": {
+			"name": "Świecąca Biedronka",
+			"desc": "Świecąca, słodka i niegroźna."
+		},
+		"sandstorm": {
+			"name": "Burza piaskowa",
+			"desc": "Potworny piasek."
+		},
+		"scorpion": {
+			"name": "Skorpion",
+			"desc": "Lubi cie orbitować i strzelać."
+		},
+		"starfish": {
+			"name": "Rozgwiazda",
+			"desc": "Ryba celebryta."
+		},
+		"crab": {
+			"name": "Krab",
+			"desc": "Biega za tobą i lubi pieniądze."
+		},
+		"dandelion": {
+			"name": "Dmuchawiec",
+			"desc": "Zdmuchniesz go w mgnieniu oka, lecz uważaj na jego pociski"
+		},
+		"dragon": {
+			"name": "Smok",
+			"desc": "Jego ogień wygląda bardzo gorąco, czuje sie on gorąco też"
+		},
+		"leech": {
+			"name": "Pijawka",
+			"desc": "Czy to wąż z slither.io?"
+		},
+		"nazar_beetle": {
+			"name": "Chrząszcz Nazar",
+			"desc": "Zamienił sie w dzisiejsze dzieła szutki"
+		},
+		"toxic_dragon": {
+			"name": "Toksyczny Smok",
+			"desc": "Ktoś namalował go toksycznymi kolorami"
+		},
+		"hel_worm": {
+			"name": "Pieklista Dżdżownica",
+			"desc": "Szatańska Dżdżownica z gry digworm.io."
+		},
+		"hel_spider": {
+			"name": "Pieklisty Pająk",
+			"desc": "On Ma 8 nog i oczu."
+		},
+		"hel_beetle": {
+			"name": "Pieklisty Chrząszcz",
+			"desc": "Bardzo przerażający szatański owad."
+		},
+		"hel_jellyfish": {
+			"name": "Pieklista Meduza",
+			"desc": "Dlaczego i jak ona ma zęby?"
+		},
+		"tumbleweed": {
+			"name": "Wiatrołom",
+			"desc": "Dźwieki wiatru."
+		},
+		"dragon_nest": {
+			"name": "Gniazdo Smoków",
+			"desc": "Dom Smoków."
+		},
+		"firestorm": {
+			"name": "Ognista Burza",
+			"desc": "Potworny Ogień"
+		},
+		"hel_bee": {
+			"name": "Pieklista Pszczłowa",
+			"desc": "Bardzo ogniste ukucie."
+		},
+		"hel_hornet": {
+			"name": "Pieklisty Szerszeń",
+			"desc": "Certyfikowany Strzelca Ognia."
+		},
+		"bugatti": {
+			"name": "Bugatti",
+			"desc": "Ulubiony Samochów Top Jeeta."
+		},
+		"fly": {
+			"name": "Mucha",
+			"desc": "Jest Obrzydliwa."
+		},
+		"mantis": {
+			"name": "Modliszka",
+			"desc": "Wysztrzeliwuje 3 groszki przebijające pancerz na raz."
+		},
+		"firefly": {
+			"name": "Świetlik",
+			"desc": "Mucha z wysokim napięciem."
+		},
+		"wasp": {
+			"name": "Osa",
+			"desc": "Lubi odstrzeliwać kwiatki z swoimi pociskami."
+		},
+		"stickbug": {
+			"name": "Patyczak",
+			"desc": "Lubi tańczyć."
+		},
+		"snowbush": {
+			"name": "Krzak Śnieżny",
+			"desc": "Krzak który rośnie w zimnych regionach, może też by pokryty śniegiem."
+		},
+		"ice_cube": {
+			"name": "Kostka Lodu",
+			"desc": "Bardzo zimna kostka lodu, dotykanie jej będzie nieprzyjemne."
+		},
+		"snowstorm": {
+			"name": "Burza Śnieżna",
+			"desc": "Śnieżne tornado, Ostre płatki śniegu orbitują w środku."
+		},
+		"arctic_centipede": {
+			"name": "Arktyczna Stonoga",
+			"desc": "Zimno stwardniało ich skóre."
+		},
+		"arctic_spider": {
+			"name": "Akrtyczny Pająk",
+			"desc": "Ten pająk wygląda bardzo *fajny/zimny*"
+		},
+		"ice_dragon": {
+			"name": "Lodowy Smok",
+			"desc": "Oddycha chłodnym powiewem który może zamrozić kwiaty."
+		},
+		"tick": {
+			"name": "Kleszcz",
+			"desc": "Ten stwór mnie denerwuje"
+		},
+		"waterspout": {
+			"name": "Trąba wodna",
+			"desc": "Podwodne tornado"
+		},
+		"urchin": {
+			"name": "Jeżowiec",
+			"desc": "Kolczasta kula patrząca sie na ciebie."
+		},
+		"volcano": {
+			"name": "Wulkan",
+			"desc": "Bardzo duży głaz. Strzela ogniem wszędzie"
+		},
+		"ice_hornet": {
+			"name": "Lodowy szerszeń",
+			"desc": "Zakwaliwikowany strzelec zimnych pocisków"
+		},
+		"virus": {
+			"name": "Wirus",
+			"desc": "Nie dotykaj go!"
+		},
+		"red_blood_cell": {
+			"name": "Czerwona krwinka",
+			"desc": "Dostarcza tlenu tam gdzie go potrzeba"
+		},
+		"bacteria": {
+			"name": "Bakteria",
+			"desc": "Ten stwór sprawia że jestem chory"
+		},
+		"bacteriophage": {
+			"name": "Baketeriofag",
+			"desc": "Matematyczny kujon, lubi dwunastosześciany napełnione trucizną za dużo."
+		},
+		"cancer": {
+			"name": "Rak",
+			"desc": "Bardzo zabójczy, nie myl go z krabem bo nazwie i nie dotykaj go."
+		},
+		"parasite": {
+			"name": "Pasożyt",
+			"desc": "Lubi denerwować swojego gospodarza."
+		},
+		"white_blood_cell": {
+			"name": "Biała krwinka",
+			"desc": "Zwalcza złe rzeczy."
+		}
+	},
+	"petals": {
+		"basic": {
+			"name": "Zwykły",
+			"desc": "Najzwyklejszy płatek w tej grze."
+		},
+		"rose": {
+			"name": "Róża",
+			"desc": "Leczy cie kiedy skonsumowana."
+		},
+		"wing": {
+			"name": "Skrzydło",
+			"desc": "Przychodzi i odchodzi."
+		},
+		"rock": {
+			"name": "Kamień",
+			"desc": "Jest całkiem wytrzmały."
+		},
+		"iris": {
+			"name": "Irys",
+			"desc": "Jest Trujący."
+		},
+		"stinger": {
+			"name": "Żądlo",
+			"desc": "Bardzo wysokie obrażenia."
+		},
+		"honey": {
+			"name": "Miód",
+			"desc": "Wymiociny Pszczół"
+		},
+		"bubble": {
+			"name": "Bańka",
+			"desc": "Pęka i cie przyśpiesza."
+		},
+		"heavy": {
+			"name": "Ciężki",
+			"desc": "Cięższy od twojej starej"
+		},
+		"ying_yang": {
+			"name": "Jin Yang",
+			"desc": "Obraca orbite twoich płatków."
+		},
+		"faster": {
+			"name": "Szybszy",
+			"desc": "Zwiększa szybkość orbity twoich płatków."
+		},
+		"light": {
+			"name": "Lekki",
+			"desc": "Mega bardzo szybki."
+		},
+		"sponge": {
+			"name": "Gąbka",
+			"desc": "Umywa naczynia i nasiąka obrażenia przez czas."
+		},
+		"rice": {
+			"name": "Ryż",
+			"desc": "Tylko dla azjatów."
+		},
+		"yggdrasil": {
+			"name": "Yggdrasil",
+			"desc": "Ożywia nieżywe kwiaty."
+		},
+		"leaf": {
+			"name": "Liść",
+			"desc": "Passywnie leczy cie."
+		},
+		"lightning": {
+			"name": "Piorun",
+			"desc": "Przyzywa uderzenie pioruna na bliskich przeciwników, odbijając sie."
+		},
+		"usain_bolt": {
+			"name": "Usain Bolt",
+			"desc": "Najszybszy biegacz, przyzywa trujący piorun obijający sie od wielu przeciwików."
+		},
+		"cotton": {
+			"name": "Bawełna",
+			"desc": "Pracowania na polu opłaciło sie, pochłania obrażenia."
+		},
+		"web": {
+			"name": "Pajęczyna",
+			"desc": "Upuszcza kupe Pająka która spowalnia przeciwników."
+		},
+		"pollen": {
+			"name": "Pyłek Kwiatowy",
+			"desc": "Upada i zostaje na ziemi."
+		},
+		"shell": {
+			"name": "Skorupa",
+			"desc": "Daje ci ochrone kiedy skonsumowane."
+		},
+		"sunflower": {
+			"name": "Słonecznik",
+			"desc": "Generuje ci tarcze pasywnie."
+		},
+		"bomb": {
+			"name": "Bomba",
+			"desc": "Ekspoduje kiedy dotyka przeciwnika."
+		},
+		"gas_bomb": {
+			"name": "Bomba Gazowa",
+			"desc": "Eksploduje i zatruwa przeciwników."
+		},
+		"missile": {
+			"name": "Pocisk",
+			"desc": "Buntownicze żądło które odlatuje od ciebie."
+		},
+		"viper": {
+			"name": "Trujący Pocisk",
+			"desc": "Nie wiemy jakim cudem jest trujący."
+		},
+		"rocket": {
+			"name": "Rakieta",
+			"desc": "Szybka i eskplodująca."
+		},
+		"electron_missile": {
+			"name": "Pocisk Elektronowy",
+			"desc": "Jest pełne wściekłych elektronów i poprądzi wszystko na swojej drodze"
+		},
+		"magnet": {
+			"name": "Magnes",
+			"desc": "Przyciąga Wszystkie rzeczy pokonanych przeciwników."
+		},
+		"salt": {
+			"name": "Sól",
+			"desc": "Odbija obrażenia zadane twojemu kwiatu do przeciwnika"
+		},
+		"antennae": {
+			"name": "Antena",
+			"desc": "Powiększa twoje pole widzenia."
+		},
+		"third_eye": {
+			"name": "Trzecie Oko",
+			"desc": "Zwiększa zasięg twoich płatków."
+		},
+		"dmca": {
+			"name": "DMCA",
+			"desc": "Amerykańskie prawo autorskie które sprawiają że potwory tej samej lub niższej rzadkości tego płatka znikają."
+		},
+		"rock_egg": {
+			"name": "Jajko Głaza",
+			"desc": "Wezwij swojego zwierzaka Głaza."
+		},
+		"ladybug_egg": {
+			"name": "Jajko Biedronki",
+			"desc": "Wezwij swojego zwierzaka Biedronkę."
+		},
+		"bush_egg": {
+			"name": "Jajko krzaka",
+			"desc": "Wezwij swojego zwierzaka Krzaka."
+		},
+		"sponge_egg": {
+			"name": "Jajko gąbki",
+			"desc": "Wezwij swojego zwierzaka Gąbke."
+		},
+		"cactus_egg": {
+			"name": "Jajko Kaktusa",
+			"desc": "Wezwij swojego zwierzaka Kaktusa."
+		},
+		"baby_ant_egg": {
+			"name": "Jajko Mrówki Dziecka",
+			"desc": "Wezwij swojego zwierzaka Mrówke Dziecko."
+		},
+		"soldier_ant_egg": {
+			"name": "Jajko Mrówki Żołnierza",
+			"desc": "Wezwij swojego zwierzaka Mrówke Żołnierz."
+		},
+		"worker_ant_egg": {
+			"name": "Jajko Mrówki Robotniczej",
+			"desc": "Wezwij swojego zwierzaka Mrówke Robotniczą."
+		},
+		"queen_ant_egg": {
+			"name": "Jajko Królowej Mrówek",
+			"desc": "Wezwij swojego zwierzaka Królową Mrówek."
+		},
+		"baby_fire_ant_egg": {
+			"name": "Jajko Ognistej Mrówki Dziecka",
+			"desc": "Wezwij swojego zwierzaka Ognistą Mrówke Dziecka."
+		},
+		"soldier_fire_ant_egg": {
+			"name": "Jajko Ognistej Mrówki Żołnierza",
+			"desc": "Wezwij swojego zwierzaka Ognistą Mrówke Żołnierza."
+		},
+		"worker_fire_ant_egg": {
+			"name": "Jajko Ognistej Mrówki Robotniczej",
+			"desc": "Wezwij swojego zwierzaka Ognistą Mrówke Robotniczą."
+		},
+		"queen_fire_ant_egg": {
+			"name": "Jajko Ognistej Królowej Mrówek",
+			"desc": "Wezwij swojego zwierzaka Ognistą Królowe mrówek."
+		},
+		"mushroom_egg": {
+			"name": "Jajko Grzyba",
+			"desc": "Wezwij swojego zwierzaka Grzyba."
+		},
+		"jellyfish_egg": {
+			"name": "Jajko Meduzy",
+			"desc": "Wezwij swojego zwierzaka Meduzę."
+		},
+		"spider_egg": {
+			"name": "Jajko Pająka",
+			"desc": "Wezwij swojego zwierzaka Pająka."
+		},
+		"bee_egg": {
+			"name": "Jajko Pszczoły",
+			"desc": "Wezwij swojego zwierzaka Pszczołe."
+		},
+		"hornet_egg": {
+			"name": "Jajko Szerszenia",
+			"desc": "Wezwij swojego zwierzaka Szerszenia."
+		},
+		"shell_egg": {
+			"name": "Jajko Muszli",
+			"desc": "Wezwij swojego zwierzaka Muszlę."
+		},
+		"ant_hole_egg": {
+			"name": "Jajko Mrowiska",
+			"desc": "Wezwij swojego zwierzaka Mrowisko."
+		},
+		"fire_ant_hole_egg": {
+			"name": "Jajko Ognistego Mrowiska",
+			"desc": "Wezwij swojego zwierzaka Ogniste Mrowisko."
+		},
+		"spider_cave_egg": {
+			"name": "Jako Jaskini Pająków",
+			"desc": "Wezwij swojego zwierzaka Jaskinię Pająków."
+		},
+		"hive_egg": {
+			"name": "Jajko Pszczeliska",
+			"desc": "Wezwij swojego zwierzaka Pszczelisko."
+		},
+		"yoba_egg": {
+			"name": "Jajko Yoba",
+			"desc": "Wezwij swojego zwierzaka Yoba."
+		},
+		"spider_yoba_egg": {
+			"name": "Jajko Pająka Yoby",
+			"desc": "Wezwij swojego zwierzaka Spider Yoba."
+		},
+		"centipede_egg": {
+			"name": "Jajko Stonogi",
+			"desc": "Wezwij swojego zwierzaka Stonogę."
+		},
+		"desert_centipede_egg": {
+			"name": "Jajko Pustynnej Stonogi",
+			"desc": "Wezwij swojego zwierzaka Pustynną Stonoge."
+		},
+		"evil_centipede_egg": {
+			"name": "Jajko Złej Stonogi",
+			"desc": "Wezwij swojego zwierzaka Złą Stonoge."
+		},
+		"sunflower_egg": {
+			"name": "Jajko Słonecznika",
+			"desc": "Wezwij swojego zwierzaka Słonecznika."
+		},
+		"boba_egg": {
+			"name": "Jajko Boba",
+			"desc": "Wezwij swojego zwierzaka Boba."
+		},
+		"bubble_egg": {
+			"name": "Jajko Bańki",
+			"desc": "Wezwij swojego zwierzaka Bańke."
+		},
+		"m28_egg": {
+			"name": "Jajko M28",
+			"desc": "Wezwij swojego zwierzaka M28."
+		},
+		"beetle_egg": {
+			"name": "Jajko Chrząszcza",
+			"desc": "Wezwij swojego zwierzaka Chrząszcza."
+		},
+		"avocado_egg": {
+			"name": "Jajko Awokada",
+			"desc": "Wezwij swojego zwierzaka Awokado."
+		},
+		"target_dummy_egg": {
+			"name": "Jajko Manekinu Treningowego",
+			"desc": "Wezwij swojego zwierzaka Manekin Treningowy."
+		},
+		"dark_ladybug_egg": {
+			"name": "Jajko Ciemnej Biedronki",
+			"desc": "Wezwij swojego zwierzaka Ciemną Biedronkę."
+		},
+		"shiny_ladybug_egg": {
+			"name": "Jajko Świecącej Biedrnoki",
+			"desc": "Wezwij swojego zwierzaka Świecącą Biedronke."
+		},
+		"stick": {
+			"name": "Patyk",
+			"desc": "Przyzwa zabójcze wiatry."
+		},
+		"scorpion_egg": {
+			"name": "Jajko Skorpiona",
+			"desc": "Wezwij swojego zwierzaka Skropiona."
+		},
+		"starfish_egg": {
+			"name": "Jajko Rozgwiazdy",
+			"desc": "Wezwij swojego zwierzaka Rozgwiazde."
+		},
+		"pea": {
+			"name": "Groch",
+			"desc": "On idzie poof."
+		},
+		"avocado": {
+			"name": "Awokado",
+			"desc": "Zwiększa rozmiar twojich zwierzaków.."
+		},
+		"ring_magnet": {
+			"name": "Okrągły Magnes",
+			"desc": "Przyciąga wszystko w twoją stronę."
+		},
+		"gas": {
+			"name": "Gaz",
+			"desc": "Trujący gaz."
+		},
+		"fire": {
+			"name": "Ogień",
+			"desc": "On pali."
+		},
+		"nitro": {
+			"name": "Nitro",
+			"desc": "Jest jak plecak odrzutowy."
+		},
+		"wind": {
+			"name": "Wiatr",
+			"desc": "Odpycha przeciwników od ciebie."
+		},
+		"air": {
+			"name": "Powietrze",
+			"desc": "Mega niewidzialne."
+		},
+		"lightsaber": {
+			"name": "Miecz Świetlny",
+			"desc": "Limitowany zasięg miecz fotonowy"
+		},
+		"visaber": {
+			"name": "Visaber",
+			"desc": "On strzela promienie gamma zamiast fotonów"
+		},
+		"bone": {
+			"name": "Kość",
+			"desc": "Jest zrobiona z wapnia."
+		},
+		"cactus": {
+			"name": "Kaktus",
+			"desc": "Daje ci więcej życia."
+		},
+		"soil": {
+			"name": "Gleba",
+			"desc": "Zamienia kwiaty w grubych."
+		},
+		"grapes": {
+			"name": "Winogrona",
+			"desc": "Pociski lecz z irysu? o kurczę.."
+		},
+		"mushroom": {
+			"name": "Grzyb",
+			"desc": "Robi twój kwiatek trujący."
+		},
+		"ears": {
+			"name": "Uszy",
+			"desc": "Telepatyczne uszy kocie."
+		},
+		"sand": {
+			"name": "Piasek",
+			"desc": "Można by było zbudować zamek piaskowy z tego."
+		},
+		"pincer": {
+			"name": "Szczypce",
+			"desc": "Złam nogi twoich przeciwników, nawet jeśli żadnych nie mają."
+		},
+		"dahlia": {
+			"name": "Dalia",
+			"desc": "Poświęca leczenie za niezawodność"
+		},
+		"starfish": {
+			"name": "Rozgwiazda",
+			"desc": "Leczy cię gdy jesteś na niskim poziomie życia"
+		},
+		"dandelion": {
+			"name": "Pocisk Dmuchawca",
+			"desc": "Uniemożliwa leczenie przeciwników"
+		},
+		"crab_egg": {
+			"name": "Jajko Kraba",
+			"desc": "Wezwij swojego zwierzaka Kraba."
+		},
+		"dandelion_egg": {
+			"name": "Jajko Dmuchawca",
+			"desc": "Wezwij swojego zwierzaka Dmuchawca."
+		},
+		"dragon_egg": {
+			"name": "Jajko Smoka",
+			"desc": "Wezwij swojego zwierzaka Smoka."
+		},
+		"irey": {
+			"name": "Iry",
+			"desc": "Zamienia Miód w trucizne."
+		},
+		"leech_egg": {
+			"name": "Jajko Pijawki",
+			"desc": "Wezwij swojego zwierzaka Pijawkę."
+		},
+		"nazar": {
+			"name": "Nazar",
+			"desc": "Pozwala ci przyjąc 1 uderzenie bez obrażeń i wtedy przechodzi do przeładowania"
+		},
+		"nazar_beetle_egg": {
+			"name": "Jajko Chrząszcza Nazar",
+			"desc": "Wezwij swojego zwierzaka Chrząszcza Nazar."
+		},
+		"golden_leaf": {
+			"name": "Złoty Liść",
+			"desc": "Zmniejsza czas przeładowania płatków."
+		},
+		"laser": {
+			"name": "Laser",
+			"desc": "Może spowodować wiele poparzeń."
+		},
+		"mark": {
+			"name": "Oznaczanik",
+			"desc": "Wysyła nieżywego kwiatka do piekła."
+		},
+		"bur": {
+			"name": "Rzep",
+			"desc": "Zmniejsza zbroję przeciwnika."
+		},
+		"cutter": {
+			"name": "Przecinacz",
+			"desc": "Zwiększa twoje obrażenia cielesne."
+		},
+		"powder": {
+			"name": "Proszek",
+			"desc": "Kokaina, Zwiększa twoją szybkość i powoduje problemy z orbita płatków."
+		},
+		"toxic_dragon_egg": {
+			"name": "Jajko Toksycznego Smoka",
+			"desc": "Wezwij swojego zwierzaka Toksycznego Smoka."
+		},
+		"hel_worm_egg": {
+			"name": "Jajko Pieklistej Dżdżownicy",
+			"desc": "Wezwij swojego zwierzaka Pieklistą Dżdżownice."
+		},
+		"hel_spider_egg": {
+			"name": "Jajko Pieklistego Pająka",
+			"desc": "Wezwij swojego zwierzaka Pieklistego Pająka."
+		},
+		"hel_beetle_egg": {
+			"name": "Jajko Pieklistego Chrząszcza.",
+			"desc": "Wezwij swojego zwierzaka Pieklistego Chrząszcza."
+		},
+		"hel_jellyfish_egg": {
+			"name": "Jajko Pieklistej Meduzy",
+			"desc": "Wezwij swojego zwierzaka Pieklistą Meduze."
+		},
+		"hel_lightning": {
+			"name": "Pieklisty Piorun",
+			"desc": "Przyzywa przeklęty piorun która podpala przeciwników."
+		},
+		"tumbleweed_egg": {
+			"name": "Jajko Wiatrołomu",
+			"desc": "Wezwij swojego zwierzaka Wiatrołom."
+		},
+		"dragon_nest_egg": {
+			"name": "Jajko Gniazda Smoków",
+			"desc": "Wezwij swojego zwierzaka Gniazdo Smoków."
+		},
+		"firestorm_egg": {
+			"name": "Jajko Ognistej Burzy",
+			"desc": "Wezwij swojego zwierzaka Ognistą Burzę."
+		},
+		"hel_bee_egg": {
+			"name": "Jajko Pieklistej Pszczoły",
+			"desc": "Wezwij swojego zwierzaka Pieklistą Pszczołe."
+		},
+		"hel_hornet_egg": {
+			"name": "Jajko Pieklistego Szerszenia",
+			"desc": "Wezwij swojego zwierzaka Pieklistego Szerszenia."
+		},
+		"hel_missile": {
+			"name": "Pieklisty Pocisk",
+			"desc": "Gorący Pocisk"
+		},
+		"bugatti": {
+			"name": "Bugatti",
+			"desc": "Zwiększa twoją prędkość lecz powoduje że stajesz sie mega śliski."
+		},
+		"bugatti_egg": {
+			"name": "Jajko Bugatti",
+			"desc": "Wezwij swojego zwierzaka Bugatti."
+		},
+		"poo": {
+			"name": "Kupa",
+			"desc": "Zmniejsza Zasięg widzenia przeciwników."
+		},
+		"rubber": {
+			"name": "Guma",
+			"desc": "Zwiększa odrzucenie przy obrażeniach."
+		},
+		"fly_egg": {
+			"name": "Jajko Muchy",
+			"desc": "Wezwij swojego zwierzaka Muchę."
+		},
+		"fang": {
+			"name": "Kieł",
+			"desc": "Leczy cie z obrażeniami które zadaje."
+		},
+		"blood_stinger": {
+			"name": "Krwawe Żądło",
+			"desc": "Bardzo zabójcze ale oddaje część obrażeń tobie."
+		},
+		"mantis_egg": {
+			"name": "Jajko Modliszki",
+			"desc": "Wezwij swojego zwierzaka Modliszkę."
+		},
+		"firefly_egg": {
+			"name": "Jajko Świetlika",
+			"desc": "Wezwij swojego zwierzaka Świetlika."
+		},
+		"wasp_egg": {
+			"name": "Jajko Osy",
+			"desc": "Wezwij swojego zwierzaka Osę."
+		},
+		"battery": {
+			"name": "Bateria",
+			"desc": "Powoduje że twoje ciało przyzywa piorun kiedy otrzymasz obrażenia cielesne."
+		},
+		"stickbug_egg": {
+			"name": "Jajko Patyczaka",
+			"desc": "Wezwij swojego zwierzaka Patyczaka."
+		},
+		"plank": {
+			"name": "Deska",
+			"desc": "Zadaje 100x więcej obrażeń do pocisków przeciwników"
+		},
+		"icicle": {
+			"name": "Sopel",
+			"desc": "Zamraża przeciwników."
+		},
+		"dice": {
+			"name": "Kość do gry",
+			"desc": "Ma 7.5% szansy na zadanie 69x obrażeń."
+		},
+		"cryo_bomb": {
+			"name": "Cryo Bomb",
+			"desc": "Freezes nearby enemies when exploded."
+		},
+		"clover": {
+			"name": "Koniczyna",
+			"desc": "Daje ci dobre szczęscie."
+		},
+		"blueberries": {
+			"name": "Jagody",
+			"desc": "Zamrażanie ich robi je bardzo twarde."
+		},
+		"frost": {
+			"name": "Mróz",
+			"desc": "Zimne powietrze może przejść przez zbroje przeciwników."
+		},
+		"snowball": {
+			"name": "Śnieżka",
+			"desc": "Kula bałwana, która przechodzi przez kamizelki twoich wrogów."
+		},
+		"snowflake": {
+			"name": "Płatek Śniegu",
+			"desc": "Wystrzeliwuje kiedy zniszczony."
+		},
+		"amethyst": {
+			"name": "Ametyst",
+			"desc": "Bardzo ostry lecz kruchy klejnot"
+		},
+		"snowbush_egg": {
+			"name": "Jajko Krzaka Śnieżnego",
+			"desc": "Wezwij swojego zwierzaka Krzaka Śnieżego"
+		},
+		"snow_stick": {
+			"name": "Śnieżny Patyk",
+			"desc": "Wzywa zabójczy mróz"
+		},
+		"ice_cube_egg": {
+			"name": "Jajko Kostki Lodu",
+			"desc": "Wezwij swojego zwierzaka Kostkę lodu"
+		},
+		"arctic_centipede_egg": {
+			"name": "Jajko Arktycznej Stonogi",
+			"desc": "Wezwij swojego zwierzaka Arktyczną Stonogę"
+		},
+		"arctic_spider_egg": {
+			"name": "Jajko Arktycznego Pająka",
+			"desc": "Wezwij swojego zwierzaka Arktycznego Pająka"
+		},
+		"ice_dragon_egg": {
+			"name": "Jajko Lodowego Smoka",
+			"desc": "Wezwij swojego zwierzaka Lodowego Smoka"
+		},
+		"tick_egg": {
+			"name": "Jajko Kleszcza",
+			"desc": "Wezwij swojego zwierzaka Kleszcza"
+		},
+		"ice_rose": {
+			"name": "Lodowa Róża",
+			"desc": "Leczy cie gdy zjedzona lecz zamraża cię."
+		},
+		"torch": {
+			"name": "Pochodnia",
+			"desc": "Pasywnie usuwa mróz z twojego kwiatka."
+		},
+		"water_stick": {
+			"name": "Wodnisty Patyk",
+			"desc": "Wzywa wodniste tornada, nawet jeżeli nie jesteś pod wodą"
+		},
+		"urchin_egg": {
+			"name": "Jajko Jeżowca",
+			"desc": "Wezwij swojego zwierzaka Jeżowca"
+		},
+		"volcano_egg": {
+			"name": "Jajko Wulkanu",
+			"desc": "Wezwij swojego zwierzaka Wulkana"
+		},
+		"spikeball": {
+			"name": "Kolczasta Kula",
+			"desc": "Bardzo dużo pociską połączone jedną więzią, te pociski by latały w każdą stronę gdyby nie ta wieź"
+		},
+		"needle": {
+			"name": "Igła",
+			"desc": "Bardzo ostra lecz bardzo krucha, jest także zatruta"
+		},
+		"bubble_bomb": {
+			"name": "Bomba Bańkowa",
+			"desc": "Wybucha i odpycha przeciwników troche za mocno."
+		},
+		"obsidian": {
+			"name": "Obsydian",
+			"desc": "Bardzo wytrwała, lecz bardzo krucha w tym samym czasie."
+		},
+		"magma": {
+			"name": "Magma",
+			"desc": "Bardzo gorąca skała."
+		},
+		"fire_bomb": {
+			"name": "Ognista Bomba",
+			"desc": "Ekspozja podpala przeciwników."
+		},
+		"ice_hornet_egg": {
+			"name": "Jajko Lodowego Szerszenia",
+			"desc": "Wezwij swojego zwierzaka Lodowego Szerszenia"
+		},
+		"frozen_mark": {
+			"name": "Mroźny Oznacznik",
+			"desc": "Wyślij nieżywe kwiatki do Antarktydy"
+		},
+		"coffee": {
+			"name": "Kawa",
+			"desc": "Przyśpiesza cie"
+		},
+		"chromosome": {
+			"name": "Chromosom",
+			"desc": "Leczy twoje płatki po czasie."
+		},
+		"antibody": {
+			"name": "Przeciwcialo",
+			"desc": "Zmniejsza zbroje przeciwnika"
+		},
+		"hemoglobin": {
+			"name": "Hemoglobina",
+			"desc": "Zwiększa leczenie wykonane przez inne płatki"
+		},
+		"chloroplast": {
+			"name": "Chloroplast",
+			"desc": "Zwiększa regeneracje tarczy."
+		},
+		"sugar": {
+			"name": "Cukier",
+			"desc": "Bardzo Słodki"
+		},
+		"pill": {
+			"name": "Pigułka",
+			"desc": "Uzdrawia Raka i leczy cie troche."
+		},
+		"dna": {
+			"name": "DNA",
+			"desc": "Daje ci małą szansę na zwiększenie rzadkości twojego zwierzaka. Dotyczy wszystkich jajek do momentu osiągnięcia rzadkości. Na przykład, Super Jajko, które tworzy Ultra Mrówke + Super DNA = Szansa na stworzenie Super Mrówki. Szansa zależy od koniczyny."
+		},
+		"virus_egg": {
+			"name": "Jajko Wirusa",
+			"desc": "Wezwij swojego zwierzaka"
+		},
+		"red_blood_cell_egg": {
+			"name": "Jajko Czerwonej Krwinki",
+			"desc": "Wezwij swojego zwierzaka Czerwoną Krwinkę"
+		},
+		"bacteria_egg": {
+			"name": "Jajko Bakterii",
+			"desc": "Wezwij swojego zwierzaka Bakterię"
+		},
+		"bacteriophage_egg": {
+			"name": "Jajko Bacteriofaga",
+			"desc": "Wezwij swojego zwierzaka Bacteriofaga"
+		},
+		"cancer_egg": {
+			"name": "Jajko Raka",
+			"desc": "Wezwij swojego zwierzaka Raka"
+		},
+		"parasite_egg": {
+			"name": "Jajko Pasożyta",
+			"desc": "Wezwij swojego zwierzaka Pasożyta"
+		},
+		"cancer": {
+			"name": "Rak",
+			"desc": "Rozdwaja moby tej samej rzadkości kiedy umierają"
+		},
+		"white_blood_cell_egg": {
+			"name": "Jajko Białej Krwinki",
+			"desc": "Wezwij swojego zwierzaka Białą krwinkę"
+		}
+	},
+	"achievements": {
+		"rookie": {
+			"name": "Rekrut",
+			"desc": "Graj przez 15 minut."
+		},
+		"started": {
+			"name": "Zaczynać przygodę...",
+			"desc": "Graj przez 1 godzine."
+		},
+		"player": {
+			"name": "Typowy gracz.",
+			"desc": "Graj przez 6 godzin."
+		},
+		"gamer": {
+			"name": "Lepszy gracz",
+			"desc": "Graj przez 1 dzień."
+		},
+		"week": {
+			"name": "Dwadzieścia-Cztery-na-Siedem",
+			"desc": "Graj przez 7 dni."
+		},
+		"month": {
+			"name": "Uzależniony",
+			"desc": "Graj przez 30 dni."
+		},
+		"year": {
+			"name": "Dosiego Roku!",
+			"desc": "Graj przez 365 dni."
+		},
+		"epic": {
+			"name": "Epicki Moment gracza",
+			"desc": "Zdobądź 1 Epicki płatek."
+		},
+		"legendary": {
+			"name": "Legendarny",
+			"desc": "Zdobądź 1 Legendarny płatek."
+		},
+		"mythic": {
+			"name": "Mity są prawdą",
+			"desc": "Zdobądź 1 Mityczny płatego."
+		},
+		"ultra": {
+			"name": "Powyżej norm",
+			"desc": "Zdobądź Ultra płątek."
+		},
+		"super": {
+			"name": "Superowo!",
+			"desc": "Zdobądź 5 Super płatków."
+		},
+		"omega": {
+			"name": "OmegaSkibidiToaleta",
+			"desc": "Zdobądź Omega płatek."
+		},
+		"medic": {
+			"name": "Medyk",
+			"desc": "Ożyw kogoś za pomocą płatka yggdrasil."
+		},
+		"surgeon": {
+			"name": "Chirurg",
+			"desc": "Ożyw 25 kwiatków za pomocą płatka yggdrasil."
+		},
+		"angel": {
+			"name": "Anioł",
+			"desc": "Ożyw 250 kwiatków za pomocą płatka yggrdasil."
+		},
+		"god": {
+			"name": "Wszechmocny",
+			"desc": "Spotkaj Administratora."
+		},
+		"killer": {
+			"name": "Seryjny Morderca",
+			"desc": "Zabij 25 stworów."
+		},
+		"genocide": {
+			"name": "Stworobójstwo",
+			"desc": "Zabij 250 stworów."
+		},
+		"massacre": {
+			"name": "Masakra",
+			"desc": "Zabij 2500 stworów."
+		},
+		"holocaust": {
+			"name": "Wszechbójczy",
+			"desc": "Zabij 10,000 stworow"
+		},
+		"solo": {
+			"name": "Solo",
+			"desc": "Zabij Super Lub Omega Stwora z 75% lub powyżej na nim."
+		},
+		"money": {
+			"name": "Pieniądze Dobrze Wydane",
+			"desc": "Zakup Gwiazdy z sklepu."
+		},
+		"makeup": {
+			"name": "Artysta Makijażu",
+			"desc": "Zakup skórke z sklepu."
+		},
+		"chat": {
+			"name": "Nie zbyt rozmowny",
+			"desc": "Napisz wiadomość na czacie."
+		},
+		"china": {
+			"name": "CHINY NUMER 1!!!",
+			"desc": "Napisz 'China Number 1', na czacie 10 razy."
+		},
+		"nazar": {
+			"name": "Chrząszcze Nazar",
+			"desc": "Zniszcz 5 Ultra lub wyżej rzadkości Chrząszczy Nazar."
+		},
+		"baby": {
+			"name": "Olejek Dziecięcy",
+			"desc": "Zabij 5 Ultra lub wyżej rzadkości Mrówek Dzieci."
+		},
+		"jeet": {
+			"name": "Top Jeet",
+			"desc": "Otrzymaj Super lub większej rzadkości płatka Buggati."
+		},
+		"clown": {
+			"name": "Błazen",
+			"desc": "Zamień się w błazna."
+		}
+	},
+	"skins": {
+		"derp": {
+			"name": "Derp",
+			"desc": "Pomiędzy tymi oczami nie istnieje żadna myśl."
+		},
+		"cursed": {
+			"name": "Przeklęty",
+			"desc": "Został skażony przez wyższe siły."
+		},
+		"square": {
+			"name": "Kwadrat",
+			"desc": "Co to za nieznany kształt?"
+		},
+		"lifeless": {
+			"name": "Bez Życia",
+			"desc": "... Gdzie znikneła twarz."
+		},
+		"star": {
+			"name": "Gwiazda",
+			"desc": "Gwiazda na niebie nocnym."
+		},
+		"radioactive": {
+			"name": "Radioaktywny",
+			"desc": "Lubi jeść rude urana."
+		},
+		"blended": {
+			"name": "Mieszany",
+			"desc": "Dostał operacje twarzy na AliExpress."
+		},
+		"cactus": {
+			"name": "Kaktus",
+			"desc": "Nie zbyt kwiatek, co nie?"
+		},
+		"ghost": {
+			"name": "Duch",
+			"desc": "Nie zbyt straszny."
+		},
+		"cyclops": {
+			"name": "Cyklops",
+			"desc": "Gdzie znikneły inne oczy?"
+		},
+		"yellow": {
+			"name": "Żółty",
+			"desc": "Jest nieźle żółty."
+		},
+		"rock": {
+			"name": "Kamyk",
+			"desc": "Kamyk z oceanu."
+		},
+		"boo": {
+			"name": "Boo",
+			"desc": "Straszne, co nie?"
+		},
+		"sus": {
+			"name": "Sus",
+			"desc": "Oktosus."
+		},
+		"pacman": {
+			"name": "Pac-man",
+			"desc": "Nie aresztujcie nas prosze."
+		},
+		"chicken": {
+			"name": "Kurczak",
+			"desc": "Składa anty-grawitacyjne jajkowate jajko kurczaka."
+		},
+		"black": {
+			"name": "Czarny",
+			"desc": "Z Afryki."
+		},
+		"egg": {
+			"name": "Jajko",
+			"desc": "Zniesione przez Kosmitę, ugotowane przez nas."
+		},
+		"retard": {
+			"name": "Upośledzony",
+			"desc": "XD"
+		},
+		"trader": {
+			"name": "Handlowiec",
+			"desc": "Handluje Ludźmi."
+		},
+		"clover": {
+			"name": "Koniczyna",
+			"desc": "4chan?"
+		},
+		"zatan": {
+			"name": "Szatan",
+			"desc": "Czerwone i czarne podejrzane kolce."
+		},
+		"amogus": {
+			"name": "Amogus",
+			"desc": "Hitowa gra z 2020 roku! To jest impostor.."
+		},
+		"brain_damage": {
+			"name": "Uszkodzenie Mózgu",
+			"desc": "Skórka Dewelopera?? co jest??"
+		},
+		"cactuser": {
+			"name": "Kaktusowicz",
+			"desc": "Kwiatek z pusytni."
+		},
+		"sad": {
+			"name": "Smutny",
+			"desc": "Bardzo, bardzo smutny."
+		},
+		"cake": {
+			"name": "Ciasto",
+			"desc": "Wszystkiego Najlepszego!"
+		},
+		"green": {
+			"name": "Zielony",
+			"desc": "Tajmeniczy Yoba?"
+		},
+		"magma": {
+			"name": "Magma",
+			"desc": "Wzięta z Aktywnego wulkanu"
+		},
+		"derper": {
+			"name": "Derper",
+			"desc": "Skórka Dewlopera 2?? co jest??"
+		},
+		"target_dummy": {
+			"name": "Manekin do ćwiczeń",
+			"desc": "Bardzo bezemocjonalny."
+		},
+		"mark": {
+			"name": "Ozancznik",
+			"desc": "Widzimy sie w piekle na dalszy ciąg."
+		},
+		"frog": {
+			"name": "Żaba",
+			"desc": "Pepe żaba."
+		},
+		"goo": {
+			"name": "Breja",
+			"desc": "Biała breja jest dziwna."
+		},
+		"rectus": {
+			"name": "kaktwony",
+			"desc": "kaktus + czerwony = kaktwony."
+		},
+		"oval": {
+			"name": "Owal",
+			"desc": "Nie jest Owalem."
+		},
+		"cute": {
+			"name": "Słodki",
+			"desc": "Słodziak Misiak."
+		},
+		"omegasus": {
+			"name": "Omegasus",
+			"desc": "Niebieski wydaje sie podejrzany."
+		},
+		"rockstar": {
+			"name": "Gwiazda rocku",
+			"desc": "Wygląda bardziej jak płatek."
+		},
+		"ufo": {
+			"name": "UFO",
+			"desc": "Ma kosmitów w sobie."
+		},
+		"red_spikes": {
+			"name": "Czerwone Kolce",
+			"desc": "One Bolą."
+		},
+		"sponge": {
+			"name": "Gąbka",
+			"desc": "Umywa naczynia jak kobieta."
+		},
+		"hexagon": {
+			"name": "Sześciokąt",
+			"desc": "Zwykły wielokąt."
+		},
+		"mech": {
+			"name": "Mech",
+			"desc": "Mechaniczny Kwiatek."
+		},
+		"lightning": {
+			"name": "Piorun",
+			"desc": "Strajk!"
+		},
+		"inverted": {
+			"name": "Odwrotny",
+			"desc": "Mega przewrócony."
+		},
+		"poo": {
+			"name": "Kupa",
+			"desc": "Gówniana skórka."
+		},
+		"sea_urchin": {
+			"name": "Jeżowiec",
+			"desc": "zabomniałem :czaszka:"
+		},
+		"long": {
+			"name": "Długi",
+			"desc": "Efekt-boczny prasy hydraulicznej."
+		},
+		"blue": {
+			"name": "Niebieski",
+			"desc": "Mega Głupi"
+		},
+		"right-angle": {
+			"name": "Dobry Kąt",
+			"desc": "Jesteś obrócony o 90 stopni."
+		},
+		"facist": {
+			"name": "Faszysta",
+			"desc": "Mega czarno na białym."
+		},
+		"faster": {
+			"name": "Szybszy",
+			"desc": "Podejrzane wyrazy twarzy."
+		},
+		"amobae": {
+			"name": "Ameba",
+			"desc": "Mikro-Organizm"
+		},
+		"melon": {
+			"name": "Melon",
+			"desc": "cocomelon."
+		},
+		"ant_hole": {
+			"name": "Mrówisko",
+			"desc": "Dziura Mrówek"
+		},
+		"eye": {
+			"name": "Oko",
+			"desc": "Wszechwidzące oko flourona"
+		},
+		"roach": {
+			"name": "Karaluch",
+			"desc": "kara"
+		},
+		"lava": {
+			"name": "Lawa",
+			"desc": "9999°C moment"
+		},
+		"rose": {
+			"name": "Róża",
+			"desc": "Przepiękny mały kwiatek"
+		},
+		"stupid": {
+			"name": "Głupi",
+			"desc": "Wyglada bardzo głupio"
+		},
+		"barbie": {
+			"name": "Lalka Barbie",
+			"desc": "Dziewczęcy"
+		},
+		"virus": {
+			"name": "Wirus",
+			"desc": "Bardzo zaraźliwy"
+		},
+		"slanted": {
+			"name": "Pochyły",
+			"desc": ":/"
+		},
+		"wloop": {
+			"name": "Wloop",
+			"desc": "My nie wiemy co to może być.."
+		},
+		"ara_ara": {
+			"name": "Ara Ara",
+			"desc": "Słodki mały kwiatek"
+		},
+		"sirius": {
+			"name": "Syriusz",
+			"desc": "Najjaśniesza gwiazda na niebie.."
+		},
+		"acid": {
+			"name": "Kwas",
+			"desc": "Nie spowoduje poparzeń"
+		},
+		"dark": {
+			"name": "Ciemny",
+			"desc": "Ekstramelnie ciemna substancja."
+		},
+		"beam": {
+			"name": "Promień",
+			"desc": "Promienie Boga są bardzo dobre do trollowania uwu."
+		},
+		"griffin": {
+			"name": "Griffin",
+			"desc": "O wiele wiekszy i warty trollowaniu niż sie wydaje..."
+		}
+	},
+	"objectKeys": {
+		"health": "Punkty Życia",
+		"damage": "Obrażenia",
+		"boost": "Przyśpieszenie",
+		"swing": "Rozmach",
+		"heal": "Leczenie",
+		"passiveHeal": "Leczenie Pasywne",
+		"passiveHealBelow50": "Leczenie Pasywne",
+		"shield": "Tarcza",
+		"passiveShield": "Pasywna Tarcza",
+		"poison": "Trucizna",
+		"orbitSpeed": "Szybkość Orbity",
+		"lightningDamage": "Obrażenia Piorunu",
+		"lightningFireDamage": "Obrażenia Ognistego Piorunu",
+		"lightningPoison": "Obrażenia Zatrutego Piorunu",
+		"lightningBounces": "Odbicia Piorunu",
+		"webSize": "Wielkość pajęczyny",
+		"explosion": "Eksplozja",
+		"explosionSize": "Wielkość Eksplozji",
+		"explosionPoison": "Trucizna Eksplozji",
+		"pickRange": "Zasięg Przyciągania",
+		"damageReflection": "Odbicie Obrażeń",
+		"extraVision": "Dodatkowe Pole Widzenia",
+		"extraRange": "Dodatkowy Zasięg",
+		"despawnTime": "Czas Znikania",
+		"pet": "Zwierzak",
+		"petSize": "Wielkość Zwierzaka",
+		"passiveBoost": "Pasywne Przyśpieszenie",
+		"push": "Popychnięcie",
+		"armor": "Zbroja",
+		"extraFlowerHealth": "Dodatkowe Życie Kwiatka",
+		"flowerPoison": "Trucizna Kwiatka",
+		"slownessTime": "Czas Spowolnienia",
+		"soakDamageTime": "Czas Wsiąknięcia Obrażeń",
+		"honeyRange": "Zasięg Miodu",
+		"honeyTileDamage": "Obrażenia Płyt Miodu",
+		"honeyTilePoison": "Trucizna Płyt Miodu",
+		"sendToBiome": "Wyślij do Biomu",
+		"flowerReloadFactor": "Czynnik Przeładowania Kwiatka",
+		"armorDebuff": "Osłabienie Pancerza",
+		"flowerBodyDamage": "Obrażenia Cielesne Kwiatka",
+		"flowerSpeed": "Szybkość Kwiatka",
+		"fireDamage": "Obrażenia Ognia",
+		"firePoison": "Trucizna Ognia",
+		"fireTime": "Czas Ognia",
+		"flowerAcceleration": "Przyśpieszenie Kwiatka",
+		"agroRangeReduction": "Zmniejszenie Zasięgu Agresji",
+		"flowerKnockedFactor": "Czynnik Obicia Kwiatka",
+		"damageHealed": "Obrażenia Uleczone",
+		"selfDamage": "Samo Obrażenia",
+		"flowerBodyLightning": "Piorun Cielesny Kwiatka",
+		"freezeTime": "Czas Zamrożenia",
+		"explosionFreezeTime": "Czas Zamrożenia Eksplozji",
+		"explosionKnockback": "Odrzucenie Ekspolzji",
+		"luck": "Szczęscie",
+		"frost": "Zamrożenie",
+		"defrost": "Odmrożenie",
+		"tempFlowerSpeed": "Tymczasowa Szybkość Kwiatka",
+		"subdivisionRates": "Szansa Podziału",
+		"cureCancer": "Uzdrów Raka",
+		"petMutation": "Mutacja Zwierzaka",
+		"passivePetalHeal": "Pasywne Leczenie Płatków",
+		"healBuff": "Zwiększenie Leczenia",
+		"shieldBuff": "Zwiększenie Tarczy",
+		"bodyLightning": "Cielesny piorun",
+		"healAffectTime": "Czas Wpływania na Leczenie",
+		"missileHealth": "Życie Pocisku",
+		"missileDamage": "Obrażenia Pocisku",
+		"missilePoison": "Trucizna Pocisku",
+		"missileHealAffectTime": "Czas Wpływania Pocisku na Leczenie",
+		"bodyFireDamage": "Ogniste Obrażenia Cielesne Kwiatka",
+		"evasion": "Uniknięcie",
+		"keyboardControls": "Sterowanie Klawiaturą",
+		"movementHelper": "Pomocnik Ruchu",
+		"showHitbox": "Pokaż Hitboxy",
+		"showRarities": "Pokaż Rzadkości",
+		"showGrid": "Pokaż Siatkę",
+		"showChat": "Pokaż Czat",
+		"showCraftBubble": "Pokaż Bańke Rzemieślniczą",
+		"showDamage": "Pokaż Obrażenia",
+		"showDamageFlash": "Pokaż Błysk Obrażeń",
+		"showHealthBar": "Pokaż Pasek Życia",
+		"showHealth": "Pokaż Życie (%)",
+		"showDps": "Pokaż Obrażenia Na Sekundę.",
+		"showExplosion": "Pokaż Eksplozję",
+		"showLightning": "Pokaż Pioruny",
+		"abbreviateDps": "Skróc Obrażenia Na Sekundę",
+		"showDebugInfo": "Pokaż Informacje o Debugowaniu.",
+		"fixedHudSize": "Naprawiony Rozmiar HUD-u",
+		"screenShake": "Trzęsienie Ekranu",
+		"antiAliasing": "AntyAliasing",
+		"potatoHardware": "Słaby Komputer",
+		"badwordFilter": "Filter Złych Słów",
+		"xp": "PD",
+		"timeJoined": "Data Dołączenia",
+		"stars": "Gwiazdy",
+		"timePlayed": "Czas Grania",
+		"gamesPlayed": "Gry Zagrane",
+		"mobsKilled": "Przeciwnicy Zabici",
+		"petalsPicked": "Płatki Podniesione",
+		"petalsCrafted": "Płatki Utworzone",
+		"petalsBurned": "Płatki Spalone",
+		"chatSent": "Wiadomości Wysłane",
+		"maxScore": "Maksymalny Wynik",
+		"maxTimeAlive": "Maksymalny Czas Życia",
+		"maxMobsKilled": "Maksymalna Liczba Zabitych Przeciwników",
+		"maxPetalsPicked": "Maksymalna Liczba Podniesionych Płatków",
+		"dailyPlaytime": "Dzienny Czas Grania",
+		"maxDailyPlaytime": "Maksymalny Czas Dziennego Grania",
+		"maxStreak": "Maksymalne Pasmo"
+	},
+	"commands": {
+		"spin_speed": {
+			"desc": "Ustawia Prędkość orbity twojego kwiatka."
+		},
+		"mob_gif": {
+			"desc": "Renderuje GIF dla moba."
+		},
+		"petal_poer": {
+			"desc": "Wyświetla automatycznie obliczoną siłe płatka. Może nie być dokładne."
+		},
+		"global_user_list": {
+			"desc": "Wyswietla globalnie dostępnych użytkowników."
+		},
+		"user_petal_purchases": {
+			"desc": "Pozwala ci widzieć płatki zakupione przez innych."
+		},
+		"edit_petals": {
+			"desc": "Pozawla ci modyfikować płatki."
+		},
+		"lang": {
+			"desc": "Pozwala ci ustawić własny język dla gry, nie w pełni zastosowane."
+		},
+		"give_all": {
+			"desc": "Daje każdą rzadkość płatka."
+		},
+		"run_on_join": {
+			"desc": "Używa Komende kiedy dołączasz jako admin. Odłączone przecinkiem."
+		},
+		"wipe_users": {
+			"desc": "Wyczyszcza cały postęp użytkownika."
+		},
+		"stars": {
+			"desc": "Daje ci gwiazdy."
+		},
+		"skin": {
+			"desc": "Daje ci skórke."
+		},
+		"portal": {
+			"desc": "Tworzy Portal."
+		},
+		"del_portal": {
+			"desc": "Usuwa Portal."
+		},
+		"ban": {
+			"desc": "Banuje Użytkownika."
+		},
+		"unban": {
+			"desc": "Odbanowuje Użytkownika."
+		},
+		"kick": {
+			"desc": "Wyrzuca Użytkownika."
+		},
+		"user_petals": {
+			"desc": "Pokazuje globalną galerie płatka."
+		},
+		"user_mobs": {
+			"desc": "Pokazuje globalną galerie stworów."
+		},
+		"user_equipped_petals": {
+			"desc": "Pokazuje globalną galerie używanych płatków."
+		},
+		"user_mob_deaths": {
+			"desc": "Pokazuje globalną śmierć stworów."
+		},
+		"diff_rates": {
+			"desc": "Pokazuje wksażnik rzadkości na trudność."
+		},
+		"restart": {
+			"desc": "Resetuje serwer."
+		},
+		"wipe": {
+			"desc": "Usuwa twój ekwipunek"
+		},
+		"profile": {
+			"desc": "Pokazuje profil użytkownika"
+		},
+		"tickrate": {
+			"desc": "Ustawia częstotliwość aktualizacji serwera, domyślny to 20 razy na sekunde."
+		},
+		"lerp": {
+			"desc": "Ustawia Opóźnienie interpolacji. Domyślny to 100ms."
+		},
+		"drop": {
+			"desc": "Upuszcza Płatek."
+		},
+		"petal_icon": {
+			"desc": "Renderuje ikone dla płatka."
+		},
+		"mob_icon": {
+			"desc": "Renderuje ikone dla stwora."
+		},
+		"petal_size": {
+			"desc": "Ustawia twój czynnik rozmiaru. Domyślny to 1."
+		},
+		"orbit": {
+			"desc": "Zmienia trajektorię orbity płatka. Wykonaj \"/orbit reset\", aby powrócić do orbity kołowej. Parametry kształtu są opcjonalne, ale możesz je przekazać w następujący sposób \"/orbit 3 5 18 18\"."
+		},
+		"reset": {
+			"desc": "Zabija wszystkie stwory oraz pociski."
+		},
+		"wall_thickness": {
+			"desc": "Określa grubość krawędzi ścian, Domyślny to 12."
+		},
+		"tp_all": {
+			"desc": "Teleportuje każdego do (x, y) w koordynatach kratek."
+		},
+		"tp_to": {
+			"desc": "Teleportuje cie do użytkownika."
+		},
+		"tp": {
+			"desc": "Teleportuje cie do (x, y) w koordynatach kratek."
+		},
+		"die": {
+			"desc": "Zabija cię."
+		},
+		"sprite": {
+			"desc": "Pokazuje akrusz sprite'ów płatków."
+		},
+		"spawn_diff": {
+			"desc": "Wzywa stwory według trudności."
+		},
+		"spawn": {
+			"desc": "Wzywa stwory. Użyj podłogi zamiast spacji w nazwach mobów. Rozmiar jest opcjonalny."
+		},
+		"game_speed": {
+			"desc": "Zwiększa lub Zmniejsza prędkość Gry."
+		},
+		"droprates": {
+			"desc": "Pokazuje tabelę dropów dla współczynnika rzadkości płatka, bliżej do zera znacza bardzo rzadki i wice wersa. Powinno być pomiędzy 1 a 0."
+		},
+		"sim_craft": {
+			"desc": "Symuluje Wytwarzanie."
+		},
+		"give": {
+			"desc": "Daje płatki do twojego ekwipunku. Użyj podłogi do nazw płatków."
+		},
+		"ygg": {
+			"desc": "Ożywia cie jeśli jesteś martwy."
+		},
+		"immune": {
+			"desc": "Robi twojego kwiatka odpornego na jakiekolwiek obrażenia."
+		},
+		"speed": {
+			"desc": "Uswatia szybkość ruchu twojego kwiatka"
+		},
+		"ghost": {
+			"desc": "wyłącza kolizje dla twojego kwiatka. Użyj tej samej komendy by ją wyłączyć/włączyć."
+		},
+		"toggle_game": {
+			"desc": "Włącza/Wyłącza pętle aktualizowania gry."
+		},
+		"fov": {
+			"desc": "Ustawia czynnik twojego pola widzenia, domyślny to 1"
+		}
+	},
+	"starProducts": {
+		"stars_1": {
+			"desc": "Pakiet Startowy"
+		},
+		"stars_2": {
+			"desc": "Troche większy pakiet gwiazd"
+		},
+		"stars_3": {
+			"desc": "Duży pakiet gwiazd"
+		},
+		"stars_4": {
+			"desc": "Wielki pakiet gwiazd"
+		},
+		"stars_5": {
+			"desc": "Bardziej Wielki pakiet gwiazd"
+		},
+		"stars_6": {
+			"desc": "Bardzo Wielki pakiet gwiazd"
+		},
+		"stars_7": {
+			"desc": "Ogromny pakiet gwiazd"
+		},
+		"stars_8": {
+			"desc": "Podejrzanie ogromny pakiet gwiazd"
+		},
+		"stars_9": {
+			"desc": "Podejrzanie ogromniejszy pakiet gwiazd"
+		},
+		"stars_10": {
+			"desc": "Podejrzanie wielki i ogromny pakiet gwiazd"
+		},
+		"stars_11": {
+			"desc": "podejrzanie większy i ogromniejszy pakiet gwiazd"
+		},
+		"stars_12": {
+			"desc": "Syn Pana beasta?"
+		}
+	}
+}

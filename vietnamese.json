@@ -1,0 +1,3671 @@
+{
+    "name": "Vietnamese",
+    "ui": {
+        "deathInfo": "Bạn đã bị giết bởi:",
+        "continue": "Tiếp tục",
+        "minimize": "Thu nhỏ",
+        "deathEscape": "(hoặc nhấn phím escape)",
+        "nickInfo": "Bông hoa bé bỏng này tên là...",
+        "play": "Chơi",
+        "squad": "Đội",
+        "connecting": "Đang kết nối...",
+        "chatInfo": "Nhấn [Enter] để trò chuyện",
+        "achievements": "Thành tựu",
+        "shop": "Cửa hàng",
+        "commands": "Lệnh",
+        "users": "Người chơi",
+        "loadouts": "Thiết lập trang bị",
+        "changelog": "Nhật ký thay đổi",
+        "guild": "Bang hội",
+        "settings": "Cài đặt",
+        "inventory": "Túi đồ",
+        "inventoryInstructions": "Kéo và thả để trang bị cánh hoa",
+        "toggleFullscreen": "Chuyển sang chế độ toàn màn hình",
+        "credits": "Điểm tín dụng",
+        "privacy": "Riêng tư",
+        "terms": "Các điều khoản",
+        "wiki": "Wiki",
+        "yourProfile": "Hồ sơ của bạn",
+        "globalLeaderboard": "Bảng xếp hạng toàn cầu",
+        "globalCrafts": "Chế tạo toàn cầu",
+        "challenges": "Thử thách",
+        "mapEditor": "Trình chỉnh sửa bản đồ",
+        "joinDiscord": "Gia nhập máy chủ Discord của chúng tôi!",
+        "leaveGame": "Thoát trò chơi",
+        "commandHelper": "Trợ lý lệnh",
+        "craft": "Chế tạo",
+        "mobGallery": "Thư viện quái vật",
+        "dailyStreakRewards": "Thưởng chuỗi hằng ngày",
+        "findPublic": "Tìm đội công khai",
+        "new": "Mới",
+        "leave": "Rời đi",
+        "empty": "Trống",
+        "join": "Tham gia",
+        "you": "(Bạn)",
+        "public": "Công cộng",
+        "privateSquad": "Tổ đội riêng tư",
+        "loadout": "Trang bị",
+        "reset": "Đặt lại",
+        "clear": "Dọn Dẹp",
+        "speed": "Tốc Độ",
+        "servers": "Máy chủ",
+        "viewRewards": "Xem phần thưởng",
+        "claimRewards": "Nhận phần thưởng",
+        "timeAlive": "Thời gian sống",
+        "mobsKilled": "Quái đã giết được",
+        "score": "Điểm",
+        "totalDamage": "Tổng sát thương",
+        "lastDamage": "Sát thương gần nhất",
+        "dps": "STG(Sát Thương trên Giây)",
+        "averageDps": "STG Trung bình",
+        "fps": "FPS",
+        "ping": "Ping",
+        "throughput": "Thông lượng",
+        "objectCount": "Số vật thể",
+        "clientTickTime": "Thời gian đánh dấu của người chơi",
+        "cacheCount": "Bảng Vẽ Cache",
+        "particleCount": "Số lượng hạt",
+        "collisionChecks": "Kiểm tra va chạm",
+        "serverTickTime": "Thời gian đánh dấu của máy chủ",
+        "currentPosition": "Vị trí hiện tại",
+        "plains": "Đồng bằng",
+        "desert": "Sa mạc",
+        "ocean": "Đại Dương",
+        "jungle": "Rừng",
+        "arctic": "Bắc cực",
+        "bio": "Sinh học",
+        "void": "Hư không",
+        "hel": "Địa ngục",
+        "as": "Á",
+        "eu": "Âu",
+        "us": "Mỹ",
+        "equip": "Trang bị",
+        "unequip": "Gỡ bỏ",
+        "biome": "Hệ sinh thái",
+        "rarity": "Cấp độ",
+        "inUSD": "Bằng USD",
+        "hoverToPreview": "(Di chuột để xem trước)",
+        "shopFeaturedInfo": "Chưa chắc bắt đầu ở đâu?",
+        "seeFeatured": "Xem nổi bật",
+        "shopAllInfo": "Không có gì hấp dẫn ở đây?",
+        "seeAll": "Xem tất cả",
+        "controls": "Điều khiển",
+        "chat": "Nhắn",
+        "game": "Trò chơi",
+        "visuals": "Hình ảnh",
+        "indicators": "Chỉ số",
+        "done": "XONG",
+        "all": "TẤT CẢ",
+        "complete": "Hoàn thành",
+        "incomplete": "Chưa hoàn thành",
+        "cmdInfo": "Nhấn để khởi chạy câu lệnh.",
+        "stealthMode": "Chế độ ẩn",
+        "save": "Lưu",
+        "includeBothRows": "Bao gồm cả hai hàng",
+        "includeSpinSpeed": "Bao gồm cả tốc độ quay",
+        "copyCode": "Sao chép mã",
+        "delete": "Xóa",
+        "rename": "Đặt lại tên",
+        "update": "Cập nhật",
+        "moveUp": "Đi lên",
+        "moveDown": "Đi xuống",
+        "singleLoadoutCode": "Mã tải đơn",
+        "fullLoadoutCode": "Mã tải đầy đủ",
+        "import": "Nhập khẩu",
+        "copy": "Sao chép",
+        "notInGuild": "Bạn đang không ở trong hội nào cả.",
+        "guildCreateRequirement": "Cần phải đạt đến cấp độ 50 để tạo hội.",
+        "create": "Tạo",
+        "creating": "Đang tạo...",
+        "invite": "Mời",
+        "kick": "Đuổi",
+        "leader": "(Đội trưởng)",
+        "oracle": "Tiên tri",
+        "trade": "Trao đổi",
+        "showAll": "Hiển thị Tất cả",
+        "craftLog": "Bảng chế tạo",
+        "petalsCrafted": "Cánh hao đã chế tạo",
+        "petalsBurned": "Cánh hoa đã đốt",
+        "craftAttempts": "Số lần chế tạo",
+        "petalsLeft": "Cánh hoa còn lại",
+        "minRng": "May mắn tối thiểu",
+        "craftInfo": [
+            "Kết hợp 5 cánh hoa cùng loại để tạo ra nâng cấp.",
+            "Thất bại sẽ phá hủy 1-4 cánh hoa."
+        ],
+        "oracleInfo": [
+            "Tìm nhà tiên tri ở Đại dương",
+            "Nhà tiên tri sẽ đảm bảo chế tạo.....với một giá hợp lí.",
+            "Có 0,001% tỉ lệ nhận được x2 chế tạo."
+        ],
+        "tradeInfo": [
+            "Tìm thương nhân ở Rừng",
+            "Đổi cánh hoa cho một đồng xu bất kì."
+        ],
+        "prev": "Trước",
+        "next": "Tiếp",
+        "hideFailed": "Ẩn thất bại",
+        "logout": "Đăng xuất",
+        "login": "Đăng nhập",
+        "set": "Đặt",
+        "membership": "Thành viên",
+        "stars": "Sao",
+        "skins": "Trang phục",
+        "petals": "Cánh hoa",
+        "mobSkins": "Trang phục quái",
+        "memberships": "Các gói thành viên",
+        "shopPolicy": "Yêu cầu hoàn tiền sẽ làm cho tài khoản của bạn bị cấm..",
+        "shopSupport": "Đối với bất kỳ vấn đề nào liên quan đến thanh toán, hãy gửi email cho chúng tôi theo địa chỉ:",
+        "shopNazarBeetles": "Cảnh giác với bọ hung Nazar!!"
+    },
+    "texts": {
+        "requiresMana": "Cần năng lượng để triệu hồi",
+        "petManaDrain": "Một thú cưng tiêu tốn {1} năng lượng/s. Một bông hoa có thể triệu hồi lên tới 30 thú cưng ma thuật.",
+        "manaDrain": "Tiêu tốn {1} ma lực/sec",
+        "manaToDamage": "Cần nạp đầy ma lực để triệu hồi. Sát thuơng = 0,18 x năng lượng x log2( năng lượng  ) x ( độ hiếm +1) ^3",
+        "streakRewardTimer": "Quay trở lại vào {1} để nhận phần thưởng.",
+        "streak": "Hằng ngày #{1}",
+        "joinedSquad": "Bạn đã tham gia vào một tổ đội! (Code: {1})",
+        "noPublicSquad": "Không có tổ đội công khai nào tham gia được trong cấp độ của bạn.",
+        "creatingSquad": "Đang tạo tổ đội mới...",
+        "findingPublicSquad": "Đang tìm tổ đội công khai...",
+        "notInSquad": "Bạn đang không ở trong tổ đội nào cả",
+        "chatInfo": "Nhập \"{1}\" để xem câu lệnh.\nSử dụng ngôn từ gây hại hoặc từ ngữ xúc phạm trong trò chuyện sẽ khiến tài khoản của bạn bị cấm..",
+        "dropBuffInfo": "Tăng vật phẩm rơi ra chỉ đến (1) vật phẩm.",
+        "resetsIn": "Đặt lại trong {1}...",
+        "craftRate": "{1}% tỉ lệ thành công",
+        "growthMana": "Cần {1} năng lượng để phát triển đến kích thước tối đa.",
+        "petDupeMana": "Cần {1} năng lượng để nhân bản thú cưng."
+    },
+    "mobs": {
+        "rock": {
+            "name": "Tảng đá",
+            "desc": "Một tảng đá. Không có gì nhiều."
+        },
+        "ladybug": {
+            "name": "Bọ rùa",
+            "desc": "Đáng yêu và vô hại UwU."
+        },
+        "bush": {
+            "name": "Bụi cây",
+            "desc": "Bụi cây George."
+        },
+        "sponge": {
+            "name": "Bọt biển",
+            "desc": "Bob"
+        },
+        "cactus": {
+            "name": "Cây Xương rồng",
+            "desc": "Một loại cây vô cùng gai góc."
+        },
+        "baby_ant": {
+            "name": "Kiến con",
+            "desc": "Bé kiến."
+        },
+        "soldier_ant": {
+            "name": "Kiến lính",
+            "desc": "Bay vì tự do."
+        },
+        "worker_ant": {
+            "name": "Kiến thợ",
+            "desc": "Không muốn gây sự."
+        },
+        "queen_ant": {
+            "name": "Kiến chúa",
+            "desc": "Hoàng hậu Antilabeth VI."
+        },
+        "baby_fire_ant": {
+            "name": "Kiến lửa con",
+            "desc": "Bé kiến lửa."
+        },
+        "soldier_fire_ant": {
+            "name": "Kiến lửa lính",
+            "desc": "Bay vì tự do."
+        },
+        "worker_fire_ant": {
+            "name": "Kiến lửa thợ",
+            "desc": "Không muốn gây sự."
+        },
+        "queen_fire_ant": {
+            "name": "Kiến lửa chúa",
+            "desc": "Nữ hoàng Antilabeth VII."
+        },
+        "mushroom": {
+            "name": "Nấm",
+            "desc": "Nhiễm trùng nấm."
+        },
+        "jellyfish": {
+            "name": "Sứa",
+            "desc": "Cá Thạch."
+        },
+        "spider": {
+            "name": "Nhện",
+            "desc": "Nó có 8 chân và nhiều mắt."
+        },
+        "bee": {
+            "name": "Ong",
+            "desc": "Nó đốt rất đau."
+        },
+        "hornet": {
+            "name": "Ong bắp cày",
+            "desc": "Chứng nhận kẻ bắn đạn."
+        },
+        "shell": {
+            "name": "Sò",
+            "desc": "Một thực thể rất giống động vật có vỏ."
+        },
+        "ant_hole": {
+            "name": "Tổ kiến",
+            "desc": "Có một bầy Kiến ở trong."
+        },
+        "fire_ant_hole": {
+            "name": "Tổ kiến lửa",
+            "desc": "Có một bầy kiến lửa ở trong."
+        },
+        "spider_cave": {
+            "name": "Hang nhện",
+            "desc": "Hang dài và tối."
+        },
+        "hive": {
+            "name": "Tổ ong",
+            "desc": "Đây là ong Disneyland."
+        },
+        "yoba": {
+            "name": "Yoba",
+            "desc": "Sinh vật đỏ kì bí."
+        },
+        "spider_yoba": {
+            "name": "Nhện Yoba",
+            "desc": "Sinh vật hồng kì bí."
+        },
+        "centipede": {
+            "name": "Rết",
+            "desc": "Nó dài."
+        },
+        "desert_centipede": {
+            "name": " Rết sa mạc",
+            "desc": "Thắng huy chương vàng trong Olympics."
+        },
+        "evil_centipede": {
+            "name": "Rết Quỷ",
+            "desc": "Chúng ta vẫn chưa chắc chắn tại sao nó độc ác."
+        },
+        "sunflower": {
+            "name": "Hoa hướng dương",
+            "desc": "Nó có một lớp giáp."
+        },
+        "boba": {
+            "name": "Boba",
+            "desc": "Nó nổ tung."
+        },
+        "bubble": {
+            "name": "Bong bóng",
+            "desc": "Nhanh làm vỡ nó."
+        },
+        "m28": {
+            "name": "M28",
+            "desc": "Nhà phát triển skibidi"
+        },
+        "beetle": {
+            "name": "Bọ hung",
+            "desc": "Con bọ đói."
+        },
+        "avocado": {
+            "name": "Bơ",
+            "desc": "Loại quả siêu siêu ngon."
+        },
+        "target_dummy": {
+            "name": "Mục tiêu giả",
+            "desc": "giết những thứ này là hành vi phá hoại, trò chơi này thực chất là một trò chiếm đoạt IP và chúng tôi đã báo cáo bạn với chính quyền địa phương, hãy chờ tiếng gõ cửa trong vòng 3-5 phút."
+        },
+        "dark_ladybug": {
+            "name": "Bọ Rùa Đen",
+            "desc": "Đáng yêu và vô hại, nhưng đen."
+        },
+        "shiny_ladybug": {
+            "name": "Bọ rùa bóng loáng",
+            "desc": "Bóng loáng, đáng yêu và vô hại."
+        },
+        "sandstorm": {
+            "name": "Bão cát",
+            "desc": "Một cơn bão cát"
+        },
+        "scorpion": {
+            "name": "Bọ cạp",
+            "desc": "Nó thích xoay quanh và bắn bạn."
+        },
+        "starfish": {
+            "name": "Sao biển",
+            "desc": "Con sao biển nổi tiếng."
+        },
+        "crab": {
+            "name": "Cua",
+            "desc": "Chạy ngay sau bạn."
+        },
+        "dandelion": {
+            "name": "Bồ công anh",
+            "desc": "Bắn ra những bông hoa khi bạn đánh nó."
+        },
+        "dragon": {
+            "name": "Rồng",
+            "desc": "Lửa của nó trông vô cùng nóng, và cảm giác cũng rất nóng."
+        },
+        "leech": {
+            "name": "Đỉa",
+            "desc": "Con rắn slither.io?."
+        },
+        "nazar_beetle": {
+            "name": "Bọ hung Nazar",
+            "desc": "Đã bị biến thành tranh hiện đại."
+        },
+        "toxic_dragon": {
+            "name": "Rồng độc",
+            "desc": "Ai đó đã sơn nó bằng sơn độc hại."
+        },
+        "hel_worm": {
+            "name": "Giun địa ngục",
+            "desc": "Con giun quỷ từ digworm.io."
+        },
+        "hel_spider": {
+            "name": "Nhện địa ngục",
+            "desc": "Nó có 8 chân và nhiều mắt."
+        },
+        "hel_beetle": {
+            "name": "Bọ hung địa ngục",
+            "desc": "Loài bọ vô cùng quỷ dị."
+        },
+        "hel_jellyfish": {
+            "name": "Sứa Địa ngục",
+            "desc": "Làm thế nào và tại sao mà nó có răng vậy??."
+        },
+        "tumbleweed": {
+            "name": "Cỏ lăn",
+            "desc": "*Tiếng gió*"
+        },
+        "dragon_nest": {
+            "name": "Tổ rồng",
+            "desc": "Nhà của những con rồng."
+        },
+        "firestorm": {
+            "name": "Bão lửa",
+            "desc": "Một cơn lốc lửa."
+        },
+        "hel_bee": {
+            "name": "Ong địa ngục",
+            "desc": "Ngòi cháy như ***"
+        },
+        "hel_hornet": {
+            "name": "Ong bắp cày địa ngục",
+            "desc": "Bằng chứng nhận kẻ bắn súng."
+        },
+        "bugatti": {
+            "name": "Bugatti",
+            "desc": "Chiếc xe yêu thích nhất của Jeet."
+        },
+        "fly": {
+            "name": "Ruồi",
+            "desc": "Nó bẩn thỉu(thật lòng)."
+        },
+        "mantis": {
+            "name": "Bọ ngựa",
+            "desc": "Bắn ra 3 hạt đậu xuyên giáp trong một lần."
+        },
+        "firefly": {
+            "name": "Đom đóm",
+            "desc": "Là ruồi có điện áp cao."
+        },
+        "wasp": {
+            "name": "Tò vò",
+            "desc": "Thích ngắm bắn những bông hoa bằng những viên đạn của nó."
+        },
+        "stickbug": {
+            "name": "Bọ gậy",
+            "desc": "Nó thích nhảy."
+        },
+        "snowbush": {
+            "name": "Bụi tuyết",
+            "desc": "Một loại bụi cỏ sống ở vùng lạnh giá, nhưng cũng có thể là tôi bị vùi trong đống tuyết."
+        },
+        "ice_cube": {
+            "name": "Đá viên",
+            "desc": "Một cục nước đá rất lạnh, chạm vào nó có lẽ sẽ không cảm thấy ổn cho lắm."
+        },
+        "snowstorm": {
+            "name": "Bão tuyết",
+            "desc": "Một cơn lốc xoáy tuyết, những bông tuyết sắc nhọn có vẻ đang bay quanh ở bên trong."
+        },
+        "arctic_centipede": {
+            "name": "Rết Bắc Cực",
+            "desc": "Cái lạnh đã làm da nó cứng lại."
+        },
+        "arctic_spider": {
+            "name": "Nhện Bắc Cực",
+            "desc": "Con nhện này trông rất *ngầu*"
+        },
+        "ice_dragon": {
+            "name": "Rồng băng",
+            "desc": "Nó thổi ra những hơi thở lạnh lẽo mà có thể đóng băng kẻ thù của nó."
+        },
+        "tick": {
+            "name": "Bọ ve",
+            "desc": "Con vật này đánh dấu tôi đi!"
+        },
+        "waterspout": {
+            "name": "Vòi rồng nước",
+            "desc": "Một lốc xoáy ở dưới nước."
+        },
+        "urchin": {
+            "name": "Nhím biển",
+            "desc": "Quả bóng đầy gai góc bắn gai vào bạn."
+        },
+        "volcano": {
+            "name": "Núi lửa",
+            "desc": "Một tảng đá rất lớn. Nó phun ra lửa khắp mọi nơi."
+        },
+        "ice_hornet": {
+            "name": "Ong bắp cày băng giá",
+            "desc": "Con vật skibidi dop dop yes yes"
+        },
+        "virus": {
+            "name": "Vi-rút",
+            "desc": "Đừng chạm vào nó!"
+        },
+        "red_blood_cell": {
+            "name": "Hồng cầu",
+            "desc": "Vận chuyển khí oxy đến những nơi cần."
+        },
+        "bacteria": {
+            "name": "Vi khuẩn",
+            "desc": "Nó khiến cho tôi bị ốm."
+        },
+        "bacteriophage": {
+            "name": "Thể thực khuẩn",
+            "desc": "Một thằng mọt sách Toán, thích những khối nhị thập diện lấp đầy bởi độc tố nhiều quá mức."
+        },
+        "cancer": {
+            "name": "Tế bào ung thư",
+            "desc": "Vô cùng chết chóc, mong rằng bạn sẽ không bao giờ vô tình chạm vào nó."
+        },
+        "parasite": {
+            "name": "Kí sinh trùng",
+            "desc": "Thích làm khó chịu chủ của nó."
+        },
+        "white_blood_cell": {
+            "name": "Bạch cầu",
+            "desc": "Tấn công những cái xấu trong cơ thể, kể cả là những bông hoa."
+        },
+        "atom": {
+            "name": "Nguyên tử",
+            "desc": "Khối xây dựng mọi thứ trong vũ trụ, thứ sai sót gì sẽ có thể xảy ra nếu trừ khử một trong số chúng?"
+        },
+        "snake": {
+            "name": "Rắn",
+            "desc": "Nó cực kì chết chóc và vô cùng dài."
+        },
+        "turtle": {
+            "name": "Rùa",
+            "desc": "Nó có một lớp giáp rất khỏe."
+        },
+        "hel_hive": {
+            "name": "Tổ Ong địa ngục",
+            "desc": "Đây chính là nơi mà những chú Ong Địa ngục và Bắp cày Địa ngục bàn luận về những thứ quỷ quyệt để chiếm lấy vùng đồng bằng."
+        },
+        "fossil": {
+            "name": "Hóa thạch",
+            "desc": "Trông nó đã chết yểu đi, có vẻ nó chứa những cánh hoa có giá trị."
+        },
+        "rattlesnake": {
+            "name": "Rắn đuôi chuông",
+            "desc": "Rất chết chóc, rất dài và cũng vô cùng to tiếng, có lẽ bạn nên tôn trọng cảnh báo của nó."
+        },
+        "cicada": {
+            "name": "Ve sầu",
+            "desc": "3301. Có khả năng 11% là nó sẽ gây ra sát thương cao gấp 42 lần."
+        },
+        "snowman": {
+            "name": "Người tuyết",
+            "desc": "Muốn chơi ném tuyết không? (Anh ta nhét cục đá vào trong những quá bóng tuyết)."
+        },
+        "igloo": {
+            "name": "Lều tuyết",
+            "desc": "Một nơi rất tuyệt cho những anh bạn người tuyết và những chú rồng để đi chơi."
+        },
+        "rain_frog": {
+            "name": "Ếch mưa sa mạc",
+            "desc": "Nó di chuyển như một con sò vậy."
+        },
+        "illuminati": {
+            "name": "Illuminati",
+            "desc": "Bóng tối bao trùm."
+        },
+        "black_hole": {
+            "name": "Hố đen",
+            "desc": "Nó rất tối và có lực hấp dẫn cực kì mạnh."
+        },
+        "troll": {
+            "name": "Trôn Lầy",
+            "desc": "NHỮNG AI BIẾT: THẬT TRƯỞNG THÀNH; NHỮNG AI KHÔNG BIẾT: SKIBIDI."
+        },
+        "ufo": {
+            "name": "UFO",
+            "desc": "Có một vài sinh vật màu xanh lá nhìn giống con người đang ở bên trong, có lẽ tốt nhất là không nên làm phiền họ."
+        },
+        "alien": {
+            "name": "Người ngoài hành tinh",
+            "desc": "Một thực thể ngoại hành tinh với khả năng thần giao cách cảm."
+        },
+        "angel": {
+            "name": "Thiên thần",
+            "desc": "Có một hào quang sáng chói, có lẽ bạn không nên đến quá gần."
+        },
+        "momy": {
+            "name": "Momy",
+            "desc": "Một loài sinh vật rất đáng sợ. Nó thích ném đồ vào người khác."
+        },
+        "ghost": {
+            "name": "Ma",
+            "desc": "oOOoOoooOooOooOO, tHật lÀ đÁNg sỢ!"
+        },
+        "gravestone": {
+            "name": "Bia mộ",
+            "desc": "Những con ma rất thích ở đây trong bóng tối bao trùm."
+        },
+        "electric_eel": {
+            "name": "Lươn điện",
+            "desc": "Có lẽ nó sẽ chích bạn."
+        },
+        "eye": {
+            "name": "Con mắt",
+            "desc": "Một con mắt Sauron đáng yêu <3"
+        },
+        "square": {
+            "name": "Hình Vuông",
+            "desc": "Nhầm game rồi!"
+        },
+        "target_mummy": {
+            "name": "Mục tiêu giả Xác ướp",
+            "desc": "Mục tiêu giả + Băng bó = Mục tiêu Băng bó."
+        },
+        "oracle": {
+            "name": "Nhà tiên tri",
+            "desc": "Khoảnh khắc là một nhân vật nhưng không phải là người chơi."
+        },
+        "trader": {
+            "name": "Thương nhân",
+            "desc": "Cùng trao đổi những cánh hoa bằng tiền tệ nào!"
+        },
+        "tesla_coil": {
+            "name": "Cuộn Tesla",
+            "desc": "Một cuộn dây của Tesla có khả năng chích điện những kẻ thù từ xa."
+        },
+        "snail": {
+            "name": "Ốc sên",
+            "desc": "Nó di chuyển cực kì chậm."
+        },
+        "stem_cell": {
+            "name": "Tế bào gốc",
+            "desc": "Nó có thể nhân bản chính nó theo thời gian."
+        },
+        "nuke": {
+            "name": "Bom Nguyên Tử",
+            "desc": "Tsar Bomba là một quả bom khinh khí rất lớn của nga"
+        },
+        "digger": {
+            "name": "Thợ đào mỏ",
+            "desc": "Một đồng minh chỉ biết đào xung quanh"
+        },
+        "grave_digger": {
+            "name": "Thợ đào mộ",
+            "desc": "Nó muốn bạn chui vào ngôi mộ ẩm ướt mới đào của nó"
+        },
+        "hel_digger": {
+            "name": "Thợ đào mỏ địa ngục",
+            "desc": "Nó thuần hóa nhũng con rồng....."
+        },
+        "sand_stone": {
+            "name": "Đá sa thạch",
+            "desc": "Đá cực kì thô và bụi"
+        },
+        "termite_overmind": {
+            "name": "Mối chúa",
+            "desc": "Anh ấy đã chuẩn bị kỹ lưỡng để đánh bại bất kỳ kẻ thù nào."
+        },
+        "termite_hole": {
+            "name": "Tổ mối",
+            "desc": "Có rất nhiều con mối trong đó"
+        },
+        "soldier_termite": {
+            "name": "Mối lính",
+            "desc": "Chiến đấu vì tự do, nhưng tất cả những gì nó làm là vô tình làm tổn thương bạn bè của mình."
+        },
+        "worker_termite": {
+            "name": "Mối thợ",
+            "desc": "Không muốn chiến đấu, nhưng vẫn phải chiến đấu"
+        },
+        "baby_termite": {
+            "name": "Mối con",
+            "desc": "Có một tuổi thơ rất khó khăn"
+        },
+        "shipwreck": {
+            "name": "Tàu đắm",
+            "desc": "Tai nạn dưới nước, có vẻ như động vật hoang dã địa phương đã chiếm lấy chiếc tàu này."
+        },
+        "pirate_digger": {
+            "name": "Thợ đào mỏ cướp biển",
+            "desc": "Những tên cướp biển vùng đậu cà ri"
+        },
+        "palm_tree": {
+            "name": "Cây Cọ",
+            "desc": "Những chiếc lá khổng lồ giúp nó sống sót trong khí hậu này"
+        },
+        "stalagmite": {
+            "name": "Măng Đá",
+            "desc": "Sẽ cố đâm bạn liên tục."
+        },
+        "arctic_spider_cave": {
+            "name": "Hang Nhện Bắc Cực",
+            "desc": "Một cái hang cực ngầu nằm trong một cái hang ngầu sẵn. Hangception."
+        },
+        "beekeeper": {
+            "name": "Người Nuôi Ong",
+            "desc": "Người canh giữ đàn ong. Đơn giản vậy thôi."
+        },
+        "hel_beekeeper": {
+            "name": "Người Nuôi Ong Địa Ngục",
+            "desc": "Người canh giữ những con ong đến từ địa ngục. Loài ong nhưng là phiên bản ác mộng."
+        },
+        "alien_digger": {
+            "name": "Thợ đào mỏ Ngoài Hành Tinh",
+            "desc": "Khai thác tài nguyên trên các hành tinh khác, dịch như phần bên trên."
+        },
+        "queen_bee": {
+            "name": "Ong Chúa",
+            "desc": "Thủ lĩnh hoàng gia của bầy ong"
+        },
+        "hel_queen_bee": {
+            "name": "Ong Chúa địa ngục",
+            "desc": "Thủ lĩnh địa ngục của đám ong quỷ"
+        },
+        "hel_centipede": {
+            "name": "Rết địa ngục",
+            "desc": "Một con quái địa ngục dài dằng dặc. Nó cũng học được cách sử dụng vật phẩm rơi ra của chính mình."
+        },
+        "fire_eel": {
+            "name": "Lươn địa ngục",
+            "desc": "Nọc của nó có khả năng gây bỏng cao hơn."
+        },
+        "lamprey_eel": {
+            "name": "Lươn mút đá",
+            "desc": "Một con lươn cực kỳ độc..."
+        },
+        "frost_digger": {
+            "name": "Thợ đào mỏ băng giá",
+            "desc": "Cái lạnh đã làm anh ấy trở nên mỏng manh, nhưng anh ấy vẫn tiếp tục."
+        },
+        "cube": {
+            "name": "Khối lập phương",
+            "desc": "Trông quen quen... Bạn chỉ cần chiếu các điểm 3D lên mặt phẳng 2D. dễ ẹc pz."
+        },
+        "white_hole": {
+            "name": "Hố Trắng",
+            "desc": "Rất ghê tởm và sáng đến mức chói mắt."
+        },
+        "tesseract": {
+            "name": "Khối lập phương tứ diện",
+            "desc": "Hình dạng này thậm chí còn không phải từ chiều không gian này nữa... chuyện này xảy ra thế nào?"
+        },
+        "unabomber": {
+            "name": "Unabomber",
+            "desc": "Khoảnh khắc Ted Kaczynski"
+        },
+        "biologist": {
+            "name": "Nhà sinh vật học",
+            "desc": "Một đồng minh chỉ nghiên cứu sinh học trong tế bào của bạn. Thiệt hại của nó tăng lên khi bị tổn thương."
+        },
+        "cicada_3301": {
+            "name": "Ve sầu 3301",
+            "desc": "Có 33% khả năng gây sát thương gấp 33 lần (bao gồm cả sát thương thần giao cách cảm). Lễ Hiển Linh đang đến với bạn. Cuộc hành hương của bạn đã bắt đầu. Sự Khai sáng đang chờ đợi."
+        },
+        "shark": {
+            "name": "Cá mập",
+            "desc": "Cá mập con doo doo doo doo doo doo..."
+        },
+        "squid": {
+            "name": "Mực",
+            "desc": "Đang tìm một cái bồn cầu, hay đó chỉ là mực?"
+        },
+        "geyser": {
+            "name": "Mạch nước phun",
+            "desc": "Bắn nước nóng ở khắp mọi nơi"
+        },
+        "spider_digger": {
+            "name": "Thợ đào mỏ nhện",
+            "desc": "Nó xây nên Hang Nhện"
+        },
+        "termite_digger": {
+            "name": "Thợ đào mỏ mối",
+            "desc": "Đã kết bạn với quần thể mối địa phương."
+        },
+        "barrel": {
+            "name": "Thùng",
+            "desc": "Nó có chứa phóng xạ ở bên trong."
+        }
+    },
+    "petals": {
+        "basic": {
+            "name": "Cơ bản",
+            "desc": "Cánh hoa đơn giản nhất của sự đơn giản."
+        },
+        "rose": {
+            "name": "Hoa hồng",
+            "desc": "Chữa lành cho bạn khi tiêu thụ."
+        },
+        "wing": {
+            "name": "Cánh",
+            "desc": "Nó bay đi, và quay lại."
+        },
+        "rock": {
+            "name": "Đá",
+            "desc": "Nó khá là bền đấy."
+        },
+        "iris": {
+            "name": "Hoa diên vĩ",
+            "desc": "Nó có độc tính mạnh."
+        },
+        "stinger": {
+            "name": "Ngòi chích",
+            "desc": "Đau lắm đấy!"
+        },
+        "honey": {
+            "name": "Mật ong",
+            "desc": "Là bãi nôn của những chú ong (Thật đấy!)."
+        },
+        "bubble": {
+            "name": "Bong bóng",
+            "desc": "Có thể nổ tung và sẽ đẩy bạn đi."
+        },
+        "heavy": {
+            "name": "Quả tạ",
+            "desc": "Nặng hơn cả mẹ bạn:)."
+        },
+        "yin_yang": {
+            "name": "Âm Dương",
+            "desc": "Đảo chiều quỹ đạo quay của những cánh hoa của bạn."
+        },
+        "faster": {
+            "name": "Nhanh",
+            "desc": "Tăng tốc độ quay cánh hoa của bạn."
+        },
+        "light": {
+            "name": "Nhẹ",
+            "desc": "Nhân bản cực kì nhanh."
+        },
+        "sponge": {
+            "name": "Bọt biển",
+            "desc": "Rửa bát và lan chậm sát thương nhận được theo thời gian."
+        },
+        "rice": {
+            "name": "Gạo",
+            "desc": "Đặc sản châu Á."
+        },
+        "yggdrasil": {
+            "name": "Yggdrasil",
+            "desc": "Hồi sinh những bông hoa đã ngã xuống."
+        },
+        "leaf": {
+            "name": "Lá",
+            "desc": "Trị thương cho bạn một cách thụ động."
+        },
+        "lightning": {
+            "name": "Sét",
+            "desc": "Tạo ra một cú sét đánh vào những kẻ thù gần bạn."
+        },
+        "usain_bolt": {
+            "name": "Usain Bolt",
+            "desc": "Tạo ra một cú sét đánh có độc tố vào kẻ thù lân cận."
+        },
+        "cotton": {
+            "name": "Bông",
+            "desc": "Hấp thụ sát thương nhận vào của bạn ."
+        },
+        "web": {
+            "name": "Mạng nhện.",
+            "desc": "Thả ra phân nhện có thể làm chậm kẻ thù."
+        },
+        "pollen": {
+            "name": "Phấn hoa",
+            "desc": "Rơi xuống và nằm dưới đất."
+        },
+        "shell": {
+            "name": "Vỏ Sò",
+            "desc": "Mang lại lớp giáp khi tiêu thụ."
+        },
+        "sunflower": {
+            "name": "Hoa hướng dương",
+            "desc": "Mang lại lớp giáp một cách thụ động."
+        },
+        "bomb": {
+            "name": "Bom",
+            "desc": "Nổ tung khi nó đụng vào một kẻ thù."
+        },
+        "gas_bomb": {
+            "name": "Bom độc",
+            "desc": "Nổ tung và gây độc tố cho kẻ thù."
+        },
+        "missile": {
+            "name": "Đạn",
+            "desc": "Một cái ngòi đốt \"phản động\" phi ra xa từ phía bạn."
+        },
+        "viper": {
+            "name": "Mũi tên tẩm độc",
+            "desc": "Chúng ta không hề biết làm thế nào mà nó gây độc."
+        },
+        "rocket": {
+            "name": "Tên lửa",
+            "desc": "Nhanh và dễ cháy nổ."
+        },
+        "electron_missile": {
+            "name": "Đạn điện",
+            "desc": "Nó được lấp đầy bởi những electron hung hăng chỉ đang đợi thời cơ để giật bất cứ thứ gì trên đường đi của chúng."
+        },
+        "magnet": {
+            "name": "Nam châm",
+            "desc": "Hút những cánh hoa rơi và hấp thụ những tia sét."
+        },
+        "salt": {
+            "name": "Muối",
+            "desc": "Phản lại sát thương đã gây ra cho bông hoa lên kẻ thù."
+        },
+        "antennae": {
+            "name": "Râu",
+            "desc": "Giúp bạn mở mang tầm mắt."
+        },
+        "third_eye": {
+            "name": "Tam nhãn",
+            "desc": "Tăng phạm vi đánh của những bông hoa của bạn."
+        },
+        "dmca": {
+            "name": "DMCA",
+            "desc": "Trừ khử những con vật có độ hiếm ngang bằng hoặc kém hơn khỏi sự tồn tại."
+        },
+        "rock_egg": {
+            "name": "Trứng Tảng Đá",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "ladybug_egg": {
+            "name": "Trứng Bọ rùa",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "bush_egg": {
+            "name": "Trứng Bụi rậm",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "sponge_egg": {
+            "name": "Trứng Bọt biển",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "cactus_egg": {
+            "name": "Trứng Xương rồng",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "baby_ant_egg": {
+            "name": "Trứng Kiến con",
+            "desc": "Nó có thể nở ra một thứ gì đó rất dễ thương :3..."
+        },
+        "soldier_ant_egg": {
+            "name": "Trứng Kiến lính",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "worker_ant_egg": {
+            "name": "Trứng Kiến thợ",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "queen_ant_egg": {
+            "name": "Trứng Kiến chúa",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "baby_fire_ant_egg": {
+            "name": "Trứng Kiến lửa con",
+            "desc": "Nó có thể nở ra một thứ gì đó rất dễ thương ..."
+        },
+        "soldier_fire_ant_egg": {
+            "name": "Trứng Kiến lửa lính",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "worker_fire_ant_egg": {
+            "name": "Trứng Kiến lửa thợ",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "queen_fire_ant_egg": {
+            "name": "Trứng Kiến lửa chúa",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "mushroom_egg": {
+            "name": "Trứng Nấm",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "jellyfish_egg": {
+            "name": "Trứng Sứa",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "spider_egg": {
+            "name": "Trứng Nhện",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "bee_egg": {
+            "name": "Trứng Ong",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "hornet_egg": {
+            "name": "Trứng Ong bắp cày",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "shell_egg": {
+            "name": "Trứng Sò",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "ant_hole_egg": {
+            "name": "Trứng Tổ kiến",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "fire_ant_hole_egg": {
+            "name": "Trứng Tổ kiến lửa",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "spider_cave_egg": {
+            "name": "Trứng Hang nhện",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "hive_egg": {
+            "name": "Trứng Tổ ong",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "yoba_egg": {
+            "name": "Trứng Yoba",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "spider_yoba_egg": {
+            "name": "Trứng Nhện Yoba",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "centipede_egg": {
+            "name": "Trứng Rết",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "desert_centipede_egg": {
+            "name": "Trứng Rết sa mạc",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "evil_centipede_egg": {
+            "name": "Trứng Rết quỷ",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "sunflower_egg": {
+            "name": "Trứng Hoa hướng dương",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "boba_egg": {
+            "name": "Trứng Boba",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "bubble_egg": {
+            "name": "Trứng Bong bóng",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "m28_egg": {
+            "name": "Trứng M28",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "beetle_egg": {
+            "name": "Trứng Bọ hung",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "avocado_egg": {
+            "name": "Trứng Quả bơ",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "target_dummy_egg": {
+            "name": "Trứng Mục tiêu giả",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "dark_ladybug_egg": {
+            "name": "Trứng Bọ rùa đen",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "shiny_ladybug_egg": {
+            "name": "Trứng Bọ rùa bóng loáng",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "stick": {
+            "name": "Gậy",
+            "desc": "Tạo ra những cơn gió vô cùng chết chóc."
+        },
+        "scorpion_egg": {
+            "name": "Trứng Bọ cạp",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "starfish_egg": {
+            "name": "Trứng Sao biển",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "pea": {
+            "name": "Chùm Đậu",
+            "desc": "Nó bắn \"piu, piu\"!"
+        },
+        "avocado": {
+            "name": "Quả bơ",
+            "desc": "Khiến thú của bạn trở nên béo hơn bao giờ hết:."
+        },
+        "ring_magnet": {
+            "name": "Nam châm vòng",
+            "desc": "Hút mọi thứ về bạn một cách chậm rãi."
+        },
+        "gas": {
+            "name": "Khí ga",
+            "desc": "Khí độc."
+        },
+        "fire": {
+            "name": "Lửa",
+            "desc": "Nó gây bỏng."
+        },
+        "nitro": {
+            "name": "Khí ni-tơ",
+            "desc": "Nó trông giống một gói phản lực"
+        },
+        "wind": {
+            "name": "Gió",
+            "desc": "Thổi những kẻ thù ra xa."
+        },
+        "air": {
+            "name": "Không khí",
+            "desc": "Có ở xung quanh nhưng không cảm nhận được."
+        },
+        "lightsaber": {
+            "name": "Kiếm laser",
+            "desc": "Một cây kiếm làm từ photon có phạm vi giới hạn."
+        },
+        "visaber": {
+            "name": "Visaber",
+            "desc": "Nó đang bắn ra những tia gamma thay vì là những photon nhìn thấy được."
+        },
+        "bone": {
+            "name": "Xương",
+            "desc": "Tạo nên bởi can-xi."
+        },
+        "cactus": {
+            "name": "Xương rồng",
+            "desc": "Mang lại cho bạn nhiều máu hơn."
+        },
+        "soil": {
+            "name": "Đất",
+            "desc": "Khiến cho những bông hoa trở nên béo hơn."
+        },
+        "grapes": {
+            "name": "Chùm Nho",
+            "desc": "Là Mũi tên nhưng cũng là hoa diên vĩ. Cái quái quỷ gì vậy??"
+        },
+        "mushroom": {
+            "name": "Nấm",
+            "desc": "Khiến cho bông hoa bị nhiễm độc."
+        },
+        "ears": {
+            "name": "Tai",
+            "desc": "Những đôi tai mèo biết thần giao cách cảm uwu"
+        },
+        "sand": {
+            "name": "Cát",
+            "desc": "Có thể xây một lâu đài cát từ đống này đấy!"
+        },
+        "pincer": {
+            "name": "Kẹp",
+            "desc": "Làm gãy đôi chân của kẻ thù, kể cả khi chúng không có chân."
+        },
+        "dahlia": {
+            "name": "Thược dược",
+            "desc": "Hi sinh vì sự tin cậy."
+        },
+        "starfish": {
+            "name": "Sao biển",
+            "desc": "Hồi máu cho bạn khi bạn bị thấp máu."
+        },
+        "dandelion": {
+            "name": "Bồ công anh",
+            "desc": "Vô hiệu hóa sự chữa thương của kẻ thù."
+        },
+        "crab_egg": {
+            "name": "Trứng Cua",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "dandelion_egg": {
+            "name": "Trứng Bồ công anh",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "dragon_egg": {
+            "name": "Trứng Rồng",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "irey": {
+            "name": "Irey",
+            "desc": "Khiến những ô mật ong có độc tính."
+        },
+        "leech_egg": {
+            "name": "Trứng Đỉa",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "nazar": {
+            "name": "Bùa Nazar",
+            "desc": "Nó có thể chống chịu một đòn đánh, và rồi hồi chiêu."
+        },
+        "nazar_beetle_egg": {
+            "name": "Trứng Bọ hung Nazar",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "golden_leaf": {
+            "name": "Lá vàng",
+            "desc": "Giảm thời gian hồi chiêu theo thời gian."
+        },
+        "laser": {
+            "name": "Laser",
+            "desc": "Thỉnh thoảng có thể gây bỏng."
+        },
+        "mark": {
+            "name": "Con dấu Hắc ám",
+            "desc": "Tiễn đưa một bông hoa nhỏ nhắn đã ngã xuống... xuống Địa ngục."
+        },
+        "bur": {
+            "name": "Quả gai",
+            "desc": "Giảm đi sức chống chịu của đối thủ."
+        },
+        "cutter": {
+            "name": "Lưỡi cắt",
+            "desc": "Khiến không chỉ cằm, mà cả da bạn cũng sẽ trở nên nhọn hoắt và gây nhiều sát thương hơn."
+        },
+        "powder": {
+            "name": "Bột Huyền bí",
+            "desc": "Vây quanh bốn hướng trong đầu..."
+        },
+        "toxic_dragon_egg": {
+            "name": "Trứng Rồng độc",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "hel_worm_egg": {
+            "name": "Trứng Giun Địa ngục",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "hel_spider_egg": {
+            "name": "Trứng Nhện Địa ngục",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "hel_beetle_egg": {
+            "name": "Trứng Bọ hung Địa ngục",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "hel_jellyfish_egg": {
+            "name": "Trứng Sứa Địa ngục",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "hel_lightning": {
+            "name": "Sét Địa ngục",
+            "desc": "Tạo nên một tia lửa điện trời giáng xuống những kẻ thù bao quanh."
+        },
+        "tumbleweed_egg": {
+            "name": "Trứng Cỏ lăn",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "dragon_nest_egg": {
+            "name": "Trứng Tổ rồng",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "fire_stick": {
+            "name": "Gậy lửa",
+            "desc": "Tạo ra những cơn gió vô cùng chết chóc."
+        },
+        "hel_bee_egg": {
+            "name": "Trứng Ong Địa ngục",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "hel_hornet_egg": {
+            "name": "Trứng Ong bắp cày Địa ngục",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "hel_missile": {
+            "name": "Đạn Địa ngục",
+            "desc": "Là mũi tên nhưng nóng vãi ***."
+        },
+        "bugatti": {
+            "name": "Bugatti",
+            "desc": "Tăng tốc độ chạy của bạn."
+        },
+        "bugatti_egg": {
+            "name": "Trứng Bugatti",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "poo": {
+            "name": "Phân",
+            "desc": "Làm giảm tầm nhìn của kẻ thù (Thực tế kẻ thù không muốn tấn công bạn là vì cái thứ sặc mùi ấy)."
+        },
+        "rubber": {
+            "name": "Cao su",
+            "desc": "Làm tăng độ bật nảy của bạn nhận từ kẻ thù và khiến bạn nảy tưng tưng."
+        },
+        "fly_egg": {
+            "name": "Trứng Ruồi",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "fang": {
+            "name": "Nanh",
+            "desc": "Hồi máu cho bạn với lượng sát thương bạn gây ra."
+        },
+        "blood_stinger": {
+            "name": "Ngòi chích máu",
+            "desc": "Nó đốt rất đau, đau đến mức thậm chí còn phản lại một ít sát thương cho bạn."
+        },
+        "mantis_egg": {
+            "name": "Trứng Bọ ngựa",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "firefly_egg": {
+            "name": "Trứng Đom đóm",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "wasp_egg": {
+            "name": "Trứng Tò vò",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "battery": {
+            "name": "Pin",
+            "desc": "Khiến Hoa có điện quanh thân khi một kẻ thù đánh vào nó."
+        },
+        "stickbug_egg": {
+            "name": "Trứng Bọ gậy",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "plank": {
+            "name": "Ván gỗ",
+            "desc": "Gây ra mức sát thương cao gấp 100 lần với những viên đạn của kẻ thù."
+        },
+        "icicle": {
+            "name": "Cột băng",
+            "desc": "Đóng băng đối thủ của bạn."
+        },
+        "dice": {
+            "name": "Xúc xắc",
+            "desc": "Có tỉ lệ 7.5% sẽ gây ra sát thương cao gấp 69 lần. Tỉ lệ sẽ tăng khi bạn đeo Cỏ."
+        },
+        "cryo_bomb": {
+            "name": "Bom băng.",
+            "desc": "Đóng băng kẻ thù lân cận của bạn khi nó nổ tung."
+        },
+        "clover": {
+            "name": "Cỏ Ba lá",
+            "desc": "Mang lại cho bạn sự may mắn tuyệt vời."
+        },
+        "blueberries": {
+            "name": "Việt quất",
+            "desc": "Đóng băng kẻ thù, và khiến chúng cứng nhắc lại."
+        },
+        "frost": {
+            "name": "Sương giá",
+            "desc": "Luồng khí lạnh có thể xuyên qua áo giáp của kẻ thù và làm chậm chúng."
+        },
+        "snowball": {
+            "name": "quả cầu tuyết",
+            "desc": "Quả cầu người tuyết có thể xuyên qua áo giáp của kẻ thù."
+        },
+        "snowflake": {
+            "name": "Bông tuyết",
+            "desc": "Nó bắn ra khi bị vỡ."
+        },
+        "amethyst": {
+            "name": "Thạch anh tím",
+            "desc": "Đá quý rất sắc nhưng giòn"
+        },
+        "snowbush_egg": {
+            "name": "Trứng bụi tuyết",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "snow_stick": {
+            "name": "Gậy tuyết",
+            "desc": "Triệu hồi sương giá chết chóc."
+        },
+        "ice_cube_egg": {
+            "name": "Trứng đá viên",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "arctic_centipede_egg": {
+            "name": "Trứng rết Bắc Cực",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "arctic_spider_egg": {
+            "name": "Trứng nhện Bắc Cực",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "ice_dragon_egg": {
+            "name": "Trứng rồng băng",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "tick_egg": {
+            "name": "Trứng Bọ ve",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "ice_rose": {
+            "name": "Hoa hồng băng",
+            "desc": "Chữa lành cho bạn khi ăn nhưng cũng khiến bạn bị đóng băng."
+        },
+        "torch": {
+            "name": "Ngọn đuốc",
+            "desc": "Loại bỏ sương giá khỏi hoa theo thời gian."
+        },
+        "water_stick": {
+            "name": "Gậy nước",
+            "desc": "Triệu hồi lốc xoáy dưới nước, ngay cả khi không ở dưới nước."
+        },
+        "urchin_egg": {
+            "name": "Trứng nhím biển",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "volcano_egg": {
+            "name": "Trứng núi lửa",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "spikeball": {
+            "name": "Bóng gai",
+            "desc": "nhiều tên lửa được liên kết với nhau bằng một liên kết yếu, các tên lửa này sẽ bay khắp nơi nếu liên kết đó bị phá vỡ..."
+        },
+        "needle": {
+            "name": "Cây kim",
+            "desc": "rất sắc nhưng rất mỏng manh, nó cũng bị đầu độc"
+        },
+        "bubble_bomb": {
+            "name": "Bom bong bóng",
+            "desc": "Phát nổ và đẩy kẻ thù của bạn đi quá xa."
+        },
+        "obsidian": {
+            "name": "Đá Obsidian",
+            "desc": "cực kỳ bền bỉ, nhưng đồng thời cũng rất mong manh."
+        },
+        "magma": {
+            "name": "Nham thạch",
+            "desc": "một tảng đá rất nóng."
+        },
+        "fire_bomb": {
+            "name": "Bom lửa",
+            "desc": "vụ nổ sẽ thiêu rụi kẻ thù của bạn."
+        },
+        "ice_hornet_egg": {
+            "name": "Trứng ong bắp cày băng",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "frozen_mark": {
+            "name": "Con Dấu băng giá",
+            "desc": "Gửi một bông hoa loa kèn chết đến Nam Cực"
+        },
+        "coffee": {
+            "name": "Cà phê",
+            "desc": "Tăng tốc độ tạm thời khi sử dụng."
+        },
+        "chromosome": {
+            "name": "Nhiễm sắc thể",
+            "desc": "Chữa lành cánh hoa của bạn theo thời gian."
+        },
+        "antibody": {
+            "name": "Kháng thể",
+            "desc": "Giảm giáp của kẻ địch"
+        },
+        "hemoglobin": {
+            "name": "Huyết sắc",
+            "desc": "Tăng khả năng chữa lành do cánh hoa chữa lành gây ra"
+        },
+        "chloroplast": {
+            "name": "Lục lạp",
+            "desc": "Tăng khả năng tái tạo lá chắn."
+        },
+        "sugar": {
+            "name": "Đường",
+            "desc": "Rất ngọt"
+        },
+        "pill": {
+            "name": "Viên thuốc",
+            "desc": "Chữa khỏi bệnh ung thư và giúp bạn hồi phục."
+        },
+        "dna": {
+            "name": "DNA",
+            "desc": "Cho bạn một cơ hội nhỏ để tăng độ hiếm của thú cưng. Ảnh hưởng đến tất cả trứng cho đến khi đạt độ hiếm. Ví dụ, Trứng siêu cấp sinh ra Kiến siêu cấp + DNA siêu cấp = Cơ hội sinh ra Kiến siêu cấp. Tỷ lệ bị ảnh hưởng bởi cỏ ba lá."
+        },
+        "virus_egg": {
+            "name": "Trứng Virus",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "red_blood_cell_egg": {
+            "name": "Trứng hồng cầu",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "bacteria_egg": {
+            "name": "Trứng vi khuẩn",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "bacteriophage_egg": {
+            "name": "Trứng thực khuẩn",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "cancer_egg": {
+            "name": "Trứng ung thư",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "parasite_egg": {
+            "name": "Trứng ký sinh",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "cancer": {
+            "name": "Ung thư",
+            "desc": "Chia tách đám quái vật có cùng độ hiếm khi chúng chết."
+        },
+        "white_blood_cell_egg": {
+            "name": "Trứng tế bào máu trắng",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "lotus": {
+            "name": "Hoa sen",
+            "desc": "Giảm độc tố."
+        },
+        "ice": {
+            "name": "Đá viên",
+            "desc": "Giảm lửa."
+        },
+        "atom_egg": {
+            "name": "Trứng nguyên tử",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "snake_egg": {
+            "name": "Trứng rắn",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "slime": {
+            "name": "Chất nhờn",
+            "desc": "ôi nó dính quá"
+        },
+        "turtle_egg": {
+            "name": "Trứng rùa",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "hel_hive_egg": {
+            "name": "Trứng tổ ong địa ngục",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "hel_honey": {
+            "name": "Mật ong địa ngục",
+            "desc": "Làm nóng những viên gạch mật ong."
+        },
+        "scar": {
+            "name": "Scar",
+            "desc": "Rất nguy hiểm nhưng cũng có thể dịch chuyển bạn đến một địa điểm ngẫu nhiên."
+        },
+        "crystal_leaf": {
+            "name": "Lá pha lê",
+            "desc": "Chữa lành thụ động cho thú cưng của bạn."
+        },
+        "fossil_egg": {
+            "name": "Trứng hóa thạch",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "rattlesnake_egg": {
+            "name": "Trứng rắn đuôi chuông",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "rattle": {
+            "name": "Đuôi chuông",
+            "desc": "Cánh hoa Skibidi dop dop yes yes"
+        },
+        "cicada_egg": {
+            "name": "Trứng Ve Sầu",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "snowman_egg": {
+            "name": "Trứng Người Tuyết",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "carrot": {
+            "name": "Cà rốt",
+            "desc": "Có người bảo tôi rằng những thứ này tốt cho mắt, nhưng khi tôi cho chúng vào mắt thì rất đau"
+        },
+        "igloo_egg": {
+            "name": "Trứng Lều tuyết",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "rain_frog_egg": {
+            "name": "Trứng Ếch Mưa",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "disc": {
+            "name": "Đĩa",
+            "desc": "Giảm sát thương lên cơ thể dựa trên sức khỏe của bạn."
+        },
+        "mimic": {
+            "name": "Bắt chước",
+            "desc": "Nó mô phỏng cánh hoa mà bạn sở hữu."
+        },
+        "scythe": {
+            "name": "Lưỡi hái",
+            "desc": "Một vật thể dài và sắc nhọn. Càng nhiều cánh hoa được trang bị thì nó càng yếu đi."
+        },
+        "corruption": {
+            "name": "Tha hóa",
+            "desc": "Bạn trở nên tha hóa và có thể gây hại cho những bông hoa khác và chúng có thể gây hại cho bạn."
+        },
+        "moon": {
+            "name": "Mặt trăng",
+            "desc": "cánh hoa rất to, có thể bảo vệ bạn khỏi quái vật"
+        },
+        "pearl": {
+            "name": "Ngọc Trai",
+            "desc": "để nó trên sàn và xem đám đông vấp ngã vì nó"
+        },
+        "orange": {
+            "name": "Cam",
+            "desc": "chúng rất ngon, nhưng mọi quái vật đều bị dị ứng với chúng"
+        },
+        "dizzy": {
+            "name": "Choáng váng",
+            "desc": "Làm bạn chóng mặt, nhưng tăng sát thương từ cánh hoa của bạn."
+
+        },
+        "illuminati_egg": {
+            "name": "Trứng Illuminati",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "black_hole_egg": {
+            "name": "Trứng lỗ đen",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "gamma_ray": {
+            "name": "Tia Gamma",
+            "desc": "khoảnh khắc chùm tia"
+        },
+        "troll_egg": {
+            "name": "Trứng Troll",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "horn": {
+            "name": "Sừng",
+            "desc": "Tăng sát thương cho thú cưng của bạn."
+        },
+        "ufo_egg": {
+            "name": "Trứng UFO",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "orb": {
+            "name": "Quả cầu",
+            "desc": "Có rất nhiều công nghệ tiên tiến của người ngoài hành tinh trong này, tôi tự hỏi nó dùng để làm gì..."
+        },
+        "alien_egg": {
+            "name": "Trứng người ngoài hành tinh",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "angel_egg": {
+            "name": "Trứng thiên thần",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "momy_egg": {
+            "name": "Trứng momy",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "mirror": {
+            "name": "Gương",
+            "desc": "Phản xạ tên lửa lên đến độ hiếm tương tự."
+        },
+        "comb": {
+            "name": "Cái lược",
+            "desc": "Thật đáng tiếc khi hoa lại không có lá"
+        },
+        "ring": {
+            "name": "Nhẫn",
+            "desc": "Nhẫn của Zauron."
+        },
+        "triangle": {
+            "name": "Hình tam giác",
+            "desc": "Có khả năng phát hiện ra điểm yếu của mọi mob bằng cách gây ra mọi loại sát thương"
+        },
+        "dvd": {
+            "name": "DVD",
+            "desc": "Chứa một số cảnh quay Người ngoài hành tinh hiếm chưa từng thấy trước đây."
+        },
+        "eyeball": {
+            "name": "Nhãn cầu",
+            "desc": "Mọi con mắt đều nhìn thấy của bạn khiến tên lửa tự động nhắm tới mục tiêu gần nhất."
+        },
+        "zodiac": {
+            "name": "Zodiac",
+            "desc": "Tăng thời gian hồi lại cánh hoa, nhưng rất mạnh."
+        },
+        "ghost_egg": {
+            "name": "Trứng ma",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "gravestone_egg": {
+            "name": "Trứng bia mộ",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "balloon": {
+            "name": "Bóng bay",
+            "desc": "Làm cho bạn tăng cường lên trên."
+        },
+        "void_mark": {
+            "name": "Con Dấu Hư không",
+            "desc": "Gửi một bông hoa chết nhỏ dễ thương đến cõi tinh tú."
+        },
+        "plasma": {
+            "name": "Plasma",
+            "desc": "Trạng thái vật chất rất nóng."
+        },
+        "quantum": {
+            "name": "Lượng tử",
+            "desc": "Thay đổi hình dạng quỹ đạo của bạn."
+        },
+        "claw": {
+            "name": "Càng",
+            "desc": "Gây sát thương gấp 5 lần khi máu của kẻ địch trên 80%."
+        },
+        "electric_eel_egg": {
+            "name": "Trứng lươn điện",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "thorn": {
+            "name": "Cái gai",
+            "desc": "Một tên lửa nóng lên sẽ tách ra"
+        },
+        "blood_scythe": {
+            "name": "Lưỡi hái máu",
+            "desc": "Không phải lưỡi hái nào cả, nó dính đầy máu và không hề yếu đi"
+        },
+        "eye_egg": {
+            "name": "Trứng mắt",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "square": {
+            "name": "Hình vuông",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "target_mummy_egg": {
+            "name": "Trứng mục tiêu giả xác ướp",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "yuan": {
+            "name": "Nhân dân tệ",
+            "desc": "Tiền tệ của Lục địa."
+        },
+        "bitcoin": {
+            "name": "Bitcoin",
+            "desc": "Được tạo ra bởi Satoshi Nakamoto."
+        },
+        "dollar": {
+            "name": "Đô la",
+            "desc": "Tại sao tôi không thể sử dụng nó trong đời thực?"
+        },
+        "fries": {
+            "name": "Khoai chiên",
+            "desc": "Bạn có 69 cuộc gọi nhỡ từ McDonalds."
+        },
+        "emerald": {
+            "name": "Ngọc lục bảo",
+            "desc": "Cho bạn nhiều XP hơn từ quái vật cùng độ hiếm khi quái vật bị tấn công bằng nó."
+        },
+        "sapphire": {
+            "name": "Ngọc bích",
+            "desc": "Khiến tất cả cánh hoa cùng độ hiếm của bạn rơi xuống đất."
+        },
+        "candlestick": {
+            "name": "Cây nến",
+            "desc": "Nó có thể chữa lành mọi vết thương của bạn hoặc giết chết bạn. Hãy cẩn thận!"
+        },
+        "ruby": {
+            "name": "Hồng ngọc",
+            "desc": "Cho phép sét có khả năng tấn công cùng một kẻ thù nhiều lần."
+        },
+        "diamond": {
+            "name": "Kim cương",
+            "desc": "Nó vỡ tan khi bị vỡ."
+        },
+        "topaz": {
+            "name": "Hoàng ngọc",
+            "desc": "Cho bạn giáp."
+        },
+        "citron": {
+            "name": "Thanh yên",
+            "desc": "Tăng kích thước cánh hoa của bạn."
+        },
+        "quartz": {
+            "name": "Thạch anh",
+            "desc": "Cho những cánh hoa của bạn cùng độ hiếm một cơ hội để bỏ qua việc nạp đạn."
+        },
+        "opal": {
+            "name": "Miêu nhãn thạch",
+            "desc": "Cho tất cả những cánh hoa cùng độ hiếm một cơ hội để gây thêm sát thương."
+        },
+        "relic": {
+            "name": "Di vật huyền bí",
+            "desc": "Phân tán sát thương giữa những người đeo relic khác trong đội của bạn."
+        },
+        "uranium": {
+            "name": "Uranium",
+            "desc": "Một nguyên tố phóng xạ có thể gây ra các bệnh nhiễm trùng rất nguy hiểm."
+        },
+        "plutonium": {
+            "name": "Plutonium",
+            "desc": "Một nguyên tố phóng xạ có khả năng gây bỏng rất nghiêm trọng."
+        },
+        "lithium": {
+            "name": "Lithium",
+            "desc": "Tìm thấy trong pin của bạn."
+        },
+        "tesla_coil_egg": {
+            "name": "Trứng Cuộn Tesla",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "snail": {
+            "name": "Vỏ Ốc sên",
+            "desc": "Nó xoay tròn quỹ đạo của bạn."
+
+        },
+        "snail_egg": {
+            "name": "Trứng ốc sên",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "iodine": {
+            "name": "I-ốt",
+            "desc": "Giữ viên iốt của bạn trong tầm kiểm soát hehe."
+        },
+        "chilly": {
+            "name": "Ớt",
+            "desc": "Tránh xa nếu bạn bị trào ngược dạ dày thực quản."
+        },
+        "tomato": {
+            "name": "Cà chua",
+            "desc": "Nó mạnh hơn theo thời gian."
+        },
+        "banana": {
+            "name": "Chuối",
+            "desc": "Nó bám chặt vào kẻ thù."
+        },
+        "oxygen": {
+            "name": "Ô-xy",
+            "desc": "Tăng thời gian đốt cháy kẻ thù của bạn."
+        },
+        "cyanide": {
+            "name": "Xyanua",
+            "desc": "Tăng thời gian độc của các thực thể mà nó chạm vào."
+        },
+        "fusion": {
+            "name": "Hợp nhất",
+            "desc": "Hợp nhất các thế hệ con của cánh hoa cho đến khi cùng độ hiếm thành một cánh hoa mạnh hơn duy nhất. Ví dụ: Nếu bạn có Super Fusion và một Super Light ngay bên cạnh nó với nhiều hạt yếu hơn, bạn sẽ nhận được một Super Light mạnh hơn duy nhất."
+        },
+        "fission": {
+            "name": "Phân hạch",
+            "desc": "Chia cánh hoa cho đến khi cùng độ hiếm thành nhiều thế hệ con. Ví dụ: Nếu bạn có Super Fission và một Super Cactus đặt ngay bên cạnh nó, bạn sẽ nhận được 2 Super Cactus yếu hơn. Nếu bạn có Super Light với 6 thế hệ con, bạn sẽ có 12 thế hệ con."
+        },
+        "nuke_egg": {
+            "name": "Trứng Bom hạt nhân",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "splitter": {
+            "name": "Bộ chia",
+            "desc": "Chia quỹ đạo cánh hoa của bạn thành nhiều quỹ đạo. Tất cả các cánh hoa được đặt đúng vào nó sẽ đi vào quỹ đạo mới. Hiệu ứng chồng lên nhau & sử dụng nhiều bộ chia hơn sẽ chia quỹ đạo nhiều hơn nữa."
+        },
+        "nuke": {
+            "name": "Bom Hạt nhân",
+            "desc": "Nó tạo ra nhiều vụ nổ."
+        },
+        "gunpowder": {
+            "name": "Thuốc súng",
+            "desc": "Gây sát thương gấp 5 lần khi kẻ địch của bạn đang cháy."
+        },
+        "compass": {
+            "name": "La bàn",
+            "desc": "Khiến cho quỹ đạo của bạn hướng về đường chuyển động của bạn"
+        },
+        "dark_matter": {
+            "name": "Vật chất tối",
+            "desc": "Vật chất vô hình có thể tạo thành khoảng trống trong quỹ đạo cánh hoa của bạn."
+        },
+        "hel_digger_egg": {
+            "name": "Trứng Thợ Đào mỏ địa ngục",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "grave_digger_egg": {
+            "name": "Trứng Thợ đào mộ",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "glass": {
+            "name": "Thủy tinh",
+            "desc": "Nó gây sát thương mỗi 1 giây."
+        },
+        "shovel": {
+            "name": "Xẻng",
+            "desc": "Cho phép bạn đi xuống lòng đất và gặp sâu."
+        },
+        "marble": {
+            "name": "Bi ve",
+            "desc": "nó rơi và lăn trên mặt đất & gây sát thương mỗi giây."
+        },
+        "sand_stone_egg": {
+            "name": "Trứng đá sa thạch",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "trident": {
+            "name": "Đinh ba",
+            "desc": "Nó sẽ hỏng nếu người khác tạo ra Trident cao hơn trong cùng một máy chủ."
+        },
+        "bandages": {
+            "name": "Băng cứu thương",
+            "desc": "Che phủ tất cả các vết thương đó. Có thể hữu ích với Lưỡi hái."
+        },
+        "talisman": {
+            "name": "Bùa hộ mệnh",
+            "desc": "Giúp hoa của bạn tránh được sát thương."
+        },
+        "job_application": {
+            "name": "Đơn xin việc",
+            "desc": "Khiến mob mất khả năng nông nghiệp trong 2,5 giây. Đừng lãng phí tài năng của bạn, hãy nộp đơn xin sửa ống ngay!"
+        },
+        "termite_overmind_egg": {
+            "name": "Trứng mối chúa",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "termite_hole_egg": {
+            "name": "Trứng Tổ mối",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "soldier_termite_egg": {
+            "name": "Trứng Mối Lính",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "worker_termite_egg": {
+            "name": "Trứng Mối Thợ",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "baby_termite_egg": {
+            "name": "Trứng Mối Con",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "magic_rose": {
+            "name": "Hoa Hồng Ma Thuật",
+            "desc": "Hấp thụ ma thuật từ môi trường xung quanh bạn."
+        },
+        "magic_leaf": {
+            "name": "Lá Ma Thuật",
+            "desc": "Hấp thụ ma thuật từ môi trường xung quanh bạn."
+        },
+        "magic_cactus": {
+            "name": "Xương Rồng Ma Thuật",
+            "desc": "Tăng giới hạn máu và năng lượng tối đa của bạn."
+        },
+        "magic_missile": {
+            "name": "Đạn Ma Thuật",
+            "desc": "Tốn kém nhưng nhanh."
+        },
+        "magic_stinger": {
+            "name": "Ngòi Ma Thuật",
+            "desc": "Gây đau dữ dội nhưng tiêu tốn nhiều ma thuật để triệu hồi."
+        },
+        "magic_fang": {
+            "name": "Nanh Ma Thuật",
+            "desc": "Hấp thụ ma thuật từ nỗi đau."
+        },
+        "magic_wing": {
+            "name": "Cánh Ma Thuật",
+            "desc": "Bay xa hơn và có thể tự nhân bản."
+        },
+        "magic_grapes": {
+            "name": "Nho Ma Thuật",
+            "desc": "Ma thuật hắc ám khuấy động cơn bão bên trong chúng."
+        },
+        "magic_blueberries": {
+            "name": "Việt Quất Ma Thuật",
+            "desc": "Bị nguyền rủa cháy mãi trong khi đang đóng băng."
+        },
+        "magic_pea": {
+            "name": "Đậu Ma Thuật",
+            "desc": "Bị thấm đẫm phép thuật dữ dội và ma lực."
+        },
+        "magic_blood_stinger": {
+            "name": "Ngòi chích Máu Ma Thuật",
+            "desc": "Ma thuật của cánh hoa này cũng ảnh hưởng đến người sử dụng."
+        },
+        "magic_lightning": {
+            "name": "SétMa Thuật",
+            "desc": "Ma thuật đã tăng khả năng truy tìm mục tiêu."
+        },
+        "magic_hel_lightning": {
+            "name": "Tia Chớp Địa ngục Ma Thuật",
+            "desc": "Ma thuật đã tăng khả năng truy tìm mục tiêu của tia chớp."
+        },
+        "magic_usain_bolt": {
+            "name": "Usain Bolt Ma Thuật",
+            "desc": "Ma thuật đã tăng khả năng truy tìm mục tiêu và còn thiêu cháy chúng nữa..."
+        },
+        "magic_banana": {
+            "name": "Chuối Ma Thuật",
+            "desc": "Một quả chuối ma thuật dành cho chú khỉ ma thuật."
+        },
+        "magic_mimic": {
+            "name": "Bắt Chước Ma Thuật",
+            "desc": "Nó bắt chước cánh hoa bên cạnh thành phiên bản ma thuật. Ví dụ: Bắt Chước Siêu Ma Thuật + Siêu Hoa Hồng → Siêu Hoa Hồng Ma Thuật + Siêu Hoa Hồng."
+        },
+        "magic_bomb": {
+            "name": "Bom Ma Thuật",
+            "desc": "Ma thuật hóa ra rất dễ phát nổ."
+        },
+        "magic_gas_bomb": {
+            "name": "Bom Khí gas Ma Thuật",
+            "desc": "Ma thuật rất dễ phát nổ, và nếu kết hợp với hóa chất đúng sẽ trở nên độc hại."
+        },
+        "magic_fire_bomb": {
+            "name": "Bom Lửa Ma Thuật",
+            "desc": "Ma thuật cực kỳ dễ cháy và còn bùng nổ mạnh mẽ hơn."
+        },
+        "magic_bubble_bomb": {
+            "name": "Bom Bong bóng Ma Thuật",
+            "desc": "Lượng khí ma thuật mạnh mẽ tạo nên sóng xung kích khổng lồ."
+        },
+        "magic_cryo_bomb": {
+            "name": "Bom Băng Ma Thuật",
+            "desc": "Vụ nổ ma thuật sẽ đóng băng kẻ địch trong thời gian dài."
+        },
+        "magic_rocket": {
+            "name": "Tên Lửa Ma Thuật",
+            "desc": "Ma thuật hóa ra rất dễ phát nổ."
+        },
+        "magic_orange": {
+            "name": "Cam Ma Thuật",
+            "desc": "Những quả cam này bị nguyền rủa để không còn màu cam nữa — giờ chúng là màu tím đỏ."
+        },
+        "magic_hemoglobin": {
+            "name": "Huyết Sắc Ma Thuật",
+            "desc": "Thay vì vận chuyển oxy trong cơ thể, nó truyền ma thuật qua các cánh hoa."
+        },
+        "magic_starfish": {
+            "name": "Sao Biển Ma Thuật",
+            "desc": "Con sao biển ma thuật này chỉ sử dụng phép khi bạn còn dưới 50% năng lượng."
+        },
+        "holy_water": {
+            "name": "Nước Thánh",
+            "desc": "Thanh tẩy \"tội lỗi\" của quái và khiến chúng ngừng truy sát bạn."
+        },
+        "magic_square": {
+            "name": "Hình Vuông Ma Thuật",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "magic_mark": {
+            "name": "Con Dấu Ma Thuật",
+            "desc": "Gửi một bông hoa đã chết đến hệ sinh thái ngẫu nhiên bằng ma thuật."
+        },
+        "magic_sponge": {
+            "name": "Bọt Biển Ma Thuật",
+            "desc": "Rút dần năng lượng bạn đã tiêu thụ."
+        },
+        "magic_electron_missile": {
+            "name": "Tên Lửa Điện Ma Thuật",
+            "desc": "Có rất nhiều ma thuật hỗn loạn bên trong tên lửa này."
+        },
+        "magic_hel_missile": {
+            "name": "Tên Lửa Địa ngục Ma Thuật",
+            "desc": "Dùng thêm ma thuật để đốt cháy vĩnh viễn tên lửa... (chưa rõ hoàn chỉnh)"
+        },
+        "magic_viper": {
+            "name": "Mũi tên tẩm độc Ma Thuật",
+            "desc": "Tên lửa được chế tạo từ uranium ma thuật, cực kỳ độc hại."
+        },
+        "magic_scythe": {
+            "name": "Lưỡi Hái Ma Thuật",
+            "desc": "Vật thể dài có thể chuyển toàn bộ ma thuật của bạn thành sát thương."
+        },
+        "magic_soil": {
+            "name": "Đất Ma Thuật",
+            "desc": "Khiến bạn trở nên nặng hơn và có thể mang nhiều ma thuật hơn bình thường."
+        },
+        "magic_dahlia": {
+            "name": "Thược Dược Ma Thuật",
+            "desc": "Hấp thụ ma thuật nhanh hơn rất nhiều."
+        },
+        "termite_digger_egg": {
+            "name": "Trứng Thợ đào mỏ mối",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "magic_bubble": {
+            "name": "Bong Bóng Ma Thuật",
+            "desc": "Nó nổ tung và đẩy bạn theo hướng chuyển động bằng ma thuật."
+        },
+        "magic_golden_leaf": {
+            "name": "Lá Vàng Ma Thuật",
+            "desc": "Giảm ma thuật cần dùng cho các cánh hoa ma thuật."
+        },
+        "magic_battery": {
+            "name": "Pin Ma Thuật",
+            "desc": "Lưu trữ mana và hoàn trả lại cho bạn với lãi suất 200% sau một thời gian."
+        },
+        "magic_corruption": {
+            "name": "Tha hóa Ma Thuật",
+            "desc": "Làm bạn bị tha hóa ngay lập tức bởi sức mạnh ma thuật."
+        },
+        "magic_stick": {
+            "name": "Gậy Ma Thuật",
+            "desc": "Nó cướp ma thuật từ các bông hoa khác, dù là bạn hay thù."
+        },
+        "magic_claw": {
+            "name": "Càng Ma Thuật",
+            "desc": "Gây sát thương lên tới 5 lần tùy theo lượng mana bạn có. Nếu bạn có 50% mana thì gây 2.5 lần sát thương, v.v."
+        },
+        "magic_marble": {
+            "name": "Bi ve Ma Thuật",
+            "desc": "Viên bi này đã vỡ, nhưng ma thuật đang giữ nó lại... dù có hơi thiếu hiệu quả."
+        },
+        "magic_salt": {
+            "name": "Muối Ma Thuật",
+            "desc": "Phản lại sát thương cho tất cả kẻ địch gần đó bằng ma thuật, không chỉ kẻ tấn công bạn."
+        },
+        "shipwreck_egg": {
+            "name": "Trứng Tàu Đắm",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "magic_relic": {
+            "name": "Di Vật huyền bí Ma Thuật",
+            "desc": "Phân chia lượng tiêu hao ma thuật giữa các đồng đội sở hữu di vật ma thuật."
+        },
+        "magic_fire": {
+            "name": "Lửa Ma Thuật",
+            "desc": "Gây hiệu ứng cháy tích lũy lên kẻ địch bằng ma thuật."
+        },
+        "magic_gas": {
+            "name": "Khí Gas Ma Thuật",
+            "desc": "Tiêm độc tích tụ từ ma thuật vào kẻ địch."
+        },
+        "magic_yggdrasil": {
+            "name": "Yggdrasil Ma Thuật",
+            "desc": "Bạn gần chết, nhưng sau đó được cứu sống nhờ ma thuật."
+        },
+        "magic_cotton": {
+            "name": "Bông Ma Thuật",
+            "desc": "Hấp thụ sát thương nhận vào nhưng tiêu hao mana theo tốc độ cố định."
+        },
+        "magic_sunflower": {
+            "name": "Hướng Dương Ma Thuật",
+            "desc": "Nó rơi xuống đất và thu thập ma thuật cho bạn..."
+        },
+        "magic_cutter": {
+            "name": "Lưỡi Cắt Ma Thuật",
+            "desc": "Tăng sát thương cận chiến của bạn."
+        },
+        "magic_ladybug_egg": {
+            "name": "Trứng Bọ rùa ma thuật",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "magic_baby_ant_egg": {
+            "name": "Trứng kiến con ma thuật",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "magic_soldier_ant_egg": {
+            "name": "Trứng kiến lính ma thuật",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "magic_rock_egg": {
+            "name": "Trứng đá ma thuật",
+            "desc": "Nó có thể nở ra một thứ gì đó rất thú vị..."
+        },
+        "magic_dna": {
+            "name": "DNA ma thuật",
+            "desc": "Cung cấp cho bạn một cơ hội nhỏ để biến thú cưng Magic của bạn thành thú cưng Arcane và một cơ hội nhỏ để tăng độ hiếm của thú cưng của bạn giống như DNA gốc. Thú cưng Arcane béo hơn và nhanh hơn. Ảnh hưởng đến tất cả trứng cho đến khi đạt độ hiếm."
+        },
+        "pirate_digger_egg": {
+            "name": "Trứng Thợ đào mỏ cướp biển",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "magic_torch": {
+            "name": "Đuốc Ma Thuật",
+            "desc": "Tự động loại bỏ băng giá khỏi thú cưng của bạn."
+        },
+        "palm_tree_egg": {
+            "name": "Trứng Cây Cọ",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "palm_leaf": {
+            "name": "Lá Cọ",
+            "desc": "Những chiếc lá lớn này có khả năng hồi phục và tạo lá chắn."
+        },
+        "magic_palm_leaf": {
+            "name": "Lá Cọ Ma Thuật",
+            "desc": "Rõ ràng lá càng to thì hồi năng lượng càng nhiều."
+        },
+        "stalagmite_egg": {
+            "name": "Trứng Măng Đá",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "arctic_spider_cave_egg": {
+            "name": "Trứng Hang Nhện Bắc Cực",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "aztec_coin": {
+            "name": "Đồng Xu Aztec",
+            "desc": "Một đồng xu bị nguyền ma thuật dành cho hải tặc hehe. Thương nhân sẽ cho gấp 3 lần chiến lợi phẩm với nó."
+        },
+        "beekeeper_egg": {
+            "name": "Người Nuôi Ong",
+            "desc": "Kẻ canh giữ đàn ong. Không mật nhưng ngầu."
+        },
+        "hel_beekeeper_egg": {
+            "name": "Người Nuôi Ong Địa Ngục",
+            "desc": "Kẻ canh giữ những con ong đến từ âm ti. Chắc chắn không dành cho người sợ ong."
+        },
+        "alien_digger_egg": {
+            "name": "Thợ đào mỏ Ngoài Hành Tinh",
+            "desc": "Có thể nở ra và sinh ra một thứ gì đó thú vị..."
+        },
+        "attractor": {
+            "name": "Thiết Bị Hấp Dẫn",
+            "desc": "Nó thu hút các sinh vật xung quanh."
+        },
+        "soap": {
+            "name": "Xà Phòng",
+            "desc": "Tăng tốc độ tràn của cánh hoa lỏng. Cũng là lời mời gia nhập Câu Lạc Bộ Kitty."
+        },
+        "magic_bur": {
+            "name": "Quả gai Ma Thuật",
+            "desc": "Giảm giáp của kẻ địch dựa trên mức độ tổn thương của cơ thể chúng."
+        },
+        "magic_rock": {
+            "name": "Đá Ma Thuật",
+            "desc": "Phép thuật khiến nó trở nên rất giòn, sẽ vỡ mỗi lần bị đánh trúng."
+        },
+        "magic_aztec_coin": {
+            "name": "Đồng Xu Aztec Ma Thuật",
+            "desc": "Đồng xu bị nguyền rủa dành cho cướp biển hehe. Người buôn bán sẽ trả gấp 3 lần phần thưởng với vật này."
+        },
+        "queen_bee_egg": {
+            "name": "Trứng Ong Chúa",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "hel_queen_bee_egg": {
+            "name": "Trứng Ong Chúa địa ngục",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "hel_centipede_egg": {
+            "name": "Trứng rết địa ngục",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "fire_eel_egg": {
+            "name": "Trứng Lươn Lửa",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "lamprey_eel_egg": {
+            "name": "Trứng Lươn mút đá",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "cherry": {
+            "name": "Quả anh đào",
+            "desc": "Vì một lí do nào đó nó bốc cháy."
+        },
+        "frost_digger_egg": {
+            "name": "Trứng Thợ đào mỏ băng giá",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "cube": {
+            "name": "Khối lập phương",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "magic_cube": {
+            "name": "Khối lập phương ma thuật",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "white_hole_egg": {
+            "name": "Trứng Lỗ Trắng",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "antimatter": {
+            "name": "Phản vật chất",
+            "desc": "Cánh hoa rất không ổn định, sẽ phát nổ nếu bạn chết"
+        },
+        "magic_antimatter": {
+            "name": "Phản vật chất ma thuật",
+            "desc": "Phép thuật khiến nó trở nên bất ổn hơn, sẽ phát nổ mỗi khi bạn bị tấn công"
+        },
+        "stardust": {
+            "name": "Bụi sao",
+            "desc": "Bụi thiên hà đã hình thành nên những quả cầu phóng xạ nhỏ này"
+        },
+        "magic_stardust": {
+            "name": "Bụi sao ma thuật",
+            "desc": "Phép thuật khuếch đại bản chất tỏa sáng của cánh hoa này"
+        },
+        "singularity": {
+            "name": "Điểm kỳ dị",
+            "desc": "Rất nặng, làm tăng khối lượng của bạn."
+        },
+        "magic_singularity": {
+            "name": "Điểm kỳ dị ma thuật",
+            "desc": "Giảm kích thước của bạn."
+        },
+        "tesseract": {
+            "name": "Khối lập phương bốn chiều",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "magic_tesseract": {
+            "name": "Khối lập phương bón chiều ma thuật",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "copper_rod": {
+            "name": "Thanh đồng",
+            "desc": "Nó làm giảm sát thương từ sét."
+        },
+        "magic_copper_rod": {
+            "name": "Thanh đồng ma thuật",
+            "desc": "Nó hấp thụ sát thương sét như bông"
+        },
+        "unabomber_egg": {
+            "name": "Trứng Unabomber",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "pipe_bomb": {
+            "name": "Bom ống",
+            "desc": "Vụ nổ rất mạnh nhưng có 50% khả năng không nổ. Được chế tạo bởi Ted Kaczynski dành riêng cho bạn :3"
+        },
+        "biologist_egg": {
+            "name": "Trứng Nhà sinh vật học",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "magic_ice_rose": {
+            "name": "Hoa hồng băng ma thuật",
+            "desc": "Hấp thụ rất nhiều phép thuật từ môi trường nhưng cũng tạo ra băng giá."
+        },
+        "magic_pipe_bomb": {
+            "name": "Bom ống ma thuật",
+            "desc": "Có 90% khả năng gây ra một vụ nổ cực lớn. Được chế tạo bởi Ted Kaczynski bằng phép thuật dành riêng cho bạn :p"
+        },
+        "cicada_3301_egg": {
+            "name": "Trứng Ve sầu 3301",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "magic_nazar": {
+            "name": "Nazar ma thuật",
+            "desc": "Nó chịu vài đòn đánh từ thú cưng của chúng ta bằng phép thuật, rồi sau đó vào thời gian hồi."
+        },
+        "magic_cherry": {
+            "name": "Anh đào ma thuật",
+            "desc": "Ma thuật không có tác dụng, đây chỉ là những quả chưa chín..."
+        },
+        "shark_egg": {
+            "name": "Trứng Cá mập",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "tooth": {
+            "name": "Răng",
+            "desc": "Một cái răng nhọn, phục hồi ngay khi bạn sử dụng nó."
+        },
+        "magic_tooth": {
+            "name": "Răng ma thuật",
+            "desc": "Một cái răng ma thuật có thể hút cạn ma lực của người khác"
+        },
+        "ink": {
+            "name": "Mực",
+            "desc": "Rất nhớt... cũng che mắt kẻ thù của bạn."
+        },
+        "squid_egg": {
+            "name": "Trứng mực",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "mask": {
+            "name": "Khẩu trang",
+            "desc": "Nó bảo vệ bạn khỏi virus ZARS-CoV-69 và làm giảm tác động của nó."
+        },
+        "magic_yuan": {
+            "name": "Nhân dân tệ ma thuật",
+            "desc": "Đơn vị tiền tệ của Vùng đất ma thuật( nô lệ TQ à)"
+        },
+        "magic_dollar": {
+            "name": "Đô la ma thuật",
+            "desc": "Cái thứ này thật sự đáng giá bao nhiêu đô la vậy?"
+        },
+        "magic_bitcoin": {
+            "name": "Bitcoin ma thuật",
+            "desc": "Được tạo ra bởi Satoshi Nakamoto."
+        },
+        "magic_candlestick": {
+            "name": "Nến ma thuật",
+            "desc": "Có thể hồi đầy ma lực cho bạn, nhưng đôi khi lại giết bạn ba lần."
+        },
+        "magic_fries": {
+            "name": "Khoai chiên ma thuật",
+            "desc": "Chúng được chiên trong dầu việt quất"
+        },
+        "magic_dice": {
+            "name": "xúc xắc ma thuật",
+            "desc": "Có 1% cơ hội gây ra x300 sát thương khi sử dụng phép thuật."
+        },
+        "magic_web": {
+            "name": "Mạng nhện ma thuật",
+            "desc": "Phân Nhện ma thuật có tính khí động học cao hơn và có thể bay xa hơn"
+        },
+        "geyser_egg": {
+            "name": "Trứng mạch nước phun",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "hot_water": {
+            "name": "Nước nóng",
+            "desc": "Bạn có thể nấu cả đống ramen từ việc sử dụng nó. Làm chậm kẻ thù của bạn một chút."
+        },
+        "magic_gunpowder": {
+            "name": "Thuốc súng ma thuật",
+            "desc": "Gây ra x10 sát thương khi một đứa bất tài đang cháy. Cũng làm tăng diện tích vụ nổ cho bạn."
+        },
+        "magic_tomato": {
+            "name": "Cà chua ma thuật",
+            "desc": "Khi đời đưa bạn một trái ma thuật chưa chín, sử dụng nhiều ma thuật hơn để chúng chín nhanh hơn."
+        },
+        "cucumber": {
+            "name": "Dưa chuột",
+            "desc": "Tốt cho việc giảm cân."
+        },
+        "cross": {
+            "name": "Cross",
+            "desc": "Nó dịch chuyển bạn khi nó rơi xuống khi bạn nhấn chuột phải."
+        },
+        "nitrogen": {
+            "name": "Ni-tơ",
+            "desc": "Ni-tơ lỏng. Vô cùng lạnh, Đóng băng kẻ thù của bạn."
+        },
+        "acid": {
+            "name": "A-xít",
+            "desc": "HCL được thu thập từ nhiều dạ dày chỉ vì những bông hoa."
+        },
+        "koban": {
+            "name": "Koban",
+            "desc": "Xu Cổ Nhật Bản. Giữ chúng cẩn thận, vô cùng hiếm đấy!"
+        },
+        "graphite": {
+            "name": "Than chì",
+            "desc": "Tăng độ phóng xạ cho cánh hoa của bạn."
+        },
+        "rna": {
+            "name": "RNA",
+            "desc": "Làm cho thú cưng của bạn di chuyển nhanh hơn."
+        },
+        "lava": {
+            "name": "Dung nham",
+            "desc": "Chất nóng chảy được thu thập từ một ngọn núi lửa đang phun trào."
+        },
+        "landmine": {
+            "name": "Mìn",
+            "desc": "Chúng ở trên mặt đất. Điều thú vị xảy ra khi bạn giẫm lên nó hehe Bạn có thể đặt chúng."
+        },
+        "blood": {
+            "name": "Máu",
+            "desc": "Nó có vị như kim loại vậy."
+        },
+        "capacitor": {
+            "name": "Tụ điện",
+            "desc": "Tăng số lần nhảy của những tia chớp của bạn đến cùng một độ hiếm."
+        },
+        "barrel_egg": {
+            "name": "Trứng Thùng",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "stem_cell_egg": {
+            "name": "Trứng Tế bào gốc",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "stem_cell": {
+            "name": "Tế bào gốc",
+            "desc": "Nó có thể tái tạo thú cưng của bạn đến cùng độ hiếm khi sức khỏe của chúng giảm xuống dưới 66% hoặc 33%. Bị ảnh hưởng bởi Clover.."
+        },
+        "corium": {
+            "name": "Corium",
+            "desc": "Bị buôn lén từ Lò phản ứng số 4 ở Chernobyl."
+        },
+        "digger_egg": {
+            "name": "Trứng Thợ đào mỏ",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "spider_digger_egg": {
+            "name": "Trứng Thợ đào mỏ nhện",
+            "desc": "Nó có thể ấp và nở ra thứ gì đó thú vị..."
+        },
+        "magic_cancer": {
+            "name": "Ung thư ma thuật",
+            "desc": "Bạn có cơ hội triệu hồi thú cưng hai lần."
+        }
+    },
+    "achievements": {
+        "rookie": {
+            "name": "Rokkie",
+            "desc": "Chơi trong 15 phút."
+        },
+        "started": {
+            "name": "Làm quen...",
+            "desc": "Chơi trong 1 giờ"
+        },
+        "player": {
+            "name": "Game thủ trung cấp",
+            "desc": "Chơi trong 6 giờ"
+        },
+        "gamer": {
+            "name": "Game thủ tốt hơn",
+            "desc": "Chơi trong 1 ngày"
+        },
+        "week": {
+            "name": "12-4-7",
+            "desc": "Chơi trong 7 ngày"
+        },
+        "month": {
+            "name": "Nghiện ngập",
+            "desc": "Chơi trong 30 ngày"
+        },
+        "year": {
+            "name": "Chúc mừng năm mới!",
+            "desc": "chơi trong 365 ngày"
+        },
+        "epic": {
+            "name": "Khoảng khắc đỉnh cao của game thủ",
+            "desc": "Thu thập 1 cánh hoa Epic"
+        },
+        "legendary": {
+            "name": "Logandary",
+            "desc": "Thu thập 1 cánh hoa Legandary"
+        },
+        "mythic": {
+            "name": "Thần thoại là có thật",
+            "desc": "Thu thập 1 cánh hoa Mythic"
+        },
+        "ultra": {
+            "name": "Trên cả bình thường",
+            "desc": "Thu thập một cánh hoa Ultra."
+        },
+        "super": {
+            "name": "siêu chuyên nghiệp",
+            "desc": "Thu thập 5 cánh hoa Super."
+        },
+        "omega": {
+            "name": "OMEGA!!!!!",
+            "desc": "Thu thập một cánh hoa omega."
+        },
+        "medic": {
+            "name": "Cứu thương",
+            "desc": "Hồi sinh ai đó bằng Yggdrasil."
+        },
+        "surgeon": {
+            "name": "Bác sĩ phẫu thuật",
+            "desc": "Hồi sinh 25 bông hoa bằng Yggdrasil."
+        },
+        "angel": {
+            "name": "Thiên thần",
+            "desc": "Hồi sinh 250 bông hoa bằng Yggdrasil."
+        },
+        "god": {
+            "name": "Một người toàn năng",
+            "desc": "Gặp gỡ một quản trị viên."
+        },
+        "killer": {
+            "name": "Kẻ giết người",
+            "desc": "Giết 25 người chơi sử dụng tham nhũng."
+        },
+        "genocide": {
+            "name": "Genocide",
+            "desc": "Giết 250 mob"
+        },
+        "massacre": {
+            "name": "Massacre",
+            "desc": "Giết 2500 mob"
+        },
+        "holocaust": {
+            "name": "Halocaust",
+            "desc": "Giết 10.000 mob"
+        },
+        "solo": {
+            "name": "Solo",
+            "desc": "Giết một mob Super+ với hơn 75% sát thương."
+        },
+        "money": {
+            "name": "Tiền được chi xứng đáng",
+            "desc": "Mua sao từ cửa hàng."
+        },
+        "makeup": {
+            "name": "Chuyên Gia Trang Điểm",
+            "desc": "Mua một trang phục trong cửa hàng."
+        },
+        "chat": {
+            "name": "Không Quá Nhiệt Tình",
+            "desc": "Gửi một tin nhắn trong trò chuyện."
+        },
+        "china": {
+            "name": "TRUNG QUỐC SỐ 1!!",
+            "desc": "Gõ 'China Number 1' trong trò chuyện 10 lần."
+        },
+        "nazar": {
+            "name": "Bọ Nazar",
+            "desc": "Tiêu diệt 5 Bọ Nazar cấp Ultra+."
+        },
+        "baby": {
+            "name": "Dầu Em Bé",
+            "desc": "Tiêu diệt 5 Kiến Con cấp Ultra+."
+        },
+        "jeet": {
+            "name": "Ông Vua Jeet",
+            "desc": "Sở hữu một chiếc Bugatti cấp Super+."
+        },
+        "clown": {
+            "name": "Chú Hề",
+            "desc": "Biến hình thành chú hề."
+        },
+        "covid": {
+            "name": "Covid-69",
+            "desc": "Tiêu diệt 20 Virus cấp Ultra+."
+        },
+        "useless": {
+            "name": "Vô Dụng",
+            "desc": "Nhặt vật phẩm rơi ra từ 5 quái cấp Super+ mà không gây sát thương nào."
+        },
+        "cicada": {
+            "name": "Ve Sầu 3301",
+            "desc": "Tiêu diệt 10 Ve Sầu cấp Ultra+."
+        },
+        "slaughter": {
+            "name": "Tàn Sát Quy Mô Lớn",
+            "desc": "Giết 50.000 quái vật."
+        },
+        "annihilation": {
+            "name": "Tiêu Diệt",
+            "desc": "Giết 250.000 quái vật."
+        },
+        "destruction": {
+            "name": "Tận Thế",
+            "desc": "Giết 10 triệu quái vật."
+        },
+        "racist": {
+            "name": "Phân Biệt",
+            "desc": "Giết 25.000 quái vật cùng một loại."
+        },
+        "murder": {
+            "name": "Giết Người",
+            "desc": "Giết người chơi bằng hiệu ứng tha hóa."
+        },
+        "homicide": {
+            "name": "Thảm Sát",
+            "desc": "Giết 500 người chơi bằng sự tha hóa. Thật độc ác."
+        },
+        "level50": {
+            "name": "Lên Cấp!",
+            "desc": "Đạt cấp độ 50."
+        },
+        "level100": {
+            "name": "Tốt Hơn Rồi Đấy",
+            "desc": "Đạt cấp độ 100."
+        },
+        "level150": {
+            "name": "Sắp Thành Pro",
+            "desc": "Đạt cấp độ 150."
+        },
+        "level200": {
+            "name": "Chuyên Nghiệp!",
+            "desc": "Đạt cấp độ 200."
+        },
+        "level250": {
+            "name": "Cày Ngày Cày Đêm",
+            "desc": "Đạt cấp độ 250."
+        },
+        "level300": {
+            "name": "Đỉnh Của Chóp",
+            "desc": "Đạt cấp độ 300."
+        },
+        "curse": {
+            "name": "Cái Này Nhìn Lạ Quá...",
+            "desc": "Giết một quái vật bị nguyền. Tỉ lệ xuất hiện: 1/2000."
+        },
+        "cursed2": {
+            "name": "Ai đã nguyền rủa chúng?",
+            "desc": "Giết 25 quái bị nguyền."
+        },
+        "shiny": {
+            "name": "Ôi lấp lánh!",
+            "desc": "Giết một quái lấp lánh. Chúng chỉ có 1 trên 10000."
+        },
+        "shiny2": {
+            "name": "Nhìn thấy ngôi sao...",
+            "desc": "Giết 25 quái lấp lánh."
+        },
+        "corrupt": {
+            "name": "Mã lỗi",
+            "desc": "Giết một quái bị lỗi. Chúng chỉ có 1 trên 50000."
+        },
+        "corrupt2": {
+            "name": "Lỗi 420",
+            "desc": "Giết 25 quái bị lỗi."
+        }
+    },
+    "skins": {
+        "derp": {
+            "name": "Ngơ Ngác",
+            "desc": "Trong đôi mắt ấy không có một ý nghĩ nào."
+        },
+        "cursed": {
+            "name": "Bị Nguyền Rủa",
+            "desc": "Bị tha hóa bởi một thế lực cao hơn."
+        },
+        "square": {
+            "name": "Hình Vuông",
+            "desc": "Đây là hình gì lạ vậy nhỉ?"
+        },
+        "lifeless": {
+            "name": "Vô Hồn",
+            "desc": "... mặt đâu mất rồi?"
+        },
+        "sun": {
+            "name": "Mặt Trời",
+            "desc": "Mặt trời ló rạng."
+        },
+        "radioactive": {
+            "name": "Phóng Xạ",
+            "desc": "Thích ăn quặng uranium."
+        },
+        "blended": {
+            "name": "Trộn Lẫn",
+            "desc": "Đi phẫu thuật mặt trên Temu."
+        },
+        "cactus": {
+            "name": "Xương Rồng",
+            "desc": "Có vẻ không phải là hoa thì phải."
+        },
+        "ghost": {
+            "name": "Hồn Ma",
+            "desc": "Không đáng sợ lắm đâu."
+        },
+        "cyclops": {
+            "name": "Một Mắt",
+            "desc": "Những con mắt khác đâu rồi nhỉ?"
+        },
+        "angled": {
+            "name": "Nghiêng Góc",
+            "desc": "Nó đang nghiêng đầu, nếu như điều đó là có thể."
+        },
+        "small_face": {
+            "name": "Mặt Bé Tí",
+            "desc": "Là mặt bé hay thân hình to vậy nhỉ?"
+        },
+        "frozen": {
+            "name": "Đóng Băng",
+            "desc": "Buông lơi... buông lơi nào~"
+        },
+        "omega_flowey": {
+            "name": "Omega Flowey",
+            "desc": "Da màu hồng."
+        },
+        "star2": {
+            "name": "Ngôi Sao 2",
+            "desc": "Bạn đã mua 1 ngôi sao với giá 7500 sao. Rất đáng!"
+        },
+        "red_star": {
+            "name": "Ngôi Sao Đỏ",
+            "desc": "Hoa văn rất thú vị."
+        },
+        "clover": {
+            "name": "Cỏ Bốn Lá",
+            "desc": "May mắn nhé!"
+        },
+        "rocker": {
+            "name": "Người chơi nhạc rock",
+            "desc": "Trang phục này thật chất!"
+        },
+        "dark_mode": {
+            "name": "Chế Độ Tối",
+            "desc": "Ai đã tắt đèn vậy nhỉ?"
+        },
+        "megamind": {
+            "name": "Đầu To",
+            "desc": "Nó đang suy nghĩ kìa."
+        },
+        "pentagon": {
+            "name": "Ngũ Giác",
+            "desc": "Hình này còn lạ hơn nữa."
+        },
+        "mouse": {
+            "name": "Chuột",
+            "desc": "Không hiểu sao nó dùng được cánh hoa nữa."
+        },
+        "one_eye": {
+            "name": "Một Mắt",
+            "desc": "Con mắt thứ ba bị hạ cấp."
+        },
+        "complex": {
+            "name": "Phức Tạp",
+            "desc": "Rất gai góc, rất kỳ quái."
+        },
+        "emotional": {
+            "name": "Dễ Xúc Động",
+            "desc": "Rất dễ nổi nóng và buồn bã."
+        },
+        "herobrine": {
+            "name": "Herobrine",
+            "desc": "Tưởng đã xóa anh ta rồi chứ..."
+        },
+        "womp": {
+            "name": "Womp",
+            "desc": "Đang bị cảm xúc thất thường."
+        },
+        "microsoft_paint_flower": {
+            "name": "Hoa Vẽ Bằng MS Paint",
+            "desc": "Ai vẽ cái này vậy? Một đứa 5 tuổi à??"
+        },
+        "50_shades_of_flower": {
+            "name": "50 Sắc Hoa",
+            "desc": "Ai đó nên làm phim về chuyện này..."
+        },
+        "negative": {
+            "name": "Âm Bản",
+            "desc": "Bông hoa đến từ thực tại khác."
+        },
+        "smirk": {
+            "name": "Cười Mỉm",
+            "desc": "Bông hoa trông rợn rợn."
+        },
+        "boba": {
+            "name": "Boba",
+            "desc": "Không phát nổ khi chết."
+        },
+        "sawblade": {
+            "name": "Lưỡi Cưa",
+            "desc": "Aii da! Gai góc thật."
+        },
+        "yellow": {
+            "name": "Màu Vàng",
+            "desc": "Nó vàng kinh khủng khiếp."
+        },
+        "rock": {
+            "name": "Hòn Đá",
+            "desc": "Một viên sỏi từ đáy biển."
+        },
+        "boo": {
+            "name": "Boo",
+            "desc": "Đáng sợ thật, phải không?"
+        },
+        "sus": {
+            "name": "Đáng Ngờ",
+            "desc": "Bạch tuộc đáng nghi."
+        },
+        "pacman": {
+            "name": "Pacman",
+            "desc": "Làm ơn đừng kiện bản quyền nhé."
+        },
+        "chicken": {
+            "name": "Gà",
+            "desc": "Đẻ ra trứng gà có hình dạng chống trọng lực."
+        },
+        "clover2": {
+            "name": "Cỏ Bốn Lá 2",
+            "desc": "4chan à?"
+        },
+        "zatan": {
+            "name": "Zatan",
+            "desc": "Gai nhọn đỏ và đen trông đáng ngờ."
+        },
+        "amogus": {
+            "name": "Amogus",
+            "desc": "Một kẻ giả mạo."
+        },
+        "brain_damage": {
+            "name": "Tổn Thương Não",
+            "desc": "Giao diện của nhà phát triển??? Cái gì vậy trời???"
+        },
+        "cactuser": {
+            "name": "Người Xương Rồng",
+            "desc": "Một loài cây sa mạc."
+        },
+        "sad": {
+            "name": "Buồn",
+            "desc": "Buồn… rất rất buồn."
+        },
+        "cake": {
+            "name": "Bánh Kem",
+            "desc": "Chúc mừng sinh nhật!"
+        },
+        "green": {
+            "name": "Màu Xanh",
+            "desc": "Trứng phục sinh của Yoba?"
+        },
+        "magma": {
+            "name": "Dung Nham",
+            "desc": "Lấy từ một núi lửa đang hoạt động."
+        },
+        "target_dummy": {
+            "name": "Bù Nhìn Mục Tiêu",
+            "desc": "Vô cảm hết mức."
+        },
+        "mark": {
+            "name": "Mark",
+            "desc": "Hẹn gặp lại ở Hel phần tiếp theo."
+        },
+        "frog": {
+            "name": "Ếch",
+            "desc": "Pepe chú ếch."
+        },
+        "goo": {
+            "name": "Chất Nhờn",
+            "desc": "Chất nhờn trắng này thật kỳ dị."
+        },
+        "oval": {
+            "name": "Hình Bầu Dục",
+            "desc": "Không phải hình bầu dục đâu nha."
+        },
+        "cute": {
+            "name": "Dễ Thương",
+            "desc": "Đáng yêu cực kỳ."
+        },
+        "star": {
+            "name": "Ngôi Sao",
+            "desc": "Một ngôi sao trên bầu trời đêm."
+        },
+        "rockstar": {
+            "name": "Ngôi Sao Rock",
+            "desc": "Trông giống cánh hoa hơn là sao rock."
+        },
+        "ufo": {
+            "name": "Vật Thể Bay",
+            "desc": "Có người ngoài hành tinh bên trong."
+        },
+        "red_spikes": {
+            "name": "Gai Đỏ",
+            "desc": "Nó làm đau đấy."
+        },
+        "sponge": {
+            "name": "Miếng Bọt Biển",
+            "desc": "Dùng để rửa bát."
+        },
+        "hexagon": {
+            "name": "Lục Giác",
+            "desc": "Chỉ là một đa giác bình thường."
+        },
+        "mech": {
+            "name": "Cơ Giới",
+            "desc": "Hoa cơ khí."
+        },
+        "lightning": {
+            "name": "Tia Chớp",
+            "desc": "Đánh đi!"
+        },
+        "inverted": {
+            "name": "Lộn Ngược",
+            "desc": "Lật tung mọi thứ."
+        },
+        "sea_urchin": {
+            "name": "Nhím Biển",
+            "desc": "Tớ quên mất rồi 💀"
+        },
+        "long": {
+            "name": "Dài",
+            "desc": "Hệ quả của máy ép thủy lực."
+        },
+        "blue": {
+            "name": "Xanh Dương",
+            "desc": "Trông ngố cực luôn."
+        },
+        "right-angle": {
+            "name": "Góc Vuông",
+            "desc": "Bạn bị xoay 90 độ rồi đó."
+        },
+        "faster": {
+            "name": "Nhanh Hơn",
+            "desc": "Biểu cảm khả nghi lắm."
+        },
+        "amobae": {
+            "name": "Amip",
+            "desc": "Vi sinh vật đơn bào."
+        },
+        "melon": {
+            "name": "Dưa Hấu",
+            "desc": "Cocomelon~"
+        },
+        "ant_hole": {
+            "name": "Hang Kiến",
+            "desc": "Tổ của loài kiến."
+        },
+        "eye": {
+            "name": "Con Mắt",
+            "desc": "Con mắt toàn năng của Flouron."
+        },
+        "roach": {
+            "name": "Gián",
+            "desc": "Một con gián chính hiệu."
+        },
+        "lava": {
+            "name": "Dung Nham",
+            "desc": "Khoảnh khắc 9999 độ C rực lửa."
+        },
+        "rose": {
+            "name": "Hoa Hồng",
+            "desc": "Một bông hoa nhỏ xinh đẹp."
+        },
+        "slanted": {
+            "name": "Nghiêng Nghiêng",
+            "desc": "😕"
+        },
+        "wloop": {
+            "name": "Wloop",
+            "desc": "Chúng tôi cũng chẳng rõ cái này là gì..."
+        },
+        "ara_ara": {
+            "name": "Ara Ara",
+            "desc": "Bông hoa nhỏ dễ thương ghê~"
+        },
+        "sirius": {
+            "name": "Sirius",
+            "desc": "Ngôi sao sáng nhất bầu trời."
+        },
+        "acid": {
+            "name": "Axit",
+            "desc": "Không làm bỏng... hy vọng vậy."
+        },
+        "dark": {
+            "name": "Bóng Tối",
+            "desc": "Chất liệu cực kỳ đen tối."
+        },
+        "omega": {
+            "name": "Omega",
+            "desc": "Độ hiếm tối thượng."
+        },
+        "flower": {
+            "name": "Bông Hoa",
+            "desc": "Tặng một bông hoa cho một bông hoa."
+        },
+        "banana": {
+            "name": "Chuối",
+            "desc": "Một loại trái cây dài."
+        },
+        "potato": {
+            "name": "Khoai Tây",
+            "desc": "Nhiều chất xơ lắm nha."
+        },
+        "urchin": {
+            "name": "Con Nhím Biển",
+            "desc": "Lấy từ đại dương."
+        },
+        "bacteria": {
+            "name": "Vi Khuẩn",
+            "desc": "Bị đánh cắp từ thế giới hiển vi."
+        },
+        "alien": {
+            "name": "Người Ngoài Hành Tinh",
+            "desc": "Một khoảnh khắc ngoài trái đất."
+        },
+        "avacado": {
+            "name": "Bơ",
+            "desc": "Một loại quả bổ dưỡng."
+        },
+        "reddit": {
+            "name": "Reddit",
+            "desc": "Khoảnh khắc biểu tượng Reddit đỉnh cao."
+        },
+        "wtf": {
+            "name": "WTF",
+            "desc": "Mình chịu, không biết đây là gì luôn."
+        },
+        "inception": {
+            "name": "Giấc Mơ Lồng Giấc Mơ",
+            "desc": "Mắt trong mắt trong mắt..."
+        },
+        "yin_yang": {
+            "name": "Âm Dương",
+            "desc": "Cân bằng tuyệt đối."
+        },
+        "angey": {
+            "name": "Tức Giận",
+            "desc": "Chim Nổi Giận chính hiệu."
+        },
+        "blocked": {
+            "name": "Bị Chặn",
+            "desc": "CẤM VÀO!"
+        },
+        "stewie": {
+            "name": "Stewie",
+            "desc": "Mặt đơ không cảm xúc."
+        },
+        "face": {
+            "name": "Gương Mặt",
+            "desc": "Một cái đầu người."
+        },
+        "peanut": {
+            "name": "Đậu Phộng",
+            "desc": "Hai quả bóng được tạo hình chỉ dành cho bạn."
+        },
+        "balls": {
+            "name": "Bóng",
+            "desc": "OwO"
+        },
+        "tear": {
+            "name": "Nước Mắt",
+            "desc": "Nhỏ máu từ con mắt."
+        },
+        "bigtus": {
+            "name": "Xương Rồng Khủng",
+            "desc": "Nó là một cây xương rồng to tổ chảng."
+        },
+        "worm": {
+            "name": "Giun",
+            "desc": "Một con giun thật dài."
+        },
+        "relic": {
+            "name": "Di Vật",
+            "desc": "Hàng lậu của một tay buôn đá quý."
+        },
+        "blades": {
+            "name": "Lưỡi Dao",
+            "desc": "Những lưỡi dao thật sự rất dài..."
+        },
+        "godrays": {
+            "name": "Tia Nắng Thánh Thần",
+            "desc": "Những tia sáng từ mặt trời."
+        },
+        "beam": {
+            "name": "Chùm Sáng",
+            "desc": "Tia nắng thần thánh rất hợp để trêu chọc uwu."
+        },
+        "griffin": {
+            "name": "Griffin",
+            "desc": "To hơn và đáng để troll hơn bạn tưởng rất nhiều..."
+        },
+        "tredor": {
+            "name": "Tredor",
+            "desc": "Thương nhân non tay."
+        },
+        "onion": {
+            "name": "Hành Tây",
+            "desc": "Mua bằng Tor đấy :p"
+        },
+        "titan": {
+            "name": "Titan",
+            "desc": "Zeren Zeager"
+        },
+        "a-60": {
+            "name": "A-60",
+            "desc": "Một kẻ mang bom."
+        },
+        "dwajl": {
+            "name": "Dwajl",
+            "desc": "Được tạo bởi Dwajl."
+        },
+        "glitch": {
+            "name": "Lỗi Hệ Thống",
+            "desc": "Bông hoa phong cách Zyberpunk."
+        },
+        "bird": {
+            "name": "Chim",
+            "desc": "Ted thích chim."
+        },
+        "umbrella": {
+            "name": "Ô Dù",
+            "desc": "Nữ hoàng đỏ tạo ra thứ này."
+        },
+        "moon": {
+            "name": "Mặt Trăng",
+            "desc": "Khi hạ chí trùng với trăng tròn..."
+        },
+        "heavy": {
+            "name": "Nặng Nề",
+            "desc": "Còn nặng hơn cả mẹ bạn. Đúng là đỉnh cao trọng lượng."
+        },
+        "yoba": {
+            "name": "Yoba",
+            "desc": "Một khoảnh khắc... kiểu Nga. Khó hiểu mà vẫn ngầu."
+        },
+        "pinkman": {
+            "name": "Pinkman",
+            "desc": "*cười khúc khích* Không rõ vì sao, nhưng đúng là kỳ quặc."
+        },
+        "moss": {
+            "name": "Rêu",
+            "desc": "Béo"
+        },
+        "fern": {
+            "name": "Dương xỉ",
+            "desc": "Bụi rậm"
+        },
+        "algae": {
+            "name": "Tảo",
+            "desc": "Al Gae"
+        },
+        "stupid": {
+            "name": "Ngốc nghếch",
+            "desc": "Thứ ngày trông thật ngooo ngốk"
+        },
+        "facist": {
+            "name": "Phát xít",
+            "desc": "Đen và Trắng như cứk."
+        },
+        "black": {
+            "name": "Đen",
+            "desc": "Đến từ Châu Phi"
+        },
+        "egg": {
+            "name": "Trứng",
+            "desc": "Được đẻ ra từ con gà ngoài hành tinh, được nấu bởi chúng tôi."
+        },
+        "trader": {
+            "name": "Thương nhân",
+            "desc": "Trao đổi con người"
+        },
+        "retard": {
+            "name": "Chậm",
+            "desc": "Cười"
+        },
+        "derper": {
+            "name": "Derper",
+            "desc": "Trang phục thứ 2 của nhà phát triển??? Vãi cả cứt???"
+        },
+        "omegasus": {
+            "name": "Omegasus",
+            "desc": "Xanh này nhìn khá sú."
+        },
+        "virus": {
+            "name": "Vi-rút",
+            "desc": "Rất dễ lây lan."
+        },
+        "gren": {
+            "name": "Gren",
+            "desc": "Chạm cỏ"
+        },
+        "baby_ant": {
+            "name": "Kiến con",
+            "desc": "Bé kiến của Diddy"
+        },
+        "barbie": {
+            "name": "Barbie",
+            "desc": "Nữ tính"
+        },
+        "zatrix": {
+            "name": "Zatrix",
+            "desc": "Một bông hoa đến từ ma trận"
+        },
+        "fq96": {
+            "name": "fq69",
+            "desc": "Hồng"
+        },
+        "floren": {
+            "name": "Floren",
+            "desc": "Hoa văn đẹp"
+        },
+        "zurchin": {
+            "name": "Zurchin",
+            "desc": "Tốt hơn là hãy nhìn nhím biển"
+        },
+        "clown": {
+            "name": "Hề",
+            "desc": "Chú hề sad nhân."
+        },
+        "florr": {
+            "name": "Florr",
+            "desc": "Florr thật sự."
+        },
+        "stick": {
+            "name": "Gậy",
+            "desc": "Nó gãy ra và rơi từ trên cây."
+        }
+    },
+    "objectKeys": {
+        "health": "Máu",
+        "damage": "Sát thương",
+        "boost": "Tăng cường",
+        "swing": "Vung đòn",
+        "heal": "Hồi máu",
+        "passiveHeal": "Hồi máu thụ động",
+        "passiveHealBelow50": "Hồi máu thụ động khi dưới 50%",
+        "passivePetHeal": "Thú cưng hồi máu thụ động",
+        "shield": "Khiên",
+        "passiveShield": "Khiên thụ động",
+        "poison": "Độc",
+        "orbitSpeed": "Tốc độ quay",
+        "lightningDamage": "Sát thương sét",
+        "lightningFireDamage": "Sét gây sát thương lửa",
+        "lightningPoison": "Sét gây độc",
+        "lightningBounces": "Sét nảy",
+        "webSize": "Kích thước mạng nhện",
+        "explosion": "Vụ nổ",
+        "explosionSize": "Kích thước vụ nổ",
+        "explosionPoison": "Vụ nổ gây độc",
+        "explosionFire": "Vụ nổ gây cháy",
+        "pickRange": "Tầm nhặt",
+        "damageReflection": "Phản sát thương",
+        "extraVision": "Tầm nhìn mở rộng",
+        "extraRange": "Tầm tấn công mở rộng",
+        "despawnTime": "Thời gian biến mất",
+        "pet": "Thú cưng",
+        "petSize": "Kích thước thú cưng",
+        "passiveBoost": "Tăng cường thụ động",
+        "push": "Đẩy lùi",
+        "armor": "Giáp",
+        "extraFlowerHealth": "Máu hoa bổ sung",
+        "flowerPoison": "Độc hoa",
+        "slownessTime": "Thời gian làm chậm",
+        "soakDamageTime": "Thời gian thấm sát thương",
+        "honeyRange": "Tầm ảnh hưởng mật ong",
+        "honeyTileDamage": "Sát thương ô mật ong",
+        "honeyTilePoison": "Độc ô mật ong",
+        "honeyTileFire": "Lửa ô mật ong",
+        "sendToBiome": "Gửi đến hệ sinh thái",
+        "flowerReloadFactor": "Tốc độ hồi cánh hoa",
+        "armorDebuff": "Giảm giáp",
+        "flowerSpeed": "Tốc độ hoa",
+        "fireDamage": "Sát thương lửa",
+        "firePoison": "Độc từ lửa",
+        "fireTime": "Thời gian cháy",
+        "flowerAcceleration": "Gia tốc hoa",
+        "agroRangeReduction": "Giảm tầm nhận diện",
+        "agroRangeIncrease": "Tăng tầm nhận diện",
+        "flowerKnockedFactor": "Hệ số hất văng của hoa",
+        "damageHealed": "Sát thương hồi phục",
+        "selfDamage": "Tự sát thương",
+        "selfFireDamage": "Tự sát thương lửa",
+        "flowerBodyLightning": "Hoa có điện quanh thân",
+        "freezeTime": "Thời gian đóng băng",
+        "explosionFreezeTime": "Vụ nổ gây đóng băng",
+        "explosionKnockback": "Vụ nổ gây hất tung",
+        "luck": "May mắn",
+        "frost": "Băng giá",
+        "defrost": "Rã băng",
+        "tempFlowerSpeed": "Tốc độ hoa tạm thời",
+        "tempFlowerSpeedFactor": "Hệ số tốc độ hoa tạm thời",
+        "subdivisionRates": "Tỷ lệ chia nhỏ",
+        "cureCancer": "Chữa Ung Thư",
+        "petMutation": "Đột Biến Thú Cưng",
+        "passivePetalHeal": "Cánh Hoa Hồi Máu Thụ Động",
+        "healBuff": "Tăng Hiệu Quả Hồi Máu",
+        "shieldBuff": "Tăng Hiệu Quả Khiên",
+        "poisonReduction": "Giảm Sát Thương Độc",
+        "fireReduction": "Giảm Sát Thương Lửa",
+        "cancer": "Ung Thư",
+        "orbit": "Quỹ Đạo",
+        "boostUpwards": "Tăng Cường Lên Trên",
+        "pullReduction": "Giảm Lực Kéo",
+        "mobXpFactor": "Hệ Số Kinh Nghiệm Quái",
+        "fullHealRate": "Tỷ Lệ Hồi Phục Hoàn Toàn",
+        "extraPetalSize": "Tăng Kích Thước Cánh Hoa",
+        "flowerArmor": "Giáp Hoa",
+        "petalCritical": "Tỷ Lệ Bạo Kích Cánh Hoa",
+        "petalReloadSkipRate": "Tỷ Lệ Bỏ Qua Hồi Chiêu Cánh Hoa",
+        "blockDamage": "Chặn Sát Thương",
+        "spreadDamage": "Sát Thương Lan",
+        "radiationRange": "Tầm Phóng Xạ",
+        "radiationPoison": "Độc Phóng Xạ",
+        "radiationFire": "Lửa Phóng Xạ",
+        "radiationHeal": "Hồi Máu Phóng Xạ",
+        "radiationLightningDamage": "Sát Thương Sét Phóng Xạ",
+        "radiationLightningBounces": "Sét Phóng Xạ Nảy",
+        "orbitTwirl": "Xoay Trong Quỹ Đạo",
+        "bodyLightning": "Sét Trên Cơ Thể",
+        "healAffectTime": "Thời Gian Hiệu Ứng Hồi Máu",
+        "missileHealth": "Máu Tên Lửa",
+        "missileDamage": "Sát Thương Tên Lửa",
+        "missilePoison": "Độc Tên Lửa",
+        "missileHealAffectTime": "Thời Gian Hồi Máu Bằng Tên Lửa",
+        "missileArmorDebuff": "Tên Lửa Làm Giảm Giáp",
+        "bodyFireDamage": "Lửa Gây Sát Thương Trên Cơ Thể",
+        "evasion": "Né Tránh",
+        "sprayHealth": "Máu Phun",
+        "sprayDamage": "Sát Thương Phun",
+        "sprayFireDamage": "Sát Thương Phun Lửa",
+        "telepathicDamage": "Sát Thương Thần Giao Cách Cảm",
+        "telepathicLightningDamage": "Sét Thần Giao Cách Cảm",
+        "keyboardControls": "Điều Khiển Bằng Bàn Phím",
+        "movementHelper": "Trợ Lý Di Chuyển",
+        "showHitbox": "Hiển Thị Khung Va Chạm",
+        "showRarities": "Hiển Thị Độ Hiếm",
+        "showGrid": "Hiển Thị Lưới",
+        "showChat": "Hiển Thị Trò Chuyện",
+        "showCraftBubble": "Hiển Thị Bong Bóng Chế Tạo",
+        "showDamage": "Hiển Thị Sát Thương",
+        "showDamageFlash": "Hiệu Ứng Nhấp Nháy Khi Gây Sát Thương",
+        "showHealthBar": "Hiển Thị Thanh Máu",
+        "showPetHealthBar": "Hiển Thị Thanh Máu Thú Cưng",
+        "showHealth": "Hiển Thị Lượng Máu",
+        "showDps": "Hiển Thị DPS",
+        "showExplosion": "Hiển Thị Vụ Nổ",
+        "showLightning": "Hiển Thị Sét",
+        "showRadiation": "Hiển Thị Phóng Xạ",
+        "showIndicators": "Hiển Thị Chỉ Dấu",
+        "abbreviateDps": "Viết Tắt DPS",
+        "showDebugInfo": "Hiển Thị Thông Tin Gỡ Lỗi",
+        "fixedHudSize": "Kích Thước HUD Cố Định",
+        "screenShake": "Rung Màn Hình",
+        "antiAliasing": "Khử Răng Cưa",
+        "potatoHardware": "Phần Cứng Yếu",
+        "badwordFilter": "Bộ Lọc Từ Ngữ Nhạy Cảm",
+        "showMobLeaderboard": "Hiển Thị Bảng Xếp Hạng Quái",
+        "showBlocked": "Hiển Thị Người Bị Chặn",
+        "autoJoinSquads": "Tự Động Vào Đội",
+        "effect3d": "Hiệu Ứng 3D",
+        "xp": "Kinh Nghiệm",
+        "timeJoined": "Thời Gian Tham Gia",
+        "stars": "Ngôi Sao",
+        "timePlayed": "Tổng Thời Gian Chơi",
+        "gamesPlayed": "Số Trận Đã Chơi",
+        "mobsKilled": "Số Quái Đã Tiêu Diệt",
+        "playersKilled": "Người Chơi Đã Giết",
+        "petalsPicked": "Cánh Hoa Thu Thập",
+        "petalsCrafted": "Cánh Hoa Đã Chế Tạo",
+        "petalsBurned": "Cánh Hoa Bị Đốt",
+        "challengesCompleted": "Thử Thách Đã Hoàn Thành",
+        "chatSent": "Tin Nhắn Đã Gửi",
+        "maxScore": "Điểm Cao Nhất",
+        "maxTimeAlive": "Thời Gian Sống Lâu Nhất",
+        "maxMobsKilled": "Số Quái Đã Giết Cao Nhất",
+        "maxPetalsPicked": "Số Cánh Hoa Nhặt Nhiều Nhất",
+        "dailyPlaytime": "Thời Gian Chơi Trong Ngày",
+        "maxDailyPlaytime": "Thời Gian Chơi Trong Ngày Cao Nhất",
+        "maxStreak": "Chuỗi Tối đa",
+        "zoom": "Phóng to",
+        "spinChangeSpeed": "Thay đổi tốc độ quay",
+        "res": "Nghị quyết",
+        "iconRes": "Biểu tượng nghị quyết",
+        "uiScale": "Cân UI",
+        "minKillLogRarity": "Bảng đo cấp độ bị giết bé nhất",
+        "minCraftLogRarity": "Bảng đếm chế tạo nhỏ nhất",
+        "mobHudCount": "Quái Hud Đếm",
+        "maxMagicPets": "Thú cưng ma thuật tối đa",
+        "font": "Phông",
+        "language": "Ngôn ngữ",
+        "showIcons": "Hiển thị biểu tượng",
+        "#indicators": "#Chỉ số",
+        "indicatorPoison": "Độc",
+        "indicatorFire": "Lửa",
+        "indicatorSlowness": "Làm chậm",
+        "indicatorDandelion": "Bồ công anh",
+        "indicatorSponge": "Bọt biển",
+        "indicatorCancer": "Ung thư",
+        "indicatorCoffee": "Cà phê",
+        "indicatorChilly": "Ớt",
+        "indicatorFrost": "Đóng băng",
+        "indicatorMagicSponge": "Bọt biển ma thuật",
+        "indicatorInfection": "Nhiễm trùng",
+        "indicatorDropBuff": "Tăng vật phẩm",
+        "invertAttackButton": "Giữ nút tấn công",
+        "invertDefendButton": "Giữ nút phòng thủ"
+    },
+    "commands": {
+        "tp_random": {
+            "desc": "Dịch chuyển bạn đến một người chơi ngẫu nhiên."
+        },
+        "user_pass": {
+            "desc": "Lấy mật khẩu của người dùng."
+        },
+        "squad_code": {
+            "desc": "Hiển thị và sao chép mã đội hiện tại của bạn."
+        },
+        "petal_reload": {
+            "desc": "Thiết lập hệ số hồi chiêu của cánh hoa."
+        },
+        "petal_damage": {
+            "desc": "Thiết lập hệ số sát thương của cánh hoa."
+        },
+        "guild_transfer_owner": {
+            "desc": "Chuyển quyền sở hữu bang hội."
+        },
+        "guild_name": {
+            "desc": "Đặt tên bang hội của bạn."
+        },
+        "guild": {
+            "desc": "Gửi tin nhắn đến các thành viên bang hội trên tất cả máy chủ."
+        },
+        "squad": {
+            "desc": "Gửi tin nhắn đến đội của bạn."
+        },
+        "new_squad": {
+            "desc": "Tạo một đội mới."
+        },
+        "leave_squad": {
+            "desc": "Rời khỏi đội hiện tại của bạn."
+        },
+        "join_squad": {
+            "desc": "Tham gia đội bằng mã."
+        },
+        "find_public_squad": {
+            "desc": "Tìm đội công khai."
+        },
+        "set_squad_public": {
+            "desc": "Thiết lập đội của bạn ở chế độ công khai hoặc riêng tư."
+        },
+        "client_speed": {
+            "desc": "Thiết lập hệ số tốc độ thời gian của client."
+        },
+        "yay": {
+            "desc": "Khoảnh khắc trứng phục sinh của Yayvideogames."
+        },
+        "cicada": {
+            "desc": "Hiệu ứng hậu kỳ dạng ASCII."
+        },
+        "server_times": {
+            "desc": "Hiển thị tổng thời gian người chơi đã ở trong máy chủ."
+        },
+        "claim": {
+            "desc": "Nhận phần thưởng chuỗi ngày và buff rơi sao."
+        },
+        "report": {
+            "desc": "Báo cáo người dùng vì hành vi độc hại trong trò chuyện."
+        },
+        "block": {
+            "desc": "Chặn người dùng khỏi trò chuyện."
+        },
+        "unblock": {
+            "desc": "Bỏ chặn người dùng trong trò chuyện."
+        },
+        "gen_egg": {
+            "desc": "Tạo quả trứng có khả năng nở ra quái. petCount là số lượng quái sẽ được sinh ra. Power là độ mạnh của quái. Nếu power cao, thời gian hồi trứng sẽ dài và ngược lại. MinUseTime là thời gian nở tối thiểu để tăng độ hiếm. Nếu thời gian nở ngắn hơn ngưỡng đó, thú cưng sinh ra sẽ hiếm hơn. Nói cách khác, nếu thời gian yêu cầu cao, trứng sẽ dễ sinh ra thú cưng hiếm."
+        },
+        "stars_to_usd": {},
+        "spin_speed": {
+            "desc": "Thiết lập tốc độ xoay của hoa bạn."
+        },
+        "mob_gif": {
+            "desc": "Tạo ảnh động GIF cho quái vật."
+        },
+        "petal_power": {
+            "desc": "Hiển thị sức mạnh cánh hoa được tính toán tự động. Có thể không chính xác."
+        },
+        "global_user_list": {
+            "desc": "Hiển thị danh sách người dùng đang trực tuyến toàn cầu."
+        },
+        "user_petal_purchases": {
+            "desc": "Cho phép bạn xem tổng số cánh hoa người dùng đã mua."
+        },
+        "petal_usage": {
+            "desc": "Hiển thị việc sử dụng cánh hoa."
+        },
+        "edit_petals": {
+            "desc": "Cho phép bạn chỉnh sửa cánh hoa."
+        },
+        "lang": {
+            "desc": "Cho phép bạn chọn tệp ngôn ngữ tùy chỉnh cho trò chơi. Tính năng chưa hoàn thiện."
+        },
+        "give_all": {
+            "desc": "Tặng bạn tất cả cánh hoa thuộc một độ hiếm nhất định."
+        },
+        "run_on_join": {
+            "desc": "Tự động chạy các lệnh khi bạn vào vai trò quản trị. Dùng dấu phẩy để phân tách các lệnh."
+        },
+        "stars": {
+            "desc": "Tặng bạn sao."
+        },
+        "skin": {
+            "desc": "Tặng bạn giao diện nhân vật."
+        },
+        "portal": {
+            "desc": "Tạo một cổng dịch chuyển."
+        },
+        "del_portal": {
+            "desc": "Tạo một cổng dịch chuyển."
+        },
+        "mute": {
+            "desc": "Tắt tiếng người dùng."
+        },
+        "unmute": {
+            "desc": "Bật lại tiếng người dùng."
+        },
+        "ban": {
+            "desc": "Cấm người dùng."
+        },
+        "unban": {
+            "desc": "Gỡ lệnh cấm người dùng."
+        },
+        "kick": {
+            "desc": "Đá người dùng khỏi phòng."
+        },
+        "user_petals": {
+            "desc": "Hiển thị thư viện cánh hoa toàn cầu."
+        },
+        "user_mobs": {
+            "desc": "Hiển thị thư viện quái vật toàn cầu."
+        },
+        "user_equipped_petals": {
+            "desc": "Hiển thị thư viện cánh hoa đang trang bị toàn cầu."
+        },
+        "user_mob_deaths": {
+            "desc": "Hiển thị số lượt người chơi bị quái giết trên toàn cầu."
+        },
+        "diff_rates": {
+            "desc": "Hiển thị tỷ lệ độ hiếm theo độ khó."
+        },
+        "restart": {
+            "desc": "Khởi động lại máy chủ."
+        },
+        "wipe": {
+            "desc": "Xóa sạch vật phẩm trong túi bạn."
+        },
+        "profile": {
+            "desc": "Yêu cầu hồ sơ của một người chơi."
+        },
+        "tickrate": {
+            "desc": "Thiết lập tốc độ cập nhật máy chủ. Mặc định là 20 lần mỗi giây."
+        },
+        "lerp": {
+            "desc": "Thiết lập độ trễ nội suy. Mặc định là 100ms."
+        },
+        "drop": {
+            "desc": "Thả một cánh hoa."
+        },
+        "petal_icon": {
+            "desc": "Tạo biểu tượng cho cánh hoa."
+        },
+        "mob_icon": {
+            "desc": "Tạo biểu tượng cho quái vật."
+        },
+        "petal_size": {
+            "desc": "Thiết lập hệ số kích thước cánh hoa của bạn. Mặc định là 1."
+        },
+        "orbit": {
+            "desc": "Dùng \"/orbit reset\" để trở lại quỹ đạo tròn. Các tham số hình dạng là tùy chọn, ví dụ: \"/orbit 3 5 18 18\""
+        },
+        "reset": {
+            "desc": "Xóa toàn bộ quái và đạn."
+        },
+        "wall_thickness": {
+            "desc": "Thiết lập độ dày rìa tường. Mặc định là 12."
+        },
+        "tp_all": {
+            "desc": "Dịch chuyển tất cả đến tọa độ (x, y) trên lưới."
+        },
+        "tp_to": {
+            "desc": "Dịch chuyển bạn đến người dùng."
+        },
+        "tp": {
+            "desc": "Dịch chuyển bạn đến tọa độ (x, y) trên lưới."
+        },
+        "die": {
+            "desc": "Tự kết liễu bản thân."
+        },
+        "sprite": {
+            "desc": "Hiển thị tập hợp ảnh (spritesheet) cánh hoa."
+        },
+        "spawn_diff": {
+            "desc": "Triệu hồi quái theo độ khó."
+        },
+        "spawn": {
+            "desc": "Triệu hồi quái. Dùng gạch dưới thay cho dấu cách trong tên quái. Kích thước là tùy chọn."
+        },
+        "game_speed": {
+            "desc": "Tăng hoặc giảm tốc độ trò chơi."
+        },
+        "droprates": {
+            "desc": "Hiển thị bảng tỷ lệ rơi cho hệ số độ hiếm cánh hoa. Gần 0 thì càng hiếm. Giá trị nên nằm trong khoảng từ 0 đến 1."
+        },
+        "sim_craft": {
+            "desc": "Mô phỏng quá trình chế tạo."
+        },
+        "give": {
+            "desc": "Đưa cánh hoa vào túi đồ. Dùng gạch dưới thay vì dấu cách trong tên cánh hoa."
+        },
+        "ygg": {
+            "desc": "Hồi sinh bạn nếu đang chết."
+        },
+        "immune": {
+            "desc": "Giúp hoa của bạn miễn nhiễm với mọi sát thương."
+        },
+        "speed": {
+            "desc": "Thiết lập tốc độ di chuyển của bạn."
+        },
+        "ghost": {
+            "desc": "Tắt va chạm cho hoa của bạn. Dùng lại lệnh để bật lại."
+        },
+        "toggle_game": {
+            "desc": "Bật hoặc tắt vòng lặp cập nhật trò chơi."
+        },
+        "fov": {
+            "desc": "Thiết lập góc nhìn của bạn."
+        },
+        "april_fools": {
+            "desc": "Khoảnh khắc Cá Tháng Tư uwu."
+        }
+    },
+    "starProducts": {
+        "stars_1": {
+            "desc": "Gói khởi đầu"
+        },
+        "stars_2": {
+            "desc": "Gói sao hơi lớn hơn"
+        },
+        "stars_3": {
+            "desc": "Gói sao lớn"
+        },
+        "stars_4": {
+            "desc": "Gói sao khổng lồ"
+        },
+        "stars_5": {
+            "desc": "Gói sao to hơn nữa"
+        },
+        "stars_6": {
+            "desc": "Gói sao rất to"
+        },
+        "stars_7": {
+            "desc": "Gói sao khủng"
+        },
+        "stars_8": {
+            "desc": "Gói sao cực kỳ to (hơi đáng ngờ 🤨)"
+        },
+        "stars_9": {
+            "desc": "Gói sao càng to hơn nữa (hơi đáng nghi...)"
+        },
+        "stars_10": {
+            "desc": "Gói sao vừa khổng lồ vừa nghi ngờ 🤔"
+        },
+        "stars_11": {
+            "desc": "Gói sao cực khủng nghi ngờ tập 2"
+        },
+        "stars_12": {
+            "desc": "Con trai của MrBeast à?"
+        }
+    },
+    "memberships": {
+        "bronze": {
+            "name": "Đồng",
+            "desc": "Tốt hơn trung bình."
+        },
+        "silver": {
+            "name": "Bạc",
+            "desc": "Dành cho top 1%."
+        },
+        "gold": {
+            "name": "Vàng",
+            "desc": "Chỉ dành cho Toàn năng!"
+        }
+    }
+}

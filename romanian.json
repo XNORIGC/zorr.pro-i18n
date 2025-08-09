@@ -1,0 +1,3326 @@
+{
+  "name": "Română",
+  "ui": {
+    "mobGallery": "Galerie de Mobi",
+    "deathInfo": "Ai fost ucis de:",
+    "continue": "Continuă",
+    "minimize": "Minimizează",
+    "deathEscape": "(sau apasă escape)",
+    "nickInfo": "Această floricică se numește...",
+    "play": "Joacă",
+    "squad": "Echipă",
+    "connecting": "Se conectează...",
+    "chatInfo": "Apasă [Enter] pentru chat",
+    "achievements": "Realizări",
+    "shop": "Magazin",
+    "commands": "Comenzi",
+    "users": "Utilizatori",
+    "loadouts": "Echipamente",
+    "changelog": "Jurnal de modificări (Changelog)",
+    "guild": "Ghildă",
+    "settings": "Setări",
+    "inventory": "Inventar",
+    "inventoryInstructions": "Trage și plasează cu mouse pentru a echipa o petală."
+  },
+  "mobs": {
+    "rock": {
+      "name": "Piatră",
+      "desc": "O piatră. Nu face mare lucru."
+    },
+    "ladybug": {
+      "name": "Buburuză",
+      "desc": "Drăguță și inofensivă."
+    },
+    "bush": {
+      "name": "Tufiș",
+      "desc": "George Bush"
+    },
+    "sponge": {
+      "name": "Burete",
+      "desc": "Bob"
+    },
+    "cactus": {
+      "name": "Cactus",
+      "desc": "O plantă foarte spinoasă."
+    },
+    "baby_ant": {
+      "name": "Pui De Furnică",
+      "desc": "Furnică, dar pui."
+    },
+    "soldier_ant": {
+      "name": "Furnică Soldat",
+      "desc": "Luptă pentru libertate."
+    },
+    "worker_ant": {
+      "name": "Furnică Muncitoare",
+      "desc": "Nu vrea să lupte."
+    },
+    "queen_ant": {
+      "name": "Regină Furnică",
+      "desc": "Regina Antilabeth VI."
+    },
+    "baby_fire_ant": {
+      "name": "Pui De Furnică De Foc",
+      "desc": "Furnică de foc, dar pui."
+    },
+    "soldier_fire_ant": {
+      "name": "Furnică Soldat De Foc",
+      "desc": "Luptă pentru libertate."
+    },
+    "worker_fire_ant": {
+      "name": "Furnică Muncitoare De Foc",
+      "desc": "Nu vrea să lupte."
+    },
+    "queen_fire_ant": {
+      "name": "Regină Furnică De Foc",
+      "desc": "Regina Antilabeth VII."
+    },
+    "mushroom": {
+      "name": "Ciupercă",
+      "desc": "Vine cu o infecție fungică."
+    },
+    "jellyfish": {
+      "name": "Meduză",
+      "desc": "Pește, dar gelatinos."
+    },
+    "spider": {
+      "name": "Păianjen",
+      "desc": "Are 8 picioare și ochi."
+    },
+    "bee": {
+      "name": "Albină",
+      "desc": "Înțeapă prea tare."
+    },
+    "hornet": {
+      "name": "Viespe",
+      "desc": "Lansator de rachete certificat."
+    },
+    "shell": {
+      "name": "Scoică",
+      "desc": "O ființă foarte tăcută."
+    },
+    "ant_hole": {
+      "name": "Mușuroi De Furnici",
+      "desc": "Sunt niște furnici înăuntru."
+    },
+    "fire_ant_hole": {
+      "name": "Mușuroi De Furnici De Foc",
+      "desc": "Sunt niște furnici de foc înăuntru."
+    },
+    "spider_cave": {
+      "name": "Peștera Păianjenilor",
+      "desc": "Peșteră lungă și întunecată."
+    },
+    "hive": {
+      "name": "Stup",
+      "desc": "Acesta este Disneyland-ul albinelor."
+    },
+    "yoba": {
+      "name": "Yoba",
+      "desc": "Creatură misterioasă roșie."
+    },
+    "spider_yoba": {
+      "name": "Spider Yoba",
+      "desc": "Creatură misterioasă roz."
+    },
+    "centipede": {
+      "name": "Centiped",
+      "desc": "Este lung."
+    },
+    "desert_centipede": {
+      "name": "Centiped De Deșert",
+      "desc": "A câștigat o medalie de aur la Olimpiadă."
+    },
+    "evil_centipede": {
+      "name": "Centiped Malefic",
+      "desc": "Nu suntem siguri de ce acesta este malefic."
+    },
+    "sunflower": {
+      "name": "Floarea-Soarelui",
+      "desc": "Are un scut."
+    },
+    "boba": {
+      "name": "Boba",
+      "desc": "Explodează."
+    },
+    "bubble": {
+      "name": "Bulă",
+      "desc": "Spărge-o repede."
+    },
+    "m28": {
+      "name": "M28",
+      "desc": "Dezvoltator Skibidi."
+    },
+    "beetle": {
+      "name": "Gândac",
+      "desc": "Insectă foarte flămândă."
+    },
+    "avocado": {
+      "name": "Avocado",
+      "desc": "Fruct super delicios."
+    },
+    "target_dummy": {
+      "name": "Manechin De Antrenament",
+      "desc": "Uciderea acestora este vandalism, acest joc este în secret un colector de IP-uri și te-am raportat deja autorităților locale, așteaptă o bătaie la ușă în 3-5 minute"
+    },
+    "dark_ladybug": {
+      "name": "Buburuză Întunecată",
+      "desc": "Drăguță și inofensivă, dar întunecată."
+    },
+    "shiny_ladybug": {
+      "name": "Buburuză Strălucitoare",
+      "desc": "Strălucitoare, drăguță și inofensivă."
+    },
+    "sandstorm": {
+      "name": "Furtună De Nisip",
+      "desc": "O tornadă de nisip."
+    },
+    "scorpion": {
+      "name": "Scorpion",
+      "desc": "Îi place să orbiteze și să te împuște."
+    },
+    "starfish": {
+      "name": "Stea De Mare",
+      "desc": "Pește celebru."
+    },
+    "crab": {
+      "name": "Crab",
+      "desc": "Fuge după tine."
+    },
+    "dandelion": {
+      "name": "Păpădie",
+      "desc": "Lansează rachete când este atacată."
+    },
+    "dragon": {
+      "name": "Dragon",
+      "desc": "focul său pare foarte fierbinte, și se simte și foarte fierbinte."
+    },
+    "leech": {
+      "name": "Lipitoare",
+      "desc": "un șarpe din slither.io?"
+    },
+    "nazar_beetle": {
+      "name": "Gândac Nazar",
+      "desc": "S-a transformat în artă modernă."
+    },
+    "toxic_dragon": {
+      "name": "Dragon Toxic",
+      "desc": "Cineva l-a pictat cu vopsea toxică."
+    },
+    "hel_worm": {
+      "name": "Vierme Din Iad",
+      "desc": "un vierme satanic din digworm.io"
+    },
+    "hel_spider": {
+      "name": "Păianjen Din Iad",
+      "desc": "Are 8 picioare și ochi."
+    },
+    "hel_beetle": {
+      "name": "Gândac Din Iad",
+      "desc": "Insectă satanică foarte înfiorătoare."
+    },
+    "hel_jellyfish": {
+      "name": "Meduză Din Iad",
+      "desc": "De ce și cum are dinți?"
+    },
+    "tumbleweed": {
+      "name": "Tufă De Deșert",
+      "desc": "*Zgomote de vânt*"
+    },
+    "dragon_nest": {
+      "name": "Cuib De Dragon",
+      "desc": "Casa dragonilor."
+    },
+    "firestorm": {
+      "name": "Furtună De Foc",
+      "desc": "O tornadă de foc."
+    },
+    "hel_bee": {
+      "name": "Albină Din Iad",
+      "desc": "Înțepătură extrem de fierbinte."
+    },
+    "hel_hornet": {
+      "name": "Viespe Din Iad",
+      "desc": "Lansator de foc certificat."
+    },
+    "bugatti": {
+      "name": "Bugatti",
+      "desc": "Mașina preferată a lui Top Jeet."
+    },
+    "fly": {
+      "name": "Muscă",
+      "desc": "Este murdară."
+    },
+    "mantis": {
+      "name": "Călugăriță",
+      "desc": "Trage 3 mazăre perforante de armură odată."
+    },
+    "firefly": {
+      "name": "Licurici",
+      "desc": "Muscă cu tensiune înaltă."
+    },
+    "wasp": {
+      "name": "Viespe",
+      "desc": "Îi place să țintească florile folosind rachetele sale."
+    },
+    "stickbug": {
+      "name": "Insectă-Băț",
+      "desc": "Îi place să danseze."
+    },
+    "snowbush": {
+      "name": "Tufiș De Zăpadă",
+      "desc": "Un tufiș care crește în regiuni reci, poate fi acoperit și de zăpadă."
+    },
+    "ice_cube": {
+      "name": "Cub De Gheață",
+      "desc": "un cub de gheață foarte rece, atingerea lui probabil nu s-ar simți foarte plăcută"
+    },
+    "snowstorm": {
+      "name": "Furtună De Zăpadă",
+      "desc": "O tornadă de zăpadă, fulgi de nea ascuțiți par să orbiteze în interior."
+    },
+    "arctic_centipede": {
+      "name": "Centiped Arctic",
+      "desc": "Frigul le-a întărit pielea."
+    },
+    "arctic_spider": {
+      "name": "Păianjen Arctic",
+      "desc": "Acest păianjen arată foarte *cool*."
+    },
+    "ice_dragon": {
+      "name": "Dragon De Gheață",
+      "desc": "Suflă o briză rece care își poate îngheța dușmanii."
+    },
+    "tick": {
+      "name": "Căpușă",
+      "desc": "Acest inamic mă scoate din sărite!"
+    },
+    "waterspout": {
+      "name": "Trombă Marină",
+      "desc": "O tornadă subacvatică."
+    },
+    "urchin": {
+      "name": "Arici De Mare",
+      "desc": "Bilă spinoasă care trage în tine."
+    },
+    "volcano": {
+      "name": "Vulcan",
+      "desc": "O stâncă foarte mare. Aruncă foc peste tot."
+    },
+    "ice_hornet": {
+      "name": "Viespe De Gheață",
+      "desc": "Skibidi mob dop dop yes yes"
+    },
+    "virus": {
+      "name": "Virus",
+      "desc": "Nu-l atinge!"
+    },
+    "red_blood_cell": {
+      "name": "Celulă Roșie",
+      "desc": "Livrează oxigen oriunde este nevoie."
+    },
+    "bacteria": {
+      "name": "Bacterie",
+      "desc": "Acest inamic mă face să mă simt rău."
+    },
+    "bacteriophage": {
+      "name": "Bacteriofag",
+      "desc": "Un tocilar la matematică, îi plac prea mult icosaedrele umplute cu otravă."
+    },
+    "cancer": {
+      "name": "Cancer",
+      "desc": "Foarte mortal, sper să nu-l atingi niciodată din greșeală."
+    },
+    "parasite": {
+      "name": "Parazit",
+      "desc": "Îi place să-și enerveze gazda hehe"
+    },
+    "white_blood_cell": {
+      "name": "Celulă Albă",
+      "desc": "Luptă împotriva lucrurilor rele din corpul tău, inclusiv a florilor."
+    },
+    "atom": {
+      "name": "Atom",
+      "desc": "Blocul de construcție al universului, ce ar putea merge prost când ucizi unul?"
+    },
+    "snake": {
+      "name": "Șarpe",
+      "desc": "Foarte mortal și foarte lung."
+    },
+    "turtle": {
+      "name": "Broască Țestoasă",
+      "desc": "are un scut foarte puternic"
+    },
+    "hel_hive": {
+      "name": "Stup Din Iad",
+      "desc": "Acesta este locul unde albinele și viespile din iad își discută planurile malefice de a cuceri biomul de câmpie."
+    },
+    "fossil": {
+      "name": "Fosilă",
+      "desc": "Pare destul de moartă, poate conține petale valoroase"
+    },
+    "rattlesnake": {
+      "name": "Șarpe Cu Clopoței",
+      "desc": "Foarte mortal, foarte lung și foarte zgomotos, poate ar trebui să-i respecți avertismentul."
+    },
+    "cicada": {
+      "name": "Cicadă",
+      "desc": "3301. Are 11% șanse de a provoca daune de 42x."
+    },
+    "snowman": {
+      "name": "Om De Zăpadă",
+      "desc": "Vrea să se bată cu bulgări de zăpadă (a pus pietre în bulgări)."
+    },
+    "igloo": {
+      "name": "Iglu",
+      "desc": "Un loc foarte cool pentru oameni de zăpadă și dragoni să stea"
+    },
+    "rain_frog": {
+      "name": "Broască De Ploaie",
+      "desc": "Se mișcă ca o scoică."
+    },
+    "illuminati": {
+      "name": "Illuminati",
+      "desc": "Întuneric peste tot."
+    },
+    "black_hole": {
+      "name": "Gaură Neagră",
+      "desc": "Foarte atractivă și foarte întunecată."
+    },
+    "troll": {
+      "name": "Troll",
+      "desc": "CEI CARE ȘTIU: SIGMA; CEI CARE NU ȘTIU: SKIBIDI"
+    },
+    "ufo": {
+      "name": "OZN",
+      "desc": "Sunt o grămadă de oameni verzi înăuntru, ar fi mai bine să nu-i deranjezi."
+    },
+    "alien": {
+      "name": "Extraterestru",
+      "desc": "O entitate extraterestră cu abilități telepatice."
+    },
+    "angel": {
+      "name": "Înger",
+      "desc": "Are o aură foarte puternică, probabil nu ar trebui să te apropii prea mult."
+    },
+    "momy": {
+      "name": "Mămica",
+      "desc": "O creatură foarte înfricoșătoare. Îi place să arunce cu lucruri în alți oameni."
+    },
+    "ghost": {
+      "name": "Fantomă",
+      "desc": "oOOOooOOooooOO înfricoșător"
+    },
+    "gravestone": {
+      "name": "Piatră De Mormânt",
+      "desc": "Fantomelor le place să stea aici în întuneric complet."
+    },
+    "electric_eel": {
+      "name": "Țipar Electric",
+      "desc": "S-ar putea să te electrocuteze."
+    },
+    "eye": {
+      "name": "Ochi",
+      "desc": "Ochiul drăguț al lui Sauron."
+    },
+    "square": {
+      "name": "Pătrat",
+      "desc": "Joc greșit."
+    },
+    "target_mummy": {
+      "name": "Mumie Țintă",
+      "desc": "Manechin de antrenament + Bandaje = Mumie țintă uwu."
+    },
+    "oracle": {
+      "name": "Oracol",
+      "desc": "Moment de personaj non-jucător"
+    },
+    "trader": {
+      "name": "Comerciant",
+      "desc": "Îți permite să schimbi petale pe monede."
+    },
+    "tesla_coil": {
+      "name": "Bobină Tesla",
+      "desc": "O bobină Tesla care poate electrocuta inamicii de la distanță."
+    },
+    "snail": {
+      "name": "Melc",
+      "desc": "Se mișcă foarte încet."
+    },
+    "stem_cell": {
+      "name": "Celulă Stem",
+      "desc": "Se poate regenera în timp."
+    },
+    "barrel": {
+      "name": "Butoi",
+      "desc": "Conține lucruri foarte periculoase."
+    },
+    "nuke": {
+      "name": "Bombă Nucleară",
+      "desc": "Tsar Bomba este o bombă cu hidrogen rusească foarte mare."
+    },
+    "digger": {
+      "name": "Săpător",
+      "desc": "Un aliat care doar sapă."
+    },
+    "spider_digger": {
+      "name": "Săpător Păianjen",
+      "desc": "A construit peștera păianjenilor."
+    },
+    "hel_digger": {
+      "name": "Săpător Din Iad",
+      "desc": "A îmblânzit dragonii..."
+    },
+    "grave_digger": {
+      "name": "Gropar",
+      "desc": "Vrea să intri în groapa proaspăt săpată."
+    },
+    "sandstone": {
+      "name": "Gresie",
+      "desc": "O rocă foarte fragilă și prăfuită."
+    },
+    "termite_overmind": {
+      "name": "Suprainteligență Termită",
+      "desc": "Este bine pregătit să supraviețuiască oricăruia dintre dușmanii săi."
+    },
+    "baby_termite": {
+      "name": "Pui De Termită",
+      "desc": "Are o copilărie foarte grea."
+    },
+    "worker_termite": {
+      "name": "Termită Muncitoare",
+      "desc": "Nu vrea să lupte, dar este forțată oricum."
+    },
+    "soldier_termite": {
+      "name": "Termită Soldat",
+      "desc": "Luptă pentru libertate, dar tot ce face este să-și rănească prietenii accidental."
+    },
+    "termite_hole": {
+      "name": "Cuib De Termite",
+      "desc": "Sunt niște termite înăuntru."
+    },
+    "termite_digger": {
+      "name": "Săpător De Termite",
+      "desc": "S-a împrietenit cu populația locală de termite."
+    },
+    "shipwreck": {
+      "name": "Epavă",
+      "desc": "Accident de mașină subacvatic, se pare că fauna locală a preluat acest vehicul."
+    },
+    "pirate_digger": {
+      "name": "Săpător Pirat",
+      "desc": "Pirații din Caraibe."
+    },
+    "palm_tree": {
+      "name": "Palmier",
+      "desc": "Frunzele sale gigantice îl ajută să supraviețuiască în acest climat."
+    },
+    "stalagmite": {
+      "name": "Stalagmită",
+      "desc": "Va încerca să te înjunghie, în mod repetat."
+    },
+    "arctic_spider_cave": {
+      "name": "Peștera Păianjenilor Arctici",
+      "desc": "O peșteră foarte cool într-o peșteră deja cool. Peștericepție."
+    },
+    "beekeeper": {
+      "name": "Apicultor",
+      "desc": "Este păzitorul albinelor."
+    },
+    "hel_beekeeper": {
+      "name": "Apicultor Din Iad",
+      "desc": "Este păzitorul albinelor din iad."
+    },
+    "alien_digger": {
+      "name": "Săpător Extraterestru",
+      "desc": "Minează resurse pe alte planete."
+    },
+    "queen_bee": {
+      "name": "Regină Albină",
+      "desc": "Liderul regal al albinelor."
+    },
+    "hel_queen_bee": {
+      "name": "Regină Albină Din Iad",
+      "desc": "Liderul infernal al albinelor demonice."
+    }
+  },
+  "petals": {
+    "basic": {
+      "name": "De Bază",
+      "desc": "Cea mai simplă petală."
+    },
+    "rose": {
+      "name": "Trandafir",
+      "desc": "Te vindecă atunci când este consumată."
+    },
+    "wing": {
+      "name": "Aripă",
+      "desc": "Vine și pleacă."
+    },
+    "rock": {
+      "name": "Piatră",
+      "desc": "Este destul de durabilă."
+    },
+    "iris": {
+      "name": "Iris",
+      "desc": "Este otrăvitor."
+    },
+    "stinger": {
+      "name": "Ac",
+      "desc": "Daune foarte mari."
+    },
+    "honey": {
+      "name": "Miere",
+      "desc": "Vomă de albină."
+    },
+    "bubble": {
+      "name": "Bulă",
+      "desc": "Se sparge și te propulsează."
+    },
+    "heavy": {
+      "name": "Grea",
+      "desc": "Mai grea decât mama ta."
+    },
+    "yin_yang": {
+      "name": "Yin Yang",
+      "desc": "Schimbă direcția de orbitare a petalelor tale."
+    },
+    "faster": {
+      "name": "Mai Rapidă",
+      "desc": "Mărește viteza de orbitare a petalelor tale."
+    },
+    "light": {
+      "name": "Ușoară",
+      "desc": "Super super rapidă."
+    },
+    "sponge": {
+      "name": "Burete",
+      "desc": "Spală vasele și absoarbe daunele în timp."
+    },
+    "rice": {
+      "name": "Orez",
+      "desc": "Doar pentru asiatici."
+    },
+    "yggdrasil": {
+      "name": "Yggdrasil",
+      "desc": "Înviază florile moarte."
+    },
+    "leaf": {
+      "name": "Frunză",
+      "desc": "Te vindecă pasiv."
+    },
+    "lightning": {
+      "name": "Fulger",
+      "desc": "Invocă un fulger asupra inamicilor din apropiere."
+    },
+    "usain_bolt": {
+      "name": "Usain Bolt",
+      "desc": "Invocă un fulger otrăvitor asupra inamicilor din apropiere."
+    },
+    "cotton": {
+      "name": "Bumbac",
+      "desc": "Absoarbe daunele tale."
+    },
+    "web": {
+      "name": "Pânză De Păianjen",
+      "desc": "Aruncă excremente de păianjen care încetinesc inamicii."
+    },
+    "pollen": {
+      "name": "Polen",
+      "desc": "Cade și rămâne pe pământ."
+    },
+    "shell": {
+      "name": "Scoică",
+      "desc": "Îți oferă un scut atunci când este consumată."
+    },
+    "sunflower": {
+      "name": "Floarea-Soarelui",
+      "desc": "Îți oferă un scut pasiv."
+    },
+    "bomb": {
+      "name": "Bombă",
+      "desc": "Explodează când atinge un inamic."
+    },
+    "gas_bomb": {
+      "name": "Bombă Cu Gaz",
+      "desc": "Explodează și otrăvește inamicii."
+    },
+    "missile": {
+      "name": "Rachetă",
+      "desc": "Un ac rebel care zboară departe de tine."
+    },
+    "viper": {
+      "name": "Viperă",
+      "desc": "Nu știm cum otrăvește."
+    },
+    "rocket": {
+      "name": "Rachetă",
+      "desc": "Rapidă și explozivă."
+    },
+    "electron_missile": {
+      "name": "Rachetă Electronică",
+      "desc": "Este plină de electroni furioși care așteaptă să electrocuteze orice în calea lor."
+    },
+    "magnet": {
+      "name": "Magnet",
+      "desc": "Atrage petalele căzute și absoarbe fulgerele."
+    },
+    "salt": {
+      "name": "Sare",
+      "desc": "Reflectă daunele provocate florii înapoi la inamic."
+    },
+    "antennae": {
+      "name": "Antene",
+      "desc": "Mărește-ți viziunea."
+    },
+    "third_eye": {
+      "name": "Al Treilea Ochi",
+      "desc": "Mărește raza de acțiune a petalelor."
+    },
+    "dmca": {
+      "name": "DMCA",
+      "desc": "Elimină inamicii de aceeași raritate sau mai mică."
+    },
+    "rock_egg": {
+      "name": "Ou De Piatră",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "ladybug_egg": {
+      "name": "Ou De Buburuză",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "bush_egg": {
+      "name": "Ou De Tufiș",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "sponge_egg": {
+      "name": "Ou De Burete",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "cactus_egg": {
+      "name": "Ou De Cactus",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "baby_ant_egg": {
+      "name": "Ou De Pui De Furnică",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "soldier_ant_egg": {
+      "name": "Ou De Furnică Soldat",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "worker_ant_egg": {
+      "name": "Ou De Furnică Muncitoare",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "queen_ant_egg": {
+      "name": "Ou De Regină Furnică",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "baby_fire_ant_egg": {
+      "name": "Ou De Pui De Furnică De Foc",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "soldier_fire_ant_egg": {
+      "name": "Ou De Furnică Soldat De Foc",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "worker_fire_ant_egg": {
+      "name": "Ou De Furnică Muncitoare De Foc",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "queen_fire_ant_egg": {
+      "name": "Ou De Regină Furnică De Foc",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "mushroom_egg": {
+      "name": "Ou De Ciupercă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "jellyfish_egg": {
+      "name": "Ou De Meduză",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "spider_egg": {
+      "name": "Ou De Păianjen",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "bee_egg": {
+      "name": "Ou De Albină",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hornet_egg": {
+      "name": "Ou De Viespe",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "shell_egg": {
+      "name": "Ou De Scoică",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "ant_hole_egg": {
+      "name": "Ou De Mușuroi De Furnici",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "fire_ant_hole_egg": {
+      "name": "Ou De Mușuroi De Furnici De Foc",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "spider_cave_egg": {
+      "name": "Ou De Peșteră A Păianjenilor",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hive_egg": {
+      "name": "Ou De Stup",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "yoba_egg": {
+      "name": "Ou De Yoba",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "spider_yoba_egg": {
+      "name": "Ou De Spider Yoba",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "centipede_egg": {
+      "name": "Ou De Centiped",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "desert_centipede_egg": {
+      "name": "Ou De Centiped De Deșert",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "evil_centipede_egg": {
+      "name": "Ou De Centiped Malefic",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "sunflower_egg": {
+      "name": "Ou De Floarea-Soarelui",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "boba_egg": {
+      "name": "Ou De Boba",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "bubble_egg": {
+      "name": "Ou De Bulă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "m28_egg": {
+      "name": "Ou De M28",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "beetle_egg": {
+      "name": "Ou De Gândac",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "avocado_egg": {
+      "name": "Ou De Avocado",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "target_dummy_egg": {
+      "name": "Ou De Manechin De Antrenament",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "dark_ladybug_egg": {
+      "name": "Ou De Buburuză Întunecată",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "shiny_ladybug_egg": {
+      "name": "Ou De Buburuză Strălucitoare",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "stick": {
+      "name": "Băț",
+      "desc": "Invocă vânturile mortale."
+    },
+    "scorpion_egg": {
+      "name": "Ou De Scorpion",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "starfish_egg": {
+      "name": "Ou De Stea De Mare",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "pea": {
+      "name": "Mazăre",
+      "desc": "Face puf."
+    },
+    "avocado": {
+      "name": "Avocado",
+      "desc": "Mărește dimensiunea animalului tău de companie."
+    },
+    "ring_magnet": {
+      "name": "Magnet Inelar",
+      "desc": "Atrage totul spre tine încet."
+    },
+    "gas": {
+      "name": "Gaz",
+      "desc": "Gaz otrăvitor."
+    },
+    "fire": {
+      "name": "Foc",
+      "desc": "Arde."
+    },
+    "nitro": {
+      "name": "Nitro",
+      "desc": "Este ca un jetpack."
+    },
+    "wind": {
+      "name": "Vânt",
+      "desc": "Împinge inamicii departe."
+    },
+    "air": {
+      "name": "Aer",
+      "desc": "Extrem de invizibil."
+    },
+    "lightsaber": {
+      "name": "Sabie Laser",
+      "desc": "Sabie fotonică cu rază limitată."
+    },
+    "visaber": {
+      "name": "Visabie",
+      "desc": "Trage raze gamma în loc de fotoni vizibili."
+    },
+    "bone": {
+      "name": "Os",
+      "desc": "Compus din calciu."
+    },
+    "cactus": {
+      "name": "Cactus",
+      "desc": "Îți oferă mai multă viață."
+    },
+    "soil": {
+      "name": "Sol",
+      "desc": "Face florile grase."
+    },
+    "grapes": {
+      "name": "Struguri",
+      "desc": "Rachetă, dar iris. wtf?"
+    },
+    "mushroom": {
+      "name": "Ciupercă",
+      "desc": "Îți face floarea otrăvitoare."
+    },
+    "ears": {
+      "name": "Urechi",
+      "desc": "Urechi de pisică telepatice."
+    },
+    "sand": {
+      "name": "Nisip",
+      "desc": "S-ar putea construi un castel de nisip din asta."
+    },
+    "pincer": {
+      "name": "Clește",
+      "desc": "Rupe picioarele inamicilor tăi, chiar dacă nu au."
+    },
+    "dahlia": {
+      "name": "Dalie",
+      "desc": "Sacrifică vindecarea pentru fiabilitate."
+    },
+    "starfish": {
+      "name": "Stea De Mare",
+      "desc": "Te vindecă atunci când ai viață scăzută."
+    },
+    "dandelion": {
+      "name": "Păpădie",
+      "desc": "Dezactivează vindecarea inamicilor tăi."
+    },
+    "crab_egg": {
+      "name": "Ou De Crab",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "dandelion_egg": {
+      "name": "Ou De Păpădie",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "dragon_egg": {
+      "name": "Ou De Dragon",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "irey": {
+      "name": "Irey",
+      "desc": "Transformă plăcile de miere în plăci otrăvitoare."
+    },
+    "leech_egg": {
+      "name": "Ou De Lipitoare",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "nazar": {
+      "name": "Nazar",
+      "desc": "Poate absorbi o lovitură, apoi intră în cooldown."
+    },
+    "nazar_beetle_egg": {
+      "name": "Ou De Gândac Nazar",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "golden_leaf": {
+      "name": "Frunză De Aur",
+      "desc": "Reduce timpul de reîncărcare a petalelor."
+    },
+    "laser": {
+      "name": "Laser",
+      "desc": "Poate provoca arsuri grave."
+    },
+    "mark": {
+      "name": "Marcaj",
+      "desc": "Trimite o floricică moartă în Iad."
+    },
+    "bur": {
+      "name": "Scaiete",
+      "desc": "Scade armura inamicului."
+    },
+    "cutter": {
+      "name": "Tăietor",
+      "desc": "Mărește daunele corporale."
+    },
+    "powder": {
+      "name": "Praf",
+      "desc": "Cocaină"
+    },
+    "toxic_dragon_egg": {
+      "name": "Ou De Dragon Toxic",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hel_worm_egg": {
+      "name": "Ou De Vierme Din Iad",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hel_spider_egg": {
+      "name": "Ou De Păianjen Din Iad",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hel_beetle_egg": {
+      "name": "Ou De Gândac Din Iad",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hel_jellyfish_egg": {
+      "name": "Ou De Meduză Din Iad",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hel_lightning": {
+      "name": "Fulger Din Iad",
+      "desc": "Invocă o lovitură de foc blestemată asupra inamicilor din apropiere."
+    },
+    "tumbleweed_egg": {
+      "name": "Ou De Tufă De Deșert",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "dragon_nest_egg": {
+      "name": "Ou De Cuib De Dragon",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "fire_stick": {
+      "name": "Băț De Foc",
+      "desc": "Invocă vânturile mortale."
+    },
+    "hel_bee_egg": {
+      "name": "Ou De Albină Din Iad",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hel_hornet_egg": {
+      "name": "Ou De Viespe Din Iad",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hel_missile": {
+      "name": "Rachetă Din Iad",
+      "desc": "rachetă extrem de fierbinte"
+    },
+    "bugatti": {
+      "name": "Bugatti",
+      "desc": "Mărește viteza de mișcare, dar te face extrem de alunecos."
+    },
+    "bugatti_egg": {
+      "name": "Ou De Bugatti",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "poo": {
+      "name": "Rahat",
+      "desc": "Scade raza de acțiune a inamicului."
+    },
+    "rubber": {
+      "name": "Cauciuc",
+      "desc": "Mărește respingerea pe care o primești de la inamici."
+    },
+    "fly_egg": {
+      "name": "Ou De Muscă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "fang": {
+      "name": "Colț",
+      "desc": "Te vindecă cu daunele pe care le provoacă."
+    },
+    "blood_stinger": {
+      "name": "Ac Sângeros",
+      "desc": "Foarte mortal, dar îți provoacă și ție o parte din daune."
+    },
+    "mantis_egg": {
+      "name": "Ou De Călugăriță",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "firefly_egg": {
+      "name": "Ou De Licurici",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "wasp_egg": {
+      "name": "Ou De Viespe",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "battery": {
+      "name": "Baterie",
+      "desc": "Face ca corpul tău să invoce un fulger când un inamic îl lovește."
+    },
+    "stickbug_egg": {
+      "name": "Ou De Insectă-Băț",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "plank": {
+      "name": "Scândură",
+      "desc": "Provoacă daune de 100x mai mari proiectilelor inamice."
+    },
+    "icicle": {
+      "name": "Țurțure",
+      "desc": "Îngheață inamicii."
+    },
+    "dice": {
+      "name": "Zar",
+      "desc": "Are 7.5% șanse de a provoca daune de 69x. Rata este afectată de Trifoi."
+    },
+    "cryo_bomb": {
+      "name": "Bombă Crio",
+      "desc": "Îngheață inamicii din apropiere când explodează."
+    },
+    "clover": {
+      "name": "Trifoi",
+      "desc": "Îți aduce noroc."
+    },
+    "blueberries": {
+      "name": "Afine",
+      "desc": "Congelarea le-a făcut foarte tari."
+    },
+    "frost": {
+      "name": "Ger",
+      "desc": "Aer rece care poate trece prin armura inamicilor tăi și îi poate încetini."
+    },
+    "snowball": {
+      "name": "Bulgăre De Zăpadă",
+      "desc": "Bulgărele unui om de zăpadă care trece prin vesta inamicilor tăi."
+    },
+    "snowflake": {
+      "name": "Fulg De Nea",
+      "desc": "Se sparge și zboară când este rupt."
+    },
+    "amethyst": {
+      "name": "Ametist",
+      "desc": "Piatră prețioasă foarte ascuțită, dar fragilă."
+    },
+    "snowbush_egg": {
+      "name": "Ou De Tufiș De Zăpadă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "snow_stick": {
+      "name": "Băț De Zăpadă",
+      "desc": "Invocă gerul mortal."
+    },
+    "ice_cube_egg": {
+      "name": "Ou De Cub De Gheață",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "arctic_centipede_egg": {
+      "name": "Ou De Centiped Arctic",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "arctic_spider_egg": {
+      "name": "Ou De Păianjen Arctic",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "ice_dragon_egg": {
+      "name": "Ou De Dragon De Gheață",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "tick_egg": {
+      "name": "Ou De Căpușă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "ice_rose": {
+      "name": "Trandafir De Gheață",
+      "desc": "Te vindecă atunci când este consumat, dar îți dă și ger."
+    },
+    "torch": {
+      "name": "Torță",
+      "desc": "Îndepărtează pasiv gerul de pe floarea ta în timp."
+    },
+    "water_stick": {
+      "name": "Băț De Apă",
+      "desc": "Invocă tornade subacvatice, chiar și când nu ești sub apă."
+    },
+    "urchin_egg": {
+      "name": "Ou De Arici De Mare",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "volcano_egg": {
+      "name": "Ou De Vulcan",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "spikeball": {
+      "name": "Bilă Cu Țepi",
+      "desc": "multe rachete legate împreună de o legătură slabă, rachetele ar zbura peste tot dacă acea legătură s-ar rupe..."
+    },
+    "needle": {
+      "name": "Ac",
+      "desc": "foarte ascuțit, dar foarte fragil, este și otrăvit"
+    },
+    "bubble_bomb": {
+      "name": "Bombă Cu Bule",
+      "desc": "Explodează și împinge inamicii un pic prea mult."
+    },
+    "obsidian": {
+      "name": "Obsidian",
+      "desc": "extrem de durabil, dar și foarte fragil în același timp."
+    },
+    "magma": {
+      "name": "Magmă",
+      "desc": "o rocă foarte fierbinte."
+    },
+    "fire_bomb": {
+      "name": "Bombă De Foc",
+      "desc": "exploziile dau foc inamicilor tăi."
+    },
+    "ice_hornet_egg": {
+      "name": "Ou De Viespe De Gheață",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "frozen_mark": {
+      "name": "Marcaj Înghețat",
+      "desc": "Trimite o floricică moartă în Antarctica."
+    },
+    "coffee": {
+      "name": "Cafea",
+      "desc": "Îți oferă un impuls temporar de viteză când este consumată."
+    },
+    "chromosome": {
+      "name": "Cromozom",
+      "desc": "Vindecă petalele tale în timp."
+    },
+    "antibody": {
+      "name": "Anticorp",
+      "desc": "Scade armura inamicului."
+    },
+    "hemoglobin": {
+      "name": "Hemoglobină",
+      "desc": "Mărește vindecarea cauzată de petalele de vindecare."
+    },
+    "chloroplast": {
+      "name": "Cloroplast",
+      "desc": "Mărește regenerarea scutului."
+    },
+    "sugar": {
+      "name": "Zahăr",
+      "desc": "Foarte dulce."
+    },
+    "pill": {
+      "name": "Pastilă",
+      "desc": "Vindecă cancerul și îți oferă ceva vindecare."
+    },
+    "dna": {
+      "name": "ADN",
+      "desc": "Îți oferă o mică șansă de a crește raritatea animalului tău de companie. Afectează toate ouăle până la raritatea sa. De exemplu, un ou Super care generează o furnică Ultra + ADN Super = Șansă de a genera o furnică Super. Rata este afectată de trifoi."
+    },
+    "virus_egg": {
+      "name": "Ou De Virus",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "red_blood_cell_egg": {
+      "name": "Ou De Celulă Roșie",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "bacteria_egg": {
+      "name": "Ou De Bacterie",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "bacteriophage_egg": {
+      "name": "Ou De Bacteriofag",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "cancer_egg": {
+      "name": "Ou De Cancer",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "parasite_egg": {
+      "name": "Ou De Parazit",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "cancer": {
+      "name": "Cancer",
+      "desc": "Împarte inamicii de aceeași raritate când mor."
+    },
+    "white_blood_cell_egg": {
+      "name": "Ou De Celulă Albă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "lotus": {
+      "name": "Lotus",
+      "desc": "Reduce otrava."
+    },
+    "ice": {
+      "name": "Gheață",
+      "desc": "Reduce focul."
+    },
+    "atom_egg": {
+      "name": "Ou De Atom",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "snake_egg": {
+      "name": "Ou De Șarpe",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "slime": {
+      "name": "Nămol",
+      "desc": "bleah, e atât de lipicios"
+    },
+    "turtle_egg": {
+      "name": "Ou De Broască Țestoasă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hel_hive_egg": {
+      "name": "Ou De Stup Din Iad",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hel_honey": {
+      "name": "Miere Din Iad",
+      "desc": "Face plăcile de miere fierbinți."
+    },
+    "scar": {
+      "name": "Cicatrice",
+      "desc": "Foarte mortal, dar te teleportează și într-o locație aleatorie."
+    },
+    "crystal_leaf": {
+      "name": "Frunză De Cristal",
+      "desc": "Vindecă pasiv animalele tale de companie."
+    },
+    "fossil_egg": {
+      "name": "Ou De Fosilă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "rattlesnake_egg": {
+      "name": "Ou De Șarpe Cu Clopoței",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "rattle": {
+      "name": "Clopoțel",
+      "desc": "Skibidi petal dop dop yes yes"
+    },
+    "cicada_egg": {
+      "name": "Ou De Cicadă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "snowman_egg": {
+      "name": "Ou De Om De Zăpadă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "carrot": {
+      "name": "Morcov",
+      "desc": "Cineva mi-a spus că sunt buni pentru ochi, dar când i-am pus în ei m-au durut foarte tare."
+    },
+    "igloo_egg": {
+      "name": "Ou De Iglu",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "rain_frog_egg": {
+      "name": "Ou De Broască De Ploaie",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "disc": {
+      "name": "Disc",
+      "desc": "Reduce daunele primite."
+    },
+    "mimic": {
+      "name": "Imitator",
+      "desc": "Imită petala pe care o ai lângă ea."
+    },
+    "scythe": {
+      "name": "Coasă",
+      "desc": "Un obiect lung și ascuțit. Cu cât ai mai multe petale echipate, cu atât devine mai slabă."
+    },
+    "corruption": {
+      "name": "Corupție",
+      "desc": "Devii corupt și poți răni alte flori, iar ele te pot răni pe tine."
+    },
+    "moon": {
+      "name": "Lună",
+      "desc": "petală foarte grasă, s-ar putea să te protejeze de inamici"
+    },
+    "pearl": {
+      "name": "Perlă",
+      "desc": "las-o pe podea și privește cum inamicii se împiedică de ea"
+    },
+    "orange": {
+      "name": "Portocală",
+      "desc": "sunt gustoase, dar toți inamicii sunt alergici la ele"
+    },
+    "dizzy": {
+      "name": "Amețit",
+      "desc": "Te face să amețești, dar mărește daunele petalelor tale."
+    },
+    "illuminati_egg": {
+      "name": "Ou De Illuminati",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "black_hole_egg": {
+      "name": "Ou De Gaură Neagră",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "gamma_ray": {
+      "name": "Rază Gamma",
+      "desc": "moment de fascicul"
+    },
+    "troll_egg": {
+      "name": "Ou De Troll",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "horn": {
+      "name": "Corn",
+      "desc": "Mărește daunele animalelor tale de companie, dar le face și mai lente."
+    },
+    "ufo_egg": {
+      "name": "Ou De OZN",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "orb": {
+      "name": "Sferă",
+      "desc": "Există multă tehnologie extraterestră avansată aici, mă întreb ce face..."
+    },
+    "alien_egg": {
+      "name": "Ou De Extraterestru",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "angel_egg": {
+      "name": "Ou De Înger",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "momy_egg": {
+      "name": "Ou De Mămică",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "mirror": {
+      "name": "Oglindă",
+      "desc": "Reflectă rachetele până la raritate+1. Daunele rachetelor cu raritate mai mare decât a sa sunt reduse cu 95%. De exemplu, o oglindă Ultra poate reflecta racheta unei viespi Super, dar daunele sale vor fi reduse cu 95%."
+    },
+    "comb": {
+      "name": "Pieptene",
+      "desc": "Păcat că floarea e cheală."
+    },
+    "ring": {
+      "name": "Inel",
+      "desc": "Inelul lui Zauron."
+    },
+    "triangle": {
+      "name": "Triunghi",
+      "desc": "Are abilitatea de a depista punctele slabe ale fiecărui inamic, provocând fiecare tip de daună."
+    },
+    "dvd": {
+      "name": "DVD",
+      "desc": "Conține niște imagini rare, nemaivăzute până acum, cu extratereștri."
+    },
+    "eyeball": {
+      "name": "Glob Ocular",
+      "desc": "Ochiul atotvăzător care face ca rachetele tale să țintească automat cea mai apropiată țintă."
+    },
+    "zodiac": {
+      "name": "Zodiac",
+      "desc": "Mărește reîncărcarea petalelor tale, dar este foarte puternică."
+    },
+    "ghost_egg": {
+      "name": "Ou De Fantomă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "gravestone_egg": {
+      "name": "Ou De Piatră De Mormânt",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "balloon": {
+      "name": "Balon",
+      "desc": "Te face să plutești în sus."
+    },
+    "void_mark": {
+      "name": "Marcaj Vid",
+      "desc": "Trimite o floricică drăguță moartă în tărâmul astral."
+    },
+    "plasma": {
+      "name": "Plasmă",
+      "desc": "Stare foarte fierbinte a materiei."
+    },
+    "quantum": {
+      "name": "Cuantic",
+      "desc": "Schimbă forma orbitei tale."
+    },
+    "claw": {
+      "name": "Gheară",
+      "desc": "Provoacă daune de 5x când viața inamicului este peste 80%."
+    },
+    "electric_eel_egg": {
+      "name": "Ou De Țipar Electric",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "thorn": {
+      "name": "Spin",
+      "desc": "O rachetă încălzită care se desparte."
+    },
+    "blood_scythe": {
+      "name": "Coasă Sângeroasă",
+      "desc": "Nu orice coasă, este acoperită de sânge și nu devine mai slabă."
+    },
+    "eye_egg": {
+      "name": "Ou De Ochi",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "square": {
+      "name": "Pătrat",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "target_mummy_egg": {
+      "name": "Ou De Mumie Țintă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "yuan": {
+      "name": "Yuan",
+      "desc": "Moneda de pe continent."
+    },
+    "bitcoin": {
+      "name": "Bitcoin",
+      "desc": "Creat de Satoshi Nakamoto."
+    },
+    "dollar": {
+      "name": "Dolar",
+      "desc": "De ce nu-l pot folosi în viața reală?"
+    },
+    "fries": {
+      "name": "Cartofi Prăjiți",
+      "desc": "Ai 69 de apeluri pierdute de la McDonalds."
+    },
+    "emerald": {
+      "name": "Smarald",
+      "desc": "Îți oferă mai mult XP de la inamici când sunt loviți cu acest cristal."
+    },
+    "sapphire": {
+      "name": "Safir",
+      "desc": "Face ca toate petalele tale de aceeași raritate să cadă pe jos."
+    },
+    "candlestick": {
+      "name": "Sfeșnic",
+      "desc": "Poate fie să vindece toate luptele tale, fie să te omoare. Fii atent!"
+    },
+    "ruby": {
+      "name": "Rubin",
+      "desc": "Oferă fulgerului abilitatea de a lovi același inamic de mai multe ori."
+    },
+    "diamond": {
+      "name": "Diamant",
+      "desc": "Se sparge când este rupt."
+    },
+    "topaz": {
+      "name": "Topaz",
+      "desc": "Îți oferă armură."
+    },
+    "citron": {
+      "name": "Citron",
+      "desc": "Mărește dimensiunea petalelor tale."
+    },
+    "quartz": {
+      "name": "Cuarț",
+      "desc": "Oferă petalelor tale până la aceeași raritate o șansă de a sări peste reîncărcare."
+    },
+    "opal": {
+      "name": "Opal",
+      "desc": "Oferă tuturor petalelor tale de aceeași raritate o șansă de a provoca daune suplimentare."
+    },
+    "relic": {
+      "name": "Relicvă",
+      "desc": "Împarte daunele între alți purtători de relicve din echipa ta."
+    },
+    "uranium": {
+      "name": "Uraniu",
+      "desc": "Un element radioactiv care poate provoca infecții foarte mortale."
+    },
+    "plutonium": {
+      "name": "Plutoniu",
+      "desc": "Un element radioactiv capabil să provoace arsuri foarte severe."
+    },
+    "lithium": {
+      "name": "Litiu",
+      "desc": "Găsit în bateriile tale."
+    },
+    "tesla_coil_egg": {
+      "name": "Ou De Bobină Tesla",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "snail": {
+      "name": "Melc",
+      "desc": "Îți învârte orbita."
+    },
+    "snail_egg": {
+      "name": "Ou De Melc",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "iodine": {
+      "name": "Iod",
+      "desc": "Ține-ți tabletele de iod sub control, hehe."
+    },
+    "chilly": {
+      "name": "Ardei Iute",
+      "desc": "Evită dacă ai GERD."
+    },
+    "tomato": {
+      "name": "Roșie",
+      "desc": "Devine mai puternică în timp."
+    },
+    "banana": {
+      "name": "Banană",
+      "desc": "Se lipește de inamicii săi."
+    },
+    "stem_cell": {
+      "name": "Celulă Stem",
+      "desc": "Îți poate regenera animalele de companie până la aceeași raritate când viața lor scade sub 66% sau 33%. Afectată de Trifoi."
+    },
+    "stem_cell_egg": {
+      "name": "Ou De Celulă Stem",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "barrel_egg": {
+      "name": "Ou De Butoi",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "acid": {
+      "name": "Acid",
+      "desc": "HCL colectat din diverse stomacuri doar pentru flori."
+    },
+    "lava": {
+      "name": "Lavă",
+      "desc": "Substanță topită fierbinte colectată dintr-un vulcan în erupție."
+    },
+    "corium": {
+      "name": "Corium",
+      "desc": "Contrabandă de la reactorul 4 din Cernobîl..."
+    },
+    "nitrogen": {
+      "name": "Azot",
+      "desc": "Azot lichid. Foarte rece, îngheață dușmanii."
+    },
+    "landmine": {
+      "name": "Mină Terestră",
+      "desc": "Poți să le plantezi pe pământ. Se întâmplă ceva amuzant când calcă pe ele, hehe."
+    },
+    "blood": {
+      "name": "Sânge",
+      "desc": "Are gust metalic."
+    },
+    "rna": {
+      "name": "ARN",
+      "desc": "Face ca animalele tale de companie să se miște mai repede."
+    },
+    "fan": {
+      "name": "Ventilator",
+      "desc": "Reduce ritmul arderii tale."
+    },
+    "graphite": {
+      "name": "Grafit",
+      "desc": "Mărește radioactivitatea petalelor tale."
+    },
+    "capacitor": {
+      "name": "Condensator",
+      "desc": "Mărește numărul de ricoșeuri ale fulgerelor tale până la aceeași raritate."
+    },
+    "koban": {
+      "name": "Koban",
+      "desc": "Monedă japoneză antică. Păstreaz-o în siguranță, foarte rară!"
+    },
+    "cucumber": {
+      "name": "Castravete",
+      "desc": "Bun pentru pierderea în greutate."
+    },
+    "oxygen": {
+      "name": "Oxigen",
+      "desc": "Mărește durata arderii dușmanilor tăi."
+    },
+    "cyanide": {
+      "name": "Cianură",
+      "desc": "Mărește durata otrăvirii entităților pe care le atinge."
+    },
+    "fusion": {
+      "name": "Fuziune",
+      "desc": "Fuzionează progeniturile petalei de lângă ea până la aceeași raritate într-o singură petală mai puternică. De exemplu: Dacă ai Fuziune Super și o petală Ușoară Super lângă ea cu mai multe particule mai slabe, vei obține o singură petală Ușoară Super mai puternică."
+    },
+    "fission": {
+      "name": "Fisiune",
+      "desc": "Desparte petala de lângă ea până la aceeași raritate în mai multe progenituri. De exemplu: Dacă ai Fisiune Super și un Cactus Super plasat lângă ea, vei obține 2 Cactuși Super mai slabi. Dacă ai o petală Ușoară Super cu 6 progenituri, vei avea 12 progenituri."
+    },
+    "nuke_egg": {
+      "name": "Ou De Bombă Nucleară",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "cross": {
+      "name": "Cruce",
+      "desc": "Te teleportează unde cade când apeși butonul drept al mouse-ului."
+    },
+    "digger_egg": {
+      "name": "Ou De Săpător",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "spider_digger_egg": {
+      "name": "Ou De Săpător Păianjen",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "splitter": {
+      "name": "Divizor",
+      "desc": "Îți împarte orbita petalelor în mai multe orbite. Toate petalele plasate la dreapta sa intră în noua orbită. Efectul se acumulează și folosirea mai multor divizoare va împărți orbita și mai mult."
+    },
+    "nuke": {
+      "name": "Bombă Nucleară",
+      "desc": "Creează explozii multiple."
+    },
+    "gunpowder": {
+      "name": "Praf De Pușcă",
+      "desc": "Provoacă daune de 5x când inamicul tău arde."
+    },
+    "compass": {
+      "name": "Busolă",
+      "desc": "Face ca orbita ta să indice direcția mișcării tale."
+    },
+    "dark_matter": {
+      "name": "Materie Întunecată",
+      "desc": "Materie invizibilă care poate forma goluri în orbita petalelor tale."
+    },
+    "hel_digger_egg": {
+      "name": "Ou De Săpător Din Iad",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "glass": {
+      "name": "Sticlă",
+      "desc": "Provoacă daune la fiecare secundă."
+    },
+    "grave_digger_egg": {
+      "name": "Ou De Gropar",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "shovel": {
+      "name": "Lopată",
+      "desc": "Te lasă să mergi sub pământ și să întâlnești viermi."
+    },
+    "sandstone_egg": {
+      "name": "Ou De Gresie",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "marble": {
+      "name": "Marmură",
+      "desc": "Cade și se rostogolește pe pământ și provoacă daune în fiecare secundă."
+    },
+    "trident": {
+      "name": "Trident",
+      "desc": "Se sparge dacă altcineva deține un Trident mai puternic în același server."
+    },
+    "bandages": {
+      "name": "Bandaje",
+      "desc": "Trebuie să acoperi toate rănile alea. Ar putea fi util cu Coasa."
+    },
+    "talisman": {
+      "name": "Talisman",
+      "desc": "Face ca floarea ta să evite daunele."
+    },
+    "job_application": {
+      "name": "Cerere De Angajare",
+      "desc": "Face ca un inamic să-și piardă agresivitatea timp de 5s. Nu-ți irosi talentul, aplică acum pentru repararea țevilor!"
+    },
+    "termite_overmind_egg": {
+      "name": "Ou De Suprainteligență Termită",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "baby_termite_egg": {
+      "name": "Ou De Pui De Termită",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "worker_termite_egg": {
+      "name": "Ou De Termită Muncitoare",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "soldier_termite_egg": {
+      "name": "Ou De Termită Soldat",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "termite_hole_egg": {
+      "name": "Ou De Cuib De Termite",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "magic_rose": {
+      "name": "Trandafir Magic",
+      "desc": "Absoarbe magia din împrejurimi."
+    },
+    "magic_leaf": {
+      "name": "Frunză Magică",
+      "desc": "Absoarbe magia din împrejurimi."
+    },
+    "magic_cactus": {
+      "name": "Cactus Magic",
+      "desc": "Mărește viața maximă și capacitatea de mană."
+    },
+    "magic_missile": {
+      "name": "Rachetă Magică",
+      "desc": "Scumpă, dar rapidă."
+    },
+    "magic_stinger": {
+      "name": "Ac Magic",
+      "desc": "doare mult, dar consumă multă magie pentru a apărea."
+    },
+    "magic_fang": {
+      "name": "Colț Magic",
+      "desc": "Absoarbe magia din suferințe."
+    },
+    "magic_blood_stinger": {
+      "name": "Ac Sângeros Magic",
+      "desc": "Magia acestei petale afectează și utilizatorul."
+    },
+    "magic_wing": {
+      "name": "Aripă Magică",
+      "desc": "Zboară mai departe și se duplică."
+    },
+    "magic_pea": {
+      "name": "Mazăre Magică",
+      "desc": "S-a saturat cu vrăji violente și magie."
+    },
+    "magic_grapes": {
+      "name": "Struguri Magici",
+      "desc": "Magia neagră alimentează furtuna din interiorul acestora."
+    },
+    "magic_blueberries": {
+      "name": "Afine Magice",
+      "desc": "Au fost blestemate să ardă pentru totdeauna în timp ce sunt înghețate."
+    },
+    "magic_lightning": {
+      "name": "Fulger Magic",
+      "desc": "Magia i-a mărit capacitatea de a găsi ținte."
+    },
+    "magic_hel_lightning": {
+      "name": "Fulger Din Iad Magic",
+      "desc": "Magia i-a mărit capacitatea de a găsi ținte și de a le da foc..."
+    },
+    "magic_usain_bolt": {
+      "name": "Usain Bolt Magic",
+      "desc": "Magia i-a mărit capacitatea de a găsi ținte, cu otravă suplimentară."
+    },
+    "magic_banana": {
+      "name": "Banană Magică",
+      "desc": "O banană magică pentru o maimuță magică."
+    },
+    "magic_mimic": {
+      "name": "Imitator Magic",
+      "desc": "Imită petala plasată lângă ea în varianta sa magică. De exemplu: Imitator magic Super + Trandafir Super = Trandafir magic Super + Trandafir Super."
+    },
+    "magic_bomb": {
+      "name": "Bombă Magică",
+      "desc": "Magia se dovedește a fi destul de explozivă."
+    },
+    "magic_gas_bomb": {
+      "name": "Bombă Cu Gaz Magică",
+      "desc": "Magia se dovedește a fi destul de explozivă, iar când este amestecată cu substanțele chimice potrivite, este și toxică."
+    },
+    "magic_fire_bomb": {
+      "name": "Bombă De Foc Magică",
+      "desc": "Magia se dovedește a fi foarte inflamabilă și chiar mai explozivă."
+    },
+    "magic_bubble_bomb": {
+      "name": "Bombă Cu Bule Magică",
+      "desc": "Gazele magice puternice creează o undă de șoc imensă."
+    },
+    "magic_cryo_bomb": {
+      "name": "Bombă Crio Magică",
+      "desc": "Folosind magia, explozia bombei îngheață inamicii pentru o perioadă lungă de timp."
+    },
+    "magic_rocket": {
+      "name": "Rachetă Magică",
+      "desc": "Magia se dovedește a fi destul de explozivă."
+    },
+    "magic_orange": {
+      "name": "Portocală Magică",
+      "desc": "Aceste portocale au fost blestemate să nu fie portocalii, acum sunt magenta..."
+    },
+    "magic_hemoglobin": {
+      "name": "Hemoglobină Magică",
+      "desc": "În loc să transporte oxigen prin corp, transportă magie prin petalele tale."
+    },
+    "holy_water": {
+      "name": "Apă Sfințită",
+      "desc": "Curăță un inamic de „păcatele” sale și îl face să-și piardă agresivitatea."
+    },
+    "magic_starfish": {
+      "name": "Stea De Mare Magică",
+      "desc": "Această stea de mare magică își va folosi magia doar asupra celor care au sub 50% mană."
+    },
+    "magic_square": {
+      "name": "Pătrat Magic",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "magic_sponge": {
+      "name": "Burete Magic",
+      "desc": "Drenează mana consumată încet."
+    },
+    "magic_hel_missile": {
+      "name": "Rachetă Din Iad Magică",
+      "desc": "Folosește mai multă magie pentru a da foc rachetei, permanent."
+    },
+    "magic_viper": {
+      "name": "Viperă Magică",
+      "desc": "Racheta este făcută din uraniu magic, făcând-o foarte toxică."
+    },
+    "magic_electron_missile": {
+      "name": "Rachetă Electronică Magică",
+      "desc": "Se întâmplă multă magie haotică în interiorul acestei rachete."
+    },
+    "magic_scythe": {
+      "name": "Coasă Magică",
+      "desc": "Un obiect lung și magic care transformă toată mana ta în daunele sale."
+    },
+    "termite_digger_egg": {
+      "name": "Ou De Săpător De Termite",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "magic_soil": {
+      "name": "Sol Magic",
+      "desc": "Te face foarte gras, greu și capabil să porți mult mai multă magie decât de obicei."
+    },
+    "magic_dahlia": {
+      "name": "Dalie Magică",
+      "desc": "Absoarbe magia mult mai repede."
+    },
+    "magic_mark": {
+      "name": "Marcaj Magic",
+      "desc": "Trimite o floricică moartă în orice biom aleatoriu folosind magia."
+    },
+    "magic_cotton": {
+      "name": "Bumbac Magic",
+      "desc": "Absoarbe daunele primite, dar consumă mană la o rată fixă."
+    },
+    "magic_sunflower": {
+      "name": "Floarea-Soarelui Magică",
+      "desc": "Cade pe pământ și adună magie pentru tine..."
+    },
+    "magic_cutter": {
+      "name": "Tăietor Magic",
+      "desc": "Mărește daunele corporale."
+    },
+    "magic_golden_leaf": {
+      "name": "Frunză De Aur Magică",
+      "desc": "Reduce mana necesară pentru a folosi petalele magice."
+    },
+    "magic_battery": {
+      "name": "Baterie Magică",
+      "desc": "Îți stochează mana și ți-o returnează cu o dobândă de 200% după un timp."
+    },
+    "magic_bubble": {
+      "name": "Bulă Magică",
+      "desc": "Se sparge și te propulsează în direcția mișcării tale folosind magia."
+    },
+    "magic_corruption": {
+      "name": "Corupție Magică",
+      "desc": "Te corupe instantaneu prin puterea magiei."
+    },
+    "magic_stick": {
+      "name": "Băț Magic",
+      "desc": "Fură magie de la alte flori, fie prieteni, fie dușmani."
+    },
+    "magic_claw": {
+      "name": "Gheară Magică",
+      "desc": "Provoacă daune de până la 5x în funcție de rezerva ta de mană. Dacă ai 50% mană, va provoca daune de 2.5x și așa mai departe."
+    },
+    "magic_marble": {
+      "name": "Marmură Magică",
+      "desc": "Această marmură este deja spartă, dar magia o ține împreună... doar că este puțin ineficientă în a face asta."
+    },
+    "magic_salt": {
+      "name": "Sare Magică",
+      "desc": "Reflectă daunele către toți dușmanii din apropiere folosind magia, nu doar către făptuitor."
+    },
+    "magic_relic": {
+      "name": "Relicvă Magică",
+      "desc": "Împarte consumul de mană între alți purtători de relicve magice din echipa ta."
+    },
+    "shipwreck_egg": {
+      "name": "Ou De Epavă",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "magic_fire": {
+      "name": "Foc Magic",
+      "desc": "Aplică o flacără magică auto-acumulativă asupra inamicului."
+    },
+    "magic_gas": {
+      "name": "Gaz Magic",
+      "desc": "Injectează inamicului un venin magic auto-acumulativ."
+    },
+    "magic_yggdrasil": {
+      "name": "Yggdrasil Magic",
+      "desc": "Aproape că mori, dar apoi te salvează folosind magia."
+    },
+    "magic_dna": {
+      "name": "ADN Magic",
+      "desc": "Îți oferă o mică șansă de a-ți transforma animalele de companie magice în animale de companie arcane și o mică șansă de a crește raritatea animalului tău de companie ca un ADN original. Animalele de companie arcane sunt mai grase și mai rapide. Afectează toate ouăle până la raritatea sa."
+    },
+    "magic_rock_egg": {
+      "name": "Ou De Piatră Magică",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "magic_ladybug_egg": {
+      "name": "Ou De Buburuză Magică",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "magic_baby_ant_egg": {
+      "name": "Ou De Pui De Furnică Magică",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "magic_soldier_ant_egg": {
+      "name": "Ou De Furnică Soldat Magică",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "pirate_digger_egg": {
+      "name": "Ou De Săpător Pirat",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "magic_torch": {
+      "name": "Torță Magică",
+      "desc": "Îndepărtează pasiv gerul de pe animalele tale de companie."
+    },
+    "palm_tree_egg": {
+      "name": "Ou De Palmier",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "palm_leaf": {
+      "name": "Frunză De Palmier",
+      "desc": "Aceste frunze mari au atât capacități de vindecare, cât și de protecție."
+    },
+    "magic_palm_leaf": {
+      "name": "Frunză De Palmier Magică",
+      "desc": "Se pare că o frunză mai mare înseamnă și o regenerare mai mare de mană."
+    },
+    "stalagmite_egg": {
+      "name": "Ou De Stalagmită",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "arctic_spider_cave_egg": {
+      "name": "Ou De Peșteră A Păianjenilor Arctici",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "aztec_coin": {
+      "name": "Monedă Aztecă",
+      "desc": "O monedă magică blestemată pentru pirați, hehe. Comerciantul oferă de 3x mai mult pradă pentru aceasta."
+    },
+    "beekeeper_egg": {
+      "name": "Ou De Apicultor",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hel_beekeeper_egg": {
+      "name": "Ou De Apicultor Din Iad",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "alien_digger_egg": {
+      "name": "Ou De Săpător Extraterestru",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "attractor": {
+      "name": "Atrăgător",
+      "desc": "Atrage inamicii spre el.."
+    },
+    "soap": {
+      "name": "Săpun",
+      "desc": "Mărește rata de vărsare a petalelor lichide. De asemenea, o invitație la Clubul Pisicuțelor."
+    },
+    "magic_bur": {
+      "name": "Scaiete Magic",
+      "desc": "Scade armura inamicului în funcție de propriile sale daune corporale."
+    },
+    "magic_rock": {
+      "name": "Piatră Magică",
+      "desc": "Magia a făcut-o foarte fragilă, se va sparge de fiecare dată când este lovită."
+    },
+    "magic_aztec_coin": {
+      "name": "Monedă Aztecă Magică",
+      "desc": "O monedă magică blestemată pentru pirați, hehe. Comerciantul oferă de 3x mai mult pradă pentru aceasta."
+    },
+    "queen_bee_egg": {
+      "name": "Ou De Regină Albină",
+      "desc": "Poate ieși ceva interesant din el..."
+    },
+    "hel_queen_bee_egg": {
+      "name": "Ou De Regină Albină Din Iad",
+      "desc": "Poate ieși ceva interesant din el..."
+    }
+  },
+  "achievements": {
+    "rookie": {
+      "name": "Începător",
+      "desc": "Joacă timp de 15 minute."
+    },
+    "started": {
+      "name": "La Început...",
+      "desc": "Joacă timp de 1 oră."
+    },
+    "player": {
+      "name": "Jucător Mediu",
+      "desc": "Joacă timp de 6 ore."
+    },
+    "gamer": {
+      "name": "Jucător Mai Bun",
+      "desc": "Joacă timp de 1 zi."
+    },
+    "week": {
+      "name": "Non-Stop",
+      "desc": "Joacă timp de 7 zile."
+    },
+    "month": {
+      "name": "Dependent",
+      "desc": "Joacă timp de 30 de zile."
+    },
+    "year": {
+      "name": "La Mulți Ani!",
+      "desc": "Joacă timp de 365 de zile."
+    },
+    "epic": {
+      "name": "Moment Epic De Jucător",
+      "desc": "Colectează 1 petală epică."
+    },
+    "legendary": {
+      "name": "Legendar",
+      "desc": "Colectează 1 petală legendară."
+    },
+    "mythic": {
+      "name": "Miturile Sunt Reale",
+      "desc": "Colectează 1 petală mitică."
+    },
+    "ultra": {
+      "name": "Peste Muritori",
+      "desc": "Colectează o petală ultra."
+    },
+    "super": {
+      "name": "Super Pro",
+      "desc": "Colectează 5 petale super."
+    },
+    "omega": {
+      "name": "OMEGA!!!!!",
+      "desc": "Colectează o petală omega."
+    },
+    "medic": {
+      "name": "Medic",
+      "desc": "Înviază pe cineva folosind un Yggdrasil."
+    },
+    "surgeon": {
+      "name": "Chirurg",
+      "desc": "Înviază 25 de flori folosind Yggdrasil."
+    },
+    "angel": {
+      "name": "Înger",
+      "desc": "Înviază 250 de flori folosind Yggdrasil."
+    },
+    "god": {
+      "name": "Un Omnipotent",
+      "desc": "Întâlnește un administrator."
+    },
+    "killer": {
+      "name": "Ucigaș",
+      "desc": "Ucide 25 de jucători folosind corupția."
+    },
+    "genocide": {
+      "name": "Genocid",
+      "desc": "Ucide 250 de inamici."
+    },
+    "massacre": {
+      "name": "Masacru",
+      "desc": "Ucide 2500 de inamici."
+    },
+    "holocaust": {
+      "name": "Holocaust",
+      "desc": "Ucide 10.000 de inamici."
+    },
+    "solo": {
+      "name": "Solo",
+      "desc": "Ucide un inamic Super+ cu peste 75% daune."
+    },
+    "money": {
+      "name": "Bani Bine Cheltuiți",
+      "desc": "Cumpără stele din magazin."
+    },
+    "makeup": {
+      "name": "Artist De Machiaj",
+      "desc": "Cumpără un skin din magazin."
+    },
+    "chat": {
+      "name": "Nu Foarte Vorbăreț",
+      "desc": "Trimite un mesaj pe chat."
+    },
+    "china": {
+      "name": "CHINA NUMĂRUL 1!!",
+      "desc": "Spune 'China Number 1' în chat de 10 ori."
+    },
+    "nazar": {
+      "name": "Gândacii Nazar",
+      "desc": "Distruge 5 gândaci Nazar Ultra+."
+    },
+    "baby": {
+      "name": "Ulei De Bebeluș",
+      "desc": "Distruge 5 pui de furnică Ultra+."
+    },
+    "jeet": {
+      "name": "Top Jeet",
+      "desc": "Obține un Bugatti Super+."
+    },
+    "clown": {
+      "name": "Clown",
+      "desc": "Transformă-te într-un clown."
+    },
+    "covid": {
+      "name": "Covid-69",
+      "desc": "Distruge 20 de viruși Ultra+."
+    },
+    "useless": {
+      "name": "Inutil",
+      "desc": "Obține dropuri de la 5 inamici Super+ fără a le provoca daune."
+    },
+    "cicada": {
+      "name": "Cicada 3301",
+      "desc": "Distruge 10 cicade Ultra+."
+    },
+    "slaughter": {
+      "name": "Măcel În Masă",
+      "desc": "Ucide 50.000 de inamici."
+    },
+    "annihilation": {
+      "name": "Anihilare",
+      "desc": "Ucide 250.000 de inamici."
+    },
+    "destruction": {
+      "name": "Sfârșitul Lumii",
+      "desc": "Ucide 10.000.000 de inamici."
+    },
+    "racist": {
+      "name": "Rasist",
+      "desc": "Ucide 25.000 de inamici de un anumit tip."
+    },
+    "murder": {
+      "name": "Crimă",
+      "desc": "Ucide un jucător folosind corupția."
+    },
+    "homicide": {
+      "name": "Omucidere",
+      "desc": "Ucide 500 de jucători folosind corupția. Foarte rău."
+    },
+    "level50": {
+      "name": "Nivel Superior!",
+      "desc": "Atinge nivelul 50."
+    },
+    "level100": {
+      "name": "Din Ce În Ce Mai Bun",
+      "desc": "Atinge nivelul 100."
+    },
+    "level150": {
+      "name": "Aproape Pro",
+      "desc": "Atinge nivelul 150."
+    },
+    "level200": {
+      "name": "Pro!",
+      "desc": "Atinge nivelul 200."
+    },
+    "level250": {
+      "name": "Fără Viață",
+      "desc": "Atinge nivelul 250."
+    },
+    "level300": {
+      "name": "Cel Mai Bun",
+      "desc": "Atinge nivelul 300."
+    },
+    "cursed": {
+      "name": "Ăsta Arată Ciudat...",
+      "desc": "Ucide un inamic blestemat. Sunt 1 la 2000."
+    },
+    "cursed2": {
+      "name": "Cine I-a Blestemat?",
+      "desc": "Ucide 25 de inamici blestemați."
+    },
+    "shiny": {
+      "name": "Ooh, Strălucitor!",
+      "desc": "Ucide un inamic strălucitor. Sunt 1 la 10000."
+    },
+    "shiny2": {
+      "name": "Văd Stele...",
+      "desc": "Ucide 25 de inamici strălucitori."
+    },
+    "corrupt": {
+      "name": "Cod Stricat",
+      "desc": "Ucide un inamic corupt. Sunt 1 la 50000."
+    },
+    "corrupt2": {
+      "name": "Eroare420",
+      "desc": "Ucide 25 de inamici corupți."
+    }
+  },
+  "skins": {
+    "derp": {
+      "name": "Derp",
+      "desc": "Nu există niciun gând între acei ochi."
+    },
+    "cursed": {
+      "name": "Blestemat",
+      "desc": "A fost corupt de forțe superioare."
+    },
+    "square": {
+      "name": "Pătrat",
+      "desc": "Ce este această formă străină?"
+    },
+    "lifeless": {
+      "name": "Fără Viață",
+      "desc": "... unde s-a dus fața?"
+    },
+    "sun": {
+      "name": "Soare",
+      "desc": "Aici vine soarele."
+    },
+    "radioactive": {
+      "name": "Radioactiv",
+      "desc": "Îi place să mănânce minereu de uraniu."
+    },
+    "blended": {
+      "name": "Amestecat",
+      "desc": "Și-a făcut operație estetică pe Temu."
+    },
+    "cactus": {
+      "name": "Cactus",
+      "desc": "Nu este chiar o floare, nu-i așa?"
+    },
+    "ghost": {
+      "name": "Fantomă",
+      "desc": "Nu foarte înfricoșător."
+    },
+    "cyclops": {
+      "name": "Ciclop",
+      "desc": "Unde s-au dus ceilalți ochi?"
+    },
+    "angled": {
+      "name": "Înclinat",
+      "desc": "Își înclină capul, dacă este posibil."
+    },
+    "small_face": {
+      "name": "Față Mică",
+      "desc": "Are o față mică sau un corp mare?"
+    },
+    "frozen": {
+      "name": "Înghețat",
+      "desc": "Lasă-l să plece, lasă-l să pleceee."
+    },
+    "omega_flowey": {
+      "name": "Omega Flowey",
+      "desc": "Skin roz."
+    },
+    "star2": {
+      "name": "Stea2",
+      "desc": "Ai cumpărat 1 stea cu 7500 de stele, a meritat."
+    },
+    "red_star": {
+      "name": "Stea Roșie",
+      "desc": "Modele foarte interesante."
+    },
+    "clover": {
+      "name": "Trifoi",
+      "desc": "Norocos!"
+    },
+    "rocker": {
+      "name": "Rocker",
+      "desc": "Acest skin e tare!"
+    },
+    "dark_mode": {
+      "name": "Mod Întunecat",
+      "desc": "Cine a stins lumina?"
+    },
+    "megamind": {
+      "name": "Megamind",
+      "desc": "Se gândește."
+    },
+    "pentagon": {
+      "name": "Pentagon",
+      "desc": "O formă și mai necunoscută."
+    },
+    "mouse": {
+      "name": "Șoarece",
+      "desc": "Cum folosește petalele?"
+    },
+    "one_eye": {
+      "name": "Un Ochi",
+      "desc": "Downgrade de la al treilea ochi."
+    },
+    "complex": {
+      "name": "Complex",
+      "desc": "Foarte țepos, foarte nenatural."
+    },
+    "emotional": {
+      "name": "Emoțional",
+      "desc": "Se enervează și se întristează foarte tare."
+    },
+    "herobrine": {
+      "name": "Herobrine",
+      "desc": "Credeam că l-am eliminat..."
+    },
+    "womp": {
+      "name": "Womp",
+      "desc": "Are o schimbare de dispoziție."
+    },
+    "microsoft_paint_flower": {
+      "name": "Floare Microsoft Paint",
+      "desc": "Cine a desenat asta? un copil de 5 ani??"
+    },
+    "50_shades_of_flower": {
+      "name": "50 De Umbre Ale Florii",
+      "desc": "Cineva ar trebui să facă un film despre asta..."
+    },
+    "negative": {
+      "name": "Negativ",
+      "desc": "Floare din realitate alternativă."
+    },
+    "smirk": {
+      "name": "Zâmbet Afectat",
+      "desc": "Floare ciudată."
+    },
+    "boba": {
+      "name": "Boba",
+      "desc": "nu explodează la moarte."
+    },
+    "sawblade": {
+      "name": "Lamă De Ferăstrău",
+      "desc": "Au! Țepos."
+    },
+    "yellow": {
+      "name": "Galben",
+      "desc": "Este extrem de galben."
+    },
+    "rock": {
+      "name": "Piatră",
+      "desc": "O pietricică de la mare."
+    },
+    "boo": {
+      "name": "Buh",
+      "desc": "Înfricoșător, nu-i așa?"
+    },
+    "sus": {
+      "name": "Suspect",
+      "desc": "Octosuspect."
+    },
+    "pacman": {
+      "name": "Pacman",
+      "desc": "Nu ne dați DMCA, vă rugăm."
+    },
+    "chicken": {
+      "name": "Pui",
+      "desc": "Depune ouă de pui în formă de ou anti-gravitațional."
+    },
+    "black": {
+      "name": "Negru",
+      "desc": "Din Africa."
+    },
+    "egg": {
+      "name": "Ou",
+      "desc": "Depus de un pui extraterestru, gătit de noi."
+    },
+    "retard": {
+      "name": "Retardat",
+      "desc": "lol"
+    },
+    "trader": {
+      "name": "Comerciant",
+      "desc": "Face comerț cu oameni."
+    },
+    "clover2": {
+      "name": "Trifoi2",
+      "desc": "4chan?"
+    },
+    "zatan": {
+      "name": "Zatan",
+      "desc": "Țepi suspecți roșii și negri."
+    },
+    "amogus": {
+      "name": "Amogus",
+      "desc": "Un impostor."
+    },
+    "brain_damage": {
+      "name": "Leziuni Cerebrale",
+      "desc": "Skin de dezvoltator??? WTF???"
+    },
+    "cactuser": {
+      "name": "Cactuser",
+      "desc": "O plantă de deșert."
+    },
+    "sad": {
+      "name": "Trist",
+      "desc": "Foarte, foarte trist."
+    },
+    "cake": {
+      "name": "Tort",
+      "desc": "La mulți ani!"
+    },
+    "green": {
+      "name": "Verde",
+      "desc": "Easter egg Yoba?"
+    },
+    "magma": {
+      "name": "Magmă",
+      "desc": "Luată dintr-un vulcan activ."
+    },
+    "derper": {
+      "name": "Derper",
+      "desc": "Skin de dezvoltator 2??? WTF???"
+    },
+    "target_dummy": {
+      "name": "Manechin De Antrenament",
+      "desc": "Extrem de fără emoții."
+    },
+    "mark": {
+      "name": "Marcaj",
+      "desc": "Ne vedem în Din Iad pentru continuare."
+    },
+    "frog": {
+      "name": "Broască",
+      "desc": "Pepe broasca."
+    },
+    "goo": {
+      "name": "Mocirlă",
+      "desc": "Mocirla albă e ciudată."
+    },
+    "rectus": {
+      "name": "Rectus",
+      "desc": "Roșu + Cactus = Rectus"
+    },
+    "oval": {
+      "name": "Oval",
+      "desc": "Nu este un oval."
+    },
+    "cute": {
+      "name": "Drăguț",
+      "desc": "Drăguțel."
+    },
+    "omegasus": {
+      "name": "Omegasus",
+      "desc": "Albastrul pare cam suspect."
+    },
+    "star": {
+      "name": "Stea",
+      "desc": "O stea de pe cerul nopții."
+    },
+    "rockstar": {
+      "name": "Rockstar",
+      "desc": "Seamănă mai mult cu petala."
+    },
+    "ufo": {
+      "name": "OZN",
+      "desc": "Are extratereștri înăuntru."
+    },
+    "red_spikes": {
+      "name": "Țepi Roșii",
+      "desc": "Doare."
+    },
+    "sponge": {
+      "name": "Burete",
+      "desc": "Spală vasele."
+    },
+    "hexagon": {
+      "name": "Hexagon",
+      "desc": "Doar un poligon regulat."
+    },
+    "mech": {
+      "name": "Mecanic",
+      "desc": "Floare mecanică."
+    },
+    "lightning": {
+      "name": "Fulger",
+      "desc": "Lovi!"
+    },
+    "inverted": {
+      "name": "Inversat",
+      "desc": "Extrem de răsturnat."
+    },
+    "poo": {
+      "name": "Rahat",
+      "desc": "Skin de rahat."
+    },
+    "sea_urchin": {
+      "name": "Arici De Mare",
+      "desc": "am uitat :craniu:"
+    },
+    "long": {
+      "name": "Lung",
+      "desc": "Efect secundar al presei hidraulice."
+    },
+    "blue": {
+      "name": "Albastru",
+      "desc": "Extrem de caraghios."
+    },
+    "right-angle": {
+      "name": "Unghi Drept",
+      "desc": "Ești rotit cu 90 de grade."
+    },
+    "facist": {
+      "name": "Fascist",
+      "desc": "Extrem de alb-negru."
+    },
+    "faster": {
+      "name": "Mai Rapid",
+      "desc": "Expresii suspecte."
+    },
+    "amobae": {
+      "name": "Amibă",
+      "desc": "Micro-organism"
+    },
+    "melon": {
+      "name": "Pepene",
+      "desc": "cocomelon"
+    },
+    "ant_hole": {
+      "name": "Mușuroi De Furnici",
+      "desc": "Gaura unei furnici."
+    },
+    "eye": {
+      "name": "Ochi",
+      "desc": "Ochiul atotvăzător al lui Flouron."
+    },
+    "roach": {
+      "name": "Gândac",
+      "desc": "Gândac de bucătărie."
+    },
+    "lava": {
+      "name": "Lavă",
+      "desc": "moment de 9999°C"
+    },
+    "rose": {
+      "name": "Trandafir",
+      "desc": "O floricică frumoasă."
+    },
+    "stupid": {
+      "name": "Prost",
+      "desc": "Arată cam prost."
+    },
+    "barbie": {
+      "name": "Barbie",
+      "desc": "Fetișcană."
+    },
+    "virus": {
+      "name": "Virus",
+      "desc": "Foarte contagios."
+    },
+    "slanted": {
+      "name": "Înclinat",
+      "desc": ":/"
+    },
+    "wloop": {
+      "name": "Wloop",
+      "desc": "Nu știm ce este asta cu adevărat..."
+    },
+    "ara_ara": {
+      "name": "Ara Ara",
+      "desc": "Floricică drăguță."
+    },
+    "sirius": {
+      "name": "Sirius",
+      "desc": "Cea mai strălucitoare stea de pe cer."
+    },
+    "acid": {
+      "name": "Acid",
+      "desc": "Nu va provoca arsuri..."
+    },
+    "dark": {
+      "name": "Întunecat",
+      "desc": "Substanță extrem de întunecată."
+    },
+    "nazar": {
+      "name": "Nazar",
+      "desc": "🧿🧿🧿🧿🧿"
+    },
+    "omega": {
+      "name": "Omega",
+      "desc": "Ultima raritate."
+    },
+    "goof": {
+      "name": "Caraghios",
+      "desc": "Pare destul de caraghios..."
+    },
+    "flower": {
+      "name": "Floare",
+      "desc": "O floare pentru o floare."
+    },
+    "banana": {
+      "name": "Banană",
+      "desc": "Un fruct lung."
+    },
+    "potato": {
+      "name": "Cartof",
+      "desc": "Fibros."
+    },
+    "urchin": {
+      "name": "Arici De Mare",
+      "desc": "Luat de la mare."
+    },
+    "fq69": {
+      "name": "fq69",
+      "desc": "Roz."
+    },
+    "gren": {
+      "name": "Verd",
+      "desc": "Atinge iarba."
+    },
+    "zurchin": {
+      "name": "Zurchin",
+      "desc": "Arici de mare mai arătos."
+    },
+    "bacteria": {
+      "name": "Bacterie",
+      "desc": "Furată din lumea microscopică."
+    },
+    "florr": {
+      "name": "Florr",
+      "desc": "Un florr adevărat."
+    },
+    "alien": {
+      "name": "Extraterestru",
+      "desc": "Moment extraterestru."
+    },
+    "avacado": {
+      "name": "Avocado",
+      "desc": "Un fruct."
+    },
+    "clown": {
+      "name": "Clown",
+      "desc": "Clown ucigaș."
+    },
+    "baby_ant": {
+      "name": "Pui De Furnică",
+      "desc": "Puiul de furnică al lui Diddy."
+    },
+    "reddit": {
+      "name": "Reddit",
+      "desc": "moment de logo Reddit de calitate"
+    },
+    "wtf": {
+      "name": "WTF",
+      "desc": "habar n-am ce e asta"
+    },
+    "zatrix": {
+      "name": "Zatrix",
+      "desc": "O floare din Matrix."
+    },
+    "inception": {
+      "name": "Inception",
+      "desc": "Ochi-cepție."
+    },
+    "yin_yang": {
+      "name": "Yin Yang",
+      "desc": "69"
+    },
+    "angey": {
+      "name": "Furios",
+      "desc": "Pasăre furioasă."
+    },
+    "blocked": {
+      "name": "Blocat",
+      "desc": "ACCES INTERZIS!"
+    },
+    "stewie": {
+      "name": "Stewie",
+      "desc": "Față serioasă."
+    },
+    "face": {
+      "name": "Față",
+      "desc": "Un cap uman."
+    },
+    "peanut": {
+      "name": "Arahidă",
+      "desc": "2 bile raymarched doar pentru tine."
+    },
+    "balls": {
+      "name": "Bile",
+      "desc": "OwO"
+    },
+    "tear": {
+      "name": "Lacrimă",
+      "desc": "Picură sânge din ochi."
+    },
+    "bigtus": {
+      "name": "Bigtus",
+      "desc": "Este un cactus mare."
+    },
+    "stick": {
+      "name": "Băț",
+      "desc": "S-a rupt și a căzut dintr-un copac."
+    },
+    "worm": {
+      "name": "Vierme",
+      "desc": "Un vierme lung."
+    },
+    "relic": {
+      "name": "Relicvă",
+      "desc": "Contrabanda unui negustor de pietre prețioase."
+    },
+    "tredor": {
+      "name": "Tredor",
+      "desc": "comerciant începător"
+    },
+    "onion": {
+      "name": "Ceapă",
+      "desc": "Cumpărată folosind Tor :p"
+    },
+    "titan": {
+      "name": "Titan",
+      "desc": "Zeren Zeager"
+    },
+    "a-60": {
+      "name": "A-60",
+      "desc": "Un purtător de bombe."
+    },
+    "dwajl": {
+      "name": "Dwajl",
+      "desc": "Făcut de Dwajl."
+    },
+    "glitch": {
+      "name": "Glitch",
+      "desc": "Floare Zyberpunk."
+    },
+    "bird": {
+      "name": "Pasăre",
+      "desc": "Lui Ted îi plac păsările."
+    },
+    "moon": {
+      "name": "Lună",
+      "desc": "Când solstițiul de vară are lună plină..."
+    },
+    "umbrella": {
+      "name": "Umbrelă",
+      "desc": "Regina Roșie a făcut-o pe asta."
+    },
+    "heavy": {
+      "name": "Greu",
+      "desc": "Mai greu decât mama ta."
+    },
+    "yoba": {
+      "name": "Yoba",
+      "desc": "Moment rusesc."
+    },
+    "pinkman": {
+      "name": "Pinkman",
+      "desc": "*chicoteli*"
+    },
+    "blades": {
+      "name": "Lame",
+      "desc": "Lame foarte, foarte lungi..."
+    },
+    "godrays": {
+      "name": "Raze Divine",
+      "desc": "Razele soarelui."
+    },
+    "beam": {
+      "name": "Fascicul",
+      "desc": "Raze divine care sunt foarte bune pentru trolling uwu"
+    },
+    "griffin": {
+      "name": "Grifon",
+      "desc": "Mult mai mare și mai potrivit pentru trolling decât ai crede..."
+    }
+  },
+  "objectKeys": {
+    "health": "Viață",
+    "damage": "Daune",
+    "boost": "Impuls",
+    "swing": "Legănare",
+    "heal": "Vindecare",
+    "passiveHeal": "Vindecare Pasivă",
+    "passiveHealBelow50": "Vindecare Pasivă",
+    "passivePetHeal": "Vindecare Pasivă Animal",
+    "shield": "Scut",
+    "passiveShield": "Scut Pasiv",
+    "poison": "Otravă",
+    "orbitSpeed": "Viteză Orbită",
+    "lightningDamage": "Daune Fulger",
+    "lightningFireDamage": "Daune Foc Fulger",
+    "lightningPoison": "Otravă Fulger",
+    "lightningBounces": "Ricoșeuri Fulger",
+    "webSize": "Dimensiune Pânză",
+    "explosion": "Explozie",
+    "explosionSize": "Dimensiune Explozie",
+    "explosionPoison": "Otravă Explozie",
+    "explosionFire": "Foc Explozie",
+    "pickRange": "Rază Colectare",
+    "damageReflection": "Reflecție Daune",
+    "extraVision": "Viziune Suplimentară",
+    "extraRange": "Rază Suplimentară",
+    "despawnTime": "Timp Dispariție",
+    "pet": "Animal",
+    "petSize": "Dimensiune Animal",
+    "passiveBoost": "Impuls Pasiv",
+    "push": "Împingere",
+    "armor": "Armură",
+    "extraFlowerHealth": "Viață Floare Suplimentară",
+    "flowerPoison": "Otravă Floare",
+    "slownessTime": "Timp Încetinire",
+    "soakDamageTime": "Timp Absorbție Daune",
+    "honeyRange": "Rază Miere",
+    "honeyTileDamage": "Daune Placă Miere",
+    "honeyTilePoison": "Otravă Placă Miere",
+    "honeyTileFire": "Foc Placă Miere",
+    "sendToBiome": "Trimite la Biom",
+    "flowerReloadFactor": "Factor Reîncărcare Floare",
+    "armorDebuff": "Debuff Armură",
+    "flowerSpeed": "Viteză Floare",
+    "fireDamage": "Daune Foc",
+    "firePoison": "Otravă Foc",
+    "fireTime": "Timp Foc",
+    "flowerAcceleration": "Accelerație Floare",
+    "agroRangeReduction": "Reducere Rază Agresivitate",
+    "agroRangeIncrease": "Creștere Rază Agresivitate",
+    "flowerKnockedFactor": "Factor Respingere Floare",
+    "damageHealed": "Daune Vindecate",
+    "selfDamage": "Daune Proprii",
+    "selfFireDamage": "Daune Foc Proprii",
+    "flowerBodyLightning": "Fulger Corp Floare",
+    "freezeTime": "Timp Îngheț",
+    "explosionFreezeTime": "Timp Îngheț Explozie",
+    "explosionKnockback": "Respingere Explozie",
+    "luck": "Noroc",
+    "frost": "Ger",
+    "defrost": "Dezgheț",
+    "tempFlowerSpeed": "Viteză Temporară Floare",
+    "tempFlowerSpeedFactor": "Factor Viteză Temporară Floare",
+    "subdivisionRates": "Rate Subdiviziune",
+    "cureCancer": "Vindecă Cancer",
+    "petMutation": "Mutație Animal",
+    "passivePetalHeal": "Vindecare Pasivă Petală",
+    "healBuff": "Buff De Vindecare",
+    "shieldBuff": "Buff De Scut",
+    "poisonReduction": "Reducere Otravă",
+    "fireReduction": "Reducere Foc",
+    "cancer": "Cancer",
+    "orbit": "Orbită",
+    "boostUpwards": "Impuls în Sus",
+    "pullReduction": "Reducere Atragere",
+    "mobXpFactor": "Factor XP Inamic",
+    "fullHealRate": "Rată Vindecare Completă",
+    "extraPetalSize": "Dimensiune Petală Suplimentară",
+    "flowerArmor": "Armură Floare",
+    "petalCritical": "Critică Petală",
+    "petalReloadSkipRate": "Rată Omitere Reîncărcare Petală",
+    "blockDamage": "Blocare Daune",
+    "spreadDamage": "Răspândire Daune",
+    "radiationRange": "Rază Radiație",
+    "radiationPoison": "Otravă Radiație",
+    "radiationFire": "Foc Radiație",
+    "radiationHeal": "Vindecare Radiație",
+    "radiationLightningDamage": "Daune Fulger Radiație",
+    "radiationLightningBounces": "Ricoșeuri Fulger Radiație",
+    "orbitTwirl": "Învârtire Orbită",
+    "growth": "Creștere",
+    "growthTime": "Timp Creștere",
+    "petFullRegenRate": "Rată Regenerare Completă Animal",
+    "spillRate": "Rată Vărsare",
+    "extraPetSpeed": "Viteză Animal Suplimentară",
+    "petSpeedReduction": "Reducere Viteză Animal",
+    "fireSpeedFactor": "Factor Viteză Foc",
+    "extraLightningBounces": "Ricoșeuri Fulger Suplimentare",
+    "extraRadiationRange": "Rază Radiație Suplimentară",
+    "extraFireDuration": "Durată Foc Suplimentară",
+    "extraPoisonDuration": "Durată Otravă Suplimentară",
+    "subExplosions": "Sub-Explozii",
+    "lightningMultiHitRate": "Rată Lovituri Multiple Fulger",
+    "orbitRangeFactor": "Factor Rază Orbită",
+    "flowerEvasion": "Evaziune Floare",
+    "fragmentDamage": "Daune Fragment",
+    "fragmentHealth": "Viață Fragment",
+    "extraSpillRate": "Rată Vărsare Suplimentară",
+    "armorDebuffPercent": "Procent Debuff Armură",
+    "mana": "Mană",
+    "passiveMana": "Mană Pasivă",
+    "passiveManaOnGround": "Mană Pasivă la Sol",
+    "extraFlowerMana": "Mană Floare Suplimentară",
+    "damageMana": "Daune Mană",
+    "manaBuff": "Buff Mană",
+    "passiveManaBelow50": "Mană Pasivă",
+    "soakManaTime": "Timp Absorbție Mană",
+    "maxManaSoakCapacity": "Capacitate Maximă Absorbție Mană",
+    "damageAbosrbedPerMana": "Daune Absorbite",
+    "manaCostReduction": "Reducere Cost Mană",
+    "robMana": "Fură Mană",
+    "spreadMana": "Răspândire Mană",
+    "petVariantMutation": "Mutație Variantă Animal",
+    "bodyLightning": "Fulger Corp",
+    "healAffectTime": "Timp Afectare Vindecare",
+    "missileHealth": "Viață Rachetă",
+    "missileDamage": "Daune Rachetă",
+    "missilePoison": "Otravă Rachetă",
+    "missileHealAffectTime": "Timp Afectare Vindecare Rachetă",
+    "missileArmorDebuff": "Debuff Armură Rachetă",
+    "bodyFireDamage": "Daune Foc Corp",
+    "evasion": "Evaziune",
+    "sprayHealth": "Viață Spray",
+    "sprayDamage": "Daune Spray",
+    "sprayFireDamage": "Daune Foc Spray",
+    "telepathicDamage": "Daune Telepatice",
+    "telepathicPoison": "Otravă Telepatică",
+    "telepathicLightningDamage": "Daune Fulger Telepatice",
+    "healNearby": "Vindecă în Apropiere",
+    "#Controls": "# Controale",
+    "keyboardControls": "Controale Tastatură",
+    "movementHelper": "Asistent Mișcare",
+    "invertAttackButton": "Inversează Buton Atac",
+    "invertDefendButton": "Inversează Buton Apărare",
+    "#Chat": "# Chat",
+    "showChat": "Arată Chat",
+    "showUserChats": "Arată Chat-uri Utilizatori",
+    "showDropLogs": "Arată Jurnale Drop",
+    "showBlocked": "Arată Blocați",
+    "#Game": "# Joc",
+    "showHitbox": "Arată Hitbox",
+    "showGrid": "Arată Grilă",
+    "showDps": "Arată DPS",
+    "potatoHardware": "Hardware Cartof",
+    "badwordFilter": "Filtru Cuvinte Urâte",
+    "showMobLeaderboard": "Arată Clasament Inamici",
+    "autoJoinSquads": "Intră Automat în Echipe",
+    "showDebugInfo": "Arată Informații Debug",
+    "showIndicators": "Arată Indicatori",
+    "#Visuals": "# Vizual",
+    "showRarities": "Arată Rărități",
+    "showCraftBubble": "Arată Bulă Crafting",
+    "showOtherPetals": "Arată Alte Petale",
+    "showParticles": "Arată Particule",
+    "showDamage": "Arată Daune",
+    "showDamageFlash": "Arată Flash Daune",
+    "showHealthBar": "Arată Bară Viață",
+    "showPetHealthBar": "Arată Bară Viață Animal",
+    "showHealth": "Arată Viață",
+    "showExplosion": "Arată Explozie",
+    "showLightning": "Arată Fulger",
+    "showRadiation": "Arată Radiație",
+    "abbreviateDps": "Abreviază DPS",
+    "fixedHudSize": "Dimensiune HUD Fixă",
+    "screenShake": "Zguduire Ecran",
+    "antiAliasing": "Anti-Aliasing",
+    "showText": "Arată Text",
+    "effect3d": "Efect 3D",
+    "showIcons": "Arată Icoane",
+    "#Indicators": "# Indicatori",
+    "indicatorPoison": "Otravă",
+    "indicatorFire": "Foc",
+    "indicatorSlowness": "Încetinire",
+    "indicatorDandelion": "Păpădie",
+    "indicatorSponge": "Burete",
+    "indicatorCancer": "Cancer",
+    "indicatorCoffee": "Cafea",
+    "indicatorChilly": "Ardei Iute",
+    "indicatorFrost": "Ger",
+    "indicatorMagicSponge": "Burete Magic",
+    "indicatorDropBuff": "Buff Drop",
+    "xp": "XP",
+    "timeJoined": "Timp Alăturat",
+    "stars": "Stele",
+    "timePlayed": "Timp Jucat",
+    "gamesPlayed": "Jocuri Jucate",
+    "mobsKilled": "Inamici Uciși",
+    "playersKilled": "Jucători Uciși",
+    "petalsPicked": "Petale Colectate",
+    "petalsCrafted": "Petale Create",
+    "petalsBurned": "Petale Arse",
+    "challengesCompleted": "Provocări Finalizate",
+    "chatSent": "Chat Trimis",
+    "maxScore": "Scor Maxim",
+    "maxTimeAlive": "Timp Maxim în Viață",
+    "maxMobsKilled": "Maxim Inamici Uciși",
+    "maxPetalsPicked": "Maxim Petale Colectate",
+    "dailyPlaytime": "Timp de Joc Zilnic",
+    "maxDailyPlaytime": "Timp Maxim de Joc Zilnic",
+    "maxStreak": "Serie Maximă"
+  },
+  "commands": {
+    "mana": {
+      "desc": "Setează generarea pasivă de mană."
+    },
+    "user_petal_drops": {
+      "desc": "Afișează totalul petalelor lăsate într-o zi."
+    },
+    "user_petal_dps": {
+      "desc": "Afișează totalul dps-ului unui user."
+    },
+    "whisper": {
+      "desc": "Trimite un mesaj privat unui jucător."
+    },
+    "tp_random": {
+      "desc": "Te teleportează la un jucător aleatoriu."
+    },
+    "user_pass": {
+      "desc": "Obține parola utilizatorului."
+    },
+    "squad_code": {
+      "desc": "Afișează și copiază codul tău actual de echipă."
+    },
+    "petal_reload": {
+      "desc": "Setează factorul de reîncărcare a petalelor."
+    },
+    "petal_damage": {
+      "desc": "Setează factorul de daune al petalelor."
+    },
+    "guild_transfer_owner": {
+      "desc": "Transferă proprietatea ghildei."
+    },
+    "guild_name": {
+      "desc": "Setează numele ghildei tale."
+    },
+    "guild": {
+      "desc": "Trimite un mesaj pe chat doar membrilor ghildei pe toate serverele."
+    },
+    "squad": {
+      "desc": "Trimite un mesaj pe chat doar echipei."
+    },
+    "new_squad": {
+      "desc": "Creează o echipă nouă."
+    },
+    "leave_squad": {
+      "desc": "Părăsește echipa actuală."
+    },
+    "join_squad": {
+      "desc": "Intră într-o echipă folosind un cod."
+    },
+    "find_public_squad": {
+      "desc": "Găsește o echipă publică."
+    },
+    "set_squad_public": {
+      "desc": "Face echipa ta publică."
+    },
+    "set_squad_private": {
+      "desc": "Face echipa ta privată."
+    },
+    "client_speed": {
+      "desc": "Setează factorul de scalare a timpului clientului."
+    },
+    "yay": {
+      "desc": "Moment easter egg Yayvideogames."
+    },
+    "cicada": {
+      "desc": "Moment de efect post ASCII."
+    },
+    "server_times": {
+      "desc": "Arată timpul total petrecut de jucători într-un server."
+    },
+    "claim": {
+      "desc": "Revendică recompensele zilnice de serie și buff-urile de drop de stele."
+    },
+    "report": {
+      "desc": "Raportează un utilizator pentru toxicitate în chat."
+    },
+    "block": {
+      "desc": "Blochează un utilizator în chat."
+    },
+    "unblock": {
+      "desc": "Deblochează un utilizator în chat."
+    },
+    "unblock_all": {
+      "desc": "Deblochează toți utilizatorii blocați din chat."
+    },
+    "gen_egg": {
+      "desc": "Generează reîncărcări de ouă. petCount este numărul de inamici pe care oul ar trebui să-i genereze. Power este o valoare de putere dată inamicului animal de companie. Dacă puterea este foarte mare, oul va avea reîncărcări mari și invers. MinUseTime este timpul minim de eclozare pentru a crește raritatea animalului de companie generat. Dacă timpul de eclozare scade sub această valoare, raritatea animalului de companie este crescută. Mai simplu spus, dacă pragul este mare, ouăle vor genera foarte ușor animale de companie de raritate mare."
+    },
+    "stars_to_usd": {},
+    "spin_speed": {
+      "desc": "Setează viteza de rotație a florii tale."
+    },
+    "mob_gif": {
+      "desc": "Randează GIF pentru un inamic."
+    },
+    "petal_power": {
+      "desc": "Afișează puterile petalelor calculate automat. S-ar putea să nu fie exacte."
+    },
+    "global_user_list": {
+      "desc": "Afișează utilizatorii online la nivel global."
+    },
+    "user_petal_purchases": {
+      "desc": "Îți permite să vezi totalul petalelor cumpărate de utilizatori."
+    },
+    "petal_usage": {
+      "desc": "Afișează utilizarea petalelor."
+    },
+    "edit_petals": {
+      "desc": "Îți permite să modifici petalele."
+    },
+    "lang": {
+      "desc": "Îți permite să setezi un fișier de limbă personalizat pentru joc. Nu este implementat complet."
+    },
+    "give_all": {
+      "desc": "Oferă toate petalele de o anumită raritate."
+    },
+    "run_on_join": {
+      "desc": "Rulează comenzile când te alături ca administrator. Separă prin virgulă."
+    },
+    "stars": {
+      "desc": "Îți oferă stele."
+    },
+    "skin": {
+      "desc": "Îți oferă un skin."
+    },
+    "portal": {
+      "desc": "Creează un portal."
+    },
+    "del_portal": {
+      "desc": "Creează un portal."
+    },
+    "mute": {
+      "desc": "Oprește sunetul unui utilizator."
+    },
+    "unmute": {
+      "desc": "Repornește sunetul unui utilizator."
+    },
+    "ban": {
+      "desc": "Interzice un utilizator."
+    },
+    "unban": {
+      "desc": "Anulează interdicția unui utilizator."
+    },
+    "kick": {
+      "desc": "Dă afară un utilizator."
+    },
+    "user_petals": {
+      "desc": "Afișează galeria globală de petale."
+    },
+    "user_mobs": {
+      "desc": "Afișează galeria globală de inamici."
+    },
+    "user_equipped_petals": {
+      "desc": "Afișează galeria globală de petale echipate."
+    },
+    "user_mob_deaths": {
+      "desc": "Afișează decesele globale ale jucătorilor provocate de inamici."
+    },
+    "diff_rates": {
+      "desc": "Afișează ratele de raritate ale dificultății."
+    },
+    "restart": {
+      "desc": "Repornește serverul."
+    },
+    "wipe": {
+      "desc": "Îți șterge inventarul."
+    },
+    "profile": {
+      "desc": "Solicită profilul unei persoane."
+    },
+    "tickrate": {
+      "desc": "Setează rata de actualizare a serverului. Implicit este de 20 de ori pe secundă."
+    },
+    "lerp": {
+      "desc": "Setează întârzierea de interpolare. Implicit este 100ms."
+    },
+    "drop": {
+      "desc": "Aruncă o petală."
+    },
+    "petal_icon": {
+      "desc": "Randează o icoană pentru o petală."
+    },
+    "mob_icon": {
+      "desc": "Randează o icoană pentru un inamic."
+    },
+    "petal_size": {
+      "desc": "Setează factorul de mărime al petalelor tale. Implicit este 1."
+    },
+    "orbit": {
+      "desc": "Schimbă traiectoria orbitei petalelor tale. Folosește \"/orbit reset\" pentru a reveni la orbita circulară. Parametrii formei sunt opționali, dar îi poți trece ca \"/orbit 3 5 18 18\"."
+    },
+    "reset": {
+      "desc": "Ucide toți inamicii și proiectilele."
+    },
+    "wall_thickness": {
+      "desc": "Definește grosimea marginii peretelui. Implicit este 12."
+    },
+    "tp_all": {
+      "desc": "Teleportează pe toată lumea la (x, y) în coordonate de grilă."
+    },
+    "tp_to": {
+      "desc": "Te teleportează la un utilizator."
+    },
+    "tp": {
+      "desc": "Te teleportează la (x, y) în coordonate de grilă."
+    },
+    "die": {
+      "desc": "Te ucide."
+    },
+    "sprite": {
+      "desc": "Arată foaia de sprite-uri a petalelor."
+    },
+    "spawn_diff": {
+      "desc": "Generează inamici folosind dificultatea."
+    },
+    "spawn": {
+      "desc": "Generează inamici. Folosește underscore în loc de spații în numele inamicilor."
+    },
+    "game_speed": {
+      "desc": "Mărește sau scade viteza jocului."
+    },
+    "droprates": {
+      "desc": "Afișează tabelul cu ratele de drop pentru un factor de raritate al petalelor. Mai aproape de 0 înseamnă o petală mai rară și invers. Ar trebui să fie între 0 și 1."
+    },
+    "sim_craft": {
+      "desc": "Simulează crearea."
+    },
+    "give": {
+      "desc": "Pune o petală în inventarul tău. Folosește underscore în loc de spații în numele petalelor."
+    },
+    "ygg": {
+      "desc": "Te înviază dacă ești mort."
+    },
+    "immune": {
+      "desc": "Face floarea ta imună la orice daună."
+    },
+    "speed": {
+      "desc": "Setează viteza ta de mișcare."
+    },
+    "ghost": {
+      "desc": "Dezactivează coliziunea pe floarea ta. Folosește aceeași comandă pentru a o activa din nou."
+    },
+    "toggle_game": {
+      "desc": "Activează/dezactivează ciclul de actualizare a jocului."
+    },
+    "fov": {
+      "desc": "Setează factorul câmpului tău vizual."
+    },
+    "april_fools": {
+      "desc": "Moment de glumă de întâi aprilie hehe."
+    }
+  },
+  "starProducts": {
+    "stars_1": {
+      "desc": "Pachet de început"
+    },
+    "stars_2": {
+      "desc": "Pachet de stele puțin mai mare"
+    },
+    "stars_3": {
+      "desc": "Pachet mare de stele"
+    },
+    "stars_4": {
+      "desc": "Pachet mare de stele"
+    },
+    "stars_5": {
+      "desc": "Pachet și mai mare de stele"
+    },
+    "stars_6": {
+      "desc": "Pachet foarte mare de stele"
+    },
+    "stars_7": {
+      "desc": "Pachet imens de stele"
+    },
+    "stars_8": {
+      "desc": "Pachet suspect de imens de stele"
+    },
+    "stars_9": {
+      "desc": "Pachet suspect de și mai imens de stele"
+    },
+    "stars_10": {
+      "desc": "Pachet suspect de mare și imens de stele"
+    },
+    "stars_11": {
+      "desc": "Pachet suspect de mare și imens de stele"
+    },
+    "stars_12": {
+      "desc": "Caca în borș"
+    }
+  }
+}

@@ -1,0 +1,3182 @@
+{
+  "name": "custom lang uwu",
+  "ui": {
+    "mobGallery": "Galerie de mobs",
+    "deathInfo": "Vous avez été tué par :",
+    "continue": "Continuer",
+    "minimize": "Réduire",
+    "deathEscape": "(ou appuyez sur Échap)",
+    "nickInfo": "Cette petite fleur s'appelle...",
+    "play": "Jouer",
+    "squad": "Escouade",
+    "connecting": "Connexion...",
+    "chatInfo": "Appuyez sur [Entrée] pour chatter",
+    "achievements": "Succès",
+    "shop": "Boutique",
+    "commands": "Commandes",
+    "users": "Utilisateurs",
+    "loadouts": "Équipements",
+    "changelog": "Journal des modifications",
+    "guild": "Guilde",
+    "settings": "Paramètres",
+    "inventory": "Inventaire",
+    "inventoryInstructions": "Glissez-déposez pour équiper un pétale."
+  },
+  "mobs": {
+    "rock": {
+      "name": "Roche",
+      "desc": "Une roche. Elle ne fait pas grand-chose."
+    },
+    "ladybug": {
+      "name": "Coccinelle",
+      "desc": "Mignonne et inoffensive"
+    },
+    "bush": {
+      "name": "Buisson",
+      "desc": "George Bush"
+    },
+    "sponge": {
+      "name": "Éponge",
+      "desc": "Bob"
+    },
+    "cactus": {
+      "name": "Cactus",
+      "desc": "Une plante très épineuse."
+    },
+    "baby_ant": {
+      "name": "Bébé Fourmi",
+      "desc": "Fourmi mais bébé"
+    },
+    "soldier_ant": {
+      "name": "Fourmi Soldat",
+      "desc": "Se bat pour la liberté."
+    },
+    "worker_ant": {
+      "name": "Fourmi Ouvrière",
+      "desc": "Ne veut pas se battre."
+    },
+    "queen_ant": {
+      "name": "Reine Fourmi",
+      "desc": "Reine Antilabeth VI."
+    },
+    "baby_fire_ant": {
+      "name": "Bébé Fourmi de Feu",
+      "desc": "Fourmi de Feu mais bébé"
+    },
+    "soldier_fire_ant": {
+      "name": "Fourmi de Feu Soldat",
+      "desc": "Se bat pour la liberté."
+    },
+    "worker_fire_ant": {
+      "name": "Fourmi de Feu Ouvrière",
+      "desc": "Ne veut pas se battre."
+    },
+    "queen_fire_ant": {
+      "name": "Reine Fourmi de Feu",
+      "desc": "Reine Antilabeth VII."
+    },
+    "mushroom": {
+      "name": "Champignon",
+      "desc": "Vient avec une infection fongique."
+    },
+    "jellyfish": {
+      "name": "Méduse",
+      "desc": "Poisson mais gelée."
+    },
+    "spider": {
+      "name": "Araignée",
+      "desc": "Elle a 8 pattes et yeux."
+    },
+    "bee": {
+      "name": "Abeille",
+      "desc": "Elle pique trop fort."
+    },
+    "hornet": {
+      "name": "Frelon",
+      "desc": "Tireur de missiles certifié."
+    },
+    "shell": {
+      "name": "Coquillage",
+      "desc": "Une entité très égoïste."
+    },
+    "ant_hole": {
+      "name": "Trou de Fourmi",
+      "desc": "Il y a des fourmis à l'intérieur."
+    },
+    "fire_ant_hole": {
+      "name": "Trou de Fourmi de Feu",
+      "desc": "Il y a des fourmis de feu à l'intérieur."
+    },
+    "spider_cave": {
+      "name": "Grotte d'Araignée",
+      "desc": "Longue et sombre grotte."
+    },
+    "hive": {
+      "name": "Ruche",
+      "desc": "C'est le Disneyland des abeilles"
+    },
+    "yoba": {
+      "name": "Yoba",
+      "desc": "Créature rouge mystérieuse."
+    },
+    "spider_yoba": {
+      "name": "Araignée Yoba",
+      "desc": "Créature rose mystérieuse."
+    },
+    "centipede": {
+      "name": "Mille-pattes",
+      "desc": "Il est long."
+    },
+    "desert_centipede": {
+      "name": "Mille-pattes du Désert",
+      "desc": "A remporté une médaille d'or aux Jeux olympiques."
+    },
+    "evil_centipede": {
+      "name": "Mille-pattes Maléfique",
+      "desc": "Nous ne savons pas pourquoi celui-ci est maléfique."
+    },
+    "sunflower": {
+      "name": "Tournesol",
+      "desc": "Il a un bouclier"
+    },
+    "boba": {
+      "name": "Boba",
+      "desc": "Il explose."
+    },
+    "bubble": {
+      "name": "Bulle",
+      "desc": "Faites-la éclater vite."
+    },
+    "m28": {
+      "name": "M28",
+      "desc": "Développeur Skibidi."
+    },
+    "beetle": {
+      "name": "Scarabée",
+      "desc": "Insecte très affamé."
+    },
+    "avocado": {
+      "name": "Avocat",
+      "desc": "Fruit super délicieux."
+    },
+    "target_dummy": {
+      "name": "Mannequin d'entraînement",
+      "desc": "tuer ceux-ci est du vandalisme, ce jeu est secrètement un attrape-IP et nous vous avons déjà signalé aux autorités locales, attendez-vous à ce qu'on frappe à votre porte dans 3 à 5 minutes"
+    },
+    "dark_ladybug": {
+      "name": "Coccinelle Sombre",
+      "desc": "Mignonne et inoffensive, mais sombre"
+    },
+    "shiny_ladybug": {
+      "name": "Coccinelle Brillante",
+      "desc": "Brillante, mignonne et inoffensive"
+    },
+    "sandstorm": {
+      "name": "Tempête de Sable",
+      "desc": "Une tornade de sable"
+    },
+    "scorpion": {
+      "name": "Scorpion",
+      "desc": "Il aime orbiter et vous tirer dessus."
+    },
+    "starfish": {
+      "name": "Étoile de Mer",
+      "desc": "Poisson célèbre."
+    },
+    "crab": {
+      "name": "Crabe",
+      "desc": "Vous court après."
+    },
+    "dandelion": {
+      "name": "Pissenlit",
+      "desc": "Tire ses missiles lorsqu'il est attaqué"
+    },
+    "dragon": {
+      "name": "Dragon",
+      "desc": "son feu a l'air très chaud, et se sent très chaud aussi"
+    },
+    "leech": {
+      "name": "Sangsue",
+      "desc": "un serpent slither.io ?"
+    },
+    "nazar_beetle": {
+      "name": "Scarabée Nazar",
+      "desc": "S'est transformé en art moderne"
+    },
+    "toxic_dragon": {
+      "name": "Dragon Toxique",
+      "desc": "Quelqu'un l'a peint avec de la peinture toxique"
+    },
+    "hel_worm": {
+      "name": "Ver de l'Enfer",
+      "desc": "un ver satanique de digworm.io"
+    },
+    "hel_spider": {
+      "name": "Araignée de l'Enfer",
+      "desc": "Elle a 8 pattes et yeux."
+    },
+    "hel_beetle": {
+      "name": "Scarabée de l'Enfer",
+      "desc": "Insecte satanique très effrayant."
+    },
+    "hel_jellyfish": {
+      "name": "Méduse de l'Enfer",
+      "desc": "Pourquoi et comment a-t-elle des dents ?"
+    },
+    "tumbleweed": {
+      "name": "Tumbleweed",
+      "desc": "*Bruits de vent*"
+    },
+    "dragon_nest": {
+      "name": "Nid de Dragon",
+      "desc": "Maison des dragons."
+    },
+    "firestorm": {
+      "name": "Tempête de Feu",
+      "desc": "Une tornade de feu"
+    },
+    "hel_bee": {
+      "name": "Abeille de l'Enfer",
+      "desc": "Piqûre aussi ardente que l'enfer."
+    },
+    "hel_hornet": {
+      "name": "Frelon de l'Enfer",
+      "desc": "Tireur de feu certifié."
+    },
+    "bugatti": {
+      "name": "Bugatti",
+      "desc": "La voiture préférée de Top Jeet."
+    },
+    "fly": {
+      "name": "Mouche",
+      "desc": "C'est Filthy(frank)"
+    },
+    "mantis": {
+      "name": "Mante",
+      "desc": "Tire 3 pois perforants à la fois."
+    },
+    "firefly": {
+      "name": "Luciole",
+      "desc": "Mouche à haute tension."
+    },
+    "wasp": {
+      "name": "Guêpe",
+      "desc": "Aime sniper les fleurs avec ses missiles."
+    },
+    "stickbug": {
+      "name": "Phasme",
+      "desc": "Il aime danser."
+    },
+    "snowbush": {
+      "name": "Arbuste de Neige",
+      "desc": "Un arbuste qui pousse dans les régions froides, il peut aussi être recouvert de neige."
+    },
+    "ice_cube": {
+      "name": "Cube de Glace",
+      "desc": "un cube de glace très froid, le toucher ne serait probablement pas très agréable"
+    },
+    "snowstorm": {
+      "name": "Tempête de Neige",
+      "desc": "Une tornade de neige, des flocons de neige acérés semblent être en orbite à l'intérieur"
+    },
+    "arctic_centipede": {
+      "name": "Mille-pattes Arctique",
+      "desc": "Le froid a durci leur peau."
+    },
+    "arctic_spider": {
+      "name": "Araignée Arctique",
+      "desc": "Cette araignée a l'air vraiment *cool*"
+    },
+    "ice_dragon": {
+      "name": "Dragon de Glace",
+      "desc": "Il souffle une brise fraîche qui peut geler ses ennemis."
+    },
+    "tick": {
+      "name": "Tique",
+      "desc": "Ce mob me tape sur les nerfs !"
+    },
+    "waterspout": {
+      "name": "Trombe Marine",
+      "desc": "Une tornade sous-marine"
+    },
+    "urchin": {
+      "name": "Oursin",
+      "desc": "Boule piquante qui vous tire dessus."
+    },
+    "volcano": {
+      "name": "Volcan",
+      "desc": "Un très gros rocher. Il tire du feu partout"
+    },
+    "ice_hornet": {
+      "name": "Frelon de Glace",
+      "desc": "Skibidi mob dop dop oui oui"
+    },
+    "virus": {
+      "name": "Virus",
+      "desc": "Ne le touchez pas !"
+    },
+    "red_blood_cell": {
+      "name": "Globule Rouge",
+      "desc": "Fournit de l'oxygène partout où il est nécessaire"
+    },
+    "bacteria": {
+      "name": "Bactérie",
+      "desc": "Ce mob me rend malade"
+    },
+    "bacteriophage": {
+      "name": "Bactériophage",
+      "desc": "Un intello en maths, aime trop les icosaèdres remplis de poison"
+    },
+    "cancer": {
+      "name": "Cancer",
+      "desc": "Très mortel, j'espère que vous ne le toucherez jamais accidentellement"
+    },
+    "parasite": {
+      "name": "Parasite",
+      "desc": "Aime ennuyer son hôte uwu"
+    },
+    "white_blood_cell": {
+      "name": "Globule Blanc",
+      "desc": "Combat les mauvaises choses dans votre corps, y compris les fleurs"
+    },
+    "atom": {
+      "name": "Atome",
+      "desc": "L'élément de base de l'univers, qu'est-ce qui pourrait mal tourner en en tuant un"
+    },
+    "snake": {
+      "name": "Serpent",
+      "desc": "Très mortel et très long"
+    },
+    "turtle": {
+      "name": "Tortue",
+      "desc": "a un bouclier très solide"
+    },
+    "hel_hive": {
+      "name": "Ruche de l'Enfer",
+      "desc": "C'est l'endroit où les abeilles et les frelons de l'enfer discutent de leurs plans maléfiques pour conquérir le biome des plaines"
+    },
+    "fossil": {
+      "name": "Fossile",
+      "desc": "a l'air assez mort, peut-être qu'il contient de précieux pétales"
+    },
+    "rattlesnake": {
+      "name": "Serpent à Sonnettes",
+      "desc": "très mortel, très long et très bruyant aussi, peut-être devriez-vous respecter son avertissement."
+    },
+    "cicada": {
+      "name": "Cigale",
+      "desc": "3301. A 11% de chances de faire 42x de dégâts."
+    },
+    "snowman": {
+      "name": "Bonhomme de Neige",
+      "desc": "veut faire une bataille de boules de neige (il a mis des pierres dans les boules de neige)."
+    },
+    "igloo": {
+      "name": "Igloo",
+      "desc": "un endroit très cool pour les bonhommes de neige et les dragons pour se détendre"
+    },
+    "rain_frog": {
+      "name": "Grenouille Pluie",
+      "desc": "Elle se déplace comme une coquille."
+    },
+    "illuminati": {
+      "name": "Illuminati",
+      "desc": "Les ténèbres sur tous."
+    },
+    "black_hole": {
+      "name": "Trou Noir",
+      "desc": "Très attirant et très sombre."
+    },
+    "troll": {
+      "name": "Troll",
+      "desc": "CEUX QUI SAVENT : SIGMAS ; CEUX QUI NE SAVENT PAS : SKIBIDI"
+    },
+    "ufo": {
+      "name": "OVNI",
+      "desc": "Il y a un groupe de personnes vertes à l'intérieur, il serait peut-être préférable de ne pas les déranger"
+    },
+    "alien": {
+      "name": "Alien",
+      "desc": "Une entité extraterrestre dotée de capacités télépathiques."
+    },
+    "angel": {
+      "name": "Ange",
+      "desc": "A une aura très forte, vous ne devriez probablement pas vous approcher trop près"
+    },
+    "momy": {
+      "name": "Momy",
+      "desc": "Une créature vraiment effrayante. Aime jeter des choses sur les autres"
+    },
+    "ghost": {
+      "name": "Fantôme",
+      "desc": "oOOOooOOooooOO effrayant"
+    },
+    "gravestone": {
+      "name": "Pierre Tombale",
+      "desc": "Les fantômes aiment être ici dans l'obscurité complète"
+    },
+    "electric_eel": {
+      "name": "Anguille Électrique",
+      "desc": "Pourrait vous électrocuter."
+    },
+    "eye": {
+      "name": "Oeil",
+      "desc": "Oeil mignon de Sauron"
+    },
+    "square": {
+      "name": "Carré",
+      "desc": "Mauvais jeu."
+    },
+    "target_mummy": {
+      "name": "Momie Cible",
+      "desc": "Dummy Cible + Bandages = Momie Cible uwu."
+    },
+    "oracle": {
+      "name": "Oracle",
+      "desc": "Moment de personnage non-joueur"
+    },
+    "trader": {
+      "name": "Marchand",
+      "desc": "Vous permet d'échanger des pétales contre des pièces."
+    },
+    "tesla_coil": {
+      "name": "Bobine Tesla",
+      "desc": "Une bobine Tesla qui peut électrocuter les ennemis à distance."
+    },
+    "snail": {
+      "name": "Escargot",
+      "desc": "Il se déplace très lentement."
+    },
+    "stem_cell": {
+      "name": "Cellule Souche",
+      "desc": "Elle peut se régénérer avec le temps."
+    },
+    "barrel": {
+      "name": "Tonneau",
+      "desc": "Il contient des substances très dangereuses."
+    },
+    "nuke": {
+      "name": "Bombe Nucléaire",
+      "desc": "Tsar Bomba est une très grosse bombe à hydrogène russe."
+    },
+    "digger": {
+      "name": "Terrassier",
+      "desc": "Un allié qui mine."
+    },
+    "spider_digger": {
+      "name": "Terrassier Araignée",
+      "desc": "Il a construit la grotte des araignées."
+    },
+    "hel_digger": {
+      "name": "Terrassier des Enfers",
+      "desc": "Il a dompté les dragons..."
+    },
+    "grave_digger": {
+      "name": "Fossoyeur",
+      "desc": "Il veut que vous entriez dans la tombe fraîchement creusée"
+    },
+    "sandstone": {
+      "name": "Grès",
+      "desc": "Une roche très friable et poussiéreuse"
+    },
+    "termite_overmind": {
+      "name": "Esprit Supérieur Termite",
+      "desc": "Il est bien préparé pour survivre à tous ses ennemis."
+    },
+    "baby_termite": {
+      "name": "Bébé Termite",
+      "desc": "A une enfance très difficile"
+    },
+    "worker_termite": {
+      "name": "Termite Ouvrier",
+      "desc": "Ne veut pas se battre, mais y est forcé de toute façon."
+    },
+    "soldier_termite": {
+      "name": "Termite Soldat",
+      "desc": "Se bat pour la liberté, mais tout ce qu'il fait, c'est blesser accidentellement ses amis."
+    },
+    "termite_hole": {
+      "name": "Trou de Termite",
+      "desc": "Il y a des termites à l'intérieur."
+    },
+    "termite_digger": {
+      "name": "Termite terrassier",
+      "desc": "S'est lié d'amitié avec la population locale de termites."
+    },
+    "shipwreck": {
+      "name": "Épave",
+      "desc": "Accident de voiture sous-marin, on dirait que la faune locale a pris le contrôle de ce véhicule."
+    }
+  },
+  "petals": {
+    "basic": {
+      "name": "Basique",
+      "desc": "Le pétale le plus simple qui soit."
+    },
+    "rose": {
+      "name": "Rose",
+      "desc": "Vous soigne lorsqu'il est consommé."
+    },
+    "wing": {
+      "name": "Aile",
+      "desc": "Ça va et ça vient."
+    },
+    "rock": {
+      "name": "Roche",
+      "desc": "C'est assez durable"
+    },
+    "iris": {
+      "name": "Iris",
+      "desc": "C'est poison."
+    },
+    "stinger": {
+      "name": "Dard",
+      "desc": "Très gros dégâts."
+    },
+    "honey": {
+      "name": "Miel",
+      "desc": "Vomissure d'abeille"
+    },
+    "bubble": {
+      "name": "Bulle",
+      "desc": "Éclate et vous booste."
+    },
+    "heavy": {
+      "name": "Lourd",
+      "desc": "Plus lourd que ta mère"
+    },
+    "yin_yang": {
+      "name": "Yin Yang",
+      "desc": "Inverse la direction de l'orbite de vos pétales."
+    },
+    "faster": {
+      "name": "Plus Rapide",
+      "desc": "Augmente la vitesse de l'orbite de vos pétales"
+    },
+    "light": {
+      "name": "Lumière",
+      "desc": "Super super rapide."
+    },
+    "sponge": {
+      "name": "Éponge",
+      "desc": "Fait la vaisselle et absorbe les dégâts au fil du temps."
+    },
+    "rice": {
+      "name": "Riz",
+      "desc": "Seulement pour les asiatiques."
+    },
+    "yggdrasil": {
+      "name": "Yggdrasil",
+      "desc": "Ravive les fleurs mortes."
+    },
+    "leaf": {
+      "name": "Feuille",
+      "desc": "Vous soigne passivement."
+    },
+    "lightning": {
+      "name": "Foudre",
+      "desc": "Invoque un éclair sur les ennemis proches."
+    },
+    "usain_bolt": {
+      "name": "Usain Bolt",
+      "desc": "Invoque un éclair empoisonné sur les ennemis proches"
+    },
+    "cotton": {
+      "name": "Coton",
+      "desc": "Absorbe vos dégâts."
+    },
+    "web": {
+      "name": "Toile",
+      "desc": "Laisse tomber des excréments d'araignée qui ralentissent vos ennemis"
+    },
+    "pollen": {
+      "name": "Pollen",
+      "desc": "Tombe et reste au sol."
+    },
+    "shell": {
+      "name": "Coquille",
+      "desc": "Vous donne un bouclier lorsqu'il est consommé."
+    },
+    "sunflower": {
+      "name": "Tournesol",
+      "desc": "Vous donne un bouclier passivement."
+    },
+    "bomb": {
+      "name": "Bombe",
+      "desc": "Explose lorsqu'elle touche un ennemi."
+    },
+    "gas_bomb": {
+      "name": "Bombe à Gaz",
+      "desc": "Explose et empoisonne vos ennemis."
+    },
+    "missile": {
+      "name": "Missile",
+      "desc": "Un dard rebelle qui s'éloigne de vous."
+    },
+    "viper": {
+      "name": "Vipère",
+      "desc": "Nous ne savons pas comment il empoisonne."
+    },
+    "rocket": {
+      "name": "Fusée",
+      "desc": "Rapide et explosif"
+    },
+    "electron_missile": {
+      "name": "Missile à Électrons",
+      "desc": "Il est rempli d'électrons en colère qui attendent d'électrocuter tout ce qui se trouve sur leur chemin"
+    },
+    "magnet": {
+      "name": "Aimant",
+      "desc": "Attire les gouttes de pétales et absorbe la foudre."
+    },
+    "salt": {
+      "name": "Sel",
+      "desc": "Renvoie les dégâts infligés à la fleur à l'ennemi"
+    },
+    "antennae": {
+      "name": "Antenne",
+      "desc": "Augmente votre vision."
+    },
+    "third_eye": {
+      "name": "Troisième Œil",
+      "desc": "Augmente votre portée de pétales"
+    },
+    "dmca": {
+      "name": "DMCA",
+      "desc": "Fait disparaître les mobs de la même rareté ou inférieure."
+    },
+    "rock_egg": {
+      "name": "Œuf de pierre",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "ladybug_egg": {
+      "name": "Œuf de coccinelle",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "bush_egg": {
+      "name": "Œuf de buisson",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "sponge_egg": {
+      "name": "Œuf d'éponge",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "cactus_egg": {
+      "name": "Œuf de cactus",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "baby_ant_egg": {
+      "name": "Œuf de bébé fourmi",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "soldier_ant_egg": {
+      "name": "Œuf de fourmi soldat",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "worker_ant_egg": {
+      "name": "Œuf de fourmi ouvrière",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "queen_ant_egg": {
+      "name": "Œuf de fourmi reine",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "baby_fire_ant_egg": {
+      "name": "Œuf de bébé fourmi de feu",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "soldier_fire_ant_egg": {
+      "name": "Œuf de fourmi de feu soldat",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "worker_fire_ant_egg": {
+      "name": "Œuf de fourmi de feu ouvrière",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "queen_fire_ant_egg": {
+      "name": "Œuf de fourmi de feu reine",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "mushroom_egg": {
+      "name": "Œuf de champignon",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "jellyfish_egg": {
+      "name": "Œuf de méduse",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "spider_egg": {
+      "name": "Œuf d'araignée",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "bee_egg": {
+      "name": "Œuf d'abeille",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "hornet_egg": {
+      "name": "Œuf de frelon",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "shell_egg": {
+      "name": "Œuf de coquillage",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "ant_hole_egg": {
+      "name": "Œuf de trou de fourmi",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "fire_ant_hole_egg": {
+      "name": "Œuf de trou de fourmi de feu",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "spider_cave_egg": {
+      "name": "Œuf de grotte d'araignée",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "hive_egg": {
+      "name": "Œuf de ruche",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "yoba_egg": {
+      "name": "Œuf de Yoba",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "spider_yoba_egg": {
+      "name": "Œuf d'araignée Yoba",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "centipede_egg": {
+      "name": "Œuf de mille-pattes",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "desert_centipede_egg": {
+      "name": "Œuf de mille-pattes du désert",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "evil_centipede_egg": {
+      "name": "Œuf de mille-pattes maléfique",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "sunflower_egg": {
+      "name": "Œuf de tournesol",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "boba_egg": {
+      "name": "Œuf de Boba",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "bubble_egg": {
+      "name": "Œuf de bulle",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "m28_egg": {
+      "name": "Œuf de M28",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "beetle_egg": {
+      "name": "Œuf de scarabée",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "avocado_egg": {
+      "name": "Œuf d'avocat",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "target_dummy_egg": {
+      "name": "Œuf de mannequin d'entraînement",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "dark_ladybug_egg": {
+      "name": "Œuf de coccinelle sombre",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "shiny_ladybug_egg": {
+      "name": "Œuf de coccinelle brillante",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "stick": {
+      "name": "Bâton",
+      "desc": "Invoque les vents mortels."
+    },
+    "scorpion_egg": {
+      "name": "Œuf de scorpion",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "starfish_egg": {
+      "name": "Œuf d'étoile de mer",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "pea": {
+      "name": "Pois",
+      "desc": "Ça fait pouf"
+    },
+    "avocado": {
+      "name": "Avocat",
+      "desc": "Augmente la taille de votre animal."
+    },
+    "ring_magnet": {
+      "name": "Aimant annulaire",
+      "desc": "Attire tout lentement vers vous."
+    },
+    "gas": {
+      "name": "Gaz",
+      "desc": "Gaz toxique."
+    },
+    "fire": {
+      "name": "Feu",
+      "desc": "Ça brûle."
+    },
+    "nitro": {
+      "name": "Nitro",
+      "desc": "C'est comme un jetpack."
+    },
+    "wind": {
+      "name": "Vent",
+      "desc": "Repousse les ennemis."
+    },
+    "air": {
+      "name": "Air",
+      "desc": "Invisible asf."
+    },
+    "lightsaber": {
+      "name": "Sabre laser",
+      "desc": "Épée photonique à portée limitée"
+    },
+    "visaber": {
+      "name": "Visabre",
+      "desc": "Il tire des rayons gamma au lieu de photons visibles"
+    },
+    "bone": {
+      "name": "Os",
+      "desc": "Composé de calcium."
+    },
+    "cactus": {
+      "name": "Cactus",
+      "desc": "Vous donne plus de santé."
+    },
+    "soil": {
+      "name": "Terre",
+      "desc": "Engraisse les fleurs."
+    },
+    "grapes": {
+      "name": "Raisins",
+      "desc": "Missile mais iris. wtf?"
+    },
+    "mushroom": {
+      "name": "Champignon",
+      "desc": "Rend votre fleur toxique."
+    },
+    "ears": {
+      "name": "Oreilles",
+      "desc": "Oreilles de chat télépathiques."
+    },
+    "sand": {
+      "name": "Sable",
+      "desc": "Pourrait construire un château de sable avec ça."
+    },
+    "pincer": {
+      "name": "Pince",
+      "desc": "Casse les jambes de vos ennemis, même s'ils n'en ont pas."
+    },
+    "dahlia": {
+      "name": "Dahlia",
+      "desc": "Sacrifie la guérison pour la fiabilité"
+    },
+    "starfish": {
+      "name": "Étoile de mer",
+      "desc": "Vous soigne lorsque vous avez peu de santé"
+    },
+    "dandelion": {
+      "name": "Pissenlit",
+      "desc": "Désactive la guérison de vos ennemis"
+    },
+    "crab_egg": {
+      "name": "Œuf de crabe",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "dandelion_egg": {
+      "name": "Œuf de pissenlit",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "dragon_egg": {
+      "name": "Œuf de dragon",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "irey": {
+      "name": "Irey",
+      "desc": "Transforme les tuiles de miel en poison."
+    },
+    "leech_egg": {
+      "name": "Œuf de sangsue",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "nazar": {
+      "name": "Nazar",
+      "desc": "Il peut encaisser 1 coup, puis passe en temps de recharge"
+    },
+    "nazar_beetle_egg": {
+      "name": "Œuf de scarabée Nazar",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "golden_leaf": {
+      "name": "Feuille d'or",
+      "desc": "Réduit le temps de rechargement des pétales."
+    },
+    "laser": {
+      "name": "Laser",
+      "desc": "Peut provoquer de graves brûlures"
+    },
+    "mark": {
+      "name": "Marque",
+      "desc": "Envoie une petite fleur morte à Hel"
+    },
+    "bur": {
+      "name": "Bogue",
+      "desc": "Diminue l'armure de l'ennemi"
+    },
+    "cutter": {
+      "name": "Coupeur",
+      "desc": "Augmente les dégâts de votre corps."
+    },
+    "powder": {
+      "name": "Poudre",
+      "desc": "Cocaïne"
+    },
+    "toxic_dragon_egg": {
+      "name": "Œuf de dragon toxique",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "hel_worm_egg": {
+      "name": "Œuf de ver de Hel",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "hel_spider_egg": {
+      "name": "Œuf d'araignée de Hel",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "hel_beetle_egg": {
+      "name": "Œuf de scarabée de Hel",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "hel_jellyfish_egg": {
+      "name": "Œuf de méduse de Hel",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "hel_lightning": {
+      "name": "Éclair de Hel",
+      "desc": "Invoque une frappe de feu maudite sur les ennemis proches."
+    },
+    "tumbleweed_egg": {
+      "name": "Œuf de tumbleweed",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "dragon_nest_egg": {
+      "name": "Œuf de nid de dragon",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "fire_stick": {
+      "name": "Bâton de feu",
+      "desc": "Invoque les vents mortels."
+    },
+    "hel_bee_egg": {
+      "name": "Œuf d'abeille de Hel",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "hel_hornet_egg": {
+      "name": "Œuf de frelon de Hel",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "hel_missile": {
+      "name": "Missile de Hel",
+      "desc": "missile hot asf"
+    },
+    "bugatti": {
+      "name": "Bugatti",
+      "desc": "Augmente votre vitesse de déplacement mais vous rend glissant asf."
+    },
+    "bugatti_egg": {
+      "name": "Œuf de Bugatti",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "poo": {
+      "name": "Caca",
+      "desc": "Diminue la portée de l'ennemi."
+    },
+    "rubber": {
+      "name": "Caoutchouc",
+      "desc": "Augmente le recul que vous subissez des ennemis."
+    },
+    "fly_egg": {
+      "name": "Œuf de mouche",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "fang": {
+      "name": "Croc",
+      "desc": "Vous soigne avec les dégâts qu'il inflige."
+    },
+    "blood_stinger": {
+      "name": "Dard de sang",
+      "desc": "Très mortel, mais renvoie également des dégâts sur vous."
+    },
+    "mantis_egg": {
+      "name": "Œuf de mante",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "firefly_egg": {
+      "name": "Œuf de luciole",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "wasp_egg": {
+      "name": "Œuf de guêpe",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "battery": {
+      "name": "Batterie",
+      "desc": "Fait apparaître un éclair sur votre corps lorsqu'un ennemi le frappe."
+    },
+    "stickbug_egg": {
+      "name": "Œuf de phasme",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "plank": {
+      "name": "Planche",
+      "desc": "Inflige 100x plus de dégâts aux projectiles ennemis."
+    },
+    "icicle": {
+      "name": "Glaçon",
+      "desc": "Gèle les ennemis."
+    },
+    "dice": {
+      "name": "Dé",
+      "desc": "A 7,5% de chances d'infliger 69x dégâts. Le taux est affecté par le Trèfle."
+    },
+    "cryo_bomb": {
+      "name": "Cryo Bombe",
+      "desc": "Gèle les ennemis proches lorsqu'elle explose."
+    },
+    "clover": {
+      "name": "Trèfle",
+      "desc": "Vous porte chance."
+    },
+    "blueberries": {
+      "name": "Myrtilles",
+      "desc": "Les congeler les a rendues très dures."
+    },
+    "frost": {
+      "name": "Givre",
+      "desc": "Air froid qui peut traverser l'armure de vos ennemis et les ralentir."
+    },
+    "snowball": {
+      "name": "Boule de neige",
+      "desc": "Une boule de bonhomme de neige qui traverse le gilet de vos ennemis."
+    },
+    "snowflake": {
+      "name": "Flocon de neige",
+      "desc": "Il jaillit lorsqu'il est cassé."
+    },
+    "amethyst": {
+      "name": "Améthyste",
+      "desc": "Pierre précieuse très pointue mais cassante"
+    },
+    "snowbush_egg": {
+      "name": "Œuf d'arbrisseau de neige",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "snow_stick": {
+      "name": "Bâton de neige",
+      "desc": "Invoque le givre mortel."
+    },
+    "ice_cube_egg": {
+      "name": "Œuf de glaçon",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "arctic_centipede_egg": {
+      "name": "Œuf de mille-pattes arctique",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "arctic_spider_egg": {
+      "name": "Œuf d'araignée arctique",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "ice_dragon_egg": {
+      "name": "Œuf de dragon de glace",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "tick_egg": {
+      "name": "Œuf de tique",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "ice_rose": {
+      "name": "Rose de glace",
+      "desc": "Vous soigne lorsqu'elle est consommée, mais vous donne aussi du givre."
+    },
+    "torch": {
+      "name": "Torche",
+      "desc": "Élimine passivement le givre de votre fleur au fil du temps."
+    },
+    "water_stick": {
+      "name": "Bâton d'eau",
+      "desc": "Invoque des tornades sous-marines, même hors de l'eau."
+    },
+    "urchin_egg": {
+      "name": "Œuf d'oursin",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "volcano_egg": {
+      "name": "Œuf de volcan",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "spikeball": {
+      "name": "Boule à pointes",
+      "desc": "De nombreux missiles liés par un seul lien faible, les missiles voleraient partout si ce lien venait à se briser..."
+    },
+    "needle": {
+      "name": "Aiguille",
+      "desc": "Très pointue mais très fragile, elle est aussi empoisonnée"
+    },
+    "bubble_bomb": {
+      "name": "Bombe à bulles",
+      "desc": "Explose et pousse un peu trop vos ennemis."
+    },
+    "obsidian": {
+      "name": "Obsidienne",
+      "desc": "Extrêmement durable, mais aussi très fragile en même temps."
+    },
+    "magma": {
+      "name": "Magma",
+      "desc": "Une roche très chaude."
+    },
+    "fire_bomb": {
+      "name": "Bombe incendiaire",
+      "desc": "L'explosion enflamme vos ennemis."
+    },
+    "ice_hornet_egg": {
+      "name": "Œuf de frelon de glace",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "frozen_mark": {
+      "name": "Marque gelée",
+      "desc": "Envoie une petite fleur morte en Antarctique"
+    },
+    "coffee": {
+      "name": "Café",
+      "desc": "Vous donne un boost de vitesse temporaire lorsqu'il est consommé."
+    },
+    "chromosome": {
+      "name": "Chromosome",
+      "desc": "Soigne vos pétales au fil du temps."
+    },
+    "antibody": {
+      "name": "Anticorps",
+      "desc": "Diminue l'armure de l'ennemi"
+    },
+    "hemoglobin": {
+      "name": "Hémoglobine",
+      "desc": "Augmente la guérison causée par les pétales de guérison"
+    },
+    "chloroplast": {
+      "name": "Chloroplaste",
+      "desc": "Augmente la régénération du bouclier."
+    },
+    "sugar": {
+      "name": "Sucre",
+      "desc": "Très sucré"
+    },
+    "pill": {
+      "name": "Pilule",
+      "desc": "Soigne le cancer et vous donne des soins."
+    },
+    "dna": {
+      "name": "ADN",
+      "desc": "Vous donne une petite chance d'augmenter la rareté de votre familier. Affecte tous les œufs jusqu'à sa rareté. Par exemple, un Super Œuf qui engendre une Fourmi Ultra + ADN Super = Chance d'engendrer une Fourmi Super. Le taux est affecté par le trèfle."
+    },
+    "virus_egg": {
+      "name": "Œuf de Virus",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "red_blood_cell_egg": {
+      "name": "Œuf de Globule Rouge",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "bacteria_egg": {
+      "name": "Œuf de Bactérie",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "bacteriophage_egg": {
+      "name": "Œuf de Bactériophage",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "cancer_egg": {
+      "name": "Œuf de Cancer",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "parasite_egg": {
+      "name": "Œuf de Parasite",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "cancer": {
+      "name": "Cancer",
+      "desc": "Divise les mobs de la même rareté lorsqu'ils meurent."
+    },
+    "white_blood_cell_egg": {
+      "name": "Œuf de Globule Blanc",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "lotus": {
+      "name": "Lotus",
+      "desc": "Réduit le poison."
+    },
+    "ice": {
+      "name": "Glace",
+      "desc": "Réduit le feu."
+    },
+    "atom_egg": {
+      "name": "Œuf d'Atome",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "snake_egg": {
+      "name": "Œuf de Serpent",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "slime": {
+      "name": "Slime",
+      "desc": "Berk, c'est tellement collant"
+    },
+    "turtle_egg": {
+      "name": "Œuf de Tortue",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "hel_hive_egg": {
+      "name": "Œuf de Ruche Infernale",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "hel_honey": {
+      "name": "Miel Infernal",
+      "desc": "Transforme les cases de miel en cases chaudes."
+    },
+    "scar": {
+      "name": "Cicatrisation",
+      "desc": "Très mortel mais vous téléporte également à un endroit aléatoire."
+    },
+    "crystal_leaf": {
+      "name": "Feuille de Cristal",
+      "desc": "Soigne passivement vos familiers."
+    },
+    "fossil_egg": {
+      "name": "Œuf de Fossile",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "rattlesnake_egg": {
+      "name": "Œuf de Serpent à Sonnettes",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "rattle": {
+      "name": "Sonnette",
+      "desc": "Skibidi petal dop dop oui oui"
+    },
+    "cicada_egg": {
+      "name": "Œuf de Cigale",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "snowman_egg": {
+      "name": "Œuf de Bonhomme de Neige",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "carrot": {
+      "name": "Carotte",
+      "desc": "Quelqu'un m'a dit que c'était bon pour les yeux, mais quand j'en ai mis, ça m'a fait très mal"
+    },
+    "igloo_egg": {
+      "name": "Œuf d'Igloo",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "rain_frog_egg": {
+      "name": "Œuf de Grenouille des Pluies",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "disc": {
+      "name": "Disque",
+      "desc": "Réduit les dégâts entrants."
+    },
+    "mimic": {
+      "name": "Mimique",
+      "desc": "Il imite le pétale que vous avez juste à côté."
+    },
+    "scythe": {
+      "name": "Faux",
+      "desc": "Un long objet pointu. Plus vous avez de pétales équipés, plus il devient faible."
+    },
+    "corruption": {
+      "name": "Corruption",
+      "desc": "Vous devenez corrompu et pouvez blesser d'autres fleurs et elles peuvent vous blesser."
+    },
+    "moon": {
+      "name": "Lune",
+      "desc": "Pétale très gros, pourrait vous protéger des monstres"
+    },
+    "pearl": {
+      "name": "Perle",
+      "desc": "Laissez-la sur le sol et regardez les monstres trébucher dessus"
+    },
+    "orange": {
+      "name": "Orange",
+      "desc": "Elles sont savoureuses, mais tous les monstres y sont allergiques"
+    },
+    "dizzy": {
+      "name": "Vertige",
+      "desc": "Vous donne le vertige, mais augmente les dégâts de vos pétales."
+    },
+    "illuminati_egg": {
+      "name": "Œuf d'Illuminati",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "black_hole_egg": {
+      "name": "Œuf de Trou Noir",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "gamma_ray": {
+      "name": "Rayon Gamma",
+      "desc": "moment de rayon"
+    },
+    "troll_egg": {
+      "name": "Œuf de Troll",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "horn": {
+      "name": "Corne",
+      "desc": "Augmente les dégâts de vos familiers mais les rend également plus lents."
+    },
+    "ufo_egg": {
+      "name": "Œuf d'OVNI",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "orb": {
+      "name": "Orbe",
+      "desc": "Il y a beaucoup de technologie extraterrestre avancée là-dedans, je me demande ce que ça fait..."
+    },
+    "alien_egg": {
+      "name": "Œuf d'Alien",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "angel_egg": {
+      "name": "Œuf d'ange",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "momy_egg": {
+      "name": "Œuf de maman",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "mirror": {
+      "name": "Miroir",
+      "desc": "Reflète les missiles jusqu'à rareté+1. Les dégâts des missiles de rareté supérieure sont réduits de 95 %. Par exemple, un miroir ultra peut refléter le missile du Super Hornet, mais ses dégâts seront réduits de 95 %."
+    },
+    "comb": {
+      "name": "Peigne",
+      "desc": "Dommage que la fleur soit chauve"
+    },
+    "ring": {
+      "name": "Anneau",
+      "desc": "L'anneau de Zauron."
+    },
+    "triangle": {
+      "name": "Triangle",
+      "desc": "A la capacité de repérer les faiblesses de chaque monstre en infligeant tous les types de dégâts"
+    },
+    "dvd": {
+      "name": "DVD",
+      "desc": "Contient des images rares et inédites d'extraterrestres."
+    },
+    "eyeball": {
+      "name": "Globe oculaire",
+      "desc": "Un œil omniscient qui fait que vos missiles visent automatiquement la cible la plus proche."
+    },
+    "zodiac": {
+      "name": "Zodiaque",
+      "desc": "Augmente le rechargement de vos pétales, mais très puissant."
+    },
+    "ghost_egg": {
+      "name": "Œuf de fantôme",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "gravestone_egg": {
+      "name": "Œuf de pierre tombale",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "balloon": {
+      "name": "Ballon",
+      "desc": "Vous fait flotter vers le haut."
+    },
+    "void_mark": {
+      "name": "Marque du Vide",
+      "desc": "Envoie une petite fleur morte mignonne dans le royaume astral."
+    },
+    "plasma": {
+      "name": "Plasma",
+      "desc": "État de la matière très chaud."
+    },
+    "quantum": {
+      "name": "Quantique",
+      "desc": "Change la forme de votre orbite."
+    },
+    "claw": {
+      "name": "Griffe",
+      "desc": "Inflige 5x plus de dégâts lorsque la santé de l'ennemi est supérieure à 80 %."
+    },
+    "electric_eel_egg": {
+      "name": "Œuf d'anguille électrique",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "thorn": {
+      "name": "Épine",
+      "desc": "Un missile chauffé qui se divise"
+    },
+    "blood_scythe": {
+      "name": "Faux de sang",
+      "desc": "Pas n'importe quelle faux, elle est couverte de sang et ne s'affaiblit pas"
+    },
+    "eye_egg": {
+      "name": "Œuf d'œil",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "square": {
+      "name": "Carré",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "target_mummy_egg": {
+      "name": "Œuf de momie cible",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "yuan": {
+      "name": "Yuan",
+      "desc": "La monnaie du continent."
+    },
+    "bitcoin": {
+      "name": "Bitcoin",
+      "desc": "Créé par Satoshi Nakamoto."
+    },
+    "dollar": {
+      "name": "Dollar",
+      "desc": "Pourquoi ne puis-je pas l'utiliser dans la vraie vie ?"
+    },
+    "fries": {
+      "name": "Frites",
+      "desc": "Vous avez 69 appels manqués de McDonalds."
+    },
+    "emerald": {
+      "name": "Émeraude",
+      "desc": "Vous donne plus d'XP des monstres lorsqu'ils sont touchés par ce cristal."
+    },
+    "sapphire": {
+      "name": "Saphir",
+      "desc": "Fait tomber tous vos pétales de la même rareté sur le sol."
+    },
+    "candlestick": {
+      "name": "Chandelier",
+      "desc": "Il peut soit guérir toutes vos luttes, soit vous tuer. Soyez prudent !"
+    },
+    "ruby": {
+      "name": "Rubis",
+      "desc": "Donne à la foudre la capacité de frapper le même ennemi plusieurs fois."
+    },
+    "diamond": {
+      "name": "Diamant",
+      "desc": "Il se brise lorsqu'il est cassé."
+    },
+    "topaz": {
+      "name": "Topaze",
+      "desc": "Vous donne de l'armure."
+    },
+    "citron": {
+      "name": "Citron",
+      "desc": "Augmente la taille de vos pétales."
+    },
+    "quartz": {
+      "name": "Quartz",
+      "desc": "Donne à vos pétales jusqu'à la même rareté une chance de sauter le rechargement."
+    },
+    "opal": {
+      "name": "Opale",
+      "desc": "Donne à tous vos pétales de la même rareté une chance d'infliger des dégâts supplémentaires."
+    },
+    "relic": {
+      "name": "Relique",
+      "desc": "Répartit les dégâts entre les autres porteurs de reliques de votre équipe."
+    },
+    "uranium": {
+      "name": "Uranium",
+      "desc": "Un élément radioactif qui pourrait provoquer des infections très mortelles."
+    },
+    "plutonium": {
+      "name": "Plutonium",
+      "desc": "Un élément radioactif capable de provoquer des brûlures très graves."
+    },
+    "lithium": {
+      "name": "Lithium",
+      "desc": "Se trouve dans vos batteries."
+    },
+    "tesla_coil_egg": {
+      "name": "Œuf de bobine Tesla",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "snail": {
+      "name": "Escargot",
+      "desc": "Il fait tournoyer votre orbite."
+    },
+    "snail_egg": {
+      "name": "Œuf d'escargot",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "iodine": {
+      "name": "Iode",
+      "desc": "Gardez vos comprimés d'iode à portée de main hehe."
+    },
+    "chilly": {
+      "name": "Piment",
+      "desc": "À éviter si vous souffrez de RGO."
+    },
+    "tomato": {
+      "name": "Tomate",
+      "desc": "Elle devient plus forte avec le temps."
+    },
+    "banana": {
+      "name": "Banane",
+      "desc": "Elle colle à ses ennemis."
+    },
+    "stem_cell": {
+      "name": "Cellule Souche",
+      "desc": "Elle peut régénérer vos animaux de compagnie jusqu'à la même rareté lorsque leur santé tombe en dessous de 66 % ou 33 %. Affecté par le Trèfle."
+    },
+    "stem_cell_egg": {
+      "name": "Œuf de Cellule Souche",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "barrel_egg": {
+      "name": "Œuf de Baril",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "acid": {
+      "name": "Acide",
+      "desc": "HCL collecté dans divers estomacs juste pour les fleurs."
+    },
+    "lava": {
+      "name": "Lave",
+      "desc": "Substance chaude et fondue collectée lors d'une éruption volcanique."
+    },
+    "corium": {
+      "name": "Corium",
+      "desc": "Contrebande du réacteur 4 de Tchernobyl..."
+    },
+    "nitrogen": {
+      "name": "Azote",
+      "desc": "Azote liquide. Très froid, il gèle vos ennemis."
+    },
+    "landmine": {
+      "name": "Mine Terrestre",
+      "desc": "Vous pouvez les planter sur le sol. Des choses amusantes se produisent quand ils marchent dessus hehe"
+    },
+    "blood": {
+      "name": "Sang",
+      "desc": "Il a un goût métallique."
+    },
+    "rna": {
+      "name": "ARN",
+      "desc": "Fait bouger vos animaux de compagnie plus vite."
+    },
+    "fan": {
+      "name": "Ventilateur",
+      "desc": "Réduit le rythme de votre combustion."
+    },
+    "graphite": {
+      "name": "Graphite",
+      "desc": "Augmente la radioactivité de vos pétales."
+    },
+    "capacitor": {
+      "name": "Condensateur",
+      "desc": "Augmente les rebonds de vos éclairs jusqu'à la même rareté."
+    },
+    "koban": {
+      "name": "Koban",
+      "desc": "Ancienne pièce japonaise. Gardez-la en sécurité, très rare !"
+    },
+    "cucumber": {
+      "name": "Concombre",
+      "desc": "Bon pour la perte de poids."
+    },
+    "oxygen": {
+      "name": "Oxygène",
+      "desc": "Augmente la durée de combustion de vos ennemis."
+    },
+    "cyanide": {
+      "name": "Cyanure",
+      "desc": "Augmente la durée du poison des entités qu'il touche."
+    },
+    "fusion": {
+      "name": "Fusion",
+      "desc": "Fusionne les progénitures du pétale juste à côté jusqu'à la même rareté en un seul pétale plus fort. Par exemple : Si vous avez Super Fusion et une Super Lumière juste à côté avec plusieurs particules plus faibles, vous obtiendrez une seule Super Lumière plus forte."
+    },
+    "fission": {
+      "name": "Fission",
+      "desc": "Divise le pétale juste à côté jusqu'à la même rareté en plusieurs progénitures. Par exemple : Si vous avez Super Fission et un Super Cactus placé juste à côté, vous obtiendrez 2 Super Cactus plus faibles. Si vous avez Super Lumière avec 6 progénitures, vous aurez 12 progénitures."
+    },
+    "nuke_egg": {
+      "name": "Œuf Nucléaire",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "cross": {
+      "name": "Croix",
+      "desc": "Elle vous téléporte là où elle tombe lorsque vous appuyez sur votre bouton droit de la souris."
+    },
+    "digger_egg": {
+      "name": "Œuf de Foreur",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "spider_digger_egg": {
+      "name": "Œuf de Foreur Araignée",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "splitter": {
+      "name": "Diviseur",
+      "desc": "Divise votre orbite de pétale en plusieurs orbites. Tous les pétales placés juste à côté vont dans la nouvelle orbite. L'effet s'accumule et l'utilisation de plus de diviseurs divisera encore plus l'orbite."
+    },
+    "nuke": {
+      "name": "Nucléaire",
+      "desc": "Il crée de multiples explosions."
+    },
+    "gunpowder": {
+      "name": "Poudre à Canon",
+      "desc": "Inflige 5x plus de dégâts lorsque votre ennemi brûle."
+    },
+    "compass": {
+      "name": "Boussole",
+      "desc": "Fait pointer votre orbite vers votre ligne de mouvement."
+    },
+    "dark_matter": {
+      "name": "Matière Noire",
+      "desc": "Matière invisible qui peut former des lacunes dans votre orbite de pétale."
+    },
+    "hel_digger_egg": {
+      "name": "Œuf de Foreur Hel",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "glass": {
+      "name": "Verre",
+      "desc": "Il inflige des dégâts toutes les 1 secondes."
+    },
+    "grave_digger_egg": {
+      "name": "Œuf de Fossoyeur",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "shovel": {
+      "name": "Pelle",
+      "desc": "Vous permet d'aller sous terre et de rencontrer des vers."
+    },
+    "sandstone_egg": {
+      "name": "Œuf de Grès",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "marble": {
+      "name": "Marbre",
+      "desc": "Il tombe et roule sur le sol et inflige des dégâts chaque seconde."
+    },
+    "trident": {
+      "name": "Trident",
+      "desc": "Il se brise si quelqu'un d'autre utilise un Trident plus élevé sur le même serveur."
+    },
+    "bandages": {
+      "name": "Bandages",
+      "desc": "Il faut couvrir toutes ces blessures. Pourrait être utile avec la Faux."
+    },
+    "talisman": {
+      "name": "Talisman",
+      "desc": "Fait en sorte que votre fleur évite les dégâts."
+    },
+    "job_application": {
+      "name": "Demande d'Emploi",
+      "desc": "Fait perdre son aggro à un mob pendant 5s. Ne gaspillez pas votre talent, postulez pour réparer des tuyaux rn !"
+    },
+    "termite_overmind_egg": {
+      "name": "Œuf de Termite Surintendant",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "baby_termite_egg": {
+      "name": "Œuf de termite bébé",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "worker_termite_egg": {
+      "name": "Œuf de termite ouvrier",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "soldier_termite_egg": {
+      "name": "Œuf de termite soldat",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "termite_hole_egg": {
+      "name": "Œuf de trou de termite",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "magic_rose": {
+      "name": "Rose magique",
+      "desc": "Absorbe la magie de votre environnement."
+    },
+    "magic_leaf": {
+      "name": "Feuille magique",
+      "desc": "Absorbe la magie de votre environnement."
+    },
+    "magic_cactus": {
+      "name": "Cactus magique",
+      "desc": "Augmente votre capacité maximale de santé et de mana."
+    },
+    "magic_missile": {
+      "name": "Missile magique",
+      "desc": "Cher mais rapide."
+    },
+    "magic_stinger": {
+      "name": "Dard magique",
+      "desc": "Fait très mal, mais nécessite beaucoup de magie pour apparaître."
+    },
+    "magic_fang": {
+      "name": "Croc magique",
+      "desc": "Absorbe la magie des souffrances."
+    },
+    "magic_blood_stinger": {
+      "name": "Dard de sang magique",
+      "desc": "La magie de ce pétale affecte également son utilisateur."
+    },
+    "magic_wing": {
+      "name": "Aile magique",
+      "desc": "Vole plus loin et se duplique."
+    },
+    "magic_pea": {
+      "name": "Pois magique",
+      "desc": "Saturé de sorts violents et de magie"
+    },
+    "magic_grapes": {
+      "name": "Raisins magiques",
+      "desc": "La magie noire alimente la tempête qui se déroule à l'intérieur."
+    },
+    "magic_blueberries": {
+      "name": "Myrtilles magiques",
+      "desc": "Maudit pour brûler éternellement tout en étant gelé."
+    },
+    "magic_lightning": {
+      "name": "Éclair magique",
+      "desc": "La magie a augmenté sa capacité à rechercher des cibles."
+    },
+    "magic_hel_lightning": {
+      "name": "Éclair Hel magique",
+      "desc": "La magie a augmenté sa capacité à rechercher des cibles, et à les enflammer aussi..."
+    },
+    "magic_usain_bolt": {
+      "name": "Usain Bolt magique",
+      "desc": "La magie a augmenté sa capacité à rechercher des cibles, avec du poison supplémentaire."
+    },
+    "magic_banana": {
+      "name": "Banane magique",
+      "desc": "Une banane magique pour un singe magique."
+    },
+    "magic_mimic": {
+      "name": "Mimique magique",
+      "desc": "Il imite le pétale placé juste à côté en sa variante magique. Par exemple : Super Mimique magique + Super Rose = Super Rose magique + Super Rose"
+    },
+    "magic_bomb": {
+      "name": "Bombe magique",
+      "desc": "La magie s'avère être assez explosive."
+    },
+    "magic_gas_bomb": {
+      "name": "Bombe à gaz magique",
+      "desc": "La magie s'avère être assez explosive, et lorsqu'elle est mélangée aux bons produits chimiques, elle est également toxique"
+    },
+    "magic_fire_bomb": {
+      "name": "Bombe incendiaire magique",
+      "desc": "La magie s'avère être très inflammable et encore plus explosive."
+    },
+    "magic_bubble_bomb": {
+      "name": "Bombe à bulles magique",
+      "desc": "Les puissants gaz magiques créent une énorme onde de choc."
+    },
+    "magic_cryo_bomb": {
+      "name": "Cryobombe magique",
+      "desc": "En utilisant la magie, l'explosion des bombes gèle les ennemis pendant longtemps."
+    },
+    "magic_rocket": {
+      "name": "Roquette magique",
+      "desc": "La magie s'avère être assez explosive."
+    },
+    "magic_orange": {
+      "name": "Orange magique",
+      "desc": "Ces oranges ont été maudites pour ne pas être oranges, elles sont maintenant magenta..."
+    },
+    "magic_hemoglobin": {
+      "name": "Hémoglobine magique",
+      "desc": "Au lieu de transporter de l'oxygène dans votre corps, elle transporte la magie à travers vos pétales"
+    },
+    "holy_water": {
+      "name": "Eau bénite",
+      "desc": "Nettoie un monstre de ses \"péchés\" et lui fait perdre son agro."
+    },
+    "magic_starfish": {
+      "name": "Étoile de mer magique",
+      "desc": "Cette étoile de mer magique n'utilisera sa magie que sur ceux qui ont moins de 50 % de mana"
+    },
+    "magic_square": {
+      "name": "Carré magique",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "magic_sponge": {
+      "name": "Éponge magique",
+      "desc": "Drain lentement votre mana consommé."
+    },
+    "magic_hel_missile": {
+      "name": "Missile Hel magique",
+      "desc": "Utilise plus de magie pour enflammer le missile, de façon permanente."
+    },
+    "magic_viper": {
+      "name": "Vipère magique",
+      "desc": "Le missile est fabriqué à partir d'uranium magique, ce qui le rend très toxique."
+    },
+    "magic_electron_missile": {
+      "name": "Missile électronique magique",
+      "desc": "Il y a beaucoup de magie chaotique à l'intérieur de ce missile."
+    },
+    "magic_scythe": {
+      "name": "Faux magique",
+      "desc": "Un long objet magique qui convertit toute votre magie en dégâts."
+    },
+    "termite_digger_egg": {
+      "name": "Œuf de foreur de termites",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "magic_soil": {
+      "name": "Terre magique",
+      "desc": "Vous rend très gros, lourd et capable de transporter beaucoup plus de magie que d'habitude."
+    },
+    "magic_dahlia": {
+      "name": "Dahlia magique",
+      "desc": "Absorbe la magie beaucoup plus rapidement."
+    },
+    "magic_mark": {
+      "name": "Marque magique",
+      "desc": "Envoie une petite fleur morte dans n'importe quel biome aléatoire en utilisant la magie."
+    },
+    "magic_cotton": {
+      "name": "Coton magique",
+      "desc": "Absorbe les dégâts subis mais consomme du mana à un rythme fixe."
+    },
+    "magic_sunflower": {
+      "name": "Tournesol magique",
+      "desc": "Il tombe au sol et recueille la magie pour vous..."
+    },
+    "magic_cutter": {
+      "name": "Coupeur magique",
+      "desc": "Augmente les dégâts de votre corps."
+    },
+    "magic_golden_leaf": {
+      "name": "Feuille d'or magique",
+      "desc": "Réduit la magie nécessaire pour utiliser les pétales magiques."
+    },
+    "magic_battery": {
+      "name": "Batterie magique",
+      "desc": "Elle stocke votre mana et vous le rembourse avec un intérêt de 200 % après un certain temps."
+    },
+    "magic_bubble": {
+      "name": "Bulle magique",
+      "desc": "Elle éclate et vous propulse dans votre ligne de mouvement en utilisant la magie."
+    },
+    "magic_corruption": {
+      "name": "Corruption magique",
+      "desc": "Vous corrompt instantanément par le pouvoir de la magie."
+    },
+    "magic_stick": {
+      "name": "Bâton magique",
+      "desc": "Il vole la magie des autres fleurs, qu'elles soient amies ou ennemies."
+    },
+    "magic_claw": {
+      "name": "Griffe magique",
+      "desc": "Inflige jusqu'à 5x les dégâts en fonction de votre réserve de mana. Si vous avez 50 % de mana, elle infligera 2,5x les dégâts, et ainsi de suite."
+    },
+    "magic_marble": {
+      "name": "Marbre magique",
+      "desc": "Ce marbre est déjà cassé, mais la magie le maintient ensemble... mais elle n'est pas très efficace pour cela."
+    },
+    "magic_salt": {
+      "name": "Sel magique",
+      "desc": "Il renvoie les dégâts à tous les ennemis proches en utilisant la magie, et pas seulement à l'agresseur."
+    },
+    "magic_relic": {
+      "name": "Relique magique",
+      "desc": "Répartit la consommation de magie entre les autres porteurs de reliques magiques au sein de votre équipe."
+    },
+    "shipwreck_egg": {
+      "name": "Œuf d'épave",
+      "desc": "Il peut éclore et engendrer quelque chose d'intéressant..."
+    },
+    "magic_fire": {
+      "name": "Feu magique",
+      "desc": "Applique une flamme magique auto-empilable sur l'ennemi."
+    },
+    "magic_gas": {
+      "name": "Gaz magique",
+      "desc": "Injecte à l'ennemi un venin magique auto-empilable."
+    },
+    "magic_yggdrasil": {
+      "name": "Yggdrasil magique",
+      "desc": "Vous êtes presque mort, mais il vous sauve en utilisant la magie."
+    }
+  },
+  "achievements": {
+    "rookie": {
+      "name": "Débutant",
+      "desc": "Jouer pendant 15 minutes."
+    },
+    "started": {
+      "name": "Démarrage...",
+      "desc": "Jouer pendant 1 heure."
+    },
+    "player": {
+      "name": "Joueur moyen",
+      "desc": "Jouer pendant 6 heures"
+    },
+    "gamer": {
+      "name": "Meilleur joueur",
+      "desc": "Jouer pendant 1 jour."
+    },
+    "week": {
+      "name": "vingt-quatre-sept",
+      "desc": "Jouer pendant 7 jours."
+    },
+    "month": {
+      "name": "Accro",
+      "desc": "Jouer pendant 30 jours."
+    },
+    "year": {
+      "name": "Bonne année !",
+      "desc": "Jouer pendant 365 jours."
+    },
+    "epic": {
+      "name": "Moment épique de joueur",
+      "desc": "Collecter 1 pétale épique."
+    },
+    "legendary": {
+      "name": "Légendaire",
+      "desc": "Collecter 1 pétale légendaire."
+    },
+    "mythic": {
+      "name": "Les mythes sont réels",
+      "desc": "Collecter 1 pétale mythique."
+    },
+    "ultra": {
+      "name": "Au-dessus des normies",
+      "desc": "Collecter un pétale ultra."
+    },
+    "super": {
+      "name": "Super pro",
+      "desc": "COllecter 5 super pétales."
+    },
+    "omega": {
+      "name": "OMEGA!!!!!",
+      "desc": "Collecter un pétale oméga."
+    },
+    "medic": {
+      "name": "Secouriste",
+      "desc": "Réanimer quelqu'un en utilisant un Yggdrasil."
+    },
+    "surgeon": {
+      "name": "Chirurgien",
+      "desc": "Réanimer 25 fleurs en utilisant Yggdrasil."
+    },
+    "angel": {
+      "name": "Ange",
+      "desc": "Réanimer 250 fleurs en utilisant Yggdrasil."
+    },
+    "god": {
+      "name": "Un omnipotent",
+      "desc": "Rencontrer un administrateur."
+    },
+    "killer": {
+      "name": "Tueur",
+      "desc": "Tuer 25 joueurs en utilisant la corruption."
+    },
+    "genocide": {
+      "name": "Génocide",
+      "desc": "Tuer 250 monstres"
+    },
+    "massacre": {
+      "name": "Massacre",
+      "desc": "Tuer 2500 monstres"
+    },
+    "holocaust": {
+      "name": "Halocauste",
+      "desc": "Tuer 10 000 monstres"
+    },
+    "solo": {
+      "name": "Solo",
+      "desc": "Tuer un monstre Super+ avec plus de 75 % de dégâts."
+    },
+    "money": {
+      "name": "Argent bien dépensé",
+      "desc": "Acheter des étoiles dans la boutique."
+    },
+    "makeup": {
+      "name": "Maquilleur",
+      "desc": "Acheter un skin dans la boutique."
+    },
+    "chat": {
+      "name": "Pas très bavard",
+      "desc": "Envoyer un message dans le chat."
+    },
+    "china": {
+      "name": "LA CHINE NUMÉRO 1 !!",
+      "desc": "Dire \"La Chine numéro 1\" 10 fois dans le chat."
+    },
+    "nazar": {
+      "name": "Les coléoptères Nazar",
+      "desc": "Détruire 5 coléoptères Nazar Ultra+."
+    },
+    "baby": {
+      "name": "Huile pour bébé",
+      "desc": "Détruire 5 fourmis bébé Ultra+."
+    },
+    "jeet": {
+      "name": "Top Jeet",
+      "desc": "Obtenir une Bugatti Super+."
+    },
+    "clown": {
+      "name": "Clown",
+      "desc": "Se transformer en clown."
+    },
+    "covid": {
+      "name": "Covid-69",
+      "desc": "Détruire 20 virus Ultra+."
+    },
+    "useless": {
+      "name": "Inutile",
+      "desc": "Obtenir du butin de 5 mobs Super+ sans leur infliger de dégâts."
+    },
+    "cicada": {
+      "name": "Cigale 3301",
+      "desc": "Détruire 10 cigales Ultra+."
+    },
+    "slaughter": {
+      "name": "Massacre",
+      "desc": "Tuer 50 000 mobs"
+    },
+    "annihilation": {
+      "name": "Annihilation",
+      "desc": "Tuer 250 000 mobs"
+    },
+    "destruction": {
+      "name": "La fin du monde",
+      "desc": "Tuer 10 000 000 de mobs"
+    },
+    "racist": {
+      "name": "Raciste",
+      "desc": "Tuer 25 000 mobs d’une même espèce"
+    },
+    "murder": {
+      "name": "Meurtre",
+      "desc": "Tuer un joueur en utilisant la corruption."
+    },
+    "homicide": {
+      "name": "Homicide",
+      "desc": "Tuer 500 joueurs en utilisant la corruption. Très méchant."
+    },
+    "level50": {
+      "name": "Niveau supérieur !",
+      "desc": "Atteindre le niveau 50"
+    },
+    "level100": {
+      "name": "Ça s’améliore",
+      "desc": "Atteindre le niveau 100"
+    },
+    "level150": {
+      "name": "Presque pro",
+      "desc": "Atteindre le niveau 150"
+    },
+    "level200": {
+      "name": "Pro !",
+      "desc": "Atteindre le niveau 200"
+    },
+    "level250": {
+      "name": "Nolife",
+      "desc": "Atteindre le niveau 250"
+    },
+    "level300": {
+      "name": "Le meilleur de tous",
+      "desc": "Atteindre le niveau 300"
+    },
+    "cursed": {
+      "name": "Celui-ci a l’air bizarre...",
+      "desc": "Tuer un mob maudit. Ils apparaissent 1 fois sur 2 000."
+    },
+    "cursed2": {
+      "name": "Qui les a maudits ?",
+      "desc": "Tuer 25 mobs maudits."
+    },
+    "shiny": {
+      "name": "Oh, brillant !",
+      "desc": "Tuer un mob brillant. Ils apparaissent 1 fois sur 10 000."
+    },
+    "shiny2": {
+      "name": "Voir des étoiles...",
+      "desc": "Tuer 25 mobs brillants."
+    },
+    "corrupt": {
+      "name": "Code corrompu",
+      "desc": "Tuer un mob corrompu. Ils apparaissent 1 fois sur 50 000."
+    },
+    "corrupt2": {
+      "name": "Error420",
+      "desc": "Tuer 25 mobs corrompus."
+    }
+  },
+  "skins": {
+    "derp": {
+      "name": "Derp",
+      "desc": "Il n’y a pas une seule pensée entre ces yeux"
+    },
+    "cursed": {
+      "name": "Maudit",
+      "desc": "A été corrompu par des forces supérieures"
+    },
+    "square": {
+      "name": "Carré",
+      "desc": "Quelle est cette forme étrangère"
+    },
+    "lifeless": {
+      "name": "Sans vie",
+      "desc": "... où est passé le visage ?"
+    },
+    "sun": {
+      "name": "Soleil",
+      "desc": "Voici le soleil"
+    },
+    "radioactive": {
+      "name": "Radioactif",
+      "desc": "Aime manger du minerai d’uranium"
+    },
+    "blended": {
+      "name": "Mélangé",
+      "desc": "A subi une chirurgie esthétique du visage sur Temu"
+    },
+    "cactus": {
+      "name": "Cactus",
+      "desc": "Pas vraiment une fleur, n’est-ce pas"
+    },
+    "ghost": {
+      "name": "Fantôme",
+      "desc": "Pas très effrayant"
+    },
+    "cyclops": {
+      "name": "Cyclope",
+      "desc": "où sont passés les autres yeux"
+    },
+    "angled": {
+      "name": "Angulaire",
+      "desc": "Il incline la tête, si c’est possible"
+    },
+    "small_face": {
+      "name": "Petit visage",
+      "desc": "A-t-il un petit visage ou un grand corps ?"
+    },
+    "frozen": {
+      "name": "Gelé",
+      "desc": "Libérée, délivrée..."
+    },
+    "omega_flowey": {
+      "name": "Omega Flowey",
+      "desc": "Skin rose"
+    },
+    "star2": {
+      "name": "Étoile2",
+      "desc": "Vous avez acheté 1 étoile pour 7 500 étoiles, ça vaut le coup."
+    },
+    "red_star": {
+      "name": "Étoile rouge",
+      "desc": "Motifs très intéressants."
+    },
+    "clover": {
+      "name": "Trèfle",
+      "desc": "Chanceux !"
+    },
+    "rocker": {
+      "name": "Rockeur",
+      "desc": "Ce skin est génial !"
+    },
+    "dark_mode": {
+      "name": "Mode sombre",
+      "desc": "Qui a éteint les lumières"
+    },
+    "megamind": {
+      "name": "Megamind",
+      "desc": "Il réfléchit"
+    },
+    "pentagon": {
+      "name": "Pentagone",
+      "desc": "Une forme encore plus inconnue"
+    },
+    "mouse": {
+      "name": "Souris",
+      "desc": "Comment utilise-t-elle des pétales"
+    },
+    "one_eye": {
+      "name": "Un œil",
+      "desc": "Rétrogradation du troisième œil."
+    },
+    "complex": {
+      "name": "Complexe",
+      "desc": "Très pointu, très artificiel"
+    },
+    "emotional": {
+      "name": "Émotionnel",
+      "desc": "Se met très en colère et très triste."
+    },
+    "herobrine": {
+      "name": "Herobrine",
+      "desc": "On pensait l'avoir supprimé..."
+    },
+    "womp": {
+      "name": "Womp",
+      "desc": "A une crise de nerfs."
+    },
+    "microsoft_paint_flower": {
+      "name": "Fleur Microsoft Paint",
+      "desc": "Qui a dessiné ça ? Un enfant de 5 ans ??"
+    },
+    "50_shades_of_flower": {
+      "name": "50 Nuances de Fleur",
+      "desc": "Quelqu'un devrait faire un film là-dessus..."
+    },
+    "negative": {
+      "name": "Négatif",
+      "desc": "Fleur de réalité alternative."
+    },
+    "smirk": {
+      "name": "Sourire narquois",
+      "desc": "Fleur flippante."
+    },
+    "boba": {
+      "name": "Boba",
+      "desc": "N'explose pas à la mort."
+    },
+    "sawblade": {
+      "name": "Lame de scie",
+      "desc": "Aïe ! Piquant."
+    },
+    "yellow": {
+      "name": "Jaune",
+      "desc": "C'est jaune asf"
+    },
+    "rock": {
+      "name": "Roche",
+      "desc": "Un caillou de la mer"
+    },
+    "boo": {
+      "name": "Bouh",
+      "desc": "Effrayant, n'est-ce pas ?"
+    },
+    "sus": {
+      "name": "Sus",
+      "desc": "Octosus"
+    },
+    "pacman": {
+      "name": "Pacman",
+      "desc": "Ne nous envoyez pas de DMCA svp."
+    },
+    "chicken": {
+      "name": "Poulet",
+      "desc": "Pond des œufs de poule antigravité en forme d'œuf."
+    },
+    "black": {
+      "name": "Noir",
+      "desc": "D'Afrique"
+    },
+    "egg": {
+      "name": "Oeuf",
+      "desc": "Pondue par un ckicken extraterrestre, cuisinée par nous."
+    },
+    "retard": {
+      "name": "Retard",
+      "desc": "lol"
+    },
+    "trader": {
+      "name": "Marchand",
+      "desc": "Commerce des humains."
+    },
+    "clover2": {
+      "name": "Clover2",
+      "desc": "4chan ?"
+    },
+    "zatan": {
+      "name": "Zatan",
+      "desc": "Pointes sussy rouges et noires."
+    },
+    "amogus": {
+      "name": "Amogus",
+      "desc": "Un imposteur."
+    },
+    "brain_damage": {
+      "name": "Lésions cérébrales",
+      "desc": "Skin de développeur ??? WTF???"
+    },
+    "cactuser": {
+      "name": "Cactuser",
+      "desc": "Une plante du désert."
+    },
+    "sad": {
+      "name": "Triste",
+      "desc": "Très très triste."
+    },
+    "cake": {
+      "name": "Gâteau",
+      "desc": "Joyeux anniversaire !"
+    },
+    "green": {
+      "name": "Vert",
+      "desc": "Yoba easter egg ?"
+    },
+    "magma": {
+      "name": "Magma",
+      "desc": "Pris d'un volcan actif"
+    },
+    "derper": {
+      "name": "Derper",
+      "desc": "Skin de développeur 2 ??? WTF???"
+    },
+    "target_dummy": {
+      "name": "Mannequin d'entraînement",
+      "desc": "Sans émotion asf."
+    },
+    "mark": {
+      "name": "Mark",
+      "desc": "On se revoit en Enfer pour la suite."
+    },
+    "frog": {
+      "name": "Grenouille",
+      "desc": "Pepe la grenouille."
+    },
+    "goo": {
+      "name": "Goo",
+      "desc": "La goo blanche est bizarre."
+    },
+    "rectus": {
+      "name": "Rectus",
+      "desc": "Rouge + Cactus = Rectus"
+    },
+    "oval": {
+      "name": "Ovale",
+      "desc": "Pas un ovale"
+    },
+    "cute": {
+      "name": "Mignon",
+      "desc": "Adorable."
+    },
+    "omegasus": {
+      "name": "Omegasus",
+      "desc": "Bleu a l'air un peu sus."
+    },
+    "star": {
+      "name": "Étoile",
+      "desc": "Une étoile du ciel nocturne."
+    },
+    "rockstar": {
+      "name": "Rockstar",
+      "desc": "Ressemble plus au pétale."
+    },
+    "ufo": {
+      "name": "OVNI",
+      "desc": "A des extraterrestres à l'intérieur."
+    },
+    "red_spikes": {
+      "name": "Pointes rouges",
+      "desc": "Ça fait mal."
+    },
+    "sponge": {
+      "name": "Éponge",
+      "desc": "Lave la vaisselle."
+    },
+    "hexagon": {
+      "name": "Hexagone",
+      "desc": "Juste un polygone régulier."
+    },
+    "mech": {
+      "name": "Mech",
+      "desc": "Fleur mécanique."
+    },
+    "lightning": {
+      "name": "Foudre",
+      "desc": "Frappe !"
+    },
+    "inverted": {
+      "name": "Inversé",
+      "desc": "Retourné asf."
+    },
+    "poo": {
+      "name": "Caca",
+      "desc": "Skin de caca."
+    },
+    "sea_urchin": {
+      "name": "Oursin",
+      "desc": "j'ai oublié :skull:"
+    },
+    "long": {
+      "name": "Long",
+      "desc": "Effet secondaire de la presse hydraulique."
+    },
+    "blue": {
+      "name": "Bleu",
+      "desc": "Idiot asf"
+    },
+    "right-angle": {
+      "name": "Angle droit",
+      "desc": "Vous êtes tourné de 90 degrés."
+    },
+    "facist": {
+      "name": "Faciste",
+      "desc": "Noir & Blanc asf."
+    },
+    "faster": {
+      "name": "Plus vite",
+      "desc": "Expressions sussy."
+    },
+    "amobae": {
+      "name": "Amobae",
+      "desc": "Micro-organisme"
+    },
+    "melon": {
+      "name": "Melon",
+      "desc": "cocomelon"
+    },
+    "ant_hole": {
+      "name": "Trou de fourmi",
+      "desc": "Le trou d'une fourmi"
+    },
+    "eye": {
+      "name": "Oeil",
+      "desc": "L'œil qui voit tout de Flouron"
+    },
+    "roach": {
+      "name": "Cafard",
+      "desc": "Cafard"
+    },
+    "lava": {
+      "name": "Lave",
+      "desc": "Moment à 9999°C"
+    },
+    "rose": {
+      "name": "Rose",
+      "desc": "Une belle petite fleur"
+    },
+    "stupid": {
+      "name": "Stupide",
+      "desc": "Ça a l'air un peu stoopid"
+    },
+    "barbie": {
+      "name": "Barbie",
+      "desc": "Féminin"
+    },
+    "virus": {
+      "name": "Virus",
+      "desc": "Très contagieux"
+    },
+    "slanted": {
+      "name": "Incliné",
+      "desc": ":/"
+    },
+    "wloop": {
+      "name": "Wloop",
+      "desc": "Nous ne savons pas vraiment ce que c'est..."
+    },
+    "ara_ara": {
+      "name": "Ara Ara",
+      "desc": "Petite fleur mignonne"
+    },
+    "sirius": {
+      "name": "Sirius",
+      "desc": "L'étoile la plus brillante du ciel"
+    },
+    "acid": {
+      "name": "Acid",
+      "desc": "Ne causera pas de brûlures..."
+    },
+    "dark": {
+      "name": "Dark",
+      "desc": "Substance extrêmement sombre."
+    },
+    "nazar": {
+      "name": "Nazar",
+      "desc": "🧿🧿🧿🧿🧿"
+    },
+    "omega": {
+      "name": "Omega",
+      "desc": "La dernière rareté"
+    },
+    "goof": {
+      "name": "Goof",
+      "desc": "Apparaît assez idiot..."
+    },
+    "flower": {
+      "name": "Flower",
+      "desc": "Une fleur pour une fleur"
+    },
+    "banana": {
+      "name": "Banana",
+      "desc": "Un fruit long"
+    },
+    "potato": {
+      "name": "Potato",
+      "desc": "Fibreux"
+    },
+    "urchin": {
+      "name": "Urchin",
+      "desc": "Pris de la mer"
+    },
+    "fq69": {
+      "name": "fq69",
+      "desc": "Rose"
+    },
+    "gren": {
+      "name": "Gren",
+      "desc": "Touche de l'herbe"
+    },
+    "zurchin": {
+      "name": "Zurchin",
+      "desc": "Oursin plus beau"
+    },
+    "bacteria": {
+      "name": "Bacteria",
+      "desc": "Volé au monde microscopique"
+    },
+    "florr": {
+      "name": "Florr",
+      "desc": "Un vrai florr"
+    },
+    "alien": {
+      "name": "Alien",
+      "desc": "Moment extra-terrestre"
+    },
+    "avacado": {
+      "name": "Avacado",
+      "desc": "Un fruit"
+    },
+    "clown": {
+      "name": "Clown",
+      "desc": "Clown tueur."
+    },
+    "baby_ant": {
+      "name": "Baby Ant",
+      "desc": "Bébé fourmi de Diddy"
+    },
+    "reddit": {
+      "name": "Reddit",
+      "desc": "Moment de logo Reddit de qualité"
+    },
+    "wtf": {
+      "name": "WTF",
+      "desc": "Je n'ai aucune idée de ce que c'est"
+    },
+    "zatrix": {
+      "name": "Zatrix",
+      "desc": "Une fleur de la matrice"
+    },
+    "inception": {
+      "name": "Inception",
+      "desc": "Eye-ception"
+    },
+    "yin_yang": {
+      "name": "Yin Yang",
+      "desc": "69"
+    },
+    "angey": {
+      "name": "Angey",
+      "desc": "Oiseau en colère"
+    },
+    "blocked": {
+      "name": "Blocked",
+      "desc": "ACCÈS INTERDIT !"
+    },
+    "stewie": {
+      "name": "Stewie",
+      "desc": "Visage impassible"
+    },
+    "face": {
+      "name": "Face",
+      "desc": "Une tête humaine."
+    },
+    "peanut": {
+      "name": "Peanut",
+      "desc": "2 boules raymarchées juste pour vous."
+    },
+    "balls": {
+      "name": "Balls",
+      "desc": "OwO"
+    },
+    "tear": {
+      "name": "Tear",
+      "desc": "Des gouttes de sang coulent de l'œil."
+    },
+    "bigtus": {
+      "name": "Bigtus",
+      "desc": "C'est un grand cactus."
+    },
+    "stick": {
+      "name": "Stick",
+      "desc": "Il s'est cassé et est tombé d'un arbre."
+    },
+    "worm": {
+      "name": "Worm",
+      "desc": "Un long ver"
+    },
+    "relic": {
+      "name": "Relic",
+      "desc": "Contrebande d'un marchand de gemmes"
+    },
+    "tredor": {
+      "name": "Tredor",
+      "desc": "commerçant de nub"
+    },
+    "onion": {
+      "name": "Onion",
+      "desc": "Acheté en utilisant Tor :p"
+    },
+    "titan": {
+      "name": "Titan",
+      "desc": "Zeren Zeager"
+    },
+    "a-60": {
+      "name": "A-60",
+      "desc": "Un porteur de bombe"
+    },
+    "dwajl": {
+      "name": "Dwajl",
+      "desc": "Fabriqué par Dwajl"
+    },
+    "glitch": {
+      "name": "Glitch",
+      "desc": "Fleur Zyberpunk"
+    },
+    "bird": {
+      "name": "Bird",
+      "desc": "Ted aime les oiseaux"
+    },
+    "moon": {
+      "name": "Moon",
+      "desc": "Quand le solstice d'été a une pleine lune..."
+    },
+    "umbrella": {
+      "name": "Umbrella",
+      "desc": "La Reine Rouge a fait celui-ci."
+    },
+    "blades": {
+      "name": "Blades",
+      "desc": "Des lames vraiment très longues..."
+    },
+    "godrays": {
+      "name": "Godrays",
+      "desc": "Rayons du soleil."
+    },
+    "beam": {
+      "name": "Beam",
+      "desc": "Rayons divins très bons pour troller uwu"
+    },
+    "griffin": {
+      "name": "Griffin",
+      "desc": "Beaucoup plus grand et digne d'être trollé que vous ne le pensez..."
+    }
+  },
+  "objectKeys": {
+    "health": "Santé",
+    "damage": "Dégâts",
+    "boost": "Boost",
+    "swing": "Swing",
+    "heal": "Soigner",
+    "passiveHeal": "Soin passif",
+    "passiveHealBelow50": "Soin passif",
+    "passivePetHeal": "Soin passif pour animal",
+    "shield": "Bouclier",
+    "passiveShield": "Bouclier passif",
+    "poison": "Poison",
+    "orbitSpeed": "Vitesse d'orbite",
+    "lightningDamage": "Dégâts de foudre",
+    "lightningFireDamage": "Dégâts de foudre et de feu",
+    "lightningPoison": "Poison de foudre",
+    "lightningBounces": "Rebonds de foudre",
+    "webSize": "Taille de la toile",
+    "explosion": "Explosion",
+    "explosionSize": "Taille de l'explosion",
+    "explosionPoison": "Poison d'explosion",
+    "explosionFire": "Feu d'explosion",
+    "pickRange": "Portée de ramassage",
+    "damageReflection": "Réflexion des dégâts",
+    "extraVision": "Vision supplémentaire",
+    "extraRange": "Portée supplémentaire",
+    "despawnTime": "Temps de disparition",
+    "pet": "Animal",
+    "petSize": "Taille de l'animal",
+    "passiveBoost": "Boost passif",
+    "push": "Poussée",
+    "armor": "Armure",
+    "extraFlowerHealth": "Santé de fleur supplémentaire",
+    "flowerPoison": "Poison de fleur",
+    "slownessTime": "Temps de ralentissement",
+    "soakDamageTime": "Temps d'absorption des dégâts",
+    "honeyRange": "Portée du miel",
+    "honeyTileDamage": "Dégâts des cases de miel",
+    "honeyTilePoison": "Poison des cases de miel",
+    "honeyTileFire": "Feu des cases de miel",
+    "sendToBiome": "Envoyer au biome",
+    "flowerReloadFactor": "Facteur de rechargement de la fleur",
+    "armorDebuff": "Malus d'armure",
+    "flowerSpeed": "Vitesse de la fleur",
+    "fireDamage": "Dégâts de feu",
+    "firePoison": "Poison de feu",
+    "fireTime": "Durée du feu",
+    "flowerAcceleration": "Accélération de la fleur",
+    "agroRangeReduction": "Réduction de la portée d'aggro",
+    "agroRangeIncrease": "Augmentation de la portée d'aggro",
+    "flowerKnockedFactor": "Facteur de projection de la fleur",
+    "damageHealed": "Soins prodigués",
+    "selfDamage": "Auto-dommages",
+    "selfFireDamage": "Auto-dommages de feu",
+    "flowerBodyLightning": "Foudre corporelle de la fleur",
+    "freezeTime": "Durée de gel",
+    "explosionFreezeTime": "Durée de gel de l'explosion",
+    "explosionKnockback": "Repoussement de l'explosion",
+    "luck": "Chance",
+    "frost": "Givre",
+    "defrost": "Dégivrage",
+    "tempFlowerSpeed": "Vitesse temporaire de la fleur",
+    "tempFlowerSpeedFactor": "Facteur de vitesse temporaire de la fleur",
+    "subdivisionRates": "Taux de subdivision",
+    "cureCancer": "Guérir le cancer",
+    "petMutation": "Mutation de l'animal",
+    "passivePetalHeal": "Soins passifs des pétales",
+    "healBuff": "Buff de soins",
+    "shieldBuff": "Buff de bouclier",
+    "poisonReduction": "Réduction du poison",
+    "fireReduction": "Réduction du feu",
+    "cancer": "Cancer",
+    "orbit": "Orbite",
+    "boostUpwards": "Poussée vers le haut",
+    "pullReduction": "Réduction de l'attraction",
+    "mobXpFactor": "Facteur d'XP des monstres",
+    "fullHealRate": "Taux de guérison complète",
+    "extraPetalSize": "Taille supplémentaire des pétales",
+    "flowerArmor": "Armure de la fleur",
+    "petalCritical": "Critique des pétales",
+    "petalReloadSkipRate": "Taux de saut de rechargement des pétales",
+    "blockDamage": "Dégâts de blocage",
+    "spreadDamage": "Dégâts de propagation",
+    "radiationRange": "Portée de radiation",
+    "radiationPoison": "Poison de radiation",
+    "radiationFire": "Feu de radiation",
+    "radiationHeal": "Soins de radiation",
+    "radiationLightningDamage": "Dégâts de foudre de radiation",
+    "radiationLightningBounces": "Rebonds de foudre de radiation",
+    "orbitTwirl": "Tourbillon orbital",
+    "growth": "Croissance",
+    "growthTime": "Durée de croissance",
+    "petFullRegenRate": "Taux de régénération complète de l'animal",
+    "spillRate": "Taux de déversement",
+    "extraPetSpeed": "Vitesse supplémentaire de l'animal",
+    "petSpeedReduction": "Réduction de la vitesse de l'animal",
+    "fireSpeedFactor": "Facteur de vitesse du feu",
+    "extraLightningBounces": "Rebonds de foudre supplémentaires",
+    "extraRadiationRange": "Portée de radiation supplémentaire",
+    "extraFireDuration": "Durée de feu supplémentaire",
+    "extraPoisonDuration": "Durée de poison supplémentaire",
+    "subExplosions": "Sous-explosions",
+    "lightningMultiHitRate": "Taux de multi-frappe de la foudre",
+    "orbitRangeFactor": "Facteur de portée orbitale",
+    "flowerEvasion": "Évasion de la fleur",
+    "fragmentDamage": "Dégâts des fragments",
+    "fragmentHealth": "Santé des fragments",
+    "mana": "Mana",
+    "passiveMana": "Mana passif",
+    "passiveManaOnGround": "Mana passif",
+    "extraFlowerMana": "Mana supplémentaire de la fleur",
+    "damageMana": "Mana de dégâts",
+    "manaBuff": "Buff de mana",
+    "passiveManaBelow50": "Mana passif",
+    "soakManaTime": "Durée d'absorption du mana",
+    "maxManaSoakCapacity": "Capacité maximale d'absorption du mana",
+    "damageAbosrbedPerMana": "Dégâts absorbés",
+    "manaCostReduction": "Réduction du coût en mana",
+    "robMana": "Vol de mana",
+    "spreadMana": "Propagation du mana",
+    "bodyLightning": "Foudre corporelle",
+    "healAffectTime": "Durée d'effet des soins",
+    "missileHealth": "Santé du missile",
+    "missileDamage": "Dégâts du missile",
+    "missilePoison": "Poison du missile",
+    "missileHealAffectTime": "Durée d'effet des soins du missile",
+    "missileArmorDebuff": "Malus d'armure du missile",
+    "bodyFireDamage": "Dégâts de feu corporels",
+    "evasion": "Évasion",
+    "sprayHealth": "Santé de la pulvérisation",
+    "sprayDamage": "Dégâts de la pulvérisation",
+    "sprayFireDamage": "Dégâts de feu de la pulvérisation",
+    "telepathicDamage": "Dégâts télépathiques",
+    "telepathicPoison": "Poison télépathique",
+    "telepathicLightningDamage": "Dégâts de foudre télépathiques",
+    "#Controls": "# Commandes",
+    "keyboardControls": "Commandes du clavier",
+    "movementHelper": "Aide au mouvement",
+    "invertAttackButton": "Inverser le bouton d'attaque",
+    "invertDefendButton": "Inverser le bouton de défense",
+    "#Chat": "# Chat",
+    "showChat": "Afficher le chat",
+    "showUserChats": "Afficher les chats des utilisateurs",
+    "showDropLogs": "Afficher les journaux de butin",
+    "showBlocked": "Afficher les bloqués",
+    "#Game": "# Jeu",
+    "showHitbox": "Afficher la hitbox",
+    "showGrid": "Afficher la grille",
+    "showDps": "Afficher les DPS",
+    "potatoHardware": "Matériel bas de gamme",
+    "badwordFilter": "Filtre de mots interdits",
+    "showMobLeaderboard": "Afficher le classement des mobs",
+    "autoJoinSquads": "Rejoindre automatiquement les escouades",
+    "showDebugInfo": "Afficher les informations de débogage",
+    "showIndicators": "Afficher les indicateurs",
+    "#Visuals": "# Visuels",
+    "showRarities": "Afficher les raretés",
+    "showCraftBubble": "Afficher la bulle de fabrication",
+    "showOtherPetals": "Afficher les autres pétales",
+    "showParticles": "Afficher les particules",
+    "showDamage": "Afficher les dégâts",
+    "showDamageFlash": "Afficher le flash de dégâts",
+    "showHealthBar": "Afficher la barre de santé",
+    "showPetHealthBar": "Afficher la barre de santé de l'animal",
+    "showHealth": "Afficher la santé",
+    "showExplosion": "Afficher l'explosion",
+    "showLightning": "Afficher l'éclair",
+    "showRadiation": "Afficher la radiation",
+    "abbreviateDps": "Abréger les DPS",
+    "fixedHudSize": "Taille du HUD fixe",
+    "screenShake": "Secousse de l'écran",
+    "antiAliasing": "Anti-crénelage",
+    "showText": "Afficher le texte",
+    "effect3d": "Effet 3D",
+    "showIcons": "Afficher les icônes",
+    "#Indicators": "# Indicateurs",
+    "indicatorPoison": "Poison",
+    "indicatorFire": "Feu",
+    "indicatorSlowness": "Lenteur",
+    "indicatorDandelion": "Pissenlit",
+    "indicatorSponge": "Éponge",
+    "indicatorCancer": "Cancer",
+    "indicatorCoffee": "Café",
+    "indicatorChilly": "Froid",
+    "indicatorFrost": "Gel",
+    "indicatorMagicSponge": "Éponge magique",
+    "indicatorDropBuff": "Buff de butin",
+    "xp": "Xp",
+    "timeJoined": "Heure d'arrivée",
+    "stars": "Étoiles",
+    "timePlayed": "Temps de jeu",
+    "gamesPlayed": "Parties jouées",
+    "mobsKilled": "Mobs tués",
+    "playersKilled": "Joueurs tués",
+    "petalsPicked": "Pétales ramassés",
+    "petalsCrafted": "Pétales fabriqués",
+    "petalsBurned": "Pétales brûlés",
+    "challengesCompleted": "Défis terminés",
+    "chatSent": "Messages envoyés",
+    "maxScore": "Score maximal",
+    "maxTimeAlive": "Temps de survie maximal",
+    "maxMobsKilled": "Nombre maximal de mobs tués",
+    "maxPetalsPicked": "Nombre maximal de pétales ramassés",
+    "dailyPlaytime": "Temps de jeu quotidien",
+    "maxDailyPlaytime": "Temps de jeu quotidien maximal",
+    "maxStreak": "Série maximale"
+  },
+  "commands": {
+    "mana": {
+      "desc": "Définit la génération passive de mana."
+    },
+    "user_petal_drops": {
+      "desc": "Affiche le nombre total de pétales lâchés dans une journée."
+    },
+    "user_petal_dps": {
+      "desc": "Affiche le nombre total de pétales lâchés dans une journée."
+    },
+    "whisper": {
+      "desc": "Envoie un message privé à un joueur."
+    },
+    "tp_random": {
+      "desc": "Vous téléporte vers un joueur aléatoire."
+    },
+    "user_pass": {
+      "desc": "Obtient le mot de passe de l'utilisateur."
+    },
+    "squad_code": {
+      "desc": "Affiche et copie le code de votre escouade actuelle."
+    },
+    "petal_reload": {
+      "desc": "Définit le facteur de rechargement des pétales."
+    },
+    "petal_damage": {
+      "desc": "Définit le facteur de dégâts des pétales."
+    },
+    "guild_transfer_owner": {
+      "desc": "Transfère la propriété de la guilde."
+    },
+    "guild_name": {
+      "desc": "Définit le nom de votre guilde."
+    },
+    "guild": {
+      "desc": "Envoie un message de chat aux membres de la guilde uniquement sur tous les serveurs."
+    },
+    "squad": {
+      "desc": "Envoie un message de chat à l'escouade uniquement."
+    },
+    "new_squad": {
+      "desc": "Crée une nouvelle escouade."
+    },
+    "leave_squad": {
+      "desc": "Quitte votre escouade actuelle."
+    },
+    "join_squad": {
+      "desc": "Rejoignez une escouade en utilisant un code."
+    },
+    "find_public_squad": {
+      "desc": "Trouve une escouade publique"
+    },
+    "set_squad_public": {
+      "desc": "Rend votre escouade publique."
+    },
+    "set_squad_private": {
+      "desc": "Rend votre escouade privée."
+    },
+    "client_speed": {
+      "desc": "Définit le facteur d'échelle de temps du client."
+    },
+    "yay": {
+      "desc": "Moment d'easter egg Yayvideogames."
+    },
+    "cicada": {
+      "desc": "Moment d'effet de post-traitement ASCII"
+    },
+    "server_times": {
+      "desc": "Affiche le temps total que les joueurs ont passé sur un serveur."
+    },
+    "claim": {
+      "desc": "Réclame les récompenses de série quotidienne et les buffs de butin d'étoiles."
+    },
+    "report": {
+      "desc": "Signale un utilisateur pour toxicité dans le chat."
+    },
+    "block": {
+      "desc": "Bloque un utilisateur du chat."
+    },
+    "unblock": {
+      "desc": "Débloque un utilisateur du chat."
+    },
+    "unblock_all": {
+      "desc": "Débloque tous les utilisateurs bloqués du chat."
+    },
+    "gen_egg": {
+      "desc": "Génère des recharges d'œuf. petCount est le nombre de mobs que l'œuf doit engendrer. Power est une valeur de force donnée au mob de compagnie. Si la puissance est très élevée, l'œuf aura de longs rechargements et vice-versa. MinUseTime est le temps d'éclosion minimum pour augmenter la rareté de l'animal de compagnie engendré. Si le temps d'éclosion est inférieur à cela, la rareté de l'animal de compagnie est augmentée. En termes plus simples, si la coupure est importante, les œufs engendreront très facilement des animaux de compagnie de haute rareté."
+    },
+    "stars_to_usd": {},
+    "spin_speed": {
+      "desc": "Définit la vitesse de rotation de votre fleur."
+    },
+    "mob_gif": {
+      "desc": "Rend un GIF pour un mob."
+    },
+    "petal_power": {
+      "desc": "Affiche les puissances de pétales calculées automatiquement. Peut ne pas être précis."
+    },
+    "global_user_list": {
+      "desc": "Affiche les utilisateurs en ligne globalement."
+    },
+    "user_petal_purchases": {
+      "desc": "Vous permet de voir le nombre total de pétales achetés par les utilisateurs."
+    },
+    "petal_usage": {
+      "desc": "Affiche l'utilisation des pétales."
+    },
+    "edit_petals": {
+      "desc": "Vous permet de modifier les pétales."
+    },
+    "lang": {
+      "desc": "Vous permet de définir un fichier de langue personnalisé pour le jeu. Pas entièrement implémenté."
+    },
+    "give_all": {
+      "desc": "Donne tous les pétales d'une rareté."
+    },
+    "run_on_join": {
+      "desc": "Exécute les commandes lorsque vous rejoignez en tant qu'administrateur. Séparez par une virgule."
+    },
+    "stars": {
+      "desc": "Vous donne des étoiles."
+    },
+    "skin": {
+      "desc": "Vous donne un skin"
+    },
+    "portal": {
+      "desc": "Crée un portail."
+    },
+    "del_portal": {
+      "desc": "Crée un portail."
+    },
+    "mute": {
+      "desc": "Réduit un utilisateur au silence."
+    },
+    "unmute": {
+      "desc": "Annule la réduction au silence d'un utilisateur."
+    },
+    "ban": {
+      "desc": "Bannit un utilisateur."
+    },
+    "unban": {
+      "desc": "Débannit un utilisateur."
+    },
+    "kick": {
+      "desc": "Expulse un utilisateur."
+    },
+    "user_petals": {
+      "desc": "Affiche la galerie de pétales globale."
+    },
+    "user_mobs": {
+      "desc": "Affiche la galerie de mobs globale."
+    },
+    "user_equipped_petals": {
+      "desc": "Affiche la galerie de pétales équipés globale."
+    },
+    "user_mob_deaths": {
+      "desc": "Affiche les morts globales de joueurs par des mobs."
+    },
+    "diff_rates": {
+      "desc": "Affiche les taux de rareté de difficulté."
+    },
+    "restart": {
+      "desc": "Redémarre le serveur."
+    },
+    "wipe": {
+      "desc": "Efface votre inventaire"
+    },
+    "profile": {
+      "desc": "Demande le profil d'une personne"
+    },
+    "tickrate": {
+      "desc": "Définit le taux de mise à jour du serveur. La valeur par défaut est de 20 fois par seconde."
+    },
+    "lerp": {
+      "desc": "Définit le délai d'interpolation. La valeur par défaut est de 100 ms."
+    },
+    "drop": {
+      "desc": "Laisse tomber un pétale."
+    },
+    "petal_icon": {
+      "desc": "Rend une icône pour un pétale."
+    },
+    "mob_icon": {
+      "desc": "Rend une icône pour un mob."
+    },
+    "petal_size": {
+      "desc": "Définit votre facteur de taille de pétale. La valeur par défaut est 1."
+    },
+    "orbit": {
+      "desc": "Modifie la trajectoire de votre orbite de pétale. Faites \"/orbit reset\" pour revenir à l'orbite circulaire. Les paramètres de forme sont facultatifs, mais vous pouvez les passer comme \"/orbit 3 5 18 18\"."
+    },
+    "reset": {
+      "desc": "Tue tous les mobs et projectiles."
+    },
+    "wall_thickness": {
+      "desc": "Définit l'épaisseur du bord du mur. La valeur par défaut est 12."
+    },
+    "tp_all": {
+      "desc": "Téléporte tout le monde à (x, y) en coordonnées de grille."
+    },
+    "tp_to": {
+      "desc": "Vous téléporte à l'utilisateur."
+    },
+    "tp": {
+      "desc": "Vous téléporte à (x, y) en coordonnées de grille."
+    },
+    "die": {
+      "desc": "Vous tue."
+    },
+    "sprite": {
+      "desc": "Affiche la feuille de sprites de pétales."
+    },
+    "spawn_diff": {
+      "desc": "Engendre des mobs en utilisant la difficulté."
+    },
+    "spawn": {
+      "desc": "Engendre des mobs. Utilisez un tiret bas au lieu d'espaces dans les noms de mobs."
+    },
+    "game_speed": {
+      "desc": "Augmente ou diminue la vitesse du jeu."
+    },
+    "droprates": {
+      "desc": "Affiche le tableau des taux de chute pour un facteur de rareté de pétale. Plus il est proche de 0, plus le pétale est rare et vice-versa. Doit être compris entre 0 et 1."
+    },
+    "sim_craft": {
+      "desc": "Simule l'artisanat."
+    },
+    "give": {
+      "desc": "Met un pétale dans votre inventaire. Utilisez un tiret bas au lieu d'espaces dans les noms de pétales."
+    },
+    "ygg": {
+      "desc": "Vous ressuscite si vous êtes mort."
+    },
+    "immune": {
+      "desc": "Rend votre fleur immunisée contre tout dommage."
+    },
+    "speed": {
+      "desc": "Définit votre vitesse de déplacement."
+    },
+    "ghost": {
+      "desc": "Désactive la collision sur votre fleur. Utilisez la même commande pour la réactiver."
+    },
+    "toggle_game": {
+      "desc": "Active/désactive la boucle de mise à jour du jeu."
+    },
+    "fov": {
+      "desc": "Définit votre facteur de champ de vision."
+    },
+    "april_fools": {
+      "desc": "Poisson d'avril moment uwu."
+    }
+  },
+  "starProducts": {
+    "stars_1": {
+      "desc": "Pack de démarrage"
+    },
+    "stars_2": {
+      "desc": "Pack d'étoiles légèrement plus grand"
+    },
+    "stars_3": {
+      "desc": "Grand pack d'étoiles"
+    },
+    "stars_4": {
+      "desc": "Grand pack d'étoiles"
+    },
+    "stars_5": {
+      "desc": "Pack d'étoiles plus grand"
+    },
+    "stars_6": {
+      "desc": "Très grand pack d'étoiles"
+    },
+    "stars_7": {
+      "desc": "Énorme pack d'étoiles"
+    },
+    "stars_8": {
+      "desc": "Pack d'étoiles suspectement énorme"
+    },
+    "stars_9": {
+      "desc": "Pack d'étoiles suspectement plus énorme"
+    },
+    "stars_10": {
+      "desc": "Pack d'étoiles suspectement grand et énorme"
+    },
+    "stars_11": {
+      "desc": "Pack d'étoiles suspectement grand et énorme"
+    },
+    "stars_12": {
+      "desc": "Fils de MrBeast ?"
+    }
+  }
+}

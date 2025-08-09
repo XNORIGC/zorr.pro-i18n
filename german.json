@@ -1,0 +1,1053 @@
+{
+	"name": "german",
+	"mobs": {
+		"rock": {
+			"name": "Stein",
+			"desc": "Ein Stein, macht nicht viel."
+		},
+		"ladybug": {
+			"name": "Marienkäfer",
+			"desc": "Süß und harmlos."
+		},
+		"bush": {
+			"name": "Bush",
+			"desc": "George Bush"
+		},
+		"sponge": {
+			"name": "Sponge",
+			"desc": "Bob."
+		},
+		"cactus": {
+			"name": "Kaktus",
+			"desc": "Eine sehr stachelige Pflanze."
+		},
+		"baby_ant": {
+			"name": "Baby Ameise",
+			"desc": "Sehr junge Ameise."
+		},
+		"soldier_ant": {
+			"name": "Ameisensoldat",
+			"desc": "Kämpft für die Freihei der Kolonie."
+		},
+		"worker_ant": {
+			"name": "Ameisenarbeiter",
+			"desc": "Will ungern kämpfen."
+		},
+		"queen_ant": {
+			"name": "Ameisenkönigin",
+			"desc": ""
+		},
+		"baby_fire_ant": {
+			"name": "Baby Feuerameise",
+			"desc": "Sehr jungle Feuerameise."
+		},
+		"soldier_fire_ant": {
+			"name": "Feuerameisensoldat",
+			"desc": "Kämpft brennend für die Freihei der Kolonie."
+		},
+		"worker_fire_ant": {
+			"name": "Feuerameisenarbeiter",
+			"desc": "Will ungern kämpfen."
+		},
+		"queen_fire_ant": {
+			"name": "Feuerameisenkönigin",
+			"desc": ""
+		},
+		"mushroom": {
+			"name": "Pilz",
+			"desc": "hat eine Pilzinfektion."
+		},
+		"jellyfish": {
+			"name": "Qualle",
+			"desc": "Ein Fish aus Wackelpudding."
+		},
+		"spider": {
+			"name": "Spinne",
+			"desc": "Hat 8 Beine und 8 Augen."
+		},
+		"bee": {
+			"name": "Biene",
+			"desc": "Kann schmerzhaft stechen."
+		},
+		"hornet": {
+			"name": "Hornisse",
+			"desc": "Zertifizierter Stecherschießer."
+		},
+		"shell": {
+			"name": "Muschel",
+			"desc": "Ob man es glaubt oder nicht, sie leben."
+		},
+		"ant_hole": {
+			"name": "Ameisenloch",
+			"desc": "Da sind einpaar Ameisen drinne."
+		},
+		"fire_ant_hole": {
+			"name": "Feuerameisenloch",
+			"desc": "Da sind einpaar Feuerameisen drinne."
+		},
+		"spider_cave": {
+			"name": "Spinnennest",
+			"desc": "Eine lange und dunkle Höhle."
+		},
+		"hive": {
+			"name": "Bienennest",
+			"desc": "Eine echte Honigfabrik."
+		},
+		"yoba": {
+			"name": "Yoba",
+			"desc": "Mysteriöses rotes Lebewesen..."
+		},
+		"spider_yoba": {
+			"name": "Yobaspinne",
+			"desc": "Mysteroöses pinkes Lebewesen..."
+		},
+		"centipede": {
+			"name": "Tausendfüßler",
+			"desc": "Er ist sehr lang."
+		},
+		"desert_centipede": {
+			"name": "Wüsten Tausendfüßler",
+			"desc": "Hat eine olypische Goldmedallie gewonnen."
+		},
+		"evil_centipede": {
+			"name": "Böser Tausendfüßler",
+			"desc": "Wir sind uns nicht sicher warum dieser Tausendfüßler so mordlustig ist."
+		},
+		"sunflower": {
+			"name": "Sonnenblume",
+			"desc": "Hat einen Schild"
+		},
+		"yobammad": {
+			"name": "Yobammad",
+			"desc": "Kabumm."
+		},
+		"bubble": {
+			"name": "Luftblase",
+			"desc": "Kann man leicht zum platzen bringen."
+		},
+		"m28": {
+			"name": "M28",
+			"desc": "Er ist ein Beta, kein Alpha."
+		},
+		"beetle": {
+			"name": "Käfer",
+			"desc": "Sehr hungriges Insekt."
+		},
+		"avocado": {
+			"name": "Avokado",
+			"desc": "Sehr lecker."
+		},
+		"target_dummy": {
+			"name": "Dummy",
+			"desc": "Viel Spaß beim versuchen dass umzubringen."
+		},
+		"dark_ladybug": {
+			"name": "Dunkler Marienkäfer",
+			"desc": "Süß aber nicht so harmlos."
+		},
+		"shiny_ladybug": {
+			"name": "Glänzender Marienkäfer",
+			"desc": "Glänzend, süß und harmlos."
+		},
+		"sandstorm": {
+			"name": "Sandsturm",
+			"desc": "Ein kleiner tornado mit Sand drinne."
+		},
+		"scorpion": {
+			"name": "Skorpion",
+			"desc": "Mag es seine Ziele stategisch zu umkreisen."
+		},
+		"starfish": {
+			"name": "Seestern",
+			"desc": "Ein star im Ozean"
+		},
+		"crab": {
+			"name": "Krabbe",
+			"desc": "Kann sehr schnell rennen."
+		},
+		"dandelion": {
+			"name": "Löwenzahn",
+			"desc": "Schießt Samen zur Verteidigung."
+		},
+		"dragon": {
+			"name": "Drache",
+			"desc": "Das Feuer sieht sehr heiß aus, villeicht auch weil es sehr heiß ist."
+		},
+		"leech": {
+			"name": "Blutegel",
+			"desc": "ist das eine Schlange?"
+		},
+		"nazar_beetle": {
+			"name": "Nazar Käfer",
+			"desc": "Mag moderne Kunst"
+		},
+		"toxic_dragon": {
+			"name": "Giftiger Drache",
+			"desc": "Jemand hat ihn mit giftiger Frabe angemalt."
+		},
+		"hel_worm": {
+			"name": "Verhexter Wurm",
+			"desc": "Ein satanischer Wurm."
+		},
+		"hel_spider": {
+			"name": "Höhlenspinne",
+			"desc": "Hat 8 Beide, 8 Augen und das verlangen Blumen zu zerstören."
+		},
+		"hel_beetle": {
+			"name": "Höllenkäfer",
+			"desc": "Sehr gruseliges Insekt aus den tiefsten Tiefen der Hölle."
+		},
+		"hel_jellyfish": {
+			"name": "Höllen Qualle",
+			"desc": "Wie und Warum hat dieses Ding Zähne?"
+		},
+		"tumbleweed": {
+			"name": "Steppenläufer",
+			"desc": "Sie läufen nicht, sie rollen."
+		},
+		"dragon_nest": {
+			"name": "Drachen Nest",
+			"desc": "Die Wohnung der Drachen."
+		},
+		"firestorm": {
+			"name": "Feuer Tornado",
+			"desc": "Wie ein Sandsturm, brennt aber."
+		},
+		"hel_bee": {
+			"name": "Höllenbiene",
+			"desc": "Der Sticht brennt wirklich."
+		},
+		"hel_hornet": {
+			"name": "Höllenhornisse",
+			"desc": "Hat einen Flammenwerfer"
+		},
+		"bugatti": {
+			"name": "Bugatti",
+			"desc": "Top Jeet's Lieblingsauto."
+		}
+	},
+	"petals": {
+		"basic": {
+			"name": "Basic",
+			"desc": "Das einfachste Blütenblatt."
+		},
+		"rose": {
+			"name": "Rose",
+			"desc": "Heilt beim Konsumieren."
+		},
+		"wing": {
+			"name": "Flügel",
+			"desc": "Es kommt und geht."
+		},
+		"rock": {
+			"name": "Stein",
+			"desc": "Sehr stabil"
+		},
+		"iris": {
+			"name": "Iris",
+			"desc": "Sehr giftig."
+		},
+		"stinger": {
+			"name": "Stachel",
+			"desc": "Tut sehr weh."
+		},
+		"honey": {
+			"name": "Honig",
+			"desc": "Bienenkotze."
+		},
+		"bubble": {
+			"name": "Blase",
+			"desc": "Geht kaputt und katapultiert vorwärts."
+		},
+		"heavy": {
+			"name": "Schweres Blütenblatt",
+			"desc": "Fast so schwer wie deine Mom"
+		},
+		"ying_yang": {
+			"name": "Ying Yang",
+			"desc": "Dreht die Drehrichtung deiner Blütenblätter um"
+		},
+		"faster": {
+			"name": "Verschnellerer",
+			"desc": "Erhöht die Drehgeschwindigkeit deiner Blütenblätter."
+		},
+		"light": {
+			"name": "Leichtes Blütenblatt",
+			"desc": "Sehr schnell."
+		},
+		"sponge": {
+			"name": "Schwamm",
+			"desc": "Wäscht Geschir und Absorbiert einkommenden Schaden."
+		},
+		"rice": {
+			"name": "Reis",
+			"desc": "Nur für Asiaten."
+		},
+		"yggdrasil": {
+			"name": "Yggdrasil",
+			"desc": "Belebt tote Blumen wieder."
+		},
+		"leaf": {
+			"name": "Blatt",
+			"desc": "Heilt dich passiv."
+		},
+		"lightning": {
+			"name": "Blitz",
+			"desc": "Beschwört einen Blitz auf deinen Gegnern."
+		},
+		"usain_bolt": {
+			"name": "Usain Bolt",
+			"desc": "Beschwört einen giftigen Blitz auf deinen Gegnern."
+		},
+		"cotton": {
+			"name": "Baumwolle",
+			"desc": "Absorbiert Schaden."
+		},
+		"web": {
+			"name": "Spinnennetz",
+			"desc": "Spinnenkacke verlangsamt deine Gegner"
+		},
+		"pollen": {
+			"name": "Pollen",
+			"desc": "Fällt auf den Boden"
+		},
+		"shell": {
+			"name": "Muschel",
+			"desc": "Gibt dir ein Schild."
+		},
+		"sunflower": {
+			"name": "Sonnenblume",
+			"desc": "Generiert passiv ein Schild."
+		},
+		"bomb": {
+			"name": "Bombe",
+			"desc": "Explodiert bei kontakt mit gegnern."
+		},
+		"gas_bomb": {
+			"name": "Giftbombe",
+			"desc": "Explodiert mit einer giftigen Wolke"
+		},
+		"missile": {
+			"name": "Rakete",
+			"desc": "Ein fliegender Stachel."
+		},
+		"viper": {
+			"name": "Giftige Rakete",
+			"desc": "Ein giftiger fliegender Stachel."
+		},
+		"rocket": {
+			"name": "Interkontinentalrakete",
+			"desc": "Schnell und explosiv."
+		},
+		"electron_missile": {
+			"name": "Aufgeladene Rakete",
+			"desc": "Mit Energie gefüllt, erzeugt einen Blitz."
+		},
+		"magnet": {
+			"name": "Magnet",
+			"desc": "Zieht Blütenblätterdrops an."
+		},
+		"salt": {
+			"name": "Salz",
+			"desc": "Reflektiert genommen Schaden."
+		},
+		"antennae": {
+			"name": "Antennen",
+			"desc": "Erhöht deine Sichtweite."
+		},
+		"third_eye": {
+			"name": "Drittes Auge",
+			"desc": "Erhöht deine Reichweite"
+		},
+		"dmca": {
+			"name": "DMCA",
+			"desc": "Lässt Gegner verschwinden."
+		},
+		"pea": {
+			"name": "Erbsen",
+			"desc": "Fliegen auseinander"
+		},
+		"avocado": {
+			"name": "Avokado",
+			"desc": "Macht deine Haustiere fett."
+		},
+		"ring_magnet": {
+			"name": "Ringförmiger Magnet",
+			"desc": "Hat eine höhere reichweite als ein normaler Magnet."
+		},
+		"gas": {
+			"name": "Gas",
+			"desc": "Giftgas."
+		},
+		"fire": {
+			"name": "Feuer",
+			"desc": "Es brennt."
+		},
+		"nitro": {
+			"name": "Nitro",
+			"desc": "Wie ein Jetpack."
+		},
+		"wind": {
+			"name": "Wind",
+			"desc": "Bläst gegner weg."
+		},
+		"air": {
+			"name": "Luft",
+			"desc": "Unsichtbar."
+		},
+		"lightsaber": {
+			"name": "Lichtschwert",
+			"desc": "Ein Schwert aus Licht mit limitierter Reichweite."
+		},
+		"visaber": {
+			"name": "Visaber",
+			"desc": "Es schießt Gammastrahlen statt sichtbares Licht"
+		},
+		"bone": {
+			"name": "Knochen",
+			"desc": "Besteht aus Kalzium."
+		},
+		"cactus": {
+			"name": "Kaktus",
+			"desc": "Gibt dir mehr Leben."
+		},
+		"soil": {
+			"name": "Erde",
+			"desc": "Macht Blumen fett."
+		},
+		"grapes": {
+			"name": "Trauben",
+			"desc": "Giftige Erbsen."
+		},
+		"mushroom": {
+			"name": "Pilz",
+			"desc": "Macht dich giftig."
+		},
+		"ears": {
+			"name": "Ohren",
+			"desc": "Telepathische Katzenohren."
+		},
+		"sand": {
+			"name": "Sand",
+			"desc": "Man könnte daraus eine Sandburg bauen."
+		},
+		"pincer": {
+			"name": "Zange",
+			"desc": "Brech die Beine deiner Gegner, auch wenn sie keine haben."
+		},
+		"dahlia": {
+			"name": "Dahlie",
+			"desc": "Heilt weniger als rosen, sind aber zuverlässiger."
+		},
+		"starfish": {
+			"name": "Seestern",
+			"desc": "Gibt dir die regenerativen Gene eines Seesterns."
+		},
+		"dandelion": {
+			"name": "Löwenzahn",
+			"desc": "Ermöglicht es sich heilende Gegner einfach zu besiegen."
+		},
+		"irey": {
+			"name": "Irey",
+			"desc": "Macht Honigplatten giftig."
+		},
+
+		"nazar": {
+			"name": "Nazar",
+			"desc": "Wenn du getroffen wirst opfert es sich für dich."
+		},
+		"golden_leaf": {
+			"name": "Goldenes Blatt",
+			"desc": "Lässt alle deine Blütenblätter schneller wieder zurückkommen."
+		},
+		"laser": {
+			"name": "Laser",
+			"desc": "Man kann sich daran verbrennen."
+		},
+		"mark": {
+			"name": "Dunkele Markierung",
+			"desc": "Sendet eine tote Blume in die Hölle."
+		},
+		"bur": {
+			"name": "Aber",
+			"desc": "Macht gegnerische Rüstung ineffektiv."
+		},
+		"cutter": {
+			"name": "Sägeblatt",
+			"desc": "Erhöht deinen Kontaktschaden"
+		},
+		"powder": {
+			"name": "Myteriöses Pulver",
+			"desc": "Kokain"
+		},
+		"hel_lightning": {
+			"name": "Höllen Blitz",
+			"desc": "Beschwört einen starken Blitz der Gegner anzündet."
+		},
+		"hel_missile": {
+			"name": "Höllen Rakete",
+			"desc": "Sehr heiß, zündet Gegner an."
+		},
+		"bugatti": {
+			"name": "Bugatti",
+			"desc": "Sehr schnell aber man verliert sehr leicht die Kontrolle."
+		},
+		"poo": {
+			"name": "Kacke",
+			"desc": "Absotßend, Gegner haben eine kleinere Reichweite in der sie dich verfolgen."
+		}, 
+		"rubber": {
+			"name": "Gummi",
+			"desc": "Erhöht den genommenen Rückstoß bei kontakt mit Gegnern"
+		}
+	},
+	"achievements": {
+		"rookie": {
+			"name": "Anfänger",
+			"desc": "Spiele 15 Minuten lang."
+		},
+		"started": {
+			"name": "Der Start...",
+			"desc": "Spiele 1 Stunde lang."
+		},
+		"player": {
+			"name": "Durchschnittlicher Gamer",
+			"desc": "Spiele 6 Stunden lang."
+		},
+		"gamer": {
+			"name": "Guter Gamer",
+			"desc": "Spiele 24 Stunden lang."
+		},
+		"week": {
+			"name": "24/7",
+			"desc": "Spiele 7 Tage lang."
+		},
+		"month": {
+			"name": "Süchtig",
+			"desc": "Spiele 30 Tage lang."
+		},
+		"year": {
+			"name": "Frohes neues!",
+			"desc": "Spiele 365 Tage lang."
+		},
+		"epic": {
+			"name": "Epischer Gamer Moment",
+			"desc": "Sammel ein Episches Blütenblatt"
+		},
+		"legendary": {
+			"name": "Eine Legende",
+			"desc": "Sammel ein Legendäres Blütenblatt"
+		},
+		"mythic": {
+			"name": "Die Mythen sind real",
+			"desc": "Sammel ein Mythisches Blütenblatt"
+		},
+		"ultra": {
+			"name": "Über allen anderen",
+			"desc": "Sammel ein Ultra Blütenblatt"
+		},
+		"super": {
+			"name": "Super!!",
+			"desc": "Sammel ein Super Blütenblatt"
+		},
+		"hyper": {
+			"name": "mega Omega",
+			"desc": "Sammel ein Ometga Blütenblatt"
+		},
+		"medic": {
+			"name": "Arzt",
+			"desc": "Belebe jemanden mit einem Yggdrasil Blatt wieder."
+		},
+		"surgeon": {
+			"name": "Chefarzt",
+			"desc": "Belebe 25 Leute mit einem Yggdrasil Blatt wieder."
+		},
+		"angel": {
+			"name": "Engel",
+			"desc": "Belebe 250 Leute mit einem Yggdrasil Blatt wieder."
+		},
+		"god": {
+			"name": "An Gott!",
+			"desc": "Treffe einen Admin"
+		},
+		"killer": {
+			"name": "Serienmörderer",
+			"desc": "töte 25 Gegner"
+		},
+		"genocide": {
+			"name": "Völkermord",
+			"desc": "töte 250 Gegner"
+		},
+		"massacre": {
+			"name": "Masaker",
+			"desc": "töte 2500 Gegner"
+		},
+		"holocaust": {
+			"name": "Österreichischer Künstler",
+			"desc": "töte 10,000 Gegner"
+		},
+		"solo": {
+			"name": "Solo",
+			"desc": "töte einen Gegner der Seltenheit super oder höher und mach mindestenz 75% des Schadens"
+		},
+		"money": {
+			"name": "Guter Deal",
+			"desc": "Kauf sterne vom Shop."
+		},
+		"makeup": {
+			"name": "Makeup Künstler",
+			"desc": "Kaufe einen Skin vom shop."
+		},
+		"chat": {
+			"name": "Nicht sehr gesprächig",
+			"desc": "Send a chat message."
+		},
+		"china": {
+			"name": "CHINA AUF PLATZ 1!!",
+			"desc": "Sag 'China Number 1' 10 mal im Chat."
+		},
+		"nazar": {
+			"name": "Die Nazar Käfer",
+			"desc": "Töte 5 Ultra+ Nazar Käfer."
+		},
+		"baby": {
+			"name": "Babyöl",
+			"desc": "Töte 5 Ultra+ Babyameisen."
+		},
+		"jeet": {
+			"name": "Top Jeet",
+			"desc": "Hab einen Super+ Bugatti."
+		}, 
+		"clown": {
+			"name": "Clown",
+			"desc": "Werde zu einem Clown"
+		}
+	},
+	"skins": {
+		"derp": {
+			"name": "Dummkopf",
+			"desc": "Es gibt keinen einzelden Gedanken zwischen diesen Augen."
+		},
+		"cursed": {
+			"name": "Verhext",
+			"desc": "Wurde von einen höheren Macht verhext."
+		},
+		"square": {
+			"name": "Quadrat",
+			"desc": "Was für eine unbekannte Form ist das?"
+		},
+		"lifeless": {
+			"name": "Lebenslos",
+			"desc": "... wo ist sein Gesicht hin"
+		},
+		"star": {
+			"name": "Stern",
+			"desc": "Ein Stern von Nachthimmel. "
+		},
+		"radioactive": {
+			"name": "Radioaktiv",
+			"desc": "Isst gerne Uranerz."
+		},
+		"blended": {
+			"name": "Gemischt",
+			"desc": "Hat EIne Schönheitsoperation auf Temu gekauft."
+		},
+		"cactus": {
+			"name": "Kaktus",
+			"desc": "Nicht wirklich eine Blume, oder?"
+		},
+		"ghost": {
+			"name": "Geist",
+			"desc": "Nicht sehr gruselig."
+		},
+		"cyclops": {
+			"name": "Zyklop",
+			"desc": "Wo ist das andere Auge him?"
+		},
+		"yellow": {
+			"name": "Gelb",
+			"desc": "Sehr Gelb."
+		},
+		"rock": {
+			"name": "Stein",
+			"desc": "Aus dem Meer gefischt."
+		},
+		"boo": {
+			"name": "Boo",
+			"desc": "Gruselig"
+		},
+		"sus": {
+			"name": "Sus",
+			"desc": "Among us."
+		},
+		"pacman": {
+			"name": "Pacman",
+			"desc": "Bitte DMCA uns nicht."
+		},
+		"chicken": {
+			"name": "Huhn",
+			"desc": "Erzeugt Eier."
+		},
+		"black": {
+			"name": "Schwarz",
+			"desc": "Afrikanisch."
+		},
+		"egg": {
+			"name": "Ei",
+			"desc": "Wurde vom Huhn Skin erzeugt."
+		},
+		"retard": {
+			"name": "Behindert",
+			"desc": "Hat Down Syndrom"
+		},
+		"trader": {
+			"name": "Händler",
+			"desc": "Betreibt Menschenhandel."
+		},
+		"clover": {
+			"name": "Klee",
+			"desc": "4chan?"
+		},
+		"zatan": {
+			"name": "Zatan",
+			"desc": "Rot und Schwarz."
+		},
+		"amogus": {
+			"name": "Amogus",
+			"desc": "Der Imposter."
+		},
+		"brain_damage": {
+			"name": "Gehirnschaden",
+			"desc": "Developer skin??? WTF???"
+		},
+		"cactuser": {
+			"name": "Cactus 2.0",
+			"desc": "Eine Wüstenpflanze."
+		},
+		"sad": {
+			"name": "Traurig",
+			"desc": "Sehr traurig."
+		},
+		"cake": {
+			"name": "Kuchen",
+			"desc": "Alles gute!"
+		},
+		"green": {
+			"name": "Grün",
+			"desc": "Yoba??"
+		},
+		"magma": {
+			"name": "Magma",
+			"desc": "Aus einem Vulkan"
+		},
+		"derper": {
+			"name": "Gehirnvernichtung",
+			"desc": "Developer skin 2??? WTF???"
+		},
+		"target_dummy": {
+			"name": "Dummy",
+			"desc": "Emotionslos."
+		},
+		"mark": {
+			"name": "Markierung",
+			"desc": "Man sieht sich in der Hölle."
+		},
+		"frog": {
+			"name": "Frosch",
+			"desc": "Pepe der Frosch."
+		},
+		"goo": {
+			"name": "Kleibrige Substanz",
+			"desc": "Sehr Merkwürdig..."
+		},
+		"rectus": {
+			"name": "Rotus",
+			"desc": "Rot + Kaktus = Rotus"
+		},
+		"oval": {
+			"name": "Oval",
+			"desc": "kein oval"
+		},
+		"cute": {
+			"name": "Süß",
+			"desc": "sehr Süß."
+		},
+		"omegasus": {
+			"name": "Omegasus",
+			"desc": "Blau ist Verdächtig!"
+		},
+		"rockstar": {
+			"name": "Rockstar",
+			"desc": "Sieht eher aus wie das Blütenblatt."
+		},
+		"ufo": {
+			"name": "UFO",
+			"desc": "Da ist ein Alien drinn"
+		},
+		"red_spikes": {
+			"name": "Rote Stacheln",
+			"desc": "Aua. "
+		},
+		"sponge": {
+			"name": "Schwamm",
+			"desc": "Macht den Abwasch."
+		},
+		"hexagon": {
+			"name": "Hexagon",
+			"desc": "Nur ein Reguläres Polygon."
+		},
+		"mech": {
+			"name": "Mech",
+			"desc": "Mechanische Blume."
+		},
+		"lightning": {
+			"name": "Blitz",
+			"desc": "Strike!"
+		},
+		"inverted": {
+			"name": "Umgedreht",
+			"desc": "Kopfüber."
+		},
+		"poo": {
+			"name": "Kacke",
+			"desc": "Kack Skin."
+		},
+		"sea_urchin": {
+			"name": "Seeigel",
+			"desc": "Stachelig"
+		},
+		"long": {
+			"name": "Lang",
+			"desc": "Wurde von einer hydrauischen Presse Flach gemacht."
+		}
+	},
+	"objectKeys": {
+		"health": "Leben",
+		"damage": "Schaden",
+		"boost": "Beschleunigung",
+		"swing": "Extra Reichweite",
+		"heal": "Heilung",
+		"passiveHeal": "Passive Heilung",
+		"passiveHealBelow50": "Passive Heilung",
+		"shield": "Schild",
+		"passiveShield": "Passives Schild",
+		"poison": "Giftschaden",
+		"orbitSpeed": "Umdrehgeschwindigkeit",
+		"lightningDamage": "Elektrischer Schaden",
+		"lightningFireDamage": "Elektrischer Feuerschaden",
+		"lightningPoison": "Elektrischer Giftschaden",
+		"lightningBounces": "Elektische Sprünge",
+		"webSize": "Netzgröße",
+		"explosion": "Explosionsschaden",
+		"explosionSize": "Explosionsgröße",
+		"explosionPoison": "Explosions Giftschaden",
+		"pickRange": "Aufsammelreichweite",
+		"damageReflection": "Schadensreflektion",
+		"extraVision": "Bonus Sichtreichweite",
+		"extraRange": "Bonus Reichweite",
+		"despawnTime": "Zeit zum Verschwinden",
+		"pet": "Haustier",
+		"petSize": "Haustiergröße",
+		"passiveBoost": "Passive Beschleunigung",
+		"push": "Schub",
+		"armor": "Rüstung",
+		"extraFlowerHealth": "Bonus Blumen Leben",
+		"flowerPoison": "Blumen Kontakt Giftschaden",
+		"slownessTime": "Zeit der Verlangsamung",
+		"soakDamageTime": "Schadensabsorbtionszeit",
+		"honeyRange": "Honig Reichweite",
+		"honeyTileDamage": "Honigplattenschaden",
+		"honeyTilePoison": "Honigplattengiftschaden",
+		"sendToBiome": "Sendet zu",
+		"flowerReloadFactor": "Blütenblatt Regenerationsfaktor",
+		"armorDebuff": "Rüstungsbrechung",
+		"flowerBodyDamage": "Blumen Kontaktschaden",
+		"flowerSpeed": "Blumengeschwindigkeit",
+		"fireDamage": "Feuerschaden",
+		"firePoison": "Giftiger Feuerschaden",
+		"fireTime": "Brenndauer",
+		"flowerAcceleration": "Blumen Beschleunigung",
+		"agroRangeReduction": "Agro Reichweitenreduktion",
+		"healAffectTime": "Heilungsbeinflussungsdauer",
+		"missileHealth": "Raketen Leben",
+		"missileDamage": "Raketenschaden",
+		"missilePoison": "Raketen Giftschaden",
+		"missileHealAffectTime": "Heilungsbeinflussungsdauer der Raketen",
+		"bodyFireDamage": "Kontaktfeuerschaden"
+	},
+	"commands": {
+		"lang": {
+			"desc": "Erlaubt dir das Spiel in eine andere Sprache zu übersetzen. Nicht vollständig"
+		},
+		"give_all": {
+			"desc": "Gibt dir Alle Blütenblätter einer Seltenheit"
+		},
+		"run_on_join": {
+			"desc": "Sendet automatisch folgende Commands. Durch Kommata getrennt."
+		},
+		"wipe_users": {
+			"desc": "Entfernt den Spielstand aller Spieler."
+		},
+		"stars": {
+			"desc": "Gibt dir Sterne."
+		},
+		"skin": {
+			"desc": "Gibt dir einen Skin"
+		},
+		"portal": {
+			"desc": "Erzeugt ein Portal."
+		},
+		"del_portal": {
+			"desc": "Entfernt ein Portal."
+		},
+		"ban": {
+			"desc": "Bannt einen Spieler."
+		},
+		"unban": {
+			"desc": "Entfernt den Ban eines Spielers."
+		},
+		"kick": {
+			"desc": "Kickt einen Spieler."
+		},
+		"user_petals": {
+			"desc": "Zeigt die Globale Glütenblattgallerie an."
+		},
+		"user_mobs": {
+			"desc": "Zeigt die Globale Mobgallerie an."
+		},
+		"user_equipped_petals": {
+			"desc": "Zeigt die Anzahl an Ausgerüsteten Blütenblättern an."
+		},
+		"user_mob_deaths": {
+			"desc": "Zeigt die Globale Todesgallerie an."
+		},
+		"diff_rates": {
+			"desc": "Zeigt die Raten von Seltenheiten für Schwierigkeitsstufen an."
+		},
+		"restart": {
+			"desc": "Startet einen Server neu."
+		},
+		"wipe": {
+			"desc": "Löscht dein Inventar"
+		},
+		"profile": {
+			"desc": "Zeigt das Profil eines spielers an an."
+		},
+		"tickrate": {
+			"desc": "Setze eine Updaterate fest. Normal sind 20 hz."
+		},
+		"lerp": {
+			"desc": "Setze eine Interpolationsrate fest. Normal sind 100ms."
+		},
+		"drop": {
+			"desc": "Lässt ein Blütenblatt fallen."
+		},
+		"petal_icon": {
+			"desc": "Zeigt ein Blütenblatt an."
+		},
+		"mob_icon": {
+			"desc": "Zeigt einen Gegnierischen Mob an."
+		},
+		"petal_size": {
+			"desc": "Multipliziert die Größe deiner Blütenblätter"
+		},
+		"orbit": {
+			"desc": "Ändert die Art wie deine Blütenblätter sich um dich drehen. mach \"/orbit reset\" um wieder einen normalen Orbit zu kriegen. Formparameter sind optional aber die funktionieren so: \"/orbit 3 5 18 18\"."
+		},
+		"reset": {
+			"desc": "Tötet alle Gegner"
+		},
+		"wall_thickness": {
+			"desc": "Setze die Dicke der Wände fest. Normal sind 12."
+		},
+		"tp_all": {
+			"desc": "Teleportiert alle zu (x, y)."
+		},
+		"tp_to": {
+			"desc": "Teleportiert dich zu jemanden."
+		},
+		"tp": {
+			"desc": "Teleportiert dich zu (x, y)"
+		},
+		"die": {
+			"desc": "Suizid."
+		},
+		"sprite": {
+			"desc": "Zeigt alle Blütenblätterbilder an."
+		},
+		"spawn_diff": {
+			"desc": "Erzeugt Mobs eines Schwiergkeitgrades."
+		},
+		"spawn": {
+			"desc": "Erzeugt Mobs. Nutze Unterstriche (_) anstelle von Leertasten. Größe ist optional."
+		},
+		"game_speed": {
+			"desc": "Spielgeschwindigkeitsmultiplikator."
+		},
+		"droprates": {
+			"desc": "Zeigt die Falllassrate einer Seltenheit an. Kleiner heißt seltener. Zahl muss ziwschen 0 und 1 liegen."
+		},
+		"sim_craft": {
+			"desc": "Simuliert Crafting."
+		},
+		"give": {
+			"desc": "Gibt dir Blütenblätter. Nutze Unterstriche (_) anstelle von Leertasten."
+		},
+		"ygg": {
+			"desc": "Belebt dich wieder."
+		},
+		"immune": {
+			"desc": "Macht dich unverwundbar."
+		},
+		"speed": {
+			"desc": "Geschwindigkeitsmultiplikator."
+		},
+		"ghost": {
+			"desc": "Entfernt deine Kollision. Nutze den Befehl 2-mal um den Effekt wieder zu beheben."
+		},
+		"toggle_game": {
+			"desc": "Aktiviere oder schalte die Spiel Aktualisierungsschleife"
+		},
+		"fov": {
+			"desc": "Erhöht deine sichtweite"
+		}
+	},
+	"starProducts": {
+		"stars_1": {
+			"desc": "Starter pack"
+		},
+		"stars_2": {
+			"desc": "Größeres star pack"
+		},
+		"stars_3": {
+			"desc": "Großes star pack"
+		},
+		"stars_4": {
+			"desc": "Gigantisches star pack"
+		},
+		"stars_5": {
+			"desc": "Gigantischeres star pack"
+		},
+		"stars_6": {
+			"desc": "Sehr Großes star pack"
+		},
+		"stars_7": {
+			"desc": "Massives star pack"
+		},
+		"stars_8": {
+			"desc": "Verdächtig Großes star pack"
+		},
+		"stars_9": {
+			"desc": "Verdächtig Gigantischeres star pack"
+		},
+		"stars_10": {
+			"desc": "Verdächtig Gigantisch und Großes star pack"
+		},
+		"stars_11": {
+			"desc": "Verdächtig sehr Gigantisches und sehr Großes star pack"
+		},
+		"stars_12": {
+			"desc": "Mrbeast!"
+		}
+	}
+}
