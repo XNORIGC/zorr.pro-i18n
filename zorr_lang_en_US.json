@@ -1194,7 +1194,7 @@
 		},
 		"laser": {
 			"name": "Laser",
-			"desc": "Can cause severe burns"
+			"desc": "Can cause severe burns. Fire stacks."
 		},
 		"mark": {
 			"name": "Mark",
@@ -2495,6 +2495,14 @@
 		"chargesheet": {
 			"name": "Chargesheet",
 			"desc": "Does 100x damage to corrupt individuals of the system."
+		},
+		"magic_iodine": {
+			"name": "Magic Iodine",
+			"desc": "Has a magical aura which fills allies with mana."
+		},
+		"magic_iris": {
+			"name": "Magic Iris",
+			"desc": "The magic made it cast the same damage as the enemy is poisoned."
 		}
 	},
 	"achievements": {
@@ -3412,6 +3420,7 @@
 		"radiationPoison": "Radiation Poison",
 		"radiationFire": "Radiation Fire",
 		"radiationHeal": "Radiation Heal",
+		"radiationMana": "Radiation Mana",
 		"radiationLightningDamage": "Radiation Lightning Damage",
 		"radiationLightningBounces": "Radiation Lightning Bounces",
 		"orbitTwirl": "Orbit Twirl",
@@ -3457,6 +3466,7 @@
 		"robMana": "Rob Mana",
 		"spreadMana": "Spread Mana",
 		"petVariantMutation": "Pet Variant Mutation",
+		"poisonToDamageCap": "Poison To Damage Cap",
 		"visionOffset": "Vision Offset",
 		"petalOrbitDistance": "Petal Orbit Distance",
 		"flowerBodyDamage": "Flower Body Damage",
