@@ -1638,7 +1638,7 @@
 		},
 		"mirror": {
 			"name": "鏡",
-			"desc": "可反飛矢，至稀品秩加一。若飛矢之稀逾鏡者，則其傷減九五之數。譬如，至高之鏡可反至尊黃蜂之矢，然其傷消減九五。"
+			"desc": "Reflects missiles upto rarity+1. Damage of missiles with rarity higher than it is nerfed by 95%. For example, Ultra Mirror can relect Super Hornet's Missile but its damage will be reduced by 50%."
 		},
 		"comb": {
 			"name": "櫛",
