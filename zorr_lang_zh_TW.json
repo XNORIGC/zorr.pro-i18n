@@ -1638,7 +1638,7 @@
 		},
 		"mirror": {
 			"name": "鏡子",
-			"desc": "反射最高到稀有度+1的導彈。比他等級高的導彈的傷害會被削弱95%。例如：究極鏡子可以反射超級黃蜂的導彈，但是它的傷害將會被削弱95%。"
+			"desc": "Reflects missiles upto rarity+1. Damage of missiles with rarity higher than it is nerfed by 95%. For example, Ultra Mirror can relect Super Hornet's Missile but its damage will be reduced by 50%."
 		},
 		"comb": {
 			"name": "梳子",
