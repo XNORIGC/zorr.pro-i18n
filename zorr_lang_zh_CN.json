@@ -1862,7 +1862,7 @@
 		},
 		"capacitor": {
 			"name": "电容器",
-			"desc": "增加相同稀有度及以下闪电的连锁攻击数目。"
+			"desc": "增加相同及以下品质的闪电的连锁攻击数目。"
 		},
 		"koban": {
 			"name": "小判",
@@ -2050,7 +2050,7 @@
 		},
 		"magic_bomb": {
 			"name": "魔法炸弹",
-			"desc": "c。"
+			"desc": "魔法竟然如此具有爆炸性。"
 		},
 		"magic_gas_bomb": {
 			"name": "魔法毒气弹",
@@ -3369,7 +3369,7 @@
 		"honeyTileFire": "蜂蜜块火伤",
 		"honeySizeReduction": "蜂蜜块大小减少",
 		"sendToBiome": "传送至生物群系",
-		"flowerReloadFactor": "花朵冷却时间系数",
+		"flowerReloadFactor": "花瓣冷却时间除数",
 		"armorDebuff": "护甲减益",
 		"flowerSpeed": "花朵速度",
 		"fireDamage": "火焰伤害",
@@ -3442,7 +3442,7 @@
 		"fragmentHealth": "碎片生命",
 		"extraSpillRate": "额外流动速度",
 		"armorDebuffPercent": "护甲削弱百分比",
-		"flowerExplosion": "花朵爆炸",
+		"flowerExplosion": "花朵爆炸伤害",
 		"flowerExplosionSize": "花朵爆炸范围",
 		"extraFlowerMass": "额外花朵质量",
 		"extraFlowerSize": "额外花朵大小",
@@ -3529,10 +3529,10 @@
 		"showHealthBar": "显示生命条",
 		"showPetHealthBar": "显示宠物生命条",
 		"showHealth": "显示生命值",
-		"showExplosion": "显示爆炸效果",
+		"showExplosion": "显示爆炸",
 		"showLightning": "显示闪电",
-		"showRadiation": "显示辐射效果",
-		"abbreviateDps": "缩写秒伤",
+		"showRadiation": "显示辐射",
+		"abbreviateDps": "缩写训练统计数据",
 		"fixedHudSize": "固定平视显示器大小",
 		"screenShake": "画面抖动",
 		"antiAliasing": "抗锯齿",
@@ -3612,7 +3612,7 @@
 			"desc": "显示并复制你当前的小队代码。"
 		},
 		"petal_reload": {
-			"desc": "设置花瓣冷却时间系数。"
+			"desc": "设置花瓣冷却时间除数。"
 		},
 		"petal_damage": {
 			"desc": "设置花瓣伤害系数。"
