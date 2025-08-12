@@ -3304,6 +3304,10 @@
 			"name": "Error",
 			"desc": "Windows crashed..."
 		},
+		"tonker": {
+			"name": "Tonker",
+			"desc": "It looks like a dinasaur"
+		},
 		"helios": {
 			"name": "Helios",
 			"desc": "Sun God."
@@ -3532,6 +3536,7 @@
 		"showExplosion": "Show Explosion",
 		"showLightning": "Show Lightning",
 		"showRadiation": "Show Radiation",
+		"_d": "_d",
 		"abbreviateDps": "Abbreviate Dps",
 		"fixedHudSize": "Fixed Hud Size",
 		"screenShake": "Screen Shake",
