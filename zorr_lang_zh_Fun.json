@@ -3304,6 +3304,10 @@
 			"name": "错误",
 			"desc": "Windows崩溃了……"
 		},
+		"tonker": {
+			"name": "汤克",
+			"desc": "看起来像恐龙"
+		},
 		"helios": {
 			"name": "赫利俄斯",
 			"desc": "太阳神。"
@@ -3532,6 +3536,7 @@
 		"showExplosion": "显示爆炸",
 		"showLightning": "显示闪电",
 		"showRadiation": "显示辐射",
+		"_d": "_d",
 		"abbreviateDps": "缩写训练统计信息",
 		"fixedHudSize": "固定平视显示器大小",
 		"screenShake": "画面抖动",
