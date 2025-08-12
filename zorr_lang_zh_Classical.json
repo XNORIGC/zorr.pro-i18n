@@ -3304,6 +3304,10 @@
 			"name": "Error",
 			"desc": "Windows crashed..."
 		},
+		"tonker": {
+			"name": "Tonker",
+			"desc": "It looks like a dinasaur"
+		},
 		"helios": {
 			"name": "Helios",
 			"desc": "Sun God."
@@ -3532,6 +3536,7 @@
 		"showExplosion": "顯爆裂",
 		"showLightning": "顯雷霆",
 		"showRadiation": "顯輻射",
+		"_d": "_d",
 		"abbreviateDps": "創秒之縮寫",
 		"fixedHudSize": "固定巨之HUD",
 		"screenShake": "屏震",
