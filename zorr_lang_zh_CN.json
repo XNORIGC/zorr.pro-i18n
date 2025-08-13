@@ -2503,6 +2503,10 @@
 		"magic_iris": {
 			"name": "魔法鸢尾",
 			"desc": "魔法使其造成与敌人中毒所受伤害相同的伤害。"
+		},
+		"golden_palm_leaf": {
+			"name": "金棕榈叶",
+			"desc": "这片叶子减少你的花瓣的次要冷却时间（生效时间）"
 		}
 	},
 	"achievements": {
@@ -3189,7 +3193,7 @@
 			"desc": "为你光线追踪的2个球。"
 		},
 		"balls": {
-			"name": "球球",
+			"name": "蛋蛋",
 			"desc": "OwO"
 		},
 		"tear": {
@@ -3363,8 +3367,8 @@
 		"passiveBoost": "持续推进",
 		"push": "推力",
 		"armor": "护甲",
-		"extraFlowerHealth": "额外花朵生命值",
-		"flowerPoison": "花朵毒伤",
+		"extraFlowerHealth": "花朵额外生命值",
+		"flowerPoison": "花朵剧毒",
 		"slownessTime": "减速时间",
 		"soakDamageTime": "伤害吸收时间",
 		"honeyRange": "蜂蜜块范围",
@@ -3382,12 +3386,12 @@
 		"flowerAcceleration": "花朵加速度",
 		"agroRangeReduction": "仇恨范围减小",
 		"agroRangeIncrease": "仇恨范围增加",
-		"extraFlowerKnock": "额外花朵击退",
+		"extraFlowerKnock": "花朵额外击退",
 		"damageHealed": "造成伤害时治疗",
 		"selfDamage": "自我伤害",
 		"selfFireDamage": "自我火伤",
 		"selfPoison": "自我毒伤",
-		"flowerBodyLightning": "花朵身体电伤",
+		"flowerBodyLightning": "花朵闪电伤害",
 		"freezeTime": "冻结时间",
 		"explosionFreezeTime": "爆炸冻结时间",
 		"explosionKnockback": "爆炸击退",
@@ -3442,6 +3446,7 @@
 		"lightningMultiHitRate": "闪电多次命中率",
 		"orbitRangeFactor": "轨道范围系数",
 		"flowerEvasion": "花朵闪避",
+		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
 		"fragmentDamage": "碎片伤害",
 		"fragmentHealth": "碎片生命",
 		"extraSpillRate": "额外流动速度",
@@ -3536,7 +3541,6 @@
 		"showExplosion": "显示爆炸",
 		"showLightning": "显示闪电",
 		"showRadiation": "显示辐射",
-		"_d": "_d",
 		"abbreviateDps": "缩写训练统计信息",
 		"fixedHudSize": "固定平视显示器大小",
 		"screenShake": "画面抖动",
