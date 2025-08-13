@@ -2503,6 +2503,10 @@
 		"magic_iris": {
 			"name": "Magic Iris",
 			"desc": "The magic made it cast the same damage as the enemy is poisoned."
+		},
+		"golden_palm_leaf": {
+			"name": "Golden Palm Leaf",
+			"desc": "This leaf reduces your secondary petal reload (useTime)"
 		}
 	},
 	"achievements": {
@@ -3442,6 +3446,7 @@
 		"lightningMultiHitRate": "雷霆連擊之率",
 		"orbitRangeFactor": "軌跡距之因子",
 		"flowerEvasion": "花之閃避",
+		"flowerSecondaryReloadFactor": "Flower Secondary Reload Factor",
 		"fragmentDamage": "碎片之創",
 		"fragmentHealth": "碎片氣血",
 		"extraSpillRate": "額外溢位機率",
@@ -3536,7 +3541,6 @@
 		"showExplosion": "顯爆裂",
 		"showLightning": "顯雷霆",
 		"showRadiation": "顯輻射",
-		"_d": "_d",
 		"abbreviateDps": "創秒之縮寫",
 		"fixedHudSize": "固定巨之HUD",
 		"screenShake": "屏震",
