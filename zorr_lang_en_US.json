@@ -2503,6 +2503,10 @@
 		"magic_iris": {
 			"name": "Magic Iris",
 			"desc": "The magic made it cast the same damage as the enemy is poisoned."
+		},
+		"golden_palm_leaf": {
+			"name": "Golden Palm Leaf",
+			"desc": "This leaf reduces your secondary petal reload (useTime)"
 		}
 	},
 	"achievements": {
@@ -3442,6 +3446,7 @@
 		"lightningMultiHitRate": "Lightning Multi Hit Rate",
 		"orbitRangeFactor": "Orbit Range Factor",
 		"flowerEvasion": "Flower Evasion",
+		"flowerSecondaryReloadFactor": "Flower Secondary Reload Factor",
 		"fragmentDamage": "Fragment Damage",
 		"fragmentHealth": "Fragment Health",
 		"extraSpillRate": "Extra Spill Rate",
@@ -3536,7 +3541,6 @@
 		"showExplosion": "Show Explosion",
 		"showLightning": "Show Lightning",
 		"showRadiation": "Show Radiation",
-		"_d": "_d",
 		"abbreviateDps": "Abbreviate Dps",
 		"fixedHudSize": "Fixed Hud Size",
 		"screenShake": "Screen Shake",
