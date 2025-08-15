@@ -3627,6 +3627,12 @@
 		"petal_damage": {
 			"desc": "設定花瓣傷害係數。"
 		},
+		"petal_use_time": {
+			"desc": "Sets petal secondary reload factor."
+		},
+		"broadcast": {
+			"desc": "Broadcasts a message to all players"
+		},
 		"guild_transfer_owner": {
 			"desc": "轉移公會所有權。"
 		},
