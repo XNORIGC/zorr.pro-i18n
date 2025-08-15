@@ -3627,6 +3627,12 @@
 		"petal_damage": {
 			"desc": "Sets petal damage factor."
 		},
+		"petal_use_time": {
+			"desc": "Sets petal secondary reload factor."
+		},
+		"broadcast": {
+			"desc": "Broadcasts a message to all players"
+		},
 		"guild_transfer_owner": {
 			"desc": "Transfers guild ownership."
 		},
