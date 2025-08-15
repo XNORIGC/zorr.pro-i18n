@@ -3627,6 +3627,12 @@
 		"petal_damage": {
 			"desc": "設瓣創之因"
 		},
+		"petal_use_time": {
+			"desc": "Sets petal secondary reload factor."
+		},
+		"broadcast": {
+			"desc": "Broadcasts a message to all players"
+		},
 		"guild_transfer_owner": {
 			"desc": "易盟主之位"
 		},
