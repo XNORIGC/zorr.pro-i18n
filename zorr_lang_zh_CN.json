@@ -3622,10 +3622,16 @@
 			"desc": "显示并复制你当前的小队代码。"
 		},
 		"petal_reload": {
-			"desc": "设置花瓣冷却时间除数。"
+			"desc": "设置花瓣冷却时间系数。"
 		},
 		"petal_damage": {
 			"desc": "设置花瓣伤害系数。"
+		},
+		"petal_use_time": {
+			"desc": "设置花瓣生效时间系数。"
+		},
+		"broadcast": {
+			"desc": "Broadcasts a message to all players"
 		},
 		"guild_transfer_owner": {
 			"desc": "转移公会所有权。"
