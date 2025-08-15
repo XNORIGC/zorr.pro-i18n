@@ -3631,7 +3631,7 @@
 			"desc": "设置花瓣生效时间系数。"
 		},
 		"broadcast": {
-			"desc": "Broadcasts a message to all players"
+			"desc": "向所有玩家广播一条消息"
 		},
 		"guild_transfer_owner": {
 			"desc": "转移公会所有权。"
