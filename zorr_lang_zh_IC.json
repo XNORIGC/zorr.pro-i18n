@@ -3312,6 +3312,10 @@
 			"name": "汤克",
 			"desc": "看起来像恐龙"
 		},
+		"gear": {
+			"name": "Gear",
+			"desc": "Mechanical gear"
+		},
 		"helios": {
 			"name": "赫利俄斯",
 			"desc": "太阳神。"
