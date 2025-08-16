@@ -3312,6 +3312,10 @@
 			"name": "Tonker",
 			"desc": "It looks like a dinasaur"
 		},
+		"gear": {
+			"name": "Gear",
+			"desc": "Mechanical gear"
+		},
 		"helios": {
 			"name": "Helios",
 			"desc": "Sun God."
