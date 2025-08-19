@@ -2510,15 +2510,15 @@
 		},
 		"magic_bone": {
 			"name": "魔法骨头",
-			"desc": "The magic made it increase its damage the more Magic Bone you have equipped harmonically (1 + 1/2 + 1/3 + ...)"
+			"desc": "魔法使你装备的魔法骨头越多，它的伤害就调和地越高（1 + ½ + ⅓ + ...）"
 		},
 		"magic_air": {
-			"name": "Magic Air",
-			"desc": "Magical air that inflates your mana capacity."
+			"name": "魔法空气",
+			"desc": "膨胀你的魔力容量的魔法空气。"
 		},
 		"magic_ruby": {
-			"name": "Magic Ruby",
-			"desc": "Stacks explosion damage to a single random target. For example: If you have 3 mobs if your explosion range, only 1 random mob of them will be hurt 3 times."
+			"name": "魔法红宝石",
+			"desc": "对单个随机目标叠加爆炸伤害。例如：如果你的爆炸范围内有三个生物，则其中只有一个随机生物会受到三次伤害。"
 		}
 	},
 	"achievements": {
@@ -3137,7 +3137,7 @@
 			"desc": "摸摸草地"
 		},
 		"zurchin": {
-			"name": "祖尔钦",
+			"name": "烸胆",
 			"desc": "更好看的海胆"
 		},
 		"bacteria": {
@@ -3329,20 +3329,20 @@
 			"desc": "机械齿轮"
 		},
 		"kurchin": {
-			"name": "Kurchin",
-			"desc": "Just another urchin"
+			"name": "嗨胆",
+			"desc": "只是另一只海胆"
 		},
 		"bowser": {
-			"name": "Bowser",
-			"desc": "Mario moment"
+			"name": "酷霸",
+			"desc": "马里奥时刻"
 		},
 		"hel": {
-			"name": "Hel",
-			"desc": "A hel flower"
+			"name": "冥界",
+			"desc": "一朵冥界花"
 		},
 		"kirby": {
-			"name": "Kirby",
-			"desc": "Spiky little ball"
+			"name": "卡比",
+			"desc": "尖刺小球"
 		},
 		"helios": {
 			"name": "赫利俄斯",
