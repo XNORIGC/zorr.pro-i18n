@@ -2507,6 +2507,18 @@
 		"golden_palm_leaf": {
 			"name": "金棕榈叶",
 			"desc": "这片叶子减少你的花瓣的副冷却时间（生效时间）"
+		},
+		"magic_bone": {
+			"name": "魔法骨头",
+			"desc": "The magic made it increase its damage the more Magic Bone you have equipped harmonically (1 + 1/2 + 1/3 + ...)"
+		},
+		"magic_air": {
+			"name": "Magic Air",
+			"desc": "Magical air that inflates your mana capacity."
+		},
+		"magic_ruby": {
+			"name": "Magic Ruby",
+			"desc": "Stacks explosion damage to a single random target. For example: If you have 3 mobs if your explosion range, only 1 random mob of them will be hurt 3 times."
 		}
 	},
 	"achievements": {
@@ -3316,6 +3328,22 @@
 			"name": "齿轮",
 			"desc": "机械齿轮"
 		},
+		"kurchin": {
+			"name": "Kurchin",
+			"desc": "Just another urchin"
+		},
+		"bowser": {
+			"name": "Bowser",
+			"desc": "Mario moment"
+		},
+		"hel": {
+			"name": "Hel",
+			"desc": "A hel flower"
+		},
+		"kirby": {
+			"name": "Kirby",
+			"desc": "Spiky little ball"
+		},
 		"helios": {
 			"name": "赫利俄斯",
 			"desc": "太阳神。"
@@ -3448,6 +3476,7 @@
 		"extraPoisonDuration": "额外中毒时间",
 		"subExplosions": "次级爆炸数",
 		"lightningMultiHitRate": "闪电多次击中率",
+		"explosionMultiHit": "爆炸多次击中",
 		"orbitRangeFactor": "轨道范围系数",
 		"flowerEvasion": "花朵闪避",
 		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
@@ -3490,6 +3519,7 @@
 		"splitOrbitDistance": "分裂轨道距离",
 		"gap": "间隔",
 		"petDefrost": "宠物解冻",
+		"extraManaPercent": "额外魔力百分比",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
