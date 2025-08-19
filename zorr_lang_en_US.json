@@ -2507,6 +2507,18 @@
 		"golden_palm_leaf": {
 			"name": "Golden Palm Leaf",
 			"desc": "This leaf reduces your secondary petal reload (useTime)"
+		},
+		"magic_bone": {
+			"name": "Magic Bone",
+			"desc": "The magic made it increase its damage the more Magic Bone you have equipped harmonically (1 + 1/2 + 1/3 + ...)"
+		},
+		"magic_air": {
+			"name": "Magic Air",
+			"desc": "Magical air that inflates your mana capacity."
+		},
+		"magic_ruby": {
+			"name": "Magic Ruby",
+			"desc": "Stacks explosion damage to a single random target. For example: If you have 3 mobs if your explosion range, only 1 random mob of them will be hurt 3 times."
 		}
 	},
 	"achievements": {
@@ -3316,6 +3328,22 @@
 			"name": "Gear",
 			"desc": "Mechanical gear"
 		},
+		"kurchin": {
+			"name": "Kurchin",
+			"desc": "Just another urchin"
+		},
+		"bowser": {
+			"name": "Bowser",
+			"desc": "Mario moment"
+		},
+		"hel": {
+			"name": "Hel",
+			"desc": "A hel flower"
+		},
+		"kirby": {
+			"name": "Kirby",
+			"desc": "Spiky little ball"
+		},
 		"helios": {
 			"name": "Helios",
 			"desc": "Sun God."
@@ -3448,6 +3476,7 @@
 		"extraPoisonDuration": "Extra Poison Duration",
 		"subExplosions": "Sub Explosions",
 		"lightningMultiHitRate": "Lightning Multi Hit Rate",
+		"explosionMultiHit": "Explosion Multi Hit",
 		"orbitRangeFactor": "Orbit Range Factor",
 		"flowerEvasion": "Flower Evasion",
 		"flowerSecondaryReloadFactor": "Flower Secondary Reload Factor",
@@ -3490,6 +3519,7 @@
 		"splitOrbitDistance": "Split Orbit Distance",
 		"gap": "Gap",
 		"petDefrost": "Pet Defrost",
+		"extraManaPercent": "Extra Mana Percent",
 		"bodyLightning": "Body Lightning",
 		"bodyLightningFire": "Body Lightning Fire",
 		"bodyLightningPoison": "Body Lightning Poison",
