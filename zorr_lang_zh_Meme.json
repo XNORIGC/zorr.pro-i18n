@@ -2586,7 +2586,7 @@
 			"desc": "Summons deadly farts."
 		},
 		"silverfish_egg": {
-			"name": "Silverfish Egg",
+			"name": "蠹虫蛋",
 			"desc": "It can hatch and spawn something interesting..."
 		},
 		"bubonic_plague": {
@@ -2602,7 +2602,7 @@
 			"desc": "These bigger shards of plastic take longer to absorb, but are a lot more deadly"
 		},
 		"poo_mark": {
-			"name": "Poo Mark",
+			"name": "便便标记",
 			"desc": "Sends a dead lil flower to the poopy realm"
 		},
 		"neurotoxin": {
