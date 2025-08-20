@@ -77,6 +77,7 @@
 		"bio": "生化",
 		"void": "虚空",
 		"hel": "冥界",
+		"sewers": "Sewers",
 		"as": "亚洲",
 		"eu": "欧洲",
 		"us": "美国",
@@ -777,6 +778,42 @@
 		"geyser": {
 			"name": "热泉",
 			"desc": "到处喷滚烫的水。"
+		},
+		"roach": {
+			"name": "Roach",
+			"desc": "Super fast. has a tough exoskeleton too."
+		},
+		"yeba": {
+			"name": "Yeba",
+			"desc": "Used to be a bigshot. Got addicted to sniffing powder, his wife left him and now he is stuck here, in the sewers."
+		},
+		"trashcan": {
+			"name": "Trashcan",
+			"desc": "This is where your legacy belongs, in the trashcan."
+		},
+		"rat": {
+			"name": "Rat",
+			"desc": "Large, yucky, ugly rat. Probably has the bubonic plague"
+		},
+		"baby_rat": {
+			"name": "Baby Rat",
+			"desc": "Small, still yucky, and slightly less ugly rat."
+		},
+		"poostorm": {
+			"name": "Poostorm",
+			"desc": "A shitty storm"
+		},
+		"silverfish": {
+			"name": "Silverfish",
+			"desc": "Terrible naming, its not really silver and its not even a fish. I want a refund!"
+		},
+		"larva": {
+			"name": "Larva",
+			"desc": "A liquid insect, breaking it would cause an angry mosquito to attack you."
+		},
+		"mosquito": {
+			"name": "Mosquito",
+			"desc": "Bbbbzzzzzzzzzzzzzz."
 		}
 	},
 	"petals": {
@@ -2519,6 +2556,78 @@
 		"magic_ruby": {
 			"name": "魔法红宝石",
 			"desc": "对单个随机目标叠加爆炸伤害。例如：如果你的爆炸范围内有三个生物，则其中只有一个随机生物会受到三次伤害。"
+		},
+		"roach_egg": {
+			"name": "Roach Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"legs": {
+			"name": "Legs",
+			"desc": "Glue these 8 legs to your body and you will be able to climb over enemy spider webs"
+		},
+		"yeba_egg": {
+			"name": "Yeba Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"trashcan_egg": {
+			"name": "Trashcan Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"rat_egg": {
+			"name": "Rat Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"baby_rat_egg": {
+			"name": "Baby Rat Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"poo_stick": {
+			"name": "Poo Stick",
+			"desc": "Summons deadly farts."
+		},
+		"silverfish_egg": {
+			"name": "Silverfish Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"bubonic_plague": {
+			"name": "Bubonic Plague",
+			"desc": "Guess what? It didnt went extinct. Does extra damage to african mobs."
+		},
+		"microplastics": {
+			"name": "Microplastics",
+			"desc": "Goes into the blood of your enemies."
+		},
+		"magic_microplastics": {
+			"name": "Magic Microplastics",
+			"desc": "These bigger shards of plastic take longer to absorb, but are a lot more deadly"
+		},
+		"poo_mark": {
+			"name": "Poo Mark",
+			"desc": "Sends a dead lil flower to the poopy realm"
+		},
+		"neurotoxin": {
+			"name": "Neurotoxin",
+			"desc": "Affects the motor skills of your enemy. They will not be able to fight effectively."
+		},
+		"whiskers": {
+			"name": "Whiskers",
+			"desc": "Senses danger and speeds you up to save yourself."
+		},
+		"magic_neurotoxin": {
+			"name": "Magic Neurotoxin",
+			"desc": "Your enemy won't be able to move straight for 5s when hit by it. Works till the same rarity."
+		},
+		"larva_egg": {
+			"name": "Larva Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"chitin": {
+			"name": "Chitin",
+			"desc": "Gives you temporary armor for 3s."
+		},
+		"mosquito_egg": {
+			"name": "Mosquito Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -3383,6 +3492,7 @@
 		"shield": "护盾",
 		"passiveShield": "持续护盾恢复",
 		"poison": "剧毒",
+		"poisonTime": "Poison Time",
 		"orbitSpeed": "轨道速度",
 		"lightningDamage": "闪电伤害",
 		"lightningFireDamage": "闪电火伤",
@@ -3484,6 +3594,7 @@
 		"orbitRangeFactor": "轨道范围系数",
 		"flowerEvasion": "花朵闪避",
 		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
+		"tempArmor": "Temp Armor",
 		"fragmentDamage": "碎片伤害",
 		"fragmentHealth": "碎片生命",
 		"extraSpillRate": "额外流动速度",
@@ -3497,6 +3608,7 @@
 		"mobAgroRangeReduction": "生物仇恨范围减小",
 		"detox": "解毒",
 		"extraExplosionSize": "额外爆炸范围",
+		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "宠物复制率",
 		"mana": "魔力",
 		"passiveMana": "持续魔力恢复",
@@ -3524,6 +3636,8 @@
 		"gap": "间隔",
 		"petDefrost": "宠物解冻",
 		"extraManaPercent": "额外魔力百分比",
+		"senseSpeed": "Sense Speed",
+		"senseRange": "Sense Range",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
