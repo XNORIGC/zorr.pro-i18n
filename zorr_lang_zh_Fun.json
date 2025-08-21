@@ -77,7 +77,7 @@
 		"bio": "生化",
 		"void": "虚空",
 		"hel": "冥界",
-		"sewers": "Sewers",
+		"sewers": "下水道",
 		"as": "亚洲",
 		"eu": "欧洲",
 		"us": "美国",
@@ -780,40 +780,40 @@
 			"desc": "到处喷滚烫的水。"
 		},
 		"roach": {
-			"name": "Roach",
-			"desc": "Super fast. has a tough exoskeleton too."
+			"name": "蟑螂",
+			"desc": "超级快。它也有一个坚硬的外骨骼。"
 		},
 		"yeba": {
 			"name": "哕巴",
-			"desc": "Used to be a bigshot. Got addicted to sniffing powder, his wife left him and now he is stuck here, in the sewers."
+			"desc": "曾经是个大人物。他对毒品上瘾，他的妻子离开了他，现在他被困在这下水道里。"
 		},
 		"trashcan": {
-			"name": "Trashcan",
-			"desc": "This is where your legacy belongs, in the trashcan."
+			"name": "垃圾桶",
+			"desc": "这就是你的旧物所处，在垃圾桶里。"
 		},
 		"rat": {
-			"name": "Rat",
-			"desc": "Large, yucky, ugly rat. Probably has the bubonic plague"
+			"name": "老鼠",
+			"desc": "巨大、恶心、丑陋的老鼠。可能带有腺鼠疫"
 		},
 		"baby_rat": {
-			"name": "Baby Rat",
-			"desc": "Small, still yucky, and slightly less ugly rat."
+			"name": "小老鼠",
+			"desc": "小，仍然恶心，但也没那么丑的老鼠。"
 		},
 		"poostorm": {
-			"name": "粪暴",
-			"desc": "A shitty storm"
+			"name": "屎暴",
+			"desc": "屎横遍野的风暴"
 		},
 		"silverfish": {
-			"name": "Silverfish",
-			"desc": "Terrible naming, its not really silver and its not even a fish. I want a refund!"
+			"name": "蠹虫",
+			"desc": "真是糟糕的命名，它不是银色的，甚至不是鱼。我要退款！"
 		},
 		"larva": {
-			"name": "子孓",
-			"desc": "A liquid insect, breaking it would cause an angry mosquito to attack you."
+			"name": "孑孓",
+			"desc": "一只液体昆虫，打破它会导致愤怒的蚊子攻击你。"
 		},
 		"mosquito": {
 			"name": "蚊子",
-			"desc": "Bbbbzzzzzzzzzzzzzz."
+			"desc": "滋滋滋滋滋滋滋滋滋滋滋滋滋滋。"
 		}
 	},
 	"petals": {
@@ -2558,76 +2558,76 @@
 			"desc": "对单个随机目标叠加爆炸伤害。例如：如果你的爆炸范围内有三个生物，则其中只有一个随机生物会受到三次伤害。"
 		},
 		"roach_egg": {
-			"name": "Roach Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蟑螂蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"legs": {
-			"name": "Legs",
-			"desc": "Glue these 8 legs to your body and you will be able to climb over enemy spider webs"
+			"name": "腿",
+			"desc": "将这8条腿粘在身上，你就能爬过敌人的蜘蛛网"
 		},
 		"yeba_egg": {
-			"name": "Yeba Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "哕巴蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"trashcan_egg": {
-			"name": "Trashcan Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "垃圾桶蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"rat_egg": {
-			"name": "Rat Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "老鼠蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"baby_rat_egg": {
-			"name": "Baby Rat Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "小老鼠蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"poo_stick": {
-			"name": "Poo Stick",
-			"desc": "Summons deadly farts."
+			"name": "屎棍",
+			"desc": "召唤致命的屁。"
 		},
 		"silverfish_egg": {
 			"name": "蠹虫蛋",
-			"desc": "It can hatch and spawn something interesting..."
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"bubonic_plague": {
-			"name": "黑死病",
-			"desc": "Guess what? It didnt went extinct. Does extra damage to african mobs."
+			"name": "腺鼠疫",
+			"desc": "你猜怎么着？它没有灭绝。对非洲的怪物造成额外伤害。"
 		},
 		"microplastics": {
-			"name": "微塑料",
-			"desc": "Goes into the blood of your enemies."
+			"name": "塑料微粒",
+			"desc": "渗入你敌人的血液。"
 		},
 		"magic_microplastics": {
-			"name": "魔法微塑料",
-			"desc": "These bigger shards of plastic take longer to absorb, but are a lot more deadly"
+			"name": "魔法塑料微粒",
+			"desc": "这些较大的塑料碎片需要更长的时间才能吸收，但更致命"
 		},
 		"poo_mark": {
 			"name": "便便标记",
-			"desc": "Sends a dead lil flower to the poopy realm"
+			"desc": "将一朵小死花送去屎界"
 		},
 		"neurotoxin": {
 			"name": "神经毒素",
-			"desc": "Affects the motor skills of your enemy. They will not be able to fight effectively."
+			"desc": "影响敌人的运动能力。他们将无法有效地战斗。"
 		},
 		"whiskers": {
 			"name": "胡须",
-			"desc": "Senses danger and speeds you up to save yourself."
+			"desc": "感知周围的危险并使你加速来自救。"
 		},
 		"magic_neurotoxin": {
 			"name": "魔法神经毒素",
-			"desc": "Your enemy won't be able to move straight for 5s when hit by it. Works till the same rarity."
+			"desc": "你的敌人被击中后，将有5秒无法行动。影响直到同样的稀有度的生物。"
 		},
 		"larva_egg": {
-			"name": "Larva Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "孑孓蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"chitin": {
-			"name": "Chitin",
-			"desc": "Gives you temporary armor for 3s."
+			"name": "甲壳素",
+			"desc": "为你提供3秒的临时护甲。"
 		},
 		"mosquito_egg": {
-			"name": "Mosquito Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蚊子蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		}
 	},
 	"achievements": {
@@ -3492,7 +3492,7 @@
 		"shield": "护盾",
 		"passiveShield": "持续护盾恢复",
 		"poison": "剧毒",
-		"poisonTime": "Poison Time",
+		"poisonTime": "中毒时间",
 		"orbitSpeed": "轨道速度",
 		"lightningDamage": "闪电伤害",
 		"lightningFireDamage": "闪电火伤",
@@ -3594,7 +3594,7 @@
 		"orbitRangeFactor": "轨道范围系数",
 		"flowerEvasion": "花朵闪避",
 		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
-		"tempArmor": "Temp Armor",
+		"tempArmor": "临时护甲",
 		"fragmentDamage": "碎片伤害",
 		"fragmentHealth": "碎片生命",
 		"extraSpillRate": "额外流动速度",
@@ -3608,7 +3608,7 @@
 		"mobAgroRangeReduction": "生物仇恨范围减小",
 		"detox": "解毒",
 		"extraExplosionSize": "额外爆炸范围",
-		"mobDamageFactor": "Mob Damage Factor",
+		"mobDamageFactor": "生物伤害除数",
 		"petDupeRate": "宠物复制率",
 		"mana": "魔力",
 		"passiveMana": "持续魔力恢复",
@@ -3636,8 +3636,8 @@
 		"gap": "间隔",
 		"petDefrost": "宠物解冻",
 		"extraManaPercent": "额外魔力百分比",
-		"senseSpeed": "Sense Speed",
-		"senseRange": "Sense Range",
+		"senseSpeed": "感知提速",
+		"senseRange": "感知范围",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
