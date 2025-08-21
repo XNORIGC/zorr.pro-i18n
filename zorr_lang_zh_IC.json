@@ -784,7 +784,7 @@
 			"desc": "Super fast. has a tough exoskeleton too."
 		},
 		"yeba": {
-			"name": "Yeba",
+			"name": "哕巴",
 			"desc": "Used to be a bigshot. Got addicted to sniffing powder, his wife left him and now he is stuck here, in the sewers."
 		},
 		"trashcan": {
@@ -800,7 +800,7 @@
 			"desc": "Small, still yucky, and slightly less ugly rat."
 		},
 		"poostorm": {
-			"name": "Poostorm",
+			"name": "粪暴",
 			"desc": "A shitty storm"
 		},
 		"silverfish": {
@@ -808,11 +808,11 @@
 			"desc": "Terrible naming, its not really silver and its not even a fish. I want a refund!"
 		},
 		"larva": {
-			"name": "Larva",
+			"name": "子孓",
 			"desc": "A liquid insect, breaking it would cause an angry mosquito to attack you."
 		},
 		"mosquito": {
-			"name": "Mosquito",
+			"name": "蚊子",
 			"desc": "Bbbbzzzzzzzzzzzzzz."
 		}
 	},
@@ -2590,15 +2590,15 @@
 			"desc": "It can hatch and spawn something interesting..."
 		},
 		"bubonic_plague": {
-			"name": "Bubonic Plague",
+			"name": "黑死病",
 			"desc": "Guess what? It didnt went extinct. Does extra damage to african mobs."
 		},
 		"microplastics": {
-			"name": "Microplastics",
+			"name": "微塑料",
 			"desc": "Goes into the blood of your enemies."
 		},
 		"magic_microplastics": {
-			"name": "Magic Microplastics",
+			"name": "魔法微塑料",
 			"desc": "These bigger shards of plastic take longer to absorb, but are a lot more deadly"
 		},
 		"poo_mark": {
@@ -2606,15 +2606,15 @@
 			"desc": "Sends a dead lil flower to the poopy realm"
 		},
 		"neurotoxin": {
-			"name": "Neurotoxin",
+			"name": "神经毒素",
 			"desc": "Affects the motor skills of your enemy. They will not be able to fight effectively."
 		},
 		"whiskers": {
-			"name": "Whiskers",
+			"name": "胡须",
 			"desc": "Senses danger and speeds you up to save yourself."
 		},
 		"magic_neurotoxin": {
-			"name": "Magic Neurotoxin",
+			"name": "魔法神经毒素",
 			"desc": "Your enemy won't be able to move straight for 5s when hit by it. Works till the same rarity."
 		},
 		"larva_egg": {
