@@ -814,6 +814,18 @@
 		"mosquito": {
 			"name": "Mosquito",
 			"desc": "Bbbbzzzzzzzzzzzzzz."
+		},
+		"nazarlion": {
+			"name": "Nazarlion",
+			"desc": "A flower filled with nazar inside that grows in the soil of filth."
+		},
+		"trash_digger": {
+			"name": "Trash Digger",
+			"desc": "An ally just pooping away. Poison stacks."
+		},
+		"manhole": {
+			"name": "Manhole",
+			"desc": "The poopy hole of a poopy creature. The substance it throws out gives stacking infections."
 		}
 	},
 	"petals": {
@@ -2628,6 +2640,30 @@
 		"mosquito_egg": {
 			"name": "Mosquito Egg",
 			"desc": "It can hatch and spawn something interesting..."
+		},
+		"silk": {
+			"name": "Silk",
+			"desc": "It sticks to your enemy and slowly harms them. Unlike banana, it also detaches from your build."
+		},
+		"proboscis": {
+			"name": "Proboscis",
+			"desc": "Sucks the life out of the enemy, restoring your hp."
+		},
+		"nazarlion_egg": {
+			"name": "Nazarlion Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"trash_digger_egg": {
+			"name": "Trash Digger Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"latrine": {
+			"name": "Latrine",
+			"desc": "Liquidy bad bad substance. Gives stacking poison to your enemies."
+		},
+		"manhole_egg": {
+			"name": "Manhole Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -3653,6 +3689,7 @@
 		"sprayHealth": "噴射物生命值",
 		"sprayDamage": "噴射物傷害",
 		"sprayFireDamage": "噴射物火傷",
+		"sprayPoison": "Spray Poison",
 		"telepathicDamage": "心靈感應傷害",
 		"telepathicPoison": "心靈感應劇毒",
 		"telepathicLightningDamage": "心靈感應閃電傷害",
