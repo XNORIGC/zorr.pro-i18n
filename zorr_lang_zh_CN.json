@@ -816,20 +816,20 @@
 			"desc": "滋滋滋滋滋滋滋滋滋滋滋滋滋滋。"
 		},
 		"nazarlion": {
-			"name": "Nazarlion",
-			"desc": "A flower filled with nazar inside that grows in the soil of filth."
+			"name": "邪眼蒲公英",
+			"desc": "一种生长在污秽土壤中的花，里面充满了邪眼。"
 		},
 		"trash_digger": {
-			"name": "Trash Digger",
-			"desc": "An ally just pooping away. Poison stacks."
+			"name": "垃圾挖掘者",
+			"desc": "一个边拉边走的盟友。毒伤可堆叠。"
 		},
 		"manhole": {
-			"name": "Manhole",
-			"desc": "The poopy hole of a poopy creature. The substance it throws out gives stacking infections."
+			"name": "检修孔",
+			"desc": "大便生物的大便洞。它排出的物质会引起可堆叠的感染。"
 		},
 		"pooworm": {
-			"name": "Pooworm",
-			"desc": "A very fat long poopy creature living in the gutter."
+			"name": "大便蠕虫",
+			"desc": "一种生活在排水沟里的又长又肥的生物。"
 		}
 	},
 	"petals": {
@@ -2646,15 +2646,15 @@
 			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"silk": {
-			"name": "Silk",
-			"desc": "It sticks to your enemy and slowly harms them. Unlike banana, it also detaches from your build."
+			"name": "丝绸",
+			"desc": "它会粘在敌人身上，慢慢伤害他们。与香蕉不同，它会从你的花瓣轨道上脱落。"
 		},
 		"proboscis": {
-			"name": "Proboscis",
-			"desc": "Sucks the life out of the enemy, restoring your hp."
+			"name": "口器",
+			"desc": "吸取敌人的生命，恢复你的生命值。"
 		},
 		"nazarlion_egg": {
-			"name": "Nazarlion Egg",
+			"name": "邪眼蒲公英蛋",
 			"desc": "It can hatch and spawn something interesting..."
 		},
 		"trash_digger_egg": {
