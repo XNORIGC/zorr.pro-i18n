@@ -2655,23 +2655,23 @@
 		},
 		"nazarlion_egg": {
 			"name": "邪眼蒲公英蛋",
-			"desc": "It can hatch and spawn something interesting..."
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"trash_digger_egg": {
-			"name": "Trash Digger Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "垃圾挖掘者蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"latrine": {
-			"name": "Latrine",
-			"desc": "Liquidy bad bad substance. Gives stacking poison to your enemies."
+			"name": "粪水",
+			"desc": "腐臭的液态物质。对敌人造成可堆叠毒伤。"
 		},
 		"manhole_egg": {
-			"name": "Manhole Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "检修孔蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"pooworm_egg": {
-			"name": "Pooworm Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "大便蠕虫蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		}
 	},
 	"achievements": {
@@ -3697,7 +3697,7 @@
 		"sprayHealth": "喷射物生命值",
 		"sprayDamage": "喷射物伤害",
 		"sprayFireDamage": "喷射物火伤",
-		"sprayPoison": "Spray Poison",
+		"sprayPoison": "喷射物毒伤",
 		"telepathicDamage": "心灵感应伤害",
 		"telepathicPoison": "心灵感应毒伤",
 		"telepathicLightningDamage": "心灵感应电伤",
