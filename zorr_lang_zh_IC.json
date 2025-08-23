@@ -826,6 +826,10 @@
 		"manhole": {
 			"name": "Manhole",
 			"desc": "The poopy hole of a poopy creature. The substance it throws out gives stacking infections."
+		},
+		"pooworm": {
+			"name": "Pooworm",
+			"desc": "A very fat long poopy creature living in the gutter."
 		}
 	},
 	"petals": {
@@ -2663,6 +2667,10 @@
 		},
 		"manhole_egg": {
 			"name": "Manhole Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"pooworm_egg": {
+			"name": "Pooworm Egg",
 			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
