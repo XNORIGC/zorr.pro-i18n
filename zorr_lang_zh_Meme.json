@@ -196,7 +196,7 @@
 		"craftRate": "成功率：{1}%",
 		"xpFactor": "额外{1}%经验值",
 		"extraDropRate": "额外{1}%掉落率",
-		"extraDropBuff": "+{1}x extra drop buff",
+		"extraDropBuff": "+{1}倍额外掉落增益",
 		"extraDropBuffTime": "额外{1}分钟掉落增益时间",
 		"extraStars": "每月赠送{1}星星",
 		"membershipExpiry": "你的{2}级会员将在{1}后到期……",
