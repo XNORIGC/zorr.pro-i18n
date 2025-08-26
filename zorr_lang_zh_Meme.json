@@ -196,6 +196,7 @@
 		"craftRate": "成功率：{1}%",
 		"xpFactor": "额外{1}%经验值",
 		"extraDropRate": "额外{1}%掉落率",
+		"extraDropBuff": "+{1}x extra drop buff",
 		"extraDropBuffTime": "额外{1}分钟掉落增益时间",
 		"extraStars": "每月赠送{1}星星",
 		"membershipExpiry": "你的{2}级会员将在{1}后到期……",
@@ -3654,7 +3655,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Vi": " Vi",
+		"qi": "Qi",
 		"mana": "魔力",
 		"passiveMana": "持续魔力恢复",
 		"passiveManaOnGround": "持续魔力恢复",
@@ -3792,6 +3793,9 @@
 		"language": "语言"
 	},
 	"commands": {
+		"proxies": {
+			"desc": "列出所有代理地址。"
+		},
 		"kill": {
 			"desc": "击杀一名玩家。"
 		},
