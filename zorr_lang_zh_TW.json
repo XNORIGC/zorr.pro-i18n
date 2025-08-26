@@ -196,6 +196,7 @@
 		"craftRate": "{1}% success rate",
 		"xpFactor": "{1}% extra XP",
 		"extraDropRate": "{1}% extra drop rates",
+		"extraDropBuff": "+{1}x extra drop buff",
 		"extraDropBuffTime": "{1}m extra drop buff time",
 		"extraStars": "{1} stars per month",
 		"membershipExpiry": "Your {2} membership will expire in {1}...",
@@ -3654,7 +3655,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Vi": " Vi",
+		"qi": "Qi",
 		"mana": "魔力",
 		"passiveMana": "持續魔力恢復",
 		"passiveManaOnGround": "持續魔力恢復",
@@ -3792,6 +3793,9 @@
 		"language": "Language"
 	},
 	"commands": {
+		"proxies": {
+			"desc": "Lists all proxy URLs."
+		},
 		"kill": {
 			"desc": "擊殺一名玩家。"
 		},
