@@ -1636,7 +1636,7 @@
 		},
 		"moon": {
 			"name": "Moon",
-			"desc": "very fat petal, might protect you fom mobs"
+			"desc": "very fat petal, might protect you from mobs"
 		},
 		"pearl": {
 			"name": "Pearl",
@@ -3497,6 +3497,10 @@
 		"nova": {
 			"name": "Nova",
 			"desc": "A hypernova"
+		},
+		"nova2": {
+			"name": "Nova2",
+			"desc": "An omeganova"
 		},
 		"kirby": {
 			"name": "Kirby",
