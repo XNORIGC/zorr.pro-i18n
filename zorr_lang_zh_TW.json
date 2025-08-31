@@ -3498,6 +3498,10 @@
 			"name": "Nova",
 			"desc": "A hypernova"
 		},
+		"nova2": {
+			"name": "Nova2",
+			"desc": "An omeganova"
+		},
 		"kirby": {
 			"name": "Kirby",
 			"desc": "Spiky little ball"
