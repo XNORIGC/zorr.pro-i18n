@@ -831,6 +831,10 @@
 		"pooworm": {
 			"name": "便便蠕虫",
 			"desc": "一种生活在排水沟里的又长又肥的生物。"
+		},
+		"monkey": {
+			"name": "猴子",
+			"desc": "A self-proclaimed angel of monkanity."
 		}
 	},
 	"petals": {
@@ -2673,6 +2677,10 @@
 		"pooworm_egg": {
 			"name": "便便蠕虫蛋",
 			"desc": "它可以孵化并生成一些有趣的东西……"
+		},
+		"toy": {
+			"name": "Toy",
+			"desc": "A monkey's favourite object. Doesn't do anything special, just a memorial that you have destroyed a monkey & took his favourite object :3"
 		}
 	},
 	"achievements": {
@@ -3659,7 +3667,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"qi": "Qi",
+		"Wi": " Wi",
 		"mana": "魔力",
 		"passiveMana": "持续魔力恢复",
 		"passiveManaOnGround": "持续魔力恢复",
