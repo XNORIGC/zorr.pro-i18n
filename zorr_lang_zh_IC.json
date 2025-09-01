@@ -834,7 +834,7 @@
 		},
 		"monkey": {
 			"name": "猴子",
-			"desc": "A self-proclaimed angel of monkanity."
+			"desc": "自称是猴类天使。"
 		}
 	},
 	"petals": {
@@ -2679,8 +2679,8 @@
 			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"toy": {
-			"name": "Toy",
-			"desc": "A monkey's favourite object. Doesn't do anything special, just a memorial that you have destroyed a monkey & took his favourite object :3"
+			"name": "小玩具",
+			"desc": "猴子最喜欢的东西。没什么特别的，只是纪念你摧毁了一只猴子并拿走了它最喜欢的东西:3"
 		}
 	},
 	"achievements": {
