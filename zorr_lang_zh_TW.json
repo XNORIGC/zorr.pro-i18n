@@ -831,6 +831,10 @@
 		"pooworm": {
 			"name": "Pooworm",
 			"desc": "A very fat long poopy creature living in the gutter."
+		},
+		"monkey": {
+			"name": "Monkey",
+			"desc": "A self-proclaimed angel of monkanity."
 		}
 	},
 	"petals": {
@@ -2673,6 +2677,10 @@
 		"pooworm_egg": {
 			"name": "Pooworm Egg",
 			"desc": "It can hatch and spawn something interesting..."
+		},
+		"toy": {
+			"name": "Toy",
+			"desc": "A monkey's favourite object. Doesn't do anything special, just a memorial that you have destroyed a monkey & took his favourite object :3"
 		}
 	},
 	"achievements": {
@@ -3659,7 +3667,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"qi": "Qi",
+		"Wi": " Wi",
 		"mana": "魔力",
 		"passiveMana": "持續魔力恢復",
 		"passiveManaOnGround": "持續魔力恢復",
