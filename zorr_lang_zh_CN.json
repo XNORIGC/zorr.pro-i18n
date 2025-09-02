@@ -2686,11 +2686,11 @@
 		},
 		"magic_splitter": {
 			"name": "魔法分裂器",
-			"desc": "Same as splitter but has the negative effect due to its magical origins."
+			"desc": "与分裂器相同，但由于其魔法起源而具有负面效果。"
 		},
 		"magic_slime": {
-			"name": "Magic Slime",
-			"desc": "This one has negative knockback. EWWWWWWW."
+			"name": "魔法黏液球",
+			"desc": "这个花瓣带有负击退。呃呃呃呃。"
 		}
 	},
 	"achievements": {
