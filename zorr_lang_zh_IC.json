@@ -182,6 +182,8 @@
 		"manaToDamage": "消耗全部魔力以生成。伤害 = 0.18 × 魔力 × ㏒₂魔力 × (品质 + 1)³",
 		"growthMana": "消耗{1}点魔力以生长至最大大小。",
 		"petDupeMana": "消耗{1}点魔力以复制宠物。",
+		"effectStacks": "特殊伤害效果叠加。",
+		"healBlacklisted": "被列入治疗黑名单。",
 		"streakRewardTimer": "可在{1}后领取新的奖励。",
 		"streak": "每日签到 - 第{1}天",
 		"day": "第{1}天",
@@ -2681,6 +2683,14 @@
 		"toy": {
 			"name": "小玩具",
 			"desc": "猴子最喜欢的东西。没什么特别的，只是纪念你摧毁了一只猴子并拿走了它最喜欢的东西:3"
+		},
+		"magic_splitter": {
+			"name": "魔法分裂器",
+			"desc": "Same as splitter but has the negative effect due to its magical origins."
+		},
+		"magic_slime": {
+			"name": "Magic Slime",
+			"desc": "This one has negative knockback. EWWWWWWW."
 		}
 	},
 	"achievements": {
@@ -3667,7 +3677,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Wi": " Wi",
+		"ns": "Ns",
 		"mana": "魔力",
 		"passiveMana": "持续魔力恢复",
 		"passiveManaOnGround": "持续魔力恢复",
@@ -3800,6 +3810,7 @@
 		"minKillLogRarity": "击杀日志最低稀有度",
 		"minCraftLogRarity": "合成日志最低品质",
 		"mobHudCount": "平视显示器生物数",
+		"chatSize": "聊天大小",
 		"maxMagicPets": "魔法宠物上限",
 		"font": "字体",
 		"language": "语言"
@@ -4120,6 +4131,10 @@
 		"gold": {
 			"name": "金",
 			"desc": "全能者专属！"
+		},
+		"diamond": {
+			"name": "钻",
+			"desc": "只为不存在者。"
 		}
 	},
 	"featured": {
