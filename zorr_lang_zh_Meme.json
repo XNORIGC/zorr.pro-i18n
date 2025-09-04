@@ -2290,7 +2290,7 @@
 		},
 		"magic_palm_leaf": {
 			"name": "魔法棕榈叶",
-			"desc": "显然，叶子越大，魔力恢复也越快。"
+			"desc": "显然，叶子越大，魔力恢复得也越快。"
 		},
 		"stalagmite_egg": {
 			"name": "石笋蛋",
@@ -2693,12 +2693,12 @@
 			"desc": "这个花瓣带有负击退。呃呃呃呃。"
 		},
 		"basil": {
-			"name": "Basil",
-			"desc": "Leaves that heal faster if your health is too low."
+			"name": "罗勒",
+			"desc": "在你生命过低时更快地为你治疗的叶子。"
 		},
 		"magic_basil": {
-			"name": "Magic Basil",
-			"desc": "Magic leaves that generate mana faster for you if your mana is too low."
+			"name": "魔法罗勒",
+			"desc": "在你魔力过低时更快地为你恢复魔力的魔法叶子。"
 		}
 	},
 	"achievements": {
@@ -3561,12 +3561,12 @@
 		"heal": "治疗",
 		"passiveHeal": "持续治疗",
 		"passiveHealBelow50": "持续治疗",
-		"passiveHealInverse": "Passive Heal",
+		"passiveHealInverse": "持续治疗",
 		"passivePetHeal": "持续宠物治疗",
-		"passivePetShield": "持续宠物护盾恢复",
+		"passivePetShield": "持续恢复宠物护盾",
 		"extraPetRange": "宠物额外仇恨范围",
 		"shield": "护盾",
-		"passiveShield": "持续护盾恢复",
+		"passiveShield": "持续恢复护盾",
 		"poison": "剧毒",
 		"poisonTime": "中毒时间",
 		"orbitSpeed": "轨道速度",
@@ -3626,7 +3626,7 @@
 		"cureCancer": "治愈癌变",
 		"petMutation": "宠物突变",
 		"passivePetalHeal": "持续花瓣治疗",
-		"passivePetalShield": "持续花瓣护盾恢复",
+		"passivePetalShield": "持续恢复花瓣护盾",
 		"healBuff": "治疗增益",
 		"shieldBuff": "护盾增益",
 		"poisonReduction": "毒伤减免",
@@ -3638,7 +3638,7 @@
 		"pullReduction": "拉力减免",
 		"mobXpFactor": "生物经验值乘数",
 		"fullHealRate": "完全治疗率",
-		"fullManaRegenRate": "魔力完全恢复概率",
+		"fullManaRegenRate": "魔力完全恢复率",
 		"extraPetalSize": "花瓣额外大小",
 		"flowerArmor": "花朵护甲",
 		"petalCritical": "花瓣暴击",
@@ -3650,7 +3650,7 @@
 		"radiationPoison": "辐射毒伤",
 		"radiationFire": "辐射火伤",
 		"radiationHeal": "辐射治疗",
-		"radiationMana": "辐射魔力恢复",
+		"radiationMana": "辐射恢复魔力",
 		"radiationLightningDamage": "辐射电伤",
 		"radiationLightningBounces": "辐射闪电连锁",
 		"orbitTwirl": "轨道螺旋",
@@ -3688,13 +3688,13 @@
 		"petDupeRate": "宠物复制率",
 		"qi": "Qi",
 		"mana": "魔力",
-		"passiveMana": "持续魔力恢复",
-		"passiveManaInverse": "Passive Mana",
-		"passiveManaOnGround": "持续魔力恢复",
+		"passiveMana": "持续恢复魔力",
+		"passiveManaInverse": "持续恢复魔力",
+		"passiveManaOnGround": "持续恢复魔力",
 		"extraFlowerMana": "花朵额外魔力",
-		"damageMana": "造成伤害时魔力恢复",
+		"damageMana": "造成伤害时恢复魔力",
 		"manaBuff": "魔力增益",
-		"passiveManaBelow50": "持续魔力恢复",
+		"passiveManaBelow50": "持续恢复魔力",
 		"soakManaTime": "魔力吸收时间",
 		"maxManaSoakCapacity": "魔力吸收容量",
 		"damageAbosrbedPerMana": "伤害吸收",
@@ -3836,7 +3836,7 @@
 			"desc": "为用户提供挂机检查。"
 		},
 		"mana": {
-			"desc": "设置持续魔力恢复。"
+			"desc": "设置持续恢复魔力。"
 		},
 		"user_petal_drops": {
 			"desc": "显示用户一天内的花瓣掉落总数。"
