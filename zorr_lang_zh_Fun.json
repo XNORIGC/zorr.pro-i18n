@@ -2691,6 +2691,14 @@
 		"magic_slime": {
 			"name": "魔法黏液球",
 			"desc": "这个花瓣带有负击退。呃呃呃呃。"
+		},
+		"basil": {
+			"name": "Basil",
+			"desc": "Leaves that heal faster if your health is too low."
+		},
+		"magic_basil": {
+			"name": "Magic Basil",
+			"desc": "Magic leaves that generate mana faster for you if your mana is too low."
 		}
 	},
 	"achievements": {
@@ -3553,6 +3561,7 @@
 		"heal": "治疗",
 		"passiveHeal": "持续治疗",
 		"passiveHealBelow50": "持续治疗",
+		"passiveHealInverse": "Passive Heal",
 		"passivePetHeal": "持续宠物治疗",
 		"passivePetShield": "持续宠物护盾恢复",
 		"extraPetRange": "宠物额外仇恨范围",
@@ -3677,9 +3686,10 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"ns": "Ns",
+		"qi": "Qi",
 		"mana": "魔力",
 		"passiveMana": "持续魔力恢复",
+		"passiveManaInverse": "Passive Mana",
 		"passiveManaOnGround": "持续魔力恢复",
 		"extraFlowerMana": "花朵额外魔力",
 		"damageMana": "造成伤害时魔力恢复",
