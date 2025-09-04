@@ -2691,6 +2691,14 @@
 		"magic_slime": {
 			"name": "Magic Slime",
 			"desc": "This one has negative knockback. EWWWWWWW."
+		},
+		"basil": {
+			"name": "Basil",
+			"desc": "Leaves that heal faster if your health is too low."
+		},
+		"magic_basil": {
+			"name": "Magic Basil",
+			"desc": "Magic leaves that generate mana faster for you if your mana is too low."
 		}
 	},
 	"achievements": {
@@ -3553,6 +3561,7 @@
 		"heal": "Heal",
 		"passiveHeal": "Passive Heal",
 		"passiveHealBelow50": "Passive Heal",
+		"passiveHealInverse": "Passive Heal",
 		"passivePetHeal": "Passive Pet Heal",
 		"passivePetShield": "Passive Pet Shield",
 		"extraPetRange": "Extra Pet Range",
@@ -3677,9 +3686,10 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"ns": "Ns",
+		"qi": "Qi",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
+		"passiveManaInverse": "Passive Mana",
 		"passiveManaOnGround": "Passive Mana",
 		"extraFlowerMana": "Extra Flower Mana",
 		"damageMana": "Damage Mana",
