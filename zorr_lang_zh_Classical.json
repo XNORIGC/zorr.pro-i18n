@@ -2699,6 +2699,10 @@
 		"magic_basil": {
 			"name": "Magic Basil",
 			"desc": "Magic leaves that generate mana faster for you if your mana is too low."
+		},
+		"neem": {
+			"name": "Neem",
+			"desc": "Reduces impact of toxins on you. Stacks harmonically."
 		}
 	},
 	"achievements": {
@@ -3524,6 +3528,26 @@
 			"name": "Nova",
 			"desc": "A hypernova"
 		},
+		"blek": {
+			"name": "Blek",
+			"desc": "Darkness over all"
+		},
+		"nebula": {
+			"name": "Nebula",
+			"desc": "It's a Aluben"
+		},
+		"transparent": {
+			"name": "Transparent",
+			"desc": "Can see through you"
+		},
+		"omniba": {
+			"name": "Omniba",
+			"desc": "An omnipotent amobae"
+		},
+		"joe": {
+			"name": "Joe",
+			"desc": "Just a regular everday joe"
+		},
 		"nova2": {
 			"name": "Nova2",
 			"desc": "An omeganova"
@@ -3632,6 +3656,7 @@
 		"poisonReduction": "附骨毒消減",
 		"fireReduction": "業火消減",
 		"fireReductionPercent": "Fire Reduction Percent",
+		"poisonReductionPercent": "Poison Reduction Percent",
 		"cancer": "癌魔",
 		"orbit": "軌跡",
 		"boostUpwards": "向上疾行",
@@ -3686,7 +3711,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"qi": "Qi",
+		"ji": "Ji",
 		"mana": "靈力",
 		"passiveMana": "被動靈力",
 		"passiveManaInverse": "Passive Mana",
