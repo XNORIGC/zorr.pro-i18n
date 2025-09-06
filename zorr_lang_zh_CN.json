@@ -2699,6 +2699,10 @@
 		"magic_basil": {
 			"name": "魔法罗勒",
 			"desc": "在你魔力过低时更快地为你恢复魔力的魔法叶子。"
+		},
+		"neem": {
+			"name": "Neem",
+			"desc": "Reduces impact of toxins on you. Stacks harmonically."
 		}
 	},
 	"achievements": {
@@ -3524,6 +3528,26 @@
 			"name": "新星",
 			"desc": "一颗超新星"
 		},
+		"blek": {
+			"name": "Blek",
+			"desc": "Darkness over all"
+		},
+		"nebula": {
+			"name": "Nebula",
+			"desc": "It's a Aluben"
+		},
+		"transparent": {
+			"name": "Transparent",
+			"desc": "Can see through you"
+		},
+		"omniba": {
+			"name": "Omniba",
+			"desc": "An omnipotent amobae"
+		},
+		"joe": {
+			"name": "Joe",
+			"desc": "Just a regular everday joe"
+		},
 		"nova2": {
 			"name": "新星2",
 			"desc": "一颗终末新星"
@@ -3632,6 +3656,7 @@
 		"poisonReduction": "毒伤减免",
 		"fireReduction": "火伤减免",
 		"fireReductionPercent": "火焰伤害减免",
+		"poisonReductionPercent": "Poison Reduction Percent",
 		"cancer": "癌变",
 		"orbit": "轨道",
 		"boostUpwards": "向上推进",
@@ -3686,7 +3711,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"qi": "Qi",
+		"ji": "Ji",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
