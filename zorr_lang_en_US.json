@@ -1886,7 +1886,7 @@
 		},
 		"acid": {
 			"name": "Acid",
-			"desc": "HCL collected from various stomachs just for the flowers."
+			"desc": "HCl collected from various stomachs just for the flowers."
 		},
 		"lava": {
 			"name": "Lava",
@@ -2699,6 +2699,10 @@
 		"magic_basil": {
 			"name": "Magic Basil",
 			"desc": "Magic leaves that generate mana faster for you if your mana is too low."
+		},
+		"neem": {
+			"name": "Neem",
+			"desc": "Reduces impact of toxins on you. Stacks harmonically."
 		}
 	},
 	"achievements": {
@@ -3524,6 +3528,26 @@
 			"name": "Nova",
 			"desc": "A hypernova"
 		},
+		"blek": {
+			"name": "Blek",
+			"desc": "Darkness over all"
+		},
+		"nebula": {
+			"name": "Nebula",
+			"desc": "It's a Aluben"
+		},
+		"transparent": {
+			"name": "Transparent",
+			"desc": "Can see through you"
+		},
+		"omniba": {
+			"name": "Omniba",
+			"desc": "An omnipotent amobae"
+		},
+		"joe": {
+			"name": "Joe",
+			"desc": "Just a regular everday joe"
+		},
 		"nova2": {
 			"name": "Nova2",
 			"desc": "An omeganova"
@@ -3632,6 +3656,7 @@
 		"poisonReduction": "Poison Reduction",
 		"fireReduction": "Fire Reduction",
 		"fireReductionPercent": "Fire Reduction Percent",
+		"poisonReductionPercent": "Poison Reduction Percent",
 		"cancer": "Cancer",
 		"orbit": "Orbit",
 		"boostUpwards": "Boost Upwards",
@@ -3686,7 +3711,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"qi": "Qi",
+		"ji": "Ji",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
