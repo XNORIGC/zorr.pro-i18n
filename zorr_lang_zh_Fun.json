@@ -55,7 +55,7 @@
 		"timeAlive": "存活时间",
 		"mobsKilled": "击杀生物数",
 		"score": "分数",
-		"mass": "Mass",
+		"mass": "质量",
 		"totalDamage": "总伤",
 		"lastDamage": "伤害",
 		"dps": "秒伤",
@@ -2702,12 +2702,12 @@
 			"desc": "在你魔力过低时更快地为你恢复魔力的魔法叶子。"
 		},
 		"neem": {
-			"name": "Neem",
-			"desc": "Reduces impact of toxins on you. Stacks harmonically."
+			"name": "苦楝",
+			"desc": "减少毒素对你的影响，调和地叠加（1+1/2+1/3+1/4...）。"
 		},
 		"dung": {
-			"name": "Dung",
-			"desc": "Very hot poo that makes the flower firey."
+			"name": "粪便",
+			"desc": "非常热的便便，让花朵燃烧起来。"
 		}
 	},
 	"achievements": {
@@ -3535,23 +3535,23 @@
 		},
 		"blek": {
 			"name": "Blek",
-			"desc": "Darkness over all"
+			"desc": "黑暗笼罩一切"
 		},
 		"nebula": {
-			"name": "Nebula",
-			"desc": "It's a Aluben"
+			"name": "星云",
+			"desc": "它是一个星云"
 		},
 		"transparent": {
-			"name": "Transparent",
-			"desc": "Can see through you"
+			"name": "透明",
+			"desc": "可以看透你"
 		},
 		"omniba": {
-			"name": "Omniba",
-			"desc": "An omnipotent amobae"
+			"name": "全能型",
+			"desc": "无所不能的阿米巴"
 		},
 		"joe": {
-			"name": "Joe",
-			"desc": "Just a regular everday joe"
+			"name": "黑鬼",
+			"desc": "一个普普通通的黑鬼"
 		},
 		"nova2": {
 			"name": "新星2",
@@ -3620,7 +3620,7 @@
 		"armor": "护甲",
 		"extraFlowerHealth": "花朵额外生命值",
 		"flowerPoison": "花朵剧毒伤害",
-		"flowerFire": "Flower Fire",
+		"flowerFire": "花朵火焰",
 		"slownessTime": "减速时间",
 		"soakDamageTime": "伤害吸收时间",
 		"honeyRange": "蜂蜜块范围",
@@ -3662,7 +3662,7 @@
 		"poisonReduction": "毒伤减免",
 		"fireReduction": "火伤减免",
 		"fireReductionPercent": "火焰伤害减免",
-		"poisonReductionPercent": "Poison Reduction Percent",
+		"poisonReductionPercent": "剧毒伤害减免",
 		"cancer": "癌变",
 		"orbit": "轨道",
 		"boostUpwards": "向上推进",
