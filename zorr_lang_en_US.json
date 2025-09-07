@@ -55,6 +55,7 @@
 		"timeAlive": "Time Alive",
 		"mobsKilled": "Mobs Killed",
 		"score": "Score",
+		"mass": "Mass",
 		"totalDamage": "Total Damage",
 		"lastDamage": "Last Damage",
 		"dps": "DPS",
@@ -2703,6 +2704,10 @@
 		"neem": {
 			"name": "Neem",
 			"desc": "Reduces impact of toxins on you. Stacks harmonically."
+		},
+		"dung": {
+			"name": "Dung",
+			"desc": "Very hot poo that makes the flower firey."
 		}
 	},
 	"achievements": {
@@ -3615,6 +3620,7 @@
 		"armor": "Armor",
 		"extraFlowerHealth": "Extra Flower Health",
 		"flowerPoison": "Flower Poison",
+		"flowerFire": "Flower Fire",
 		"slownessTime": "Slowness Time",
 		"soakDamageTime": "Soak Damage Time",
 		"honeyRange": "Honey Range",
@@ -3711,7 +3717,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"ji": "Ji",
+		"qi": "Qi",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
