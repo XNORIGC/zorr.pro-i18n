@@ -55,6 +55,7 @@
 		"timeAlive": "存活时间",
 		"mobsKilled": "击杀生物数",
 		"score": "分数",
+		"mass": "Mass",
 		"totalDamage": "总伤",
 		"lastDamage": "伤害",
 		"dps": "秒伤",
@@ -2703,6 +2704,10 @@
 		"neem": {
 			"name": "Neem",
 			"desc": "Reduces impact of toxins on you. Stacks harmonically."
+		},
+		"dung": {
+			"name": "Dung",
+			"desc": "Very hot poo that makes the flower firey."
 		}
 	},
 	"achievements": {
@@ -3615,6 +3620,7 @@
 		"armor": "护甲",
 		"extraFlowerHealth": "花朵额外生命值",
 		"flowerPoison": "花朵剧毒伤害",
+		"flowerFire": "Flower Fire",
 		"slownessTime": "减速时间",
 		"soakDamageTime": "伤害吸收时间",
 		"honeyRange": "蜂蜜块范围",
@@ -3711,7 +3717,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"ji": "Ji",
+		"qi": "Qi",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
