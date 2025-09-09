@@ -101,6 +101,7 @@
 		"shopPolicy": "申请退款将导致你的账户被封禁。",
 		"shopSupport": "如有任何与支付相关的问题，请发送电子邮件至：",
 		"shopNazarBeetles": "当心邪眼甲虫！",
+		"discountsOnly": "仅折扣",
 		"controls": "控制",
 		"chat": "聊天",
 		"game": "游戏",
@@ -185,7 +186,7 @@
 		"petDupeMana": "消耗{1}点魔力以复制宠物。",
 		"effectStacks": "特殊伤害效果叠加。",
 		"healBlacklisted": "被列入治疗黑名单。",
-		"streakRewardTimer": "可在{1}后领取新的奖励。",
+		"streakRewardTimer": "请于{1}后回来领取奖励。",
 		"streak": "每日签到 - 第{1}天",
 		"day": "第{1}天",
 		"joinedSquad": "你加入了小队！代码：{1}",
@@ -195,7 +196,8 @@
 		"notInSquad": "你还不在任何一个小队里",
 		"chatInfo": "输入“{1}”以查看可用命令。\n在聊天中表现恶劣或使用侮辱性语言将导致你的账户被封禁。",
 		"dropBuffInfo": "掉落增益仅适用于品质最高为(1)的战利品。",
-		"resetsIn": "将在{1}后刷新……",
+		"resetsIn": "将在{1}后重置……",
+		"discountChangesIn": "折扣会在{1}后改变。",
 		"craftRate": "成功率：{1}%",
 		"xpFactor": "额外{1}%经验值",
 		"extraDropRate": "额外{1}%掉落率",
@@ -1863,7 +1865,7 @@
 		},
 		"chilly": {
 			"name": "寒霜凝魄果",
-			"desc": "胃食管反流病患者请勿食用。"
+			"desc": "它很火辣。"
 		},
 		"tomato": {
 			"name": "赤阳凝血果",
@@ -2707,7 +2709,11 @@
 		},
 		"dung": {
 			"name": "粪便",
-			"desc": "非常热的便便，让花朵燃烧起来。"
+			"desc": "让你的花朵像这个屎一样燃烧。"
+		},
+		"pinecone": {
+			"name": "松果",
+			"desc": "It falls on the ground and breaks into multiple thorns."
 		}
 	},
 	"achievements": {
@@ -3620,7 +3626,7 @@
 		"armor": "护甲",
 		"extraFlowerHealth": "花朵额外生命值",
 		"flowerPoison": "花朵剧毒伤害",
-		"flowerFire": "花朵火焰",
+		"flowerFire": "花朵火伤",
 		"slownessTime": "减速时间",
 		"soakDamageTime": "伤害吸收时间",
 		"honeyRange": "蜂蜜块范围",
@@ -3705,7 +3711,7 @@
 		"fragmentDamage": "碎片伤害",
 		"fragmentHealth": "碎片生命",
 		"extraSpillRate": "额外流动速度",
-		"armorDebuffPercent": "护甲削弱百分比",
+		"armorDebuffPercent": "护甲减益百分比",
 		"flowerExplosion": "花朵爆炸伤害",
 		"flowerExplosionSize": "花朵爆炸范围",
 		"extraFlowerMass": "花朵额外质量",
@@ -3717,7 +3723,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"qi": "Qi",
+		"Ki": " Ki",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -3755,7 +3761,7 @@
 		"missileDamage": "导弹伤害",
 		"missilePoison": "导弹毒伤",
 		"missileHealAffectTime": "导弹治疗影响时间",
-		"missileArmorDebuff": "导弹护甲削弱",
+		"missileArmorDebuff": "导弹护甲减益",
 		"missileExplosion": "导弹爆炸",
 		"bodyFireDamage": "身体火伤",
 		"evasion": "闪避",
@@ -3791,6 +3797,7 @@
 		"showIndicators": "显示状态栏",
 		"extremeFreezeFix": "严重卡死修复",
 		"fastCraft": "快速合成",
+		"disableCrafting": "Disable Crafting",
 		"#visuals": "#画面",
 		"showRarities": "显示花瓣品质",
 		"showCraftBubble": "显示合成气泡",
