@@ -270,7 +270,7 @@
 			"desc": "蘑菇虽小，五毒俱全。"
 		},
 		"jellyfish": {
-			"name": "软趴趴的大水母",
+			"name": "果冻鱼",
 			"desc": "水做的生物，但摸一下你就被电惹。"
 		},
 		"spider": {
@@ -969,11 +969,11 @@
 		},
 		"antennae": {
 			"name": "触角",
-			"desc": "增加你的视野。"
+			"desc": "增大你的视野。"
 		},
 		"third_eye": {
 			"name": "第三只眼",
-			"desc": "增加你的花瓣攻击范围"
+			"desc": "增大你的花瓣攻击范围"
 		},
 		"dmca": {
 			"name": "律师函",
@@ -1145,7 +1145,7 @@
 		},
 		"avocado": {
 			"name": "牛油果",
-			"desc": "增加你的宠物大小。"
+			"desc": "增大你的宠物。"
 		},
 		"ring_magnet": {
 			"name": "环形磁铁",
@@ -1337,7 +1337,7 @@
 		},
 		"rubber": {
 			"name": "橡胶",
-			"desc": "增加你从敌人那里受到的击退效果。"
+			"desc": "增强你从敌人那里得到的击退效果。"
 		},
 		"fly_egg": {
 			"name": "苍蝇蛋",
@@ -1505,11 +1505,11 @@
 		},
 		"hemoglobin": {
 			"name": "血红蛋白",
-			"desc": "增加治疗花瓣造成的治疗效果"
+			"desc": "增强治疗花瓣的治疗效果"
 		},
 		"chloroplast": {
 			"name": "叶绿体",
-			"desc": "增加护盾再生速度。"
+			"desc": "增加护盾恢复。"
 		},
 		"sugar": {
 			"name": "糖",
@@ -1557,11 +1557,11 @@
 		},
 		"lotus": {
 			"name": "莲花",
-			"desc": "降低中毒效果。"
+			"desc": "减弱中毒效果。"
 		},
 		"ice": {
 			"name": "冰",
-			"desc": "降低着火效果。"
+			"desc": "减弱着火效果。"
 		},
 		"atom_egg": {
 			"name": "原子蛋",
@@ -1821,7 +1821,7 @@
 		},
 		"citron": {
 			"name": "黄水晶",
-			"desc": "增加你的花瓣大小。"
+			"desc": "增大你的花瓣。"
 		},
 		"quartz": {
 			"name": "石英",
@@ -2097,11 +2097,11 @@
 		},
 		"magic_hel_lightning": {
 			"name": "魔法冥界闪电",
-			"desc": "魔法增强了寻找目标的能力，还能点燃它们。"
+			"desc": "魔法增强了其索敌的能力，还能点燃它们。"
 		},
 		"magic_usain_bolt": {
 			"name": "魔法尤塞恩·博尔特",
-			"desc": "魔法增强了其追踪目标的能力，并附加了额外的毒素。"
+			"desc": "魔法增强了其索敌的能力，并附带了额外的毒素。"
 		},
 		"magic_banana": {
 			"name": "魔法香蕉",
@@ -2533,7 +2533,7 @@
 		},
 		"magic_antennae": {
 			"name": "魔法触角",
-			"desc": "增加你的视野并偏移它。"
+			"desc": "增大并偏移你的视野。"
 		},
 		"magic_crystal_leaf": {
 			"name": "魔法水晶叶",
@@ -2545,7 +2545,7 @@
 		},
 		"magic_poo": {
 			"name": "魔法便便",
-			"desc": "增加你的宠物的仇恨范围"
+			"desc": "增大你的宠物的仇恨范围"
 		},
 		"magic_blood_scythe": {
 			"name": "魔法血镰刀",
@@ -2705,7 +2705,7 @@
 		},
 		"neem": {
 			"name": "苦楝",
-			"desc": "减少毒素对你的影响，调和地叠加（1+1/2+1/3+1/4...）。"
+			"desc": "减少剧毒对你的伤害，以调和函数叠加(1+1/2+1/3+1/4...)。"
 		},
 		"dung": {
 			"name": "粪便",
@@ -2713,7 +2713,7 @@
 		},
 		"pinecone": {
 			"name": "松果",
-			"desc": "It falls on the ground and breaks into multiple thorns."
+			"desc": "它掉落在地上，并会分裂多个刺。"
 		}
 	},
 	"achievements": {
@@ -3549,15 +3549,15 @@
 		},
 		"transparent": {
 			"name": "透明",
-			"desc": "可以看透你"
+			"desc": "你会被看光"
 		},
 		"omniba": {
-			"name": "全能型",
-			"desc": "无所不能的阿米巴"
+			"name": "奇形怪状",
+			"desc": "一个变化多端的变形“花”"
 		},
 		"joe": {
-			"name": "黑鬼",
-			"desc": "一个普普通通的黑鬼"
+			"name": "乔",
+			"desc": "就是一个平常普通的乔"
 		},
 		"nova2": {
 			"name": "新星2",
@@ -3602,7 +3602,7 @@
 		"extraPetRange": "宠物额外仇恨范围",
 		"shield": "护盾",
 		"passiveShield": "持续恢复护盾",
-		"poison": "剧毒",
+		"poison": "剧毒伤害",
 		"poisonTime": "中毒时间",
 		"orbitSpeed": "轨道速度",
 		"lightningDamage": "闪电伤害",
@@ -3625,7 +3625,7 @@
 		"push": "推力",
 		"armor": "护甲",
 		"extraFlowerHealth": "花朵额外生命值",
-		"flowerPoison": "花朵剧毒伤害",
+		"flowerPoison": "花朵毒伤",
 		"flowerFire": "花朵火伤",
 		"slownessTime": "减速时间",
 		"soakDamageTime": "伤害吸收时间",
@@ -3633,7 +3633,7 @@
 		"honeyTileDamage": "蜂蜜块伤害",
 		"honeyTilePoison": "蜂蜜块毒伤",
 		"honeyTileFire": "蜂蜜块火伤",
-		"honeySizeReduction": "蜂蜜块大小减少",
+		"honeySizeReduction": "蜂蜜块大小减小",
 		"sendToBiome": "传送至生物群系",
 		"flowerReloadFactor": "花瓣冷却时间除数",
 		"armorDebuff": "护甲减益",
@@ -3643,13 +3643,13 @@
 		"fireTime": "燃烧时间",
 		"flowerAcceleration": "花朵加速度",
 		"agroRangeReduction": "仇恨范围减小",
-		"agroRangeIncrease": "仇恨范围增加",
+		"agroRangeIncrease": "仇恨范围增大",
 		"extraFlowerKnock": "花朵额外击退",
 		"damageHealed": "造成伤害时治疗",
 		"selfDamage": "自我伤害",
 		"selfFireDamage": "自我火伤",
 		"selfPoison": "自我毒伤",
-		"flowerBodyLightning": "花朵闪电伤害",
+		"flowerBodyLightning": "花朵身体电伤",
 		"freezeTime": "冻结时间",
 		"explosionFreezeTime": "爆炸冻结时间",
 		"explosionKnockback": "爆炸击退",
@@ -3657,7 +3657,7 @@
 		"frost": "霜冻",
 		"defrost": "解冻",
 		"tempFlowerSpeed": "花朵临时速度",
-		"tempFlowerSpeedFactor": "花朵临时速度乘数",
+		"tempFlowerSpeedFactor": "花朵速度临时乘数",
 		"subdivisionRates": "分裂概率",
 		"cureCancer": "治愈癌变",
 		"petMutation": "宠物突变",
@@ -3667,8 +3667,8 @@
 		"shieldBuff": "护盾增益",
 		"poisonReduction": "毒伤减免",
 		"fireReduction": "火伤减免",
-		"fireReductionPercent": "火焰伤害减免",
-		"poisonReductionPercent": "剧毒伤害减免",
+		"fireReductionPercent": "火伤减免百分比",
+		"poisonReductionPercent": "毒伤减免百分比",
 		"cancer": "癌变",
 		"orbit": "轨道",
 		"boostUpwards": "向上推进",
@@ -3696,7 +3696,7 @@
 		"petFullRegenRate": "宠物完全恢复率",
 		"spillRate": "流动速度",
 		"extraPetSpeed": "宠物额外速度",
-		"petSpeedReduction": "宠物速度减少",
+		"petSpeedReduction": "宠物速度减小",
 		"extraLightningBounces": "额外闪电连锁",
 		"extraRadiationRange": "额外辐射范围",
 		"extraFireDuration": "额外燃烧时间",
@@ -3712,7 +3712,7 @@
 		"fragmentHealth": "碎片生命",
 		"extraSpillRate": "额外流动速度",
 		"armorDebuffPercent": "护甲减益百分比",
-		"flowerExplosion": "花朵爆炸伤害",
+		"flowerExplosion": "花朵炸伤",
 		"flowerExplosionSize": "花朵爆炸范围",
 		"extraFlowerMass": "花朵额外质量",
 		"extraFlowerSize": "花朵额外大小",
@@ -3739,10 +3739,10 @@
 		"robMana": "魔力抢夺",
 		"spreadMana": "魔力分摊",
 		"petVariantMutation": "宠物品种突变",
-		"poisonToDamageCap": "剧毒伤害转化伤害上限",
+		"poisonToDamageCap": "毒伤转化伤害上限",
 		"visionOffset": "视野偏移",
 		"petalOrbitDistance": "花瓣轨道距离",
-		"flowerBodyDamage": "花朵身体伤害",
+		"flowerBodyDamage": "花朵体伤",
 		"damageReduction": "伤害减免",
 		"extraPetalDamagePercent": "花瓣额外伤害百分比",
 		"extraPetDamagePercent": "宠物额外伤害百分比",
@@ -3762,7 +3762,7 @@
 		"missilePoison": "导弹毒伤",
 		"missileHealAffectTime": "导弹治疗影响时间",
 		"missileArmorDebuff": "导弹护甲减益",
-		"missileExplosion": "导弹爆炸",
+		"missileExplosion": "导弹炸伤",
 		"bodyFireDamage": "身体火伤",
 		"evasion": "闪避",
 		"sprayHealth": "喷射物生命值",
@@ -3788,7 +3788,7 @@
 		"#game": "#游戏",
 		"showHitbox": "显示碰撞箱",
 		"showGrid": "显示网格",
-		"showDps": "显示秒伤",
+		"showDps": "显示训练假花统计信息",
 		"potatoHardware": "土豆硬件",
 		"badwordFilter": "脏话过滤器",
 		"showMobLeaderboard": "显示生物排行榜",
@@ -3797,7 +3797,7 @@
 		"showIndicators": "显示状态栏",
 		"extremeFreezeFix": "严重卡死修复",
 		"fastCraft": "快速合成",
-		"disableCrafting": "Disable Crafting",
+		"disableCrafting": "禁用合成",
 		"#visuals": "#画面",
 		"showRarities": "显示花瓣品质",
 		"showCraftBubble": "显示合成气泡",
@@ -3811,7 +3811,7 @@
 		"showExplosion": "显示爆炸",
 		"showLightning": "显示闪电",
 		"showRadiation": "显示辐射",
-		"abbreviateDps": "缩写训练统计信息",
+		"abbreviateDps": "缩写伤害",
 		"fixedHudSize": "固定平视显示器大小",
 		"screenShake": "画面抖动",
 		"antiAliasing": "抗锯齿",
