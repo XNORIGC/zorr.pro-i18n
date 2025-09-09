@@ -101,6 +101,7 @@
 		"shopPolicy": "Asking for a refund will get your account banned.",
 		"shopSupport": "For any issues related to payments, send us an email at:",
 		"shopNazarBeetles": "Beware of nazar beetles!",
+		"discountsOnly": "Discounts Only",
 		"controls": "Controls",
 		"chat": "Chat",
 		"game": "Game",
@@ -196,6 +197,7 @@
 		"chatInfo": "Type \"{1}\" to view commands.\nBeing toxic or using slurs in chat will get your account banned.",
 		"dropBuffInfo": "Drop buffs apply to upto (1) drops only.",
 		"resetsIn": "Resets in {1}...",
+		"discountChangesIn": "Discounts will change in {1}.",
 		"craftRate": "{1}% success rate",
 		"xpFactor": "{1}% extra XP",
 		"extraDropRate": "{1}% extra drop rates",
@@ -1863,7 +1865,7 @@
 		},
 		"chilly": {
 			"name": "Chilly",
-			"desc": "Avoid if you have GERD."
+			"desc": "It burns."
 		},
 		"tomato": {
 			"name": "Tomato",
@@ -2708,6 +2710,10 @@
 		"dung": {
 			"name": "Dung",
 			"desc": "Very hot poo that makes the flower firey."
+		},
+		"pinecone": {
+			"name": "Pinecone",
+			"desc": "It falls on the ground and breaks into multiple thorns."
 		}
 	},
 	"achievements": {
@@ -3717,7 +3723,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"qi": "Qi",
+		"Ki": " Ki",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
@@ -3791,6 +3797,7 @@
 		"showIndicators": "Show Indicators",
 		"extremeFreezeFix": "Extreme Freeze Fix",
 		"fastCraft": "Fast Craft",
+		"disableCrafting": "Disable Crafting",
 		"#visuals": "#visuals",
 		"showRarities": "Show Rarities",
 		"showCraftBubble": "Show Craft Bubble",
