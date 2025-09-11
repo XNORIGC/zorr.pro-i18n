@@ -113,7 +113,7 @@
 		"cmdInfo": "點擊去运行指令。",
 		"stealthMode": "隱身模式",
 		"save": "保存",
-		"includeBothRows": "Include Both Rows",
+		"includeBothRows": "包括两行",
 		"includeSpinSpeed": "Include Spin Speed",
 		"copyCode": "復製代码",
 		"delete": "删除",
@@ -137,13 +137,13 @@
 		"showAll": "展示所有",
 		"craftLog": "合成的記錄",
 		"petalsCrafted": "已使用於合成的花瓣",
-		"petalsBurned": "合成的次數",
+		"petalsBurned": "合成失敗時毀壞的花瓣的數量",
 		"craftAttempts": "合成的次數",
 		"petalsLeft": "Petals Left",
 		"minRng": "最小隨機數",
 		"craftInfo": [
 			"使用5個相同等級和花瓣來合成一個更高等級的。",
-			"合成失敗會毀坏1-4個花瓣。"
+			"合成失敗會毀壞1-4個花瓣。"
 		],
 		"oracleInfo": [
 			"Find the Oracle in Ocean",
