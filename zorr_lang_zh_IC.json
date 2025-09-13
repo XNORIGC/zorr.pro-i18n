@@ -166,6 +166,7 @@
 		"noMembership": "你还没有任何一个已激活的订阅。",
 		"search": "搜索",
 		"enterUsername": "输入用户名……",
+		"enterPassword": "Enter password...",
 		"setUsername": "设置用户名：",
 		"setPassword": "设置密码：",
 		"setDescription": "设置描述：",
@@ -2713,6 +2714,10 @@
 		"pinecone": {
 			"name": "松果",
 			"desc": "它摔落在地面上并碎裂成许多根棘刺。"
+		},
+		"agarbatti": {
+			"name": "Agarbatti",
+			"desc": "Let's you pray to God & convert your healing into shielding. Stacks harmonically."
 		}
 	},
 	"achievements": {
@@ -3470,6 +3475,10 @@
 			"name": "尤巴",
 			"desc": "俄国人时间"
 		},
+		"yoby": {
+			"name": "Yoby",
+			"desc": "Yoba's son moment"
+		},
 		"pinkman": {
 			"name": "粉人",
 			"desc": "*痴痴地笑*"
@@ -3722,7 +3731,8 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Yi": " Yi",
+		"Ki": " Ki",
+		"healToShield": "Heal To Shield",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -3860,6 +3870,7 @@
 		"mobHudCount": "平视显示器生物数",
 		"chatSize": "聊天大小",
 		"maxMagicPets": "魔法宠物上限",
+		"afkChallengeSize": "AFK Challenge Size",
 		"font": "字体",
 		"language": "语言"
 	},
