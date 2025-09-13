@@ -165,7 +165,8 @@
 		"clickToCopy": "Click to copy!",
 		"noMembership": "You don't have any subscription active.",
 		"search": "Search",
-		"enterUsername": "Enter Username...",
+		"enterUsername": "Enter username...",
+		"enterPassword": "Enter password...",
 		"setUsername": "Set Username:",
 		"setPassword": "Set Password:",
 		"setDescription": "Set Description:",
@@ -2713,6 +2714,10 @@
 		"pinecone": {
 			"name": "Pinecone",
 			"desc": "It falls on the ground and breaks into multiple thorns."
+		},
+		"agarbatti": {
+			"name": "Agarbatti",
+			"desc": "Let's you pray to God & convert your healing into shielding. Stacks harmonically."
 		}
 	},
 	"achievements": {
@@ -3470,6 +3475,10 @@
 			"name": "Yoba",
 			"desc": "Russian moment"
 		},
+		"yoby": {
+			"name": "Yoby",
+			"desc": "Yoba's son moment"
+		},
 		"pinkman": {
 			"name": "Pinkman",
 			"desc": "*giggles*"
@@ -3722,7 +3731,8 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Yi": " Yi",
+		"Ki": " Ki",
+		"healToShield": "Heal To Shield",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
@@ -3860,6 +3870,7 @@
 		"mobHudCount": "Mob Hud Count",
 		"chatSize": "Chat Size",
 		"maxMagicPets": "Max Magic Pets",
+		"afkChallengeSize": "AFK Challenge Size",
 		"font": "Font",
 		"language": "Language"
 	},
