@@ -166,7 +166,7 @@
 		"noMembership": "你还没有任何一个已激活的订阅。",
 		"search": "搜索",
 		"enterUsername": "输入用户名……",
-		"enterPassword": "Enter password...",
+		"enterPassword": "输入密码……",
 		"setUsername": "设置用户名：",
 		"setPassword": "设置密码：",
 		"setDescription": "设置描述：",
@@ -2716,8 +2716,8 @@
 			"desc": "它摔落在地面上并碎裂成许多根棘刺。"
 		},
 		"agarbatti": {
-			"name": "Agarbatti",
-			"desc": "Let's you pray to God & convert your healing into shielding. Stacks harmonically."
+			"name": "不要小标题",
+			"desc": "让我们向上帝祈祷，将你的治愈转化为庇护。调和地堆叠。"
 		}
 	},
 	"achievements": {
@@ -3476,8 +3476,8 @@
 			"desc": "俄国人时间"
 		},
 		"yoby": {
-			"name": "Yoby",
-			"desc": "Yoba's son moment"
+			"name": "尤比",
+			"desc": "尤巴的儿子时刻"
 		},
 		"pinkman": {
 			"name": "粉人",
@@ -3732,7 +3732,7 @@
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
 		"Ki": " Ki",
-		"healToShield": "Heal To Shield",
+		"healToShield": "治疗转化护盾比例",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -3870,7 +3870,7 @@
 		"mobHudCount": "平视显示器生物数",
 		"chatSize": "聊天大小",
 		"maxMagicPets": "魔法宠物上限",
-		"afkChallengeSize": "AFK Challenge Size",
+		"afkChallengeSize": "挂机挑战大小",
 		"font": "字体",
 		"language": "语言"
 	},
