@@ -3732,7 +3732,7 @@
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
 		"Ki": " Ki",
-		"healToShield": "治疗转化护盾比例",
+		"healToShield": "回血量转化护盾百分比",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
