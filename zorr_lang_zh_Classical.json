@@ -965,7 +965,7 @@
 		},
 		"salt": {
 			"name": "鹽晶",
-			"desc": "返花之傷於敵"
+			"desc": "Reflects damage done to the flower back to the enemy. Reflection reduces by 90% if you have Sponge."
 		},
 		"antennae": {
 			"name": "觸角",
@@ -1373,7 +1373,7 @@
 		},
 		"plank": {
 			"name": "木板",
-			"desc": "Does 300x more damage to enemy projectiles."
+			"desc": "Does 300x damage to enemy projectiles. Does 600x damage at Omega."
 		},
 		"icicle": {
 			"name": "冰錐",
@@ -1605,7 +1605,7 @@
 		},
 		"rattle": {
 			"name": "響尾",
-			"desc": "古怪花瓣，哆哆嗦嗦然"
+			"desc": "Increases agro range."
 		},
 		"cicada_egg": {
 			"name": "蟬之卵",
@@ -1753,7 +1753,7 @@
 		},
 		"claw": {
 			"name": "利爪",
-			"desc": "敵命逾八成時，可施五倍之傷。"
+			"desc": "Deals 7x damage when enemy health is over 70%."
 		},
 		"electric_eel_egg": {
 			"name": "電鰻之卵",
@@ -2233,7 +2233,7 @@
 		},
 		"magic_salt": {
 			"name": "術法鹽晶",
-			"desc": "假術法之力，反彈傷害於周遭之敵，非獨施害者。"
+			"desc": "It reflects damage to all nearby foes using magic, not just the perpetrator. Reflection reduces by 90% if you have Sponge."
 		},
 		"magic_relic": {
 			"name": "術法遺物",
@@ -2717,7 +2717,15 @@
 		},
 		"agarbatti": {
 			"name": "Agarbatti",
-			"desc": "Let's you pray to God & convert your healing into shielding. Stacks harmonically."
+			"desc": "Lets you pray to God & convert your healing into shielding. Stacks harmonically."
+		},
+		"magic_rubber": {
+			"name": "Magic Rubber",
+			"desc": "Decreases knockback you get from enemies."
+		},
+		"magic_agarbatti": {
+			"name": "Magic Agarbatti",
+			"desc": "Lets you pray to Devil & convert your mana consumption & healing into shielding. Stacks harmonically."
 		}
 	},
 	"achievements": {
@@ -3731,8 +3739,9 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ki": " Ki",
+		"hs": "Hs",
 		"healToShield": "Heal To Shield",
+		"manaCostToShield": "Mana Cost To Shield",
 		"mana": "靈力",
 		"passiveMana": "被動靈力",
 		"passiveManaInverse": "Passive Mana",
@@ -3814,6 +3823,7 @@
 		"showOtherPetals": "顯他瓣",
 		"showParticles": "顯微塵",
 		"showDamage": "顯創",
+		"showPetDamage": "Show Pet Damage",
 		"showDamageFlash": "顯創閃",
 		"showHealthBar": "顯氣血條",
 		"showPetHealthBar": "顯寵氣血條",
