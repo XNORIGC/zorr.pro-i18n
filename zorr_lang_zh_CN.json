@@ -965,7 +965,7 @@
 		},
 		"salt": {
 			"name": "盐",
-			"desc": "将对花朵造成的伤害反弹给敌人"
+			"desc": "Reflects damage done to the flower back to the enemy. Reflection reduces by 90% if you have Sponge."
 		},
 		"antennae": {
 			"name": "触角",
@@ -1373,7 +1373,7 @@
 		},
 		"plank": {
 			"name": "木板",
-			"desc": "对敌人弹射物造成多三百倍伤害。"
+			"desc": "Does 300x damage to enemy projectiles. Does 600x damage at Omega."
 		},
 		"icicle": {
 			"name": "冰锥",
@@ -1605,7 +1605,7 @@
 		},
 		"rattle": {
 			"name": "响尾",
-			"desc": "斯基比迪花瓣多普多普耶斯耶斯"
+			"desc": "Increases agro range."
 		},
 		"cicada_egg": {
 			"name": "蝉蛋",
@@ -1753,7 +1753,7 @@
 		},
 		"claw": {
 			"name": "爪子",
-			"desc": "当敌人生命值超过80%时造成五倍伤害。"
+			"desc": "Deals 7x damage when enemy health is over 70%."
 		},
 		"electric_eel_egg": {
 			"name": "电鳗蛋",
@@ -2233,7 +2233,7 @@
 		},
 		"magic_salt": {
 			"name": "魔法盐",
-			"desc": "它会使用魔法对所有附近的敌人造成伤害，而不仅仅是对攻击者造成伤害。"
+			"desc": "It reflects damage to all nearby foes using magic, not just the perpetrator. Reflection reduces by 90% if you have Sponge."
 		},
 		"magic_relic": {
 			"name": "魔法遗物",
@@ -2717,7 +2717,15 @@
 		},
 		"agarbatti": {
 			"name": "香脂",
-			"desc": "让你向上帝祈祷，将你的回血转化为护盾。调和地叠加。"
+			"desc": "Lets you pray to God & convert your healing into shielding. Stacks harmonically."
+		},
+		"magic_rubber": {
+			"name": "Magic Rubber",
+			"desc": "Decreases knockback you get from enemies."
+		},
+		"magic_agarbatti": {
+			"name": "Magic Agarbatti",
+			"desc": "Lets you pray to Devil & convert your mana consumption & healing into shielding. Stacks harmonically."
 		}
 	},
 	"achievements": {
@@ -3731,8 +3739,9 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Ki": " Ki",
+		"hs": "Hs",
 		"healToShield": "回血量转化护盾百分比",
+		"manaCostToShield": "Mana Cost To Shield",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -3814,6 +3823,7 @@
 		"showOtherPetals": "显示其他玩家的花瓣",
 		"showParticles": "显示粒子效果",
 		"showDamage": "显示伤害",
+		"showPetDamage": "Show Pet Damage",
 		"showDamageFlash": "显示伤害闪烁",
 		"showHealthBar": "显示生命条",
 		"showPetHealthBar": "显示宠物生命条",
