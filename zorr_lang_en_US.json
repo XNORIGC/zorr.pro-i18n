@@ -965,7 +965,7 @@
 		},
 		"salt": {
 			"name": "Salt",
-			"desc": "Reflects damage done to the flower back to the enemy"
+			"desc": "Reflects damage done to the flower back to the enemy. Reflection reduces by 90% if you have Sponge."
 		},
 		"antennae": {
 			"name": "Antennae",
@@ -1373,7 +1373,7 @@
 		},
 		"plank": {
 			"name": "Plank",
-			"desc": "Does 300x more damage to enemy projectiles."
+			"desc": "Does 300x damage to enemy projectiles. Does 600x damage at Omega."
 		},
 		"icicle": {
 			"name": "Icicle",
@@ -1605,7 +1605,7 @@
 		},
 		"rattle": {
 			"name": "Rattle",
-			"desc": "Skibidi petal dop dop yes yes"
+			"desc": "Increases agro range."
 		},
 		"cicada_egg": {
 			"name": "Cicada Egg",
@@ -1753,7 +1753,7 @@
 		},
 		"claw": {
 			"name": "Claw",
-			"desc": "Deals 5x damage when enemy health is over 80%."
+			"desc": "Deals 7x damage when enemy health is over 70%."
 		},
 		"electric_eel_egg": {
 			"name": "Electric Eel Egg",
@@ -2233,7 +2233,7 @@
 		},
 		"magic_salt": {
 			"name": "Magic Salt",
-			"desc": "It reflects damage to all nearby foes using magic, not just the perpetrator."
+			"desc": "It reflects damage to all nearby foes using magic, not just the perpetrator. Reflection reduces by 90% if you have Sponge."
 		},
 		"magic_relic": {
 			"name": "Magic Relic",
@@ -2717,7 +2717,15 @@
 		},
 		"agarbatti": {
 			"name": "Agarbatti",
-			"desc": "Let's you pray to God & convert your healing into shielding. Stacks harmonically."
+			"desc": "Lets you pray to God & convert your healing into shielding. Stacks harmonically."
+		},
+		"magic_rubber": {
+			"name": "Magic Rubber",
+			"desc": "Decreases knockback you get from enemies."
+		},
+		"magic_agarbatti": {
+			"name": "Magic Agarbatti",
+			"desc": "Lets you pray to Devil & convert your mana consumption & healing into shielding. Stacks harmonically."
 		}
 	},
 	"achievements": {
@@ -3731,8 +3739,9 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ki": " Ki",
+		"hs": "Hs",
 		"healToShield": "Heal To Shield",
+		"manaCostToShield": "Mana Cost To Shield",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
@@ -3814,6 +3823,7 @@
 		"showOtherPetals": "Show Other Petals",
 		"showParticles": "Show Particles",
 		"showDamage": "Show Damage",
+		"showPetDamage": "Show Pet Damage",
 		"showDamageFlash": "Show Damage Flash",
 		"showHealthBar": "Show Health Bar",
 		"showPetHealthBar": "Show Pet Health Bar",
