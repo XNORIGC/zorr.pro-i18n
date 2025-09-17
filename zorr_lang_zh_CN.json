@@ -965,7 +965,7 @@
 		},
 		"salt": {
 			"name": "盐",
-			"desc": "Reflects damage done to the flower back to the enemy. Reflection reduces by 90% if you have Sponge."
+			"desc": "将花所受的伤害反弹给敌人。如果你有海绵，反弹效果会减少90%。"
 		},
 		"antennae": {
 			"name": "触角",
