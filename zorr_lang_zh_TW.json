@@ -840,6 +840,10 @@
 		"monkey": {
 			"name": "Monkey",
 			"desc": "A self-proclaimed angel of monkanity."
+		},
+		"bat": {
+			"name": "Bat",
+			"desc": "I AM ZATRICK BATMAN"
 		}
 	},
 	"petals": {
@@ -1945,7 +1949,7 @@
 		},
 		"fusion": {
 			"name": "聚變",
-			"desc": "將它右側的一個稀有度不高於它的花瓣的所有生成物聚合為單個更強的生成物。\n例如:如果你在 超級聚變 右邊放置一個 超級輕 (單個輕有多個生成物) ，你將生成單個更強大的超級輕花瓣。"
+			"desc": "Fuses multiple petals of the same type placed right to it till the same rarity into a single stronger petal. For example: If you have Super Fusion and 3 Super Bone right to it, you will get a single 3x stronger Super Bone (damage, armor, health, etc)."
 		},
 		"fission": {
 			"name": "裂變",
@@ -2497,7 +2501,7 @@
 		},
 		"magic_dice": {
 			"name": "魔法骰子",
-			"desc": "Has 1% chance of dealing 1000x damage using magic."
+			"desc": "Has 2% chance of dealing 1000x damage using magic."
 		},
 		"magic_web": {
 			"name": "Magic Web",
@@ -2726,6 +2730,14 @@
 		"magic_agarbatti": {
 			"name": "Magic Agarbatti",
 			"desc": "Lets you pray to Devil & convert your mana consumption & healing into shielding. Stacks harmonically."
+		},
+		"bat_egg": {
+			"name": "Bat Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"vampire_fang": {
+			"name": "Vampire Fang",
+			"desc": "Heals you when your flower gets body damage."
 		}
 	},
 	"achievements": {
@@ -3662,6 +3674,7 @@
 		"agroRangeIncrease": "仇恨範圍增加",
 		"extraFlowerKnock": "額外花朵擊退",
 		"damageHealed": "傷害治療轉化",
+		"bodyDamageHealed": "Body Damage Healed",
 		"selfDamage": "自我傷害",
 		"selfFireDamage": "自我火焰傷害",
 		"selfPoison": "Self Poison",
@@ -3739,9 +3752,11 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"hs": "Hs",
+		"Qi": " Qi",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
+		"fogTime": "Fog Time",
+		"lightSize": "Light Size",
 		"mana": "魔力",
 		"passiveMana": "持續魔力恢復",
 		"passiveManaInverse": "Passive Mana",
@@ -3765,6 +3780,7 @@
 		"extraPetalDamagePercent": "Extra Petal Damage Percent",
 		"extraPetDamagePercent": "Extra Pet Damage Percent",
 		"fission": "Fission",
+		"fusion": "Fusion",
 		"splitOrbitDistance": "Split Orbit Distance",
 		"gap": "空隙",
 		"petDefrost": "Pet Defrost",
@@ -3817,6 +3833,7 @@
 		"fastCraft": "Fast Craft",
 		"disableCrafting": "Disable Crafting",
 		"guildSquad": "Guild Squad",
+		"showPositionToGuild": "Show Position To Guild",
 		"#visuals": "#visuals",
 		"showRarities": "顯示稀有度",
 		"showCraftBubble": "顯示合成氣泡",
@@ -3850,6 +3867,7 @@
 		"indicatorFrost": "霜凍",
 		"indicatorMagicSponge": "魔法海綿",
 		"indicatorInfection": "Infection",
+		"indicatorFog": "Fog",
 		"indicatorDropBuff": "掉落增益",
 		"xp": "經驗值",
 		"timeJoined": "加入時間",
