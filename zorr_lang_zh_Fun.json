@@ -840,6 +840,10 @@
 		"monkey": {
 			"name": "猴子",
 			"desc": "自称是猴类天使。"
+		},
+		"bat": {
+			"name": "Bat",
+			"desc": "I AM ZATRICK BATMAN"
 		}
 	},
 	"petals": {
@@ -1945,7 +1949,7 @@
 		},
 		"fusion": {
 			"name": "聚变",
-			"desc": "将它右侧的一个品质不高于它的花瓣的所有单体聚变成一个更强的单体。例如：如果你在超级聚变右边装备一个有六个较弱单体的超级轻，你将得到单个更强大的超级轻。"
+			"desc": "Fuses multiple petals of the same type placed right to it till the same rarity into a single stronger petal. For example: If you have Super Fusion and 3 Super Bone right to it, you will get a single 3x stronger Super Bone (damage, armor, health, etc)."
 		},
 		"fission": {
 			"name": "裂变",
@@ -2497,7 +2501,7 @@
 		},
 		"magic_dice": {
 			"name": "魔法骰子",
-			"desc": "有1%的概率用魔法造成一千倍伤害。"
+			"desc": "Has 2% chance of dealing 1000x damage using magic."
 		},
 		"magic_web": {
 			"name": "魔法网",
@@ -2726,6 +2730,14 @@
 		"magic_agarbatti": {
 			"name": "魔法香脂",
 			"desc": "让你向魔鬼祈祷，并将你的魔力消耗和治疗转化为护盾。调和地堆叠。"
+		},
+		"bat_egg": {
+			"name": "Bat Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"vampire_fang": {
+			"name": "Vampire Fang",
+			"desc": "Heals you when your flower gets body damage."
 		}
 	},
 	"achievements": {
@@ -3662,6 +3674,7 @@
 		"agroRangeIncrease": "仇恨范围增大",
 		"extraFlowerKnock": "花朵额外击退",
 		"damageHealed": "造成伤害时治疗",
+		"bodyDamageHealed": "Body Damage Healed",
 		"selfDamage": "自我伤害",
 		"selfFireDamage": "自我火伤",
 		"selfPoison": "自我毒伤",
@@ -3739,9 +3752,11 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"hs": "Hs",
+		"Qi": " Qi",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
+		"fogTime": "Fog Time",
+		"lightSize": "Light Size",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -3765,6 +3780,7 @@
 		"extraPetalDamagePercent": "花瓣额外伤害百分比",
 		"extraPetDamagePercent": "宠物额外伤害百分比",
 		"fission": "裂变",
+		"fusion": "Fusion",
 		"splitOrbitDistance": "分裂轨道距离",
 		"gap": "间隔",
 		"petDefrost": "宠物解冻",
@@ -3817,6 +3833,7 @@
 		"fastCraft": "快速合成",
 		"disableCrafting": "禁用合成",
 		"guildSquad": "公会组队",
+		"showPositionToGuild": "Show Position To Guild",
 		"#visuals": "#画面",
 		"showRarities": "显示花瓣品质",
 		"showCraftBubble": "显示合成气泡",
@@ -3850,6 +3867,7 @@
 		"indicatorFrost": "霜冻",
 		"indicatorMagicSponge": "魔法海绵",
 		"indicatorInfection": "感染",
+		"indicatorFog": "Fog",
 		"indicatorDropBuff": "掉落增益",
 		"xp": "经验值",
 		"timeJoined": "加入时间",
