@@ -844,6 +844,10 @@
 		"bat": {
 			"name": "Bat",
 			"desc": "I AM ZATRICK BATMAN"
+		},
+		"lily_pad": {
+			"name": "Lily Pad",
+			"desc": "Just a plant floating on the ocean surface."
 		}
 	},
 	"petals": {
@@ -2738,6 +2742,22 @@
 		"vampire_fang": {
 			"name": "Vampire Fang",
 			"desc": "Heals you when your flower gets body damage."
+		},
+		"blood_rose": {
+			"name": "Blood Rose",
+			"desc": "It heals but also blinds you."
+		},
+		"lily_pad_egg": {
+			"name": "Lily Pad Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"lily_pad": {
+			"name": "Lily Pad",
+			"desc": "It passively heals when your squad members are dead. Increases harmonically."
+		},
+		"magic_lily_pad": {
+			"name": "Magic Lily Pad",
+			"desc": "It passively generates magic when your squad members are dead. Increases harmonically."
 		}
 	},
 	"achievements": {
@@ -3625,6 +3645,7 @@
 		"passiveHeal": "徐徐愈",
 		"passiveHealBelow50": "徐徐愈",
 		"passiveHealInverse": "Passive Heal",
+		"passiveMemorialShield": "Passive Memorial Shield",
 		"passivePetHeal": "徐徐愈寵",
 		"passivePetShield": "Passive Pet Shield",
 		"extraPetRange": "Extra Pet Range",
@@ -3757,10 +3778,12 @@
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
 		"lightSize": "Light Size",
+		"blindTime": "Blind Time",
 		"mana": "靈力",
 		"passiveMana": "被動靈力",
 		"passiveManaInverse": "Passive Mana",
 		"passiveManaOnGround": "被動靈力",
+		"passiveMemorialMana": "Passive Memorial Mana",
 		"extraFlowerMana": "增益花之靈力",
 		"damageMana": "創之靈力",
 		"manaBuff": "靈力增益",
