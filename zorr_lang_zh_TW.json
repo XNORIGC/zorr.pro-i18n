@@ -3299,6 +3299,10 @@
 			"name": "熔岩",
 			"desc": "9999℃時刻"
 		},
+		"banana_man": {
+			"name": "Banana Man",
+			"desc": "It likes to eat banana"
+		},
 		"rose": {
 			"name": "玫瑰",
 			"desc": "一朵美麗的小花"
@@ -3773,7 +3777,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Qi": " Qi",
+		"Ji": " Ji",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
