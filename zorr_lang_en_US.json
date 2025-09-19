@@ -3299,6 +3299,10 @@
 			"name": "Lava",
 			"desc": "9999°C moment"
 		},
+		"banana_man": {
+			"name": "Banana Man",
+			"desc": "It likes to eat banana"
+		},
 		"rose": {
 			"name": "Rose",
 			"desc": "A beautiful little flower"
@@ -3773,7 +3777,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Qi": " Qi",
+		"Ji": " Ji",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
