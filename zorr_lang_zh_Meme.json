@@ -26,6 +26,9 @@
 		"inventory": "花花的口袋",
 		"stack": "堆叠",
 		"inventoryInstructions": "只有萌新才能看到这段话",
+		"talents": "天赋",
+		"craft": "合成",
+		"mobGallery": "大熊掌",
 		"yourProfile": "你的资料",
 		"globalLeaderboard": "全球排行榜",
 		"globalCrafts": "全球合成日志",
@@ -33,9 +36,6 @@
 		"mapEditor": "地图编辑器",
 		"joinDiscord": "加入我们的Discord服务器！",
 		"leaveGame": "离开游戏",
-		"talents": "Talents",
-		"craft": "合成",
-		"mobGallery": "大熊掌",
 		"dailyStreakRewards": "每日签到奖励",
 		"findPublic": "加入随机公开小队",
 		"new": "创建",
@@ -847,7 +847,7 @@
 			"desc": "I AM ZATRICK BATMAN"
 		},
 		"lily_pad": {
-			"name": "浮萍",
+			"name": "睡莲",
 			"desc": "Just a plant floating on the ocean surface."
 		}
 	},
@@ -3778,7 +3778,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Qi": " Qi",
+		"Ji": " Ji",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "Fog Time",
