@@ -844,11 +844,11 @@
 		},
 		"bat": {
 			"name": "蝙蝠",
-			"desc": "I AM ZATRICK BATMAN"
+			"desc": "我是我是扎特里克·蝙蝠侠"
 		},
 		"lily_pad": {
 			"name": "睡莲",
-			"desc": "Just a plant floating on the ocean surface."
+			"desc": "就是一个在海洋表面漂浮的植物。"
 		}
 	},
 	"petals": {
@@ -1954,7 +1954,7 @@
 		},
 		"fusion": {
 			"name": "万象归元诀",
-			"desc": "Fuses multiple petals of the same type placed right to it till the same rarity into a single stronger petal. For example: If you have Super Fusion and 3 Super Bone right to it, you will get a single 3x stronger Super Bone (damage, armor, health, etc)."
+			"desc": "会将其右侧放置的同类型、相同稀有度的多个花瓣融合为一个更强的花瓣。例如：如果你有一个超级融合，右边放了 3 个超级骨头，它会融合成一个三倍强化的超级骨头（攻击、防御、生命值等属性都会提升）。"
 		},
 		"fission": {
 			"name": "裂元分光术",
@@ -2506,7 +2506,7 @@
 		},
 		"magic_dice": {
 			"name": "魔法骰子",
-			"desc": "Has 2% chance of dealing 1000x damage using magic."
+			"desc": "有2%的概率用魔法造成1000倍伤害。"
 		},
 		"magic_web": {
 			"name": "魔法网",
@@ -2737,28 +2737,28 @@
 			"desc": "让你向魔鬼祈祷，并将你的魔力消耗和治疗转化为护盾。调和地堆叠。"
 		},
 		"bat_egg": {
-			"name": "Bat Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蝙蝠蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"vampire_fang": {
-			"name": "Vampire Fang",
-			"desc": "Heals you when your flower gets body damage."
+			"name": "吸血尖牙",
+			"desc": "治疗你当你造成身体碰撞伤害。"
 		},
 		"blood_rose": {
-			"name": "Blood Rose",
-			"desc": "It heals but also blinds you."
+			"name": "血玫瑰",
+			"desc": "他会治疗你，却也会让你失明。"
 		},
 		"lily_pad_egg": {
-			"name": "Lily Pad Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "莲叶蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"lily_pad": {
-			"name": "Lily Pad",
-			"desc": "It passively heals when your squad members are dead. Increases harmonically."
+			"name": "莲叶",
+			"desc": "当你的队友死亡时，它会被动治疗你，治疗效果会随死亡人数成调和增长。"
 		},
 		"magic_lily_pad": {
-			"name": "Magic Lily Pad",
-			"desc": "It passively generates magic when your squad members are dead. Increases harmonically."
+			"name": "魔法莲叶",
+			"desc": "当你的队友死亡时，它会被动生成魔力，恢复魔力效果会随死亡人数成调和增长。"
 		}
 	},
 	"achievements": {
@@ -3301,8 +3301,8 @@
 			"desc": "9999℃时刻"
 		},
 		"banana_man": {
-			"name": "Banana Man",
-			"desc": "It likes to eat banana"
+			"name": "大香蕉",
+			"desc": "大香蕉一条大香蕉，你的感觉真的很奇妙～"
 		},
 		"rose": {
 			"name": "玫瑰",
@@ -3650,7 +3650,7 @@
 		"passiveHeal": "持续治疗",
 		"passiveHealBelow50": "持续治疗",
 		"passiveHealInverse": "持续治疗",
-		"passiveMemorialShield": "Passive Memorial Shield",
+		"passiveMemorialShield": "被动追忆护盾",
 		"passivePetHeal": "持续宠物治疗",
 		"passivePetShield": "持续恢复宠物护盾",
 		"extraPetRange": "宠物额外仇恨范围",
@@ -3700,7 +3700,7 @@
 		"agroRangeIncrease": "仇恨范围增大",
 		"extraFlowerKnock": "花朵额外击退",
 		"damageHealed": "造成伤害时治疗",
-		"bodyDamageHealed": "Body Damage Healed",
+		"bodyDamageHealed": "体伤治疗",
 		"selfDamage": "自我伤害",
 		"selfFireDamage": "自我火伤",
 		"selfPoison": "自我毒伤",
@@ -3781,14 +3781,14 @@
 		"Ji": " Ji",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
-		"fogTime": "Fog Time",
-		"lightSize": "Light Size",
-		"blindTime": "Blind Time",
+		"fogTime": "迷雾时长",
+		"lightSize": "照亮范围",
+		"blindTime": "失明时长",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
 		"passiveManaOnGround": "持续恢复魔力",
-		"passiveMemorialMana": "Passive Memorial Mana",
+		"passiveMemorialMana": "被动追忆魔力",
 		"extraFlowerMana": "花朵额外魔力",
 		"damageMana": "造成伤害时恢复魔力",
 		"manaBuff": "魔力增益",
@@ -3808,7 +3808,7 @@
 		"extraPetalDamagePercent": "花瓣额外伤害百分比",
 		"extraPetDamagePercent": "宠物额外伤害百分比",
 		"fission": "裂变",
-		"fusion": "Fusion",
+		"fusion": "聚变",
 		"splitOrbitDistance": "分裂轨道距离",
 		"gap": "间隔",
 		"petDefrost": "宠物解冻",
@@ -3861,7 +3861,7 @@
 		"fastCraft": "快速合成",
 		"disableCrafting": "禁用合成",
 		"guildSquad": "公会组队",
-		"showPositionToGuild": "Show Position To Guild",
+		"showPositionToGuild": "向公会显示位置",
 		"#visuals": "#画面",
 		"showRarities": "显示花瓣品质",
 		"showCraftBubble": "显示合成气泡",
@@ -3895,7 +3895,7 @@
 		"indicatorFrost": "霜冻",
 		"indicatorMagicSponge": "魔法海绵",
 		"indicatorInfection": "感染",
-		"indicatorFog": "Fog",
+		"indicatorFog": "迷雾",
 		"indicatorDropBuff": "掉落增益",
 		"xp": "经验值",
 		"timeJoined": "加入时间",
