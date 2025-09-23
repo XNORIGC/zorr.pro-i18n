@@ -176,7 +176,11 @@
 		"profileBubble": [
 			"Set a new password.",
 			"Get a new username."
-		]
+		],
+		"holdToUpgrade": "Hold To Upgrade",
+		"notEnoughTp": "Not Enough TP",
+		"edit": "Edit",
+		"export": "Export"
 	},
 	"texts": {
 		"requiresMana": "Requires Mana to spawn.",
@@ -4285,6 +4289,412 @@
 		},
 		"top_player": {
 			"name": "Top Player Pack"
+		}
+	},
+	"talents": {
+		"Health1": {
+			"name": "Health",
+			"desc": "Increases your health by {1}%."
+		},
+		"Health2": {
+			"name": "Health",
+			"desc": "Increases your health by {1}%."
+		},
+		"Health3": {
+			"name": "Health",
+			"desc": "Increases your health by {1}%."
+		},
+		"Health4": {
+			"name": "Health",
+			"desc": "Increases your health by {1}%."
+		},
+		"Health5": {
+			"name": "Health",
+			"desc": "Increases your health by {1}%."
+		},
+		"Health6": {
+			"name": "Health",
+			"desc": "Increases your health by {1}%."
+		},
+		"HealthRegen1": {
+			"name": "Medic",
+			"desc": "Increases your health regeneration by {1}%."
+		},
+		"HealthRegen2": {
+			"name": "Medic",
+			"desc": "Increases your health regeneration by {1}%."
+		},
+		"HealthRegen3": {
+			"name": "Medic",
+			"desc": "Increases your health regeneration by {1}%."
+		},
+		"HealthRegen4": {
+			"name": "Medic",
+			"desc": "Increases your health regeneration by {1}%."
+		},
+		"HealthRegen5": {
+			"name": "Medic",
+			"desc": "Increases your health regeneration by {1}%."
+		},
+		"HealthRegen6": {
+			"name": "Medic",
+			"desc": "Increases your health regeneration by {1}%."
+		},
+		"ManaRegen1": {
+			"name": "Wizard",
+			"desc": "Increases your mana generation by {1}%."
+		},
+		"ManaRegen2": {
+			"name": "Wizard",
+			"desc": "Increases your mana generation by {1}%."
+		},
+		"ManaRegen3": {
+			"name": "Wizard",
+			"desc": "Increases your mana generation by {1}%."
+		},
+		"Speed1": {
+			"name": "Speed",
+			"desc": "Increases your movement speed by {1}%."
+		},
+		"Speed2": {
+			"name": "Speed",
+			"desc": "Increases your movement speed by {1}%."
+		},
+		"Speed3": {
+			"name": "Speed",
+			"desc": "Increases your movement speed by {1}%."
+		},
+		"Speed4": {
+			"name": "Speed",
+			"desc": "Increases your movement speed by {1}%."
+		},
+		"Speed5": {
+			"name": "Speed",
+			"desc": "Increases your movement speed by {1}%."
+		},
+		"Speed6": {
+			"name": "Speed",
+			"desc": "Increases your movement speed by {1}%."
+		},
+		"Damage1": {
+			"name": "Penetration",
+			"desc": "Increases your petal damage by {1}%."
+		},
+		"Damage2": {
+			"name": "Penetration",
+			"desc": "Increases your petal damage by {1}%."
+		},
+		"Damage3": {
+			"name": "Penetration",
+			"desc": "Increases your petal damage by {1}%."
+		},
+		"Damage4": {
+			"name": "Penetration",
+			"desc": "Increases your petal damage by {1}%."
+		},
+		"Damage5": {
+			"name": "Penetration",
+			"desc": "Increases your petal damage by {1}%."
+		},
+		"Damage6": {
+			"name": "Penetration",
+			"desc": "Increases your petal damage by {1}%."
+		},
+		"Damage7": {
+			"name": "Penetration",
+			"desc": "Increases your petal damage by {1}%."
+		},
+		"PoisonDamage1": {
+			"name": "Toxicity",
+			"desc": "Increases your petal poison by {1}%."
+		},
+		"PoisonDamage2": {
+			"name": "Toxicity",
+			"desc": "Increases your petal poison by {1}%."
+		},
+		"FireDamage1": {
+			"name": "BURN!",
+			"desc": "Increases your petal fire by {1}%."
+		},
+		"FireDamage2": {
+			"name": "BURN!",
+			"desc": "Increases your petal fire by {1}%."
+		},
+		"LightningDamage1": {
+			"name": "Thunder",
+			"desc": "Increases lightning damage by {1}%."
+		},
+		"LightningDamage2": {
+			"name": "Thunder",
+			"desc": "Increases lightning damage by {1}%."
+		},
+		"Reload1": {
+			"name": "Reload",
+			"desc": "Makes your petals reload {1}% faster."
+		},
+		"Reload2": {
+			"name": "Reload",
+			"desc": "Makes your petals reload {1}% faster."
+		},
+		"Reload3": {
+			"name": "Reload",
+			"desc": "Makes your petals reload {1}% faster."
+		},
+		"Reload4": {
+			"name": "Reload",
+			"desc": "Makes your petals reload {1}% faster."
+		},
+		"Reload5": {
+			"name": "Reload",
+			"desc": "Makes your petals reload {1}% faster."
+		},
+		"Reload6": {
+			"name": "Reload",
+			"desc": "Makes your petals reload {1}% faster."
+		},
+		"Reload7": {
+			"name": "Reload",
+			"desc": "Makes your petals reload {1}% faster."
+		},
+		"UseTime1": {
+			"name": "Secondary Reload",
+			"desc": "Makes petal secondary reload & eggs hatch {1}% faster."
+		},
+		"UseTime2": {
+			"name": "Secondary Reload",
+			"desc": "Makes petal secondary reload & eggs hatch {1}% faster."
+		},
+		"Luck1": {
+			"name": "Luck",
+			"desc": "Increases your luck by {1}%."
+		},
+		"Luck2": {
+			"name": "Luck",
+			"desc": "Increases your luck by {1}%."
+		},
+		"Luck3": {
+			"name": "Luck",
+			"desc": "Increases your luck by {1}%."
+		},
+		"Luck4": {
+			"name": "Luck",
+			"desc": "Increases your luck by {1}%."
+		},
+		"Luck5": {
+			"name": "Luck",
+			"desc": "Increases your luck by {1}%."
+		},
+		"BodyDamage1": {
+			"name": "Damage",
+			"desc": "Increases your body damage by {1}%."
+		},
+		"BodyDamage2": {
+			"name": "Damage",
+			"desc": "Increases your body damage by {1}%."
+		},
+		"BodyDamage3": {
+			"name": "Damage",
+			"desc": "Increases your body damage by {1}%."
+		},
+		"BodyDamage4": {
+			"name": "Damage",
+			"desc": "Increases your body damage by {1}%."
+		},
+		"BodyDamage5": {
+			"name": "Damage",
+			"desc": "Increases your body damage by {1}%."
+		},
+		"BodyDamage6": {
+			"name": "Damage",
+			"desc": "Increases your body damage by {1}%."
+		},
+		"BodyPoisonDamage1": {
+			"name": "Venom",
+			"desc": "Increases your body poison by {1}%."
+		},
+		"BodyPoisonDamage2": {
+			"name": "Venom",
+			"desc": "Increases your body poison by {1}%."
+		},
+		"BodyFireDamage1": {
+			"name": "Flames",
+			"desc": "Increases your body fire by {1}%."
+		},
+		"BodyFireDamage2": {
+			"name": "Flames",
+			"desc": "Increases your body fire by {1}%."
+		},
+		"ExtraVision1": {
+			"name": "Vision",
+			"desc": "Increases your vision by {1}%."
+		},
+		"ExtraVision2": {
+			"name": "Vision",
+			"desc": "Increases your vision by {1}%."
+		},
+		"ExtraVision3": {
+			"name": "Vision",
+			"desc": "Increases your vision by {1}%."
+		},
+		"ExtraVision4": {
+			"name": "Vision",
+			"desc": "Increases your vision by {1}%."
+		},
+		"ExtraVision5": {
+			"name": "Vision",
+			"desc": "Increases your vision by {1}%."
+		},
+		"PickUpRange1": {
+			"name": "Magnetism",
+			"desc": "Increases your petal pickup range by {1}."
+		},
+		"PickUpRange2": {
+			"name": "Magnetism",
+			"desc": "Increases your petal pickup range by {1}."
+		},
+		"PickUpRange3": {
+			"name": "Magnetism",
+			"desc": "Increases your petal pickup range by {1}."
+		},
+		"PickUpRange4": {
+			"name": "Magnetism",
+			"desc": "Increases your petal pickup range by {1}."
+		},
+		"PickUpRange5": {
+			"name": "Magnetism",
+			"desc": "Increases your petal pickup range by {1}."
+		},
+		"RadiationRange1": {
+			"name": "Radioactive",
+			"desc": "Increases your radiation range by {1}%."
+		},
+		"RadiationRange2": {
+			"name": "Radioactive",
+			"desc": "Increases your radiation range by {1}%."
+		},
+		"RadiationRange3": {
+			"name": "Radioactive",
+			"desc": "Increases your radiation range by {1}%."
+		},
+		"RadiationRange4": {
+			"name": "Radioactive",
+			"desc": "Increases your radiation range by {1}%."
+		},
+		"RadiationRange5": {
+			"name": "Radioactive",
+			"desc": "Increases your radiation range by {1}%."
+		},
+		"SpillRate1": {
+			"name": "Laminer",
+			"desc": "Increases your petal spill rate by {1}%."
+		},
+		"SpillRate2": {
+			"name": "Laminer",
+			"desc": "Increases your petal spill rate by {1}%."
+		},
+		"SpillRate3": {
+			"name": "Laminer",
+			"desc": "Increases your petal spill rate by {1}%."
+		},
+		"SpillRate4": {
+			"name": "Laminer",
+			"desc": "Increases your petal spill rate by {1}%."
+		},
+		"SpillRate5": {
+			"name": "Laminer",
+			"desc": "Increases your petal spill rate by {1}%."
+		},
+		"PetHealth1": {
+			"name": "Pet Health",
+			"desc": "Increases health of your pets by {1}%."
+		},
+		"PetHealth2": {
+			"name": "Pet Health",
+			"desc": "Increases health of your pets by {1}%."
+		},
+		"PetHealth3": {
+			"name": "Pet Health",
+			"desc": "Increases health of your pets by {1}%."
+		},
+		"PetHealth4": {
+			"name": "Pet Health",
+			"desc": "Increases health of your pets by {1}%."
+		},
+		"PetHealth5": {
+			"name": "Pet Health",
+			"desc": "Increases health of your pets by {1}%."
+		},
+		"PetDamage1": {
+			"name": "Pet Damage",
+			"desc": "Increases damage of your pets by {1}%."
+		},
+		"PetDamage2": {
+			"name": "Pet Damage",
+			"desc": "Increases damage of your pets by {1}%."
+		},
+		"PetDamage3": {
+			"name": "Pet Damage",
+			"desc": "Increases damage of your pets by {1}%."
+		},
+		"PetDamage4": {
+			"name": "Pet Damage",
+			"desc": "Increases damage of your pets by {1}%."
+		},
+		"PetDamage5": {
+			"name": "Pet Damage",
+			"desc": "Increases damage of your pets by {1}%."
+		},
+		"Fog1": {
+			"name": "Fog",
+			"desc": "Decreases fog by {1}%"
+		},
+		"Fog2": {
+			"name": "Fog",
+			"desc": "Decreases fog by {1}%"
+		},
+		"Fog3": {
+			"name": "Fog",
+			"desc": "Decreases fog by {1}%"
+		},
+		"Fog4": {
+			"name": "Fog",
+			"desc": "Decreases fog by {1}%"
+		},
+		"Fog5": {
+			"name": "Fog",
+			"desc": "Decreases fog by {1}%"
+		},
+		"Range1": {
+			"name": "Range",
+			"desc": "Increases petal range by {1}."
+		},
+		"Range2": {
+			"name": "Range",
+			"desc": "Increases petal range by {1}."
+		},
+		"Range3": {
+			"name": "Range",
+			"desc": "Increases petal range by {1}."
+		},
+		"Range4": {
+			"name": "Range",
+			"desc": "Increases petal range by {1}."
+		},
+		"Rotation1": {
+			"name": "Orbit Speed",
+			"desc": "Increases orbit speed by {1}rad"
+		},
+		"Rotation2": {
+			"name": "Orbit Speed",
+			"desc": "Increases orbit speed by {1}rad"
+		},
+		"Rotation3": {
+			"name": "Orbit Speed",
+			"desc": "Increases orbit speed by {1}rad"
+		},
+		"Rotation4": {
+			"name": "Orbit Speed",
+			"desc": "Increases orbit speed by {1}rad"
 		}
 	}
 }
