@@ -4410,199 +4410,199 @@
 		},
 		"PoisonDamage2": {
 			"name": "毒性",
-			"desc": "Increases your petal poison by {1}%."
+			"desc": "增加{1}%花瓣毒伤。"
 		},
 		"FireDamage1": {
-			"name": "BURN!",
-			"desc": "Increases your petal fire by {1}%."
+			"name": "火！",
+			"desc": "增加{1}%花瓣火伤。"
 		},
 		"FireDamage2": {
-			"name": "BURN!",
-			"desc": "Increases your petal fire by {1}%."
+			"name": "火！",
+			"desc": "增加{1}%花瓣火伤。"
 		},
 		"LightningDamage1": {
-			"name": "Thunder",
-			"desc": "Increases lightning damage by {1}%."
+			"name": "雷电",
+			"desc": "增加{1}%闪电伤害。"
 		},
 		"LightningDamage2": {
-			"name": "Thunder",
-			"desc": "Increases lightning damage by {1}%."
+			"name": "雷电",
+			"desc": "增加{1}%闪电伤害。"
 		},
 		"Reload1": {
-			"name": "Reload",
-			"desc": "Makes your petals reload {1}% faster."
+			"name": "冷却",
+			"desc": "使你的花瓣冷却速度加快{1}%。"
 		},
 		"Reload2": {
-			"name": "Reload",
-			"desc": "Makes your petals reload {1}% faster."
+			"name": "冷却",
+			"desc": "使你的花瓣冷却速度加快{1}%。"
 		},
 		"Reload3": {
-			"name": "Reload",
-			"desc": "Makes your petals reload {1}% faster."
+			"name": "冷却",
+			"desc": "使你的花瓣冷却速度加快{1}%。"
 		},
 		"Reload4": {
-			"name": "Reload",
-			"desc": "Makes your petals reload {1}% faster."
+			"name": "冷却",
+			"desc": "使你的花瓣冷却速度加快{1}%。"
 		},
 		"Reload5": {
-			"name": "Reload",
-			"desc": "Makes your petals reload {1}% faster."
+			"name": "冷却",
+			"desc": "使你的花瓣冷却速度加快{1}%。"
 		},
 		"Reload6": {
-			"name": "Reload",
-			"desc": "Makes your petals reload {1}% faster."
+			"name": "冷却",
+			"desc": "使你的花瓣冷却速度加快{1}%。"
 		},
 		"Reload7": {
-			"name": "Reload",
-			"desc": "Makes your petals reload {1}% faster."
+			"name": "冷却",
+			"desc": "使你的花瓣冷却速度加快{1}%。"
 		},
 		"UseTime1": {
-			"name": "Secondary Reload",
-			"desc": "Makes petal secondary reload & eggs hatch {1}% faster."
+			"name": "副冷却",
+			"desc": "使你的花瓣副冷却速度加快{1}%。"
 		},
 		"UseTime2": {
-			"name": "Secondary Reload",
-			"desc": "Makes petal secondary reload & eggs hatch {1}% faster."
+			"name": "副冷却",
+			"desc": "使你的花瓣副冷却速度加快{1}%。"
 		},
 		"Luck1": {
-			"name": "Luck",
-			"desc": "Increases your luck by {1}%."
+			"name": "幸运",
+			"desc": "增加{1}%的幸运。"
 		},
 		"Luck2": {
-			"name": "Luck",
-			"desc": "Increases your luck by {1}%."
+			"name": "幸运",
+			"desc": "增加{1}%的幸运。"
 		},
 		"Luck3": {
-			"name": "Luck",
-			"desc": "Increases your luck by {1}%."
+			"name": "幸运",
+			"desc": "增加{1}%的幸运。"
 		},
 		"Luck4": {
-			"name": "Luck",
-			"desc": "Increases your luck by {1}%."
+			"name": "幸运",
+			"desc": "增加{1}%的幸运。"
 		},
 		"Luck5": {
-			"name": "Luck",
-			"desc": "Increases your luck by {1}%."
+			"name": "幸运",
+			"desc": "增加{1}%的幸运。"
 		},
 		"BodyDamage1": {
-			"name": "Damage",
-			"desc": "Increases your body damage by {1}%."
+			"name": "伤害",
+			"desc": "增加{1}%的身体伤害。"
 		},
 		"BodyDamage2": {
-			"name": "Damage",
-			"desc": "Increases your body damage by {1}%."
+			"name": "伤害",
+			"desc": "增加{1}%的身体伤害。"
 		},
 		"BodyDamage3": {
-			"name": "Damage",
-			"desc": "Increases your body damage by {1}%."
+			"name": "伤害",
+			"desc": "增加{1}%的身体伤害。"
 		},
 		"BodyDamage4": {
-			"name": "Damage",
-			"desc": "Increases your body damage by {1}%."
+			"name": "伤害",
+			"desc": "增加{1}%的身体伤害。"
 		},
 		"BodyDamage5": {
-			"name": "Damage",
-			"desc": "Increases your body damage by {1}%."
+			"name": "伤害",
+			"desc": "增加{1}%的身体伤害。"
 		},
 		"BodyDamage6": {
-			"name": "Damage",
+			"name": "伤害",
 			"desc": "增加{1}%的身体伤害。"
 		},
 		"BodyPoisonDamage1": {
-			"name": "Venom",
-			"desc": "Increases your body poison by {1}%."
+			"name": "毒液",
+			"desc": "增加身体{1}%的毒伤。"
 		},
 		"BodyPoisonDamage2": {
-			"name": "Venom",
-			"desc": "Increases your body poison by {1}%."
+			"name": "毒液",
+			"desc": "增加身体{1}%的毒伤。"
 		},
 		"BodyFireDamage1": {
-			"name": "Flames",
-			"desc": "Increases your body fire by {1}%."
+			"name": "火焰",
+			"desc": "增加身体{1}%的火伤。"
 		},
 		"BodyFireDamage2": {
-			"name": "Flames",
-			"desc": "Increases your body fire by {1}%."
+			"name": "火焰",
+			"desc": "增加身体{1}%的火伤。"
 		},
 		"ExtraVision1": {
-			"name": "Vision",
-			"desc": "Increases your vision by {1}%."
+			"name": "视野",
+			"desc": "增加{1}%的视野。"
 		},
 		"ExtraVision2": {
-			"name": "Vision",
-			"desc": "Increases your vision by {1}%."
+			"name": "视野",
+			"desc": "增加{1}%的视野。"
 		},
 		"ExtraVision3": {
-			"name": "Vision",
-			"desc": "Increases your vision by {1}%."
+			"name": "视野",
+			"desc": "增加{1}%的视野。"
 		},
 		"ExtraVision4": {
-			"name": "Vision",
-			"desc": "Increases your vision by {1}%."
+			"name": "视野",
+			"desc": "增加{1}%的视野。"
 		},
 		"ExtraVision5": {
-			"name": "Vision",
-			"desc": "Increases your vision by {1}%."
+			"name": "视野",
+			"desc": "增加{1}%的视野。"
 		},
 		"PickUpRange1": {
-			"name": "Magnetism",
-			"desc": "Increases your petal pickup range by {1}."
+			"name": "磁性",
+			"desc": "增加{1}的花瓣拾取范围。"
 		},
 		"PickUpRange2": {
-			"name": "Magnetism",
-			"desc": "Increases your petal pickup range by {1}."
+			"name": "磁性",
+			"desc": "增加{1}的花瓣拾取范围。"
 		},
 		"PickUpRange3": {
-			"name": "Magnetism",
-			"desc": "Increases your petal pickup range by {1}."
+			"name": "磁性",
+			"desc": "增加{1}的花瓣拾取范围。"
 		},
 		"PickUpRange4": {
-			"name": "Magnetism",
-			"desc": "Increases your petal pickup range by {1}."
+			"name": "磁性",
+			"desc": "增加{1}的花瓣拾取范围。"
 		},
 		"PickUpRange5": {
-			"name": "Magnetism",
-			"desc": "Increases your petal pickup range by {1}."
+			"name": "磁性",
+			"desc": "增加{1}的花瓣拾取范围。"
 		},
 		"RadiationRange1": {
-			"name": "Radioactive",
-			"desc": "Increases your radiation range by {1}%."
+			"name": "辐射",
+			"desc": "增加{1}%的辐射范围。"
 		},
 		"RadiationRange2": {
-			"name": "Radioactive",
-			"desc": "Increases your radiation range by {1}%."
+			"name": "辐射",
+			"desc": "增加{1}%的辐射范围。"
 		},
 		"RadiationRange3": {
-			"name": "Radioactive",
-			"desc": "Increases your radiation range by {1}%."
+			"name": "辐射",
+			"desc": "增加{1}%的辐射范围。"
 		},
 		"RadiationRange4": {
-			"name": "Radioactive",
-			"desc": "Increases your radiation range by {1}%."
+			"name": "辐射",
+			"desc": "增加{1}%的辐射范围。"
 		},
 		"RadiationRange5": {
-			"name": "Radioactive",
-			"desc": "Increases your radiation range by {1}%."
+			"name": "辐射",
+			"desc": "增加{1}%的辐射范围。"
 		},
 		"SpillRate1": {
-			"name": "Laminer",
-			"desc": "Increases your petal spill rate by {1}%."
+			"name": "溢流",
+			"desc": "增加{1}%花瓣额外流动速度。"
 		},
 		"SpillRate2": {
-			"name": "Laminer",
-			"desc": "Increases your petal spill rate by {1}%."
+			"name": "溢流",
+			"desc": "增加{1}%花瓣额外流动速度。"
 		},
 		"SpillRate3": {
-			"name": "Laminer",
-			"desc": "Increases your petal spill rate by {1}%."
+			"name": "溢流",
+			"desc": "增加{1}%花瓣额外流动速度。"
 		},
 		"SpillRate4": {
-			"name": "Laminer",
-			"desc": "Increases your petal spill rate by {1}%."
+			"name": "溢流",
+			"desc": "增加{1}%花瓣额外流动速度。"
 		},
 		"SpillRate5": {
-			"name": "Laminer",
-			"desc": "Increases your petal spill rate by {1}%."
+			"name": "溢流",
+			"desc": "增加{1}%花瓣额外流动速度。"
 		},
 		"PetHealth1": {
 			"name": "宠物生命",
@@ -4626,75 +4626,75 @@
 		},
 		"PetDamage1": {
 			"name": "宠物生命",
-			"desc": "Increases damage of your pets by {1}%."
+			"desc": "为你的宠物增加{1}%伤害。"
 		},
 		"PetDamage2": {
-			"name": "Pet Damage",
-			"desc": "Increases damage of your pets by {1}%."
+			"name": "宠物伤害",
+			"desc": "为你的宠物增加{1}%伤害。"
 		},
 		"PetDamage3": {
-			"name": "Pet Damage",
-			"desc": "Increases damage of your pets by {1}%."
+			"name": "宠物伤害",
+			"desc": "为你的宠物增加{1}%伤害。"
 		},
 		"PetDamage4": {
-			"name": "Pet Damage",
-			"desc": "Increases damage of your pets by {1}%."
+			"name": "宠物伤害",
+			"desc": "为你的宠物增加{1}%伤害。"
 		},
 		"PetDamage5": {
-			"name": "Pet Damage",
-			"desc": "Increases damage of your pets by {1}%."
+			"name": "宠物伤害",
+			"desc": "为你的宠物增加{1}%伤害。"
 		},
 		"Fog1": {
-			"name": "Fog",
-			"desc": "Decreases fog by {1}%"
+			"name": "迷雾",
+			"desc": "减少{1}%的迷雾"
 		},
 		"Fog2": {
-			"name": "Fog",
-			"desc": "Decreases fog by {1}%"
+			"name": "迷雾",
+			"desc": "减少{1}%的迷雾"
 		},
 		"Fog3": {
-			"name": "Fog",
-			"desc": "Decreases fog by {1}%"
+			"name": "迷雾",
+			"desc": "减少{1}%的迷雾"
 		},
 		"Fog4": {
-			"name": "Fog",
-			"desc": "Decreases fog by {1}%"
+			"name": "迷雾",
+			"desc": "减少{1}%的迷雾"
 		},
 		"Fog5": {
-			"name": "Fog",
-			"desc": "Decreases fog by {1}%"
+			"name": "迷雾",
+			"desc": "减少{1}%的迷雾"
 		},
 		"Range1": {
-			"name": "Range",
-			"desc": "Increases petal range by {1}."
+			"name": "范围",
+			"desc": "增加{1}的攻击范围。"
 		},
 		"Range2": {
-			"name": "Range",
-			"desc": "Increases petal range by {1}."
+			"name": "范围",
+			"desc": "增加{1}的攻击范围。"
 		},
 		"Range3": {
-			"name": "Range",
-			"desc": "Increases petal range by {1}."
+			"name": "范围",
+			"desc": "增加{1}的攻击范围。"
 		},
 		"Range4": {
-			"name": "Range",
-			"desc": "Increases petal range by {1}."
+			"name": "范围",
+			"desc": "增加{1}的攻击范围。"
 		},
 		"Rotation1": {
-			"name": "Orbit Speed",
-			"desc": "Increases orbit speed by {1}rad"
+			"name": "轨道速度",
+			"desc": "增加{1}的花瓣轨道速度"
 		},
 		"Rotation2": {
-			"name": "Orbit Speed",
-			"desc": "Increases orbit speed by {1}rad"
+			"name": "轨道速度",
+			"desc": "增加{1}的花瓣轨道速度"
 		},
 		"Rotation3": {
-			"name": "Orbit Speed",
-			"desc": "Increases orbit speed by {1}rad"
+			"name": "轨道速度",
+			"desc": "增加{1}的花瓣轨道速度"
 		},
 		"Rotation4": {
-			"name": "Orbit Speed",
-			"desc": "Increases orbit speed by {1}rad"
+			"name": "轨道速度",
+			"desc": "增加{1}的花瓣轨道速度"
 		}
 	}
 }
