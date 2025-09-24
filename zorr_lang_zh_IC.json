@@ -4294,63 +4294,63 @@
 	"talents": {
 		"Health1": {
 			"name": "Health",
-			"desc": "增加{1}%血量"
+			"desc": "使你的生命值提升 {1}%。"
 		},
 		"Health2": {
-			"name": "Health",
-			"desc": "增加{1}%血量。"
+			"name": "生命",
+			"desc": "使你的生命值提升 {1}%。"
 		},
 		"Health3": {
-			"name": "血量",
-			"desc": "增加{1}%血量。"
+			"name": "生命",
+			"desc": "使你的生命值提升 {1}%。"
 		},
 		"Health4": {
-			"name": "血量",
-			"desc": "Increases your health by {1}%."
+			"name": "生命",
+			"desc": "使你的生命值提升 {1}%。"
 		},
 		"Health5": {
-			"name": "Health",
-			"desc": "Increases your health by {1}%."
+			"name": "生命",
+			"desc": "使你的生命值提升 {1}%。"
 		},
 		"Health6": {
-			"name": "Health",
-			"desc": "Increases your health by {1}%."
+			"name": "生命",
+			"desc": "增加{1}%的生命值。"
 		},
 		"HealthRegen1": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "医生",
+			"desc": "使你的生命恢复速率提升 {1}%。"
 		},
 		"HealthRegen2": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "医生",
+			"desc": "使你的生命恢复速率提升 {1}%。"
 		},
 		"HealthRegen3": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "医生",
+			"desc": "使你的生命恢复速率提升 {1}%。"
 		},
 		"HealthRegen4": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "医生",
+			"desc": "使你的生命恢复速率提升 {1}%。"
 		},
 		"HealthRegen5": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "医生",
+			"desc": "使你的生命恢复速率提升 {1}%。"
 		},
 		"HealthRegen6": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "医生",
+			"desc": "使你的生命恢复速度提升 {1}%。"
 		},
 		"ManaRegen1": {
-			"name": "Wizard",
-			"desc": "Increases your mana generation by {1}%."
+			"name": "巫师",
+			"desc": "使你的魔力恢复速率提升 {1}%。"
 		},
 		"ManaRegen2": {
-			"name": "Wizard",
-			"desc": "Increases your mana generation by {1}%."
+			"name": "巫师",
+			"desc": "使你的魔力恢复速率提升 {1}%。"
 		},
 		"ManaRegen3": {
-			"name": "Wizard",
-			"desc": "Increases your mana generation by {1}%."
+			"name": "巫师",
+			"desc": "使你的魔力恢复速率提升 {1}%。"
 		},
 		"Speed1": {
 			"name": "Speed",
