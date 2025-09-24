@@ -4506,7 +4506,7 @@
 		},
 		"BodyDamage6": {
 			"name": "Damage",
-			"desc": "Increases your body damage by {1}%."
+			"desc": "增加{1}%的身体伤害。"
 		},
 		"BodyPoisonDamage1": {
 			"name": "Venom",
@@ -4605,27 +4605,27 @@
 			"desc": "Increases your petal spill rate by {1}%."
 		},
 		"PetHealth1": {
-			"name": "Pet Health",
-			"desc": "Increases health of your pets by {1}%."
+			"name": "宠物生命",
+			"desc": "为你的宠物增加{1}%最大生命。"
 		},
 		"PetHealth2": {
-			"name": "Pet Health",
-			"desc": "Increases health of your pets by {1}%."
+			"name": "宠物生命",
+			"desc": "为你的宠物增加{1}%最大生命。"
 		},
 		"PetHealth3": {
-			"name": "Pet Health",
-			"desc": "Increases health of your pets by {1}%."
+			"name": "宠物生命",
+			"desc": "为你的宠物增加{1}%最大生命。"
 		},
 		"PetHealth4": {
-			"name": "Pet Health",
-			"desc": "Increases health of your pets by {1}%."
+			"name": "宠物生命",
+			"desc": "为你的宠物增加{1}%最大生命。"
 		},
 		"PetHealth5": {
-			"name": "Pet Health",
-			"desc": "Increases health of your pets by {1}%."
+			"name": "宠物生命",
+			"desc": "为你的宠物增加{1}%最大生命。"
 		},
 		"PetDamage1": {
-			"name": "Pet Damage",
+			"name": "宠物生命",
 			"desc": "Increases damage of your pets by {1}%."
 		},
 		"PetDamage2": {
