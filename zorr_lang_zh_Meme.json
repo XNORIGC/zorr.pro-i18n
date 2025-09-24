@@ -4294,18 +4294,18 @@
 	"talents": {
 		"Health1": {
 			"name": "Health",
-			"desc": "Increases your health by {1}%."
+			"desc": "增加{1}%血量"
 		},
 		"Health2": {
 			"name": "Health",
-			"desc": "Increases your health by {1}%."
+			"desc": "增加{1}%血量。"
 		},
 		"Health3": {
-			"name": "Health",
-			"desc": "Increases your health by {1}%."
+			"name": "血量",
+			"desc": "增加{1}%血量。"
 		},
 		"Health4": {
-			"name": "Health",
+			"name": "血量",
 			"desc": "Increases your health by {1}%."
 		},
 		"Health5": {
