@@ -177,10 +177,10 @@
 			"设置密码。",
 			"获得用户名。"
 		],
-		"holdToUpgrade": "Hold To Upgrade",
-		"notEnoughTp": "Not Enough TP",
-		"edit": "Edit",
-		"export": "Export"
+		"holdToUpgrade": "长按以升级",
+		"notEnoughTp": "天赋点不足",
+		"edit": "编辑",
+		"export": "导出"
 	},
 	"texts": {
 		"requiresMana": "消耗魔力以生成。",
@@ -4293,7 +4293,7 @@
 	},
 	"talents": {
 		"Health1": {
-			"name": "Health",
+			"name": "生命",
 			"desc": "使你的生命值提升 {1}%。"
 		},
 		"Health2": {
@@ -4409,7 +4409,7 @@
 			"desc": "增加{1}%花瓣毒伤。"
 		},
 		"PoisonDamage2": {
-			"name": "Toxicity",
+			"name": "毒性",
 			"desc": "Increases your petal poison by {1}%."
 		},
 		"FireDamage1": {
