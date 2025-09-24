@@ -4353,60 +4353,60 @@
 			"desc": "使你的魔力恢复速率提升 {1}%。"
 		},
 		"Speed1": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "速度",
+			"desc": "移动速度提升 {1}%。"
 		},
 		"Speed2": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "速度",
+			"desc": "移动速度提升 {1}%。"
 		},
 		"Speed3": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "速度",
+			"desc": "移动速度提升 {1}%。"
 		},
 		"Speed4": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "速度",
+			"desc": "移动速度提升 {1}%。"
 		},
 		"Speed5": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "速度",
+			"desc": "移动速度提升 {1}%。"
 		},
 		"Speed6": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "速度",
+			"desc": "移动速度提升 {1}%。"
 		},
 		"Damage1": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣伤害。"
 		},
 		"Damage2": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣伤害。"
 		},
 		"Damage3": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣伤害。"
 		},
 		"Damage4": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣伤害。"
 		},
 		"Damage5": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣伤害。"
 		},
 		"Damage6": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣伤害。"
 		},
 		"Damage7": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣伤害。"
 		},
 		"PoisonDamage1": {
-			"name": "Toxicity",
-			"desc": "Increases your petal poison by {1}%."
+			"name": "毒性",
+			"desc": "增加{1}%花瓣毒伤。"
 		},
 		"PoisonDamage2": {
 			"name": "Toxicity",
