@@ -116,6 +116,7 @@
 		"save": "保存",
 		"includeBothRows": "包括两行",
 		"includeSpinSpeed": "Include Spin Speed",
+		"includeTalents": "Include Talents",
 		"copyCode": "復製代码",
 		"delete": "删除",
 		"rename": "重设名字",
@@ -2763,6 +2764,14 @@
 		"magic_lily_pad": {
 			"name": "Magic Lily Pad",
 			"desc": "It passively generates magic when your squad members are dead. Increases harmonically."
+		},
+		"bloom": {
+			"name": "Bloom",
+			"desc": "Revives all squadmates when used."
+		},
+		"hexagram": {
+			"name": "Hexagram",
+			"desc": "Killing a mob with this gives you a chance to recruit it to your side, turning it into a pet. Only works up to its own rarity "
 		}
 	},
 	"achievements": {
@@ -3782,12 +3791,13 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ji": " Ji",
+		"Zi": " Zi",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
 		"lightSize": "Light Size",
 		"blindTime": "Blind Time",
+		"petifyRate": "Petify Rate",
 		"mana": "魔力",
 		"passiveMana": "持續魔力恢復",
 		"passiveManaInverse": "Passive Mana",
@@ -4695,6 +4705,22 @@
 		"Rotation4": {
 			"name": "Orbit Speed",
 			"desc": "Increases orbit speed by {1}rad"
+		},
+		"ExplosionRange1": {
+			"name": "Explosion",
+			"desc": "Increases petal explosion range by {1}."
+		},
+		"ExplosionRange2": {
+			"name": "Explosion",
+			"desc": "Increases petal explosion range by {1}."
+		},
+		"ExplosionRange3": {
+			"name": "Explosion",
+			"desc": "Increases petal explosion range by {1}."
+		},
+		"ExplosionRange4": {
+			"name": "Explosion",
+			"desc": "Increases petal explosion range by {1}."
 		}
 	}
 }
