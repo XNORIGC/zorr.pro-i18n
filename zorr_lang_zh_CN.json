@@ -19,6 +19,7 @@
 		"guild": "公会",
 		"credits": "致谢",
 		"settings": "设置",
+		"editShortkeys": "Edit Shortcut Keys",
 		"toggleFullscreen": "切换全屏",
 		"privacy": "隐私政策",
 		"terms": "服务条款",
@@ -181,7 +182,10 @@
 		"holdToUpgrade": "长按以升级",
 		"notEnoughTp": "天赋点不足",
 		"edit": "编辑",
-		"export": "导出"
+		"export": "导出",
+		"shortcutKeys": "Shortcut Keys",
+		"resetToDefault": "Reset To Default",
+		"shortcutDesc": "Click to edit. Press ESC to remove key."
 	},
 	"texts": {
 		"requiresMana": "消耗魔力以生成。",
@@ -3866,6 +3870,7 @@
 		"showGrid": "显示网格",
 		"showDps": "显示训练假花统计信息",
 		"potatoHardware": "土豆硬件",
+		"mapCachedRendering": "Map Cached Rendering",
 		"badwordFilter": "脏话过滤器",
 		"showMobLeaderboard": "显示生物排行榜",
 		"autoJoinSquads": "自动加入小队",
