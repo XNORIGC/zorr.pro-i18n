@@ -19,6 +19,7 @@
 		"guild": "公會",
 		"credits": "致謝",
 		"settings": "設定",
+		"editShortkeys": "Edit Shortcut Keys",
 		"toggleFullscreen": "切換全屏",
 		"privacy": "隱私政策",
 		"terms": "服務條款",
@@ -181,7 +182,10 @@
 		"holdToUpgrade": "Hold To Upgrade",
 		"notEnoughTp": "Not Enough TP",
 		"edit": "Edit",
-		"export": "Export"
+		"export": "Export",
+		"shortcutKeys": "Shortcut Keys",
+		"resetToDefault": "Reset To Default",
+		"shortcutDesc": "Click to edit. Press ESC to remove key."
 	},
 	"texts": {
 		"requiresMana": "Requires Mana to spawn.",
@@ -3866,6 +3870,7 @@
 		"showGrid": "顯示網格",
 		"showDps": "顯示DPS",
 		"potatoHardware": "低配硬體",
+		"mapCachedRendering": "Map Cached Rendering",
 		"badwordFilter": "髒話過濾器",
 		"showMobLeaderboard": "顯示生物排行榜",
 		"autoJoinSquads": "自動加入小隊",
