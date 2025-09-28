@@ -19,6 +19,7 @@
 		"guild": "Guild",
 		"credits": "Credits",
 		"settings": "Settings",
+		"editShortkeys": "Edit Shortcut Keys",
 		"toggleFullscreen": "Toggle Fullscreen",
 		"privacy": "Privacy",
 		"terms": "Terms",
@@ -48,7 +49,7 @@
 		"loadout": "Loadout",
 		"reset": "Reset",
 		"clear": "Clear",
-		"speed": "SPEED",
+		"speed": "Speed",
 		"servers": "Servers",
 		"viewRewards": "View Rewards",
 		"claimRewards": "Claim Rewards",
@@ -181,7 +182,10 @@
 		"holdToUpgrade": "Hold To Upgrade",
 		"notEnoughTp": "Not Enough TP",
 		"edit": "Edit",
-		"export": "Export"
+		"export": "Export",
+		"shortcutKeys": "Shortcut Keys",
+		"resetToDefault": "Reset To Default",
+		"shortcutDesc": "Click to edit. Press ESC to remove key."
 	},
 	"texts": {
 		"requiresMana": "Requires Mana to spawn.",
@@ -3866,6 +3870,7 @@
 		"showGrid": "Show Grid",
 		"showDps": "Show Dps",
 		"potatoHardware": "Potato Hardware",
+		"mapCachedRendering": "Map Cached Rendering",
 		"badwordFilter": "Badword Filter",
 		"showMobLeaderboard": "Show Mob Leaderboard",
 		"autoJoinSquads": "Auto Join Squads",
