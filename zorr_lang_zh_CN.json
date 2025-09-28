@@ -19,7 +19,7 @@
 		"guild": "公会",
 		"credits": "致谢",
 		"settings": "设置",
-		"editShortkeys": "Edit Shortcut Keys",
+		"editShortkeys": "编辑快捷键",
 		"toggleFullscreen": "切换全屏",
 		"privacy": "隐私政策",
 		"terms": "服务条款",
@@ -183,7 +183,7 @@
 		"notEnoughTp": "天赋点不足",
 		"edit": "编辑",
 		"export": "导出",
-		"shortcutKeys": "Shortcut Keys",
+		"shortcutKeys": "快捷键",
 		"resetToDefault": "Reset To Default",
 		"shortcutDesc": "Click to edit. Press ESC to remove key."
 	},
