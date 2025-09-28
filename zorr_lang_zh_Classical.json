@@ -19,6 +19,7 @@
 		"guild": "盟",
 		"credits": "致謝",
 		"settings": "設",
+		"editShortkeys": "Edit Shortcut Keys",
 		"toggleFullscreen": "切換全屏",
 		"privacy": "隱私政策",
 		"terms": "服務條款",
@@ -181,7 +182,10 @@
 		"holdToUpgrade": "Hold To Upgrade",
 		"notEnoughTp": "Not Enough TP",
 		"edit": "Edit",
-		"export": "Export"
+		"export": "Export",
+		"shortcutKeys": "Shortcut Keys",
+		"resetToDefault": "Reset To Default",
+		"shortcutDesc": "Click to edit. Press ESC to remove key."
 	},
 	"texts": {
 		"requiresMana": "Requires Mana to spawn.",
@@ -3866,6 +3870,7 @@
 		"showGrid": "顯格",
 		"showDps": "顯創秒",
 		"potatoHardware": "薯硬體",
+		"mapCachedRendering": "Map Cached Rendering",
 		"badwordFilter": "惡言濾",
 		"showMobLeaderboard": "顯妖獸榜",
 		"autoJoinSquads": "自入同伍",
