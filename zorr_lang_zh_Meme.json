@@ -2759,19 +2759,19 @@
 		},
 		"lily_pad": {
 			"name": "睡莲",
-			"desc": "当你的队友死亡时，它会被动治疗你，治疗效果会随死亡人数成调和增长。"
+			"desc": "当你的队友死亡时，它会持续治疗你，治疗效果会随死亡人数调和地增长。"
 		},
 		"magic_lily_pad": {
 			"name": "魔法睡莲",
 			"desc": "当你的队友死亡时，它会被动生成魔力，恢复魔力效果会随死亡人数成调和增长。"
 		},
 		"bloom": {
-			"name": "Bloom",
-			"desc": "Revives all squadmates when used."
+			"name": "繁花",
+			"desc": "使用时会复活所有小队成员。"
 		},
 		"hexagram": {
-			"name": "Hexagram",
-			"desc": "Killing a mob with this gives you a chance to recruit it to your side, turning it into a pet. Only works up to its own rarity "
+			"name": "六芒星",
+			"desc": "使用它击杀生物会记概率将其招募到你这边，变成你的宠物。仅对稀有度不高于自身的怪物有效 "
 		}
 	},
 	"achievements": {
@@ -3314,7 +3314,7 @@
 			"desc": "9999℃时刻"
 		},
 		"banana_man": {
-			"name": "大香蕉",
+			"name": "香蕉男",
 			"desc": "他喜欢吃香蕉"
 		},
 		"rose": {
@@ -3797,7 +3797,7 @@
 		"fogTime": "迷雾时长",
 		"lightSize": "照亮范围",
 		"blindTime": "失明时长",
-		"petifyRate": "Petify Rate",
+		"petifyRate": "宠物化概率",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -4707,20 +4707,20 @@
 			"desc": "增加{1}的花瓣轨道速度"
 		},
 		"ExplosionRange1": {
-			"name": "Explosion",
-			"desc": "Increases petal explosion range by {1}."
+			"name": "爆炸",
+			"desc": "增加{1}的爆炸范围。"
 		},
 		"ExplosionRange2": {
-			"name": "Explosion",
-			"desc": "Increases petal explosion range by {1}."
+			"name": "爆炸",
+			"desc": "增加{1}的爆炸范围。"
 		},
 		"ExplosionRange3": {
-			"name": "Explosion",
-			"desc": "Increases petal explosion range by {1}."
+			"name": "爆炸",
+			"desc": "增加{1}的爆炸范围。"
 		},
 		"ExplosionRange4": {
-			"name": "Explosion",
-			"desc": "Increases petal explosion range by {1}."
+			"name": "爆炸",
+			"desc": "增加{1}的爆炸范围。"
 		}
 	}
 }
