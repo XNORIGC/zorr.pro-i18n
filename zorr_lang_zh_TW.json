@@ -192,35 +192,35 @@
 		"petManaDrain": "一個寵物消耗{1}魔力每秒。一個玩家最多生成30個魔法寵物。",
 		"manaDrain": "消耗{1}魔力每秒",
 		"manaToDamage": "需要滿魔力以生成。傷害=0.18*魔力*log2（魔力）*（稀有度+1）^ 3",
-		"growthMana": "Requires {1} mana to grow to max size.",
-		"petDupeMana": "Requires {1} mana to dupe pets.",
-		"effectStacks": "Special damage effects stack.",
-		"healBlacklisted": "Blacklisted from healing.",
-		"streakRewardTimer": "Come back in {1} to claim rewards.",
-		"streak": "Daily Streak #{1}",
-		"day": "Day #{1}",
-		"joinedSquad": "You've joined a squad! (Code: {1})",
-		"noPublicSquad": "No joinable public squad found for your level.",
-		"creatingSquad": "Creating new squad...",
-		"findingPublicSquad": "Finding public squad...",
-		"notInSquad": "You are not in any squad",
-		"chatInfo": "Type \"{1}\" to view commands.\nBeing toxic or using slurs in chat will get your account banned.",
-		"dropBuffInfo": "Drop buffs apply to upto (1) drops only.",
-		"resetsIn": "Resets in {1}...",
-		"discountChangesIn": "Discounts will change in {1}.",
-		"craftRate": "{1}% success rate",
-		"xpFactor": "{1}% extra XP",
-		"extraDropRate": "{1}% extra drop rates",
-		"extraDropBuff": "+{1}x extra drop buff",
-		"extraDropBuffTime": "{1}m extra drop buff time",
-		"extraStars": "{1} stars per month",
-		"membershipExpiry": "Your {2} membership will expire in {1}...",
-		"usernameMinLength": "Username should be minimum of length {1}",
-		"usernameMaxLength": "Username should be of length less than {1}",
-		"usernameCharRule": "Only letters, numbers & underscore are allowed",
-		"usernameChangeRule": "Username can only be changed once every 14 days.",
-		"passwordMinLength": "Password should be minimum of length {1}",
-		"passwordMaxLength": "Password should be maximum of length {1}"
+		"growthMana": "需要{1}魔力以生長至最大體型。",
+		"petDupeMana": "需要{1}魔力以欺騙寵物。",
+		"effectStacks": "特殊傷害效果可以叠加。",
+		"healBlacklisted": "無法接受治療。",
+		"streakRewardTimer": "在{1}后回歸以領取獎勵。",
+		"streak": "每日打卡#{1}",
+		"day": "日期#{1}",
+		"joinedSquad": "您加入了一個小隊！（代碼：{1}）",
+		"noPublicSquad": "您當前等級暫無可加入的公共隊伍。",
+		"creatingSquad": "正在建立新的隊伍……",
+		"findingPublicSquad": "正在搜尋公共隊伍……",
+		"notInSquad": "您未加入任何隊伍",
+		"chatInfo": "輸入“{1}”以瀏覽指令。\n表現得毒瘤或者在聊天區使用侮辱性詞匯將會導致您的賬號被封禁。",
+		"dropBuffInfo": "掉落增益僅適用於最多（1）次掉落。",
+		"resetsIn": "{1}后重置……",
+		"discountChangesIn": "折扣將在{1}后改變。",
+		"craftRate": "{1}%成功幾率",
+		"xpFactor": "{1}%額外經驗值",
+		"extraDropRate": "{1}%額外掉落率",
+		"extraDropBuff": "+{1}x 額外掉落增益",
+		"extraDropBuffTime": "{1}分鐘 額外掉落增益時間",
+		"extraStars": "{1}星星每月",
+		"membershipExpiry": "您的{2}會員資格將會在{1}后過期……",
+		"usernameMinLength": "用戶名長度至少應為{1}",
+		"usernameMaxLength": "用戶名長度應少於{1}",
+		"usernameCharRule": "只允許使用字母，數字和下劃綫",
+		"usernameChangeRule": "用戶名只可每14天修改一次。",
+		"passwordMinLength": "密碼長度應至少為{1}",
+		"passwordMaxLength": "密碼長度最長不可超過{1}"
 	},
 	"mobs": {
 		"rock": {
@@ -785,47 +785,47 @@
 		},
 		"shark": {
 			"name": "鯊魚",
-			"desc": "Baby shark doo doo doo doo doo doo..."
+			"desc": "小鯊魚，嘟嘟嘟嘟嘟嘟……"
 		},
 		"squid": {
 			"name": "魷魚",
 			"desc": "Is seeking a toilet, or maybe thats just ink."
 		},
 		"geyser": {
-			"name": "Geyser",
-			"desc": "Shoots out very hot water everywhere."
+			"name": "間歇泉",
+			"desc": "將滾燙的水噴的哪裏都是。"
 		},
 		"roach": {
-			"name": "Roach",
-			"desc": "Super fast. has a tough exoskeleton too."
+			"name": "蟑螂",
+			"desc": "速度極快。還有堅硬的外骨骼。"
 		},
 		"yeba": {
 			"name": "Yeba",
 			"desc": "Used to be a bigshot. Got addicted to sniffing powder, his wife left him and now he is stuck here, in the sewers."
 		},
 		"trashcan": {
-			"name": "Trashcan",
-			"desc": "This is where your legacy belongs, in the trashcan."
+			"name": "垃圾桶",
+			"desc": "這兒就是你遺產的歸宿，垃圾桶裏。"
 		},
 		"rat": {
-			"name": "Rat",
-			"desc": "Large, yucky, ugly rat. Probably has the bubonic plague"
+			"name": "老鼠",
+			"desc": "又大又惡心又丑的老鼠，還可能携帶腺鼠疫"
 		},
 		"baby_rat": {
-			"name": "Baby Rat",
-			"desc": "Small, still yucky, and slightly less ugly rat."
+			"name": "幼鼠",
+			"desc": "小，仍然惡心，但稍微不那麽丑的老鼠。"
 		},
 		"poostorm": {
-			"name": "Poostorm",
+			"name": "大糞風暴",
 			"desc": "A shitty storm"
 		},
 		"silverfish": {
-			"name": "Silverfish",
-			"desc": "Terrible naming, its not really silver and its not even a fish. I want a refund!"
+			"name": "蠹魚",
+			"desc": "糟糕的名字，它實際上不是銀色的，而且甚至不是魚。我想要退款！"
 		},
 		"larva": {
-			"name": "Larva",
-			"desc": "A liquid insect, breaking it would cause an angry mosquito to attack you."
+			"name": "幼蟲",
+			"desc": "一隻液態昆蟲，打破它會導致一隻憤怒的蚊子前來攻擊你。"
 		},
 		"mosquito": {
 			"name": "Mosquito",
@@ -2499,66 +2499,66 @@
 		},
 		"magic_dollar": {
 			"name": "Magic Dollar",
-			"desc": "How many dollars is this one truly worth?"
+			"desc": "這一個到底值多少錢？"
 		},
 		"magic_bitcoin": {
-			"name": "Magic Bitcoin",
-			"desc": "Created by Satoshi Nakamoto."
+			"name": "魔法比特幣",
+			"desc": "由中本聰創建。"
 		},
 		"magic_candlestick": {
-			"name": "Magic Candlestick",
-			"desc": "can fully restore your mana, but sometimes even kill thee."
+			"name": "魔法燭台",
+			"desc": "可以完全回復你的魔力，但有時候甚至會殺了你。"
 		},
 		"magic_fries": {
-			"name": "Magic Fries",
-			"desc": "These were fried in blueberry oil"
+			"name": "魔法薯條",
+			"desc": "這些薯條曾在藍莓油裏炸過"
 		},
 		"magic_dice": {
 			"name": "魔法骰子",
-			"desc": "Has 2% chance of dealing 1000x damage using magic."
+			"desc": "使用魔法有2%概率造成1000倍傷害。"
 		},
 		"magic_web": {
-			"name": "Magic Web",
-			"desc": "Magic spider poo is more aerodynamic and can fly further"
+			"name": "魔法網",
+			"desc": "魔法蜘蛛的排泄物更符合空氣動力學，可以飛的更遠"
 		},
 		"geyser_egg": {
-			"name": "Geyser Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "間歇泉蛋",
+			"desc": "它可以孵化并且產生一些有趣的東西……"
 		},
 		"hot_water": {
-			"name": "Hot Water",
-			"desc": "You could probably cook some ramen using this. Slightly slows down your enemies too."
+			"name": "熱水",
+			"desc": "你或許可以用這個做拉麵。而且可以輕微減速你的敵人。"
 		},
 		"magic_gunpowder": {
-			"name": "Magic Gunpowder",
-			"desc": "Deals 10x damage when an incompetent enemy is burning. Also increases the size of your explosions."
+			"name": "魔法火藥",
+			"desc": "對正在燃燒的無能的敵人造成10倍傷害。并且增加你的爆炸大小。"
 		},
 		"magic_tomato": {
-			"name": "Magic Tomato",
-			"desc": "When life gives you unripe magic fruits, use even more magic to ripen them quicker."
+			"name": "魔法番茄",
+			"desc": "儅生活給了你沒成熟的魔法水果，那就用更多的魔力來催熟它們。"
 		},
 		"magic_cancer": {
-			"name": "Magic Cancer",
-			"desc": "You get some chance to spawn a pet twice."
+			"name": "魔法癌症",
+			"desc": "你有概率生成一隻寵物兩次。"
 		},
 		"magic_pearl": {
-			"name": "Magic Pearl",
-			"desc": "Magic magic pearl whose damage increases based on its speed."
+			"name": "魔法珍珠",
+			"desc": "魔法珍珠，其傷害會根據移動速度增加。"
 		},
 		"magic_chromosome": {
-			"name": "Magic Chromosome",
-			"desc": "Gives your petals shield over time using Zewton's 69th law of magic."
+			"name": "魔法染色體",
+			"desc": "隨著時間的推移，使用澤頓第69魔法定律爲你的花瓣提供護甲值。"
 		},
 		"magic_antennae": {
-			"name": "Magic Antennae",
-			"desc": "Increases and offsets your vision."
+			"name": "魔法觸鬚",
+			"desc": "增加和抵消你的視野。"
 		},
 		"magic_crystal_leaf": {
-			"name": "Magic Crystal Leaf",
-			"desc": "Passively generates magical shield for your pets."
+			"name": "魔法水晶葉",
+			"desc": "爲你的寵物被動生成魔法護盾。"
 		},
 		"magic_honey": {
-			"name": "Magic Honey",
+			"name": "魔法蜂蜜",
 			"desc": "Reduces the size of your honey tiles."
 		},
 		"magic_poo": {
