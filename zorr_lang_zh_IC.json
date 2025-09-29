@@ -184,8 +184,8 @@
 		"edit": "编辑",
 		"export": "导出",
 		"shortcutKeys": "快捷键",
-		"resetToDefault": "Reset To Default",
-		"shortcutDesc": "Click to edit. Press ESC to remove key."
+		"resetToDefault": "重置为默认设定",
+		"shortcutDesc": "点击以编辑。按ESC来移除键位。"
 	},
 	"texts": {
 		"requiresMana": "消耗魔力以生成。",
@@ -3870,7 +3870,7 @@
 		"showGrid": "显示网格",
 		"showDps": "显示训练假花统计信息",
 		"potatoHardware": "土豆硬件",
-		"mapCachedRendering": "Map Cached Rendering",
+		"mapCachedRendering": "地图缓存渲染",
 		"badwordFilter": "脏话过滤器",
 		"showMobLeaderboard": "显示生物排行榜",
 		"autoJoinSquads": "自动加入小队",
