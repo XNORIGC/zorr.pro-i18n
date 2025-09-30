@@ -2776,6 +2776,10 @@
 		"hexagram": {
 			"name": "Hexagram",
 			"desc": "Killing a mob with this gives you a chance to recruit it to your side, turning it into a pet. Only works up to its own rarity "
+		},
+		"magic_vampire_fang": {
+			"name": "Magic Vampire Fang",
+			"desc": "Generates mana when your flower gets body damage."
 		}
 	},
 	"achievements": {
@@ -3633,6 +3637,14 @@
 			"name": "Nova2",
 			"desc": "An omeganova"
 		},
+		"g-dash": {
+			"name": "G-Dash",
+			"desc": "Stolen asset of Geometry Dash"
+		},
+		"z69": {
+			"name": "z69",
+			"desc": "An unknown entity from an unknown realm"
+		},
 		"kirby": {
 			"name": "Kirby",
 			"desc": "Spiky little ball"
@@ -3718,6 +3730,7 @@
 		"extraFlowerKnock": "Extra Flower Knock",
 		"damageHealed": "Damage Healed",
 		"bodyDamageHealed": "Body Damage Healed",
+		"bodyDamageMana": "Body Damage Mana",
 		"selfDamage": "Self Damage",
 		"selfFireDamage": "Self Fire Damage",
 		"selfPoison": "Self Poison",
@@ -3795,7 +3808,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Zi": " Zi",
+		"Ji": " Ji",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -3871,6 +3884,7 @@
 		"showDps": "Show Dps",
 		"potatoHardware": "Potato Hardware",
 		"mapCachedRendering": "Map Cached Rendering",
+		"mobCachedRendering": "Mob Cached Rendering",
 		"badwordFilter": "Badword Filter",
 		"showMobLeaderboard": "Show Mob Leaderboard",
 		"autoJoinSquads": "Auto Join Squads",
