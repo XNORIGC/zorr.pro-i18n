@@ -137,6 +137,7 @@
 		"leader": "（會長）",
 		"oracle": "祭司",
 		"trade": "商人",
+		"forge": "Forge",
 		"showAll": "展示所有",
 		"craftLog": "合成的記錄",
 		"petalsCrafted": "已使用於合成的花瓣",
@@ -156,6 +157,11 @@
 		"tradeInfo": [
 			"在叢林中找到商人",
 			"用花瓣來換取隨機一枚硬幣。"
+		],
+		"forgeInfo": [
+			"Find the Titan in Void. Craft Omega petals into Unique petals.",
+			"Starting price for a Unique petal is 5 Omega & it increases by 1 after each craft globally.",
+			"Minimum price is shown here, the actual price is calculated when you forge and might differ."
 		],
 		"prev": "上一個",
 		"next": "下一個",
@@ -858,6 +864,10 @@
 		"lily_pad": {
 			"name": "Lily Pad",
 			"desc": "Just a plant floating on the ocean surface."
+		},
+		"titan": {
+			"name": "Titan",
+			"desc": "Let's you exchange Omega petals for Unique petals."
 		}
 	},
 	"petals": {
@@ -3808,7 +3818,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ji": " Ji",
+		"ds": "Ds",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
