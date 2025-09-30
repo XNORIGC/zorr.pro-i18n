@@ -137,6 +137,7 @@
 		"leader": "（会长）",
 		"oracle": "神谕",
 		"trade": "交易",
+		"forge": "Forge",
 		"showAll": "显示空格",
 		"craftLog": "合成日志",
 		"petalsCrafted": "合成花瓣数",
@@ -156,6 +157,11 @@
 		"tradeInfo": [
 			"在丛林中寻找商人",
 			"交易花瓣以得到随机硬币或商品。"
+		],
+		"forgeInfo": [
+			"Find the Titan in Void. Craft Omega petals into Unique petals.",
+			"Starting price for a Unique petal is 5 Omega & it increases by 1 after each craft globally.",
+			"Minimum price is shown here, the actual price is calculated when you forge and might differ."
 		],
 		"prev": "上一页",
 		"next": "下一页",
@@ -858,6 +864,10 @@
 		"lily_pad": {
 			"name": "睡莲",
 			"desc": "就是一个在海洋表面漂浮的植物。"
+		},
+		"titan": {
+			"name": "Titan",
+			"desc": "Let's you exchange Omega petals for Unique petals."
 		}
 	},
 	"petals": {
@@ -2715,11 +2725,11 @@
 		},
 		"basil": {
 			"name": "罗勒",
-			"desc": "在你生命过低时更快地为你治疗的叶子。"
+			"desc": "在你生命过低时为你更快地治疗的叶子。"
 		},
 		"magic_basil": {
 			"name": "魔法罗勒",
-			"desc": "在你魔力过低时更快地为你恢复魔力的魔法叶子。"
+			"desc": "在你魔力过低时为你更快地恢复魔力的魔法叶子。"
 		},
 		"neem": {
 			"name": "苦楝",
@@ -3808,7 +3818,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Ji": " Ji",
+		"ds": "Ds",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
