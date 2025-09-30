@@ -137,6 +137,7 @@
 		"leader": "(Leader)",
 		"oracle": "Oracle",
 		"trade": "Trade",
+		"forge": "Forge",
 		"showAll": "Show All",
 		"craftLog": "Craft Log",
 		"petalsCrafted": "Petals Crafted",
@@ -156,6 +157,11 @@
 		"tradeInfo": [
 			"Find the Trader in Jungle",
 			"Trade petals for a random coin."
+		],
+		"forgeInfo": [
+			"Find the Titan in Void. Craft Omega petals into Unique petals.",
+			"Starting price for a Unique petal is 5 Omega & it increases by 1 after each craft globally.",
+			"Minimum price is shown here, the actual price is calculated when you forge and might differ."
 		],
 		"prev": "Prev",
 		"next": "Next",
@@ -858,6 +864,10 @@
 		"lily_pad": {
 			"name": "Lily Pad",
 			"desc": "Just a plant floating on the ocean surface."
+		},
+		"titan": {
+			"name": "Titan",
+			"desc": "Let's you exchange Omega petals for Unique petals."
 		}
 	},
 	"petals": {
@@ -3808,7 +3818,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ji": " Ji",
+		"ds": "Ds",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
