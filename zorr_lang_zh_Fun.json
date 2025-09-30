@@ -2776,6 +2776,10 @@
 		"hexagram": {
 			"name": "六芒星",
 			"desc": "使用它击杀生物会有概率将其招募到你这边，变成你的宠物。仅对稀有度不高于自身的怪物有效 "
+		},
+		"magic_vampire_fang": {
+			"name": "Magic Vampire Fang",
+			"desc": "Generates mana when your flower gets body damage."
 		}
 	},
 	"achievements": {
@@ -3633,6 +3637,14 @@
 			"name": "新星2",
 			"desc": "一颗终末新星"
 		},
+		"g-dash": {
+			"name": "G-Dash",
+			"desc": "Stolen asset of Geometry Dash"
+		},
+		"z69": {
+			"name": "z69",
+			"desc": "An unknown entity from an unknown realm"
+		},
 		"kirby": {
 			"name": "卡比",
 			"desc": "尖刺小球"
@@ -3718,6 +3730,7 @@
 		"extraFlowerKnock": "花朵额外击退",
 		"damageHealed": "造成伤害时治疗",
 		"bodyDamageHealed": "体伤治疗",
+		"bodyDamageMana": "Body Damage Mana",
 		"selfDamage": "自我伤害",
 		"selfFireDamage": "自我火伤",
 		"selfPoison": "自我毒伤",
@@ -3795,7 +3808,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Zi": " Zi",
+		"Ji": " Ji",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -3871,6 +3884,7 @@
 		"showDps": "显示训练假花统计信息",
 		"potatoHardware": "土豆硬件",
 		"mapCachedRendering": "地图缓存渲染",
+		"mobCachedRendering": "Mob Cached Rendering",
 		"badwordFilter": "脏话过滤器",
 		"showMobLeaderboard": "显示生物排行榜",
 		"autoJoinSquads": "自动加入小队",
