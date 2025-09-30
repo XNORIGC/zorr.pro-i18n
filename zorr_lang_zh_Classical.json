@@ -2776,6 +2776,10 @@
 		"hexagram": {
 			"name": "Hexagram",
 			"desc": "Killing a mob with this gives you a chance to recruit it to your side, turning it into a pet. Only works up to its own rarity "
+		},
+		"magic_vampire_fang": {
+			"name": "Magic Vampire Fang",
+			"desc": "Generates mana when your flower gets body damage."
 		}
 	},
 	"achievements": {
@@ -3633,6 +3637,14 @@
 			"name": "Nova2",
 			"desc": "An omeganova"
 		},
+		"g-dash": {
+			"name": "G-Dash",
+			"desc": "Stolen asset of Geometry Dash"
+		},
+		"z69": {
+			"name": "z69",
+			"desc": "An unknown entity from an unknown realm"
+		},
 		"kirby": {
 			"name": "Kirby",
 			"desc": "Spiky little ball"
@@ -3718,6 +3730,7 @@
 		"extraFlowerKnock": "額外花朵擊退",
 		"damageHealed": "創之愈",
 		"bodyDamageHealed": "Body Damage Healed",
+		"bodyDamageMana": "Body Damage Mana",
 		"selfDamage": "自創",
 		"selfFireDamage": "自受業火創",
 		"selfPoison": "Self Poison",
@@ -3795,7 +3808,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Zi": " Zi",
+		"Ji": " Ji",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -3871,6 +3884,7 @@
 		"showDps": "顯創秒",
 		"potatoHardware": "薯硬體",
 		"mapCachedRendering": "Map Cached Rendering",
+		"mobCachedRendering": "Mob Cached Rendering",
 		"badwordFilter": "惡言濾",
 		"showMobLeaderboard": "顯妖獸榜",
 		"autoJoinSquads": "自入同伍",
