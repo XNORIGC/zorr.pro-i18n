@@ -116,8 +116,8 @@
 		"stealthMode": "隱身模式",
 		"save": "保存",
 		"includeBothRows": "包括两行",
-		"includeSpinSpeed": "Include Spin Speed",
-		"includeTalents": "Include Talents",
+		"includeSpinSpeed": "包含轉速",
+		"includeTalents": "包含天賦",
 		"copyCode": "復製代码",
 		"delete": "删除",
 		"rename": "重设名字",
@@ -159,7 +159,7 @@
 		],
 		"prev": "上一個",
 		"next": "下一個",
-		"hideFailed": "Hide Failed",
+		"hideFailed": "隱藏失敗合成",
 		"logout": "登出",
 		"login": "登錄",
 		"set": "設置",
@@ -828,16 +828,16 @@
 			"desc": "一隻液態昆蟲，打破它會導致一隻憤怒的蚊子前來攻擊你。"
 		},
 		"mosquito": {
-			"name": "Mosquito",
-			"desc": "Bbbbzzzzzzzzzzzzzz."
+			"name": "蚊子",
+			"desc": "嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡。"
 		},
 		"nazarlion": {
-			"name": "Nazarlion",
-			"desc": "A flower filled with nazar inside that grows in the soil of filth."
+			"name": "邪眼蒲公英",
+			"desc": "一種生長于污穢土壤中的花，内部充斥著邪眼。"
 		},
 		"trash_digger": {
-			"name": "Trash Digger",
-			"desc": "An ally just pooping away. Poison stacks."
+			"name": "垃圾挖掘者",
+			"desc": "一位邊排泄邊移動的盟友。毒傷可堆叠。"
 		},
 		"manhole": {
 			"name": "Manhole",
