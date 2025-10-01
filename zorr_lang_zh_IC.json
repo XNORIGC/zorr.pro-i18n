@@ -3894,7 +3894,7 @@
 		"showDps": "显示训练假花统计信息",
 		"potatoHardware": "土豆硬件",
 		"mapCachedRendering": "地图缓存渲染",
-		"mobCachedRendering": "Mob Cached Rendering",
+		"mobCachedRendering": "生物缓存渲染",
 		"badwordFilter": "脏话过滤器",
 		"showMobLeaderboard": "显示生物排行榜",
 		"autoJoinSquads": "自动加入小队",
