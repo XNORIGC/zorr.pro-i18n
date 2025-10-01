@@ -137,7 +137,7 @@
 		"leader": "（会长）",
 		"oracle": "神谕",
 		"trade": "交易",
-		"forge": "Forge",
+		"forge": "锻造",
 		"showAll": "显示空格",
 		"craftLog": "合成日志",
 		"petalsCrafted": "合成花瓣数",
@@ -159,7 +159,7 @@
 			"交易花瓣以得到随机硬币或商品。"
 		],
 		"forgeInfo": [
-			"Find the Titan in Void. Craft Omega petals into Unique petals.",
+			"在虚空中寻常泰坦。把终末花瓣合成为唯一花瓣。",
 			"Starting price for a Unique petal is 5 Omega & it increases by 1 after each craft globally.",
 			"Minimum price is shown here, the actual price is calculated when you forge and might differ."
 		],
