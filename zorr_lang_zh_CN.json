@@ -160,8 +160,8 @@
 		],
 		"forgeInfo": [
 			"在虚空中寻常泰坦。把终末花瓣合成为唯一花瓣。",
-			"Starting price for a Unique petal is 5 Omega & it increases by 1 after each craft globally.",
-			"Minimum price is shown here, the actual price is calculated when you forge and might differ."
+			"唯一花瓣的初始价格是5个终末，全服每锻造一次后价格加1。",
+			"此处显示最低价格，实际价格是在您锻造时计算的，可能会有所差异。"
 		],
 		"prev": "上一页",
 		"next": "下一页",
@@ -866,8 +866,8 @@
 			"desc": "就是一个在海洋表面漂浮的植物。"
 		},
 		"titan": {
-			"name": "Titan",
-			"desc": "Let's you exchange Omega petals for Unique petals."
+			"name": "泰坦",
+			"desc": "让你把终末花瓣换成唯一花瓣。"
 		}
 	},
 	"petals": {
@@ -2788,8 +2788,8 @@
 			"desc": "使用它击杀生物会有概率将其招募到你这边，变成你的宠物。仅对稀有度不高于自身的怪物有效 "
 		},
 		"magic_vampire_fang": {
-			"name": "Magic Vampire Fang",
-			"desc": "Generates mana when your flower gets body damage."
+			"name": "魔法吸血尖牙",
+			"desc": "增加魔力当你造成身体碰撞伤害。"
 		}
 	},
 	"achievements": {
