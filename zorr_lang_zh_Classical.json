@@ -1401,7 +1401,7 @@
 		},
 		"plank": {
 			"name": "木板",
-			"desc": "Does 300x damage to enemy projectiles. Does 600x damage at Omega."
+			"desc": "Does 300x damage to enemy projectiles. Does 600x damage at Omega. Does 900x at Unique"
 		},
 		"icicle": {
 			"name": "冰錐",
@@ -3818,7 +3818,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"ds": "Ds",
+		"ns": "Ns",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
