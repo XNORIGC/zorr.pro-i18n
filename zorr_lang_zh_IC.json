@@ -1401,7 +1401,7 @@
 		},
 		"plank": {
 			"name": "破法镇魔木",
-			"desc": "Does 300x damage to enemy projectiles. Does 600x damage at Omega. Does 900x at Unique"
+			"desc": "对敌方弹射物造成300倍伤害。对终末稀有度的弹射物会造成600倍伤害。对唯一稀有度的弹射物造成900倍伤害"
 		},
 		"icicle": {
 			"name": "玄冰冻魂锥",
@@ -3648,12 +3648,12 @@
 			"desc": "一颗终末新星"
 		},
 		"g-dash": {
-			"name": "G-Dash",
-			"desc": "Stolen asset of Geometry Dash"
+			"name": "几何冲刺",
+			"desc": "遭窃的几何冲刺"
 		},
 		"z69": {
 			"name": "z69",
-			"desc": "An unknown entity from an unknown realm"
+			"desc": "一个来自未知领域的未知实体"
 		},
 		"kirby": {
 			"name": "卡比",
@@ -3740,7 +3740,7 @@
 		"extraFlowerKnock": "花朵额外击退",
 		"damageHealed": "造成伤害时治疗",
 		"bodyDamageHealed": "体伤治疗",
-		"bodyDamageMana": "Body Damage Mana",
+		"bodyDamageMana": "撞击恢复魔法值",
 		"selfDamage": "自我伤害",
 		"selfFireDamage": "自我火伤",
 		"selfPoison": "自我毒伤",
