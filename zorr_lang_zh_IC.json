@@ -1401,7 +1401,7 @@
 		},
 		"plank": {
 			"name": "破法镇魔木",
-			"desc": "对敌方弹射物造成300倍的伤害。对终末品质弹射物造成600倍的伤害。"
+			"desc": "Does 300x damage to enemy projectiles. Does 600x damage at Omega. Does 900x at Unique"
 		},
 		"icicle": {
 			"name": "玄冰冻魂锥",
@@ -3818,7 +3818,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"ds": "Ds",
+		"ns": "Ns",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
