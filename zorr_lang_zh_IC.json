@@ -49,7 +49,7 @@
 		"loadout": "配装",
 		"reset": "刷新",
 		"clear": "清空",
-		"speed": "转速",
+		"speed": "速度",
 		"servers": "服务器",
 		"viewRewards": "查看奖励",
 		"claimRewards": "领取奖励",
@@ -161,8 +161,8 @@
 		],
 		"forgeInfo": [
 			"在虚空中寻找泰坦。将终末花瓣合成为唯一花瓣。",
-			"唯一花瓣的初始价格是5个终末，全服每锻造一次后价格加1。",
-			"此处显示最低价格，实际价格是在您锻造时计算的，可能会有所差异。"
+			"唯一花瓣的起始价格是五个终末花瓣，全球每锻造一次价格就加一。",
+			"此处显示最低价格，实际价格是在你锻造时计算的，可能会有差异。"
 		],
 		"prev": "上一页",
 		"next": "下一页",
@@ -187,12 +187,12 @@
 			"获得用户名。"
 		],
 		"holdToUpgrade": "长按以升级",
-		"notEnoughTp": "天赋点不足",
+		"notEnoughTp": "没有足够的天赋点",
 		"edit": "编辑",
 		"export": "导出",
 		"shortcutKeys": "快捷键",
-		"resetToDefault": "重置为默认设定",
-		"shortcutDesc": "点击以编辑。按ESC来取消键位。"
+		"resetToDefault": "重置全部",
+		"shortcutDesc": "点击以编辑。按Escape键以移除键位。"
 	},
 	"texts": {
 		"requiresMana": "消耗魔力以生成。",
@@ -860,15 +860,15 @@
 		},
 		"bat": {
 			"name": "蝙蝠",
-			"desc": "我是扎特里克·蝙蝠侠"
+			"desc": "我　是　扎　特　里　克　·　蝙　蝠　侠"
 		},
 		"lily_pad": {
 			"name": "睡莲",
-			"desc": "就是一个在海洋表面漂浮的植物。"
+			"desc": "只是一个在海洋表面漂浮的植物。"
 		},
 		"titan": {
 			"name": "泰坦",
-			"desc": "让你把终末花瓣换成唯一花瓣。"
+			"desc": "让你可以用终末花瓣来交换唯一花瓣。"
 		}
 	},
 	"petals": {
@@ -2146,11 +2146,11 @@
 		},
 		"magic_gas_bomb": {
 			"name": "魔法毒气弹",
-			"desc": "魔法结果证明它是相当具有爆炸性的，并且当与正确的化学物质混合时，它也是有毒的"
+			"desc": "魔法竟然如此具有爆炸性，并且当与正确的化学物质相混合时，它还是有毒的"
 		},
 		"magic_fire_bomb": {
 			"name": "魔法火焰炸弹",
-			"desc": "魔法结果证明它是相当易燃的，甚至更具爆炸性。"
+			"desc": "魔法竟然如此具有易燃性，甚至更具爆炸性。"
 		},
 		"magic_bubble_bomb": {
 			"name": "魔法泡泡炸弹",
@@ -2162,7 +2162,7 @@
 		},
 		"magic_rocket": {
 			"name": "魔法火箭",
-			"desc": "魔法结果证明它是相当具有爆炸性的。"
+			"desc": "魔法竟然如此具有爆炸性。"
 		},
 		"magic_orange": {
 			"name": "魔法橙子",
@@ -2789,7 +2789,7 @@
 			"desc": "使用它击杀生物会有概率将其招募到你这边，变成你的宠物。仅对稀有度不高于自身的怪物有效 "
 		},
 		"magic_vampire_fang": {
-			"name": "魔法吸血尖牙",
+			"name": "魔法吸血鬼尖牙",
 			"desc": "增加魔力当你造成身体碰撞伤害。"
 		},
 		"magic_compass": {
@@ -3337,7 +3337,7 @@
 			"desc": "9999℃时刻"
 		},
 		"banana_man": {
-			"name": "香蕉男",
+			"name": "香蕉人",
 			"desc": "他喜欢吃香蕉"
 		},
 		"rose": {
@@ -3397,8 +3397,8 @@
 			"desc": "一朵花献给一朵花"
 		},
 		"banana": {
-			"name": "香蕉",
-			"desc": "一种长长的水果"
+			"name": "大香蕉",
+			"desc": "大香蕉一条大香蕉~\n你的感觉真的很奇妙~\n飘呀飘摇呀摇~\n你的感觉神魂颠倒~"
 		},
 		"potato": {
 			"name": "土豆",
@@ -3809,7 +3809,7 @@
 		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
 		"tempArmor": "临时护甲",
 		"fragmentDamage": "碎片伤害",
-		"fragmentHealth": "碎片生命",
+		"fragmentHealth": "碎片耐久",
 		"extraSpillRate": "额外流动速度",
 		"armorDebuffPercent": "护甲减益百分比",
 		"flowerExplosion": "花朵炸伤",
@@ -3865,7 +3865,7 @@
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
 		"healAffectTime": "治疗影响时间",
-		"missileHealth": "导弹生命值",
+		"missileHealth": "导弹耐久",
 		"missileDamage": "导弹伤害",
 		"missilePoison": "导弹毒伤",
 		"missileHealAffectTime": "导弹治疗影响时间",
@@ -3873,7 +3873,7 @@
 		"missileExplosion": "导弹炸伤",
 		"bodyFireDamage": "身体火伤",
 		"evasion": "闪避",
-		"sprayHealth": "喷射物生命值",
+		"sprayHealth": "喷射物耐久",
 		"sprayDamage": "喷射物伤害",
 		"sprayFireDamage": "喷射物火伤",
 		"sprayPoison": "喷射物毒伤",
@@ -3897,7 +3897,7 @@
 		"potatoHardware": "土豆硬件",
 		"mapCachedRendering": "地图缓存渲染",
 		"mobCachedRendering": "生物缓存渲染",
-		"petalCachedRendering": "Petal Cached Rendering",
+		"petalCachedRendering": "花瓣缓存渲染",
 		"extremeFreezeFix": "严重卡死修复",
 		"showIcons": "显示图标",
 		"#game": "#游戏",
