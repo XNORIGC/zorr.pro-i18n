@@ -99,6 +99,7 @@
 		"petals": "Petals",
 		"mobSkins": "Mob Skins",
 		"memberships": "Memberships",
+		"merch": "Merch",
 		"shopPolicy": "Asking for a refund will get your account banned.",
 		"shopSupport": "For any issues related to payments, send us an email at:",
 		"shopNazarBeetles": "Beware of nazar beetles!",
@@ -220,6 +221,7 @@
 		"extraDropRate": "{1}% extra drop rates",
 		"extraDropBuff": "+{1}x extra drop buff",
 		"extraDropBuffTime": "{1}m extra drop buff time",
+		"extraTalentPoint": "{1}% extra TP",
 		"extraStars": "{1} stars per month",
 		"membershipExpiry": "Your {2} membership will expire in {1}...",
 		"usernameMinLength": "Username should be minimum of length {1}",
@@ -869,6 +871,10 @@
 		"titan": {
 			"name": "Titan",
 			"desc": "Let's you exchange Omega petals for Unique petals."
+		},
+		"bat_cave": {
+			"name": "Bat Cave",
+			"desc": "The dark cave of Batman."
 		}
 	},
 	"petals": {
@@ -2795,6 +2801,10 @@
 		"magic_compass": {
 			"name": "Magic Compass",
 			"desc": "The magic made this compass point to Unique mobs."
+		},
+		"bat_cave_egg": {
+			"name": "Bat Cave Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -3823,7 +3833,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"hs": "Hs",
+		"cs": "Cs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4299,7 +4309,11 @@
 		},
 		"diamond": {
 			"name": "Diamond",
-			"desc": "For the non-existents."
+			"desc": "For the non-existents!"
+		},
+		"ruby": {
+			"name": "Ruby",
+			"desc": "Turns you into a gem."
 		}
 	},
 	"featured": {
