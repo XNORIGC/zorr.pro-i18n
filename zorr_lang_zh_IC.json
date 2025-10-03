@@ -99,6 +99,7 @@
 		"petals": "花瓣",
 		"mobSkins": "生物皮肤",
 		"memberships": "会员",
+		"merch": "Merch",
 		"shopPolicy": "申请退款将导致你的账户被封禁。",
 		"shopSupport": "如有任何与支付相关的问题，请发送电子邮件至：",
 		"shopNazarBeetles": "当心邪眼甲虫！",
@@ -220,6 +221,7 @@
 		"extraDropRate": "额外{1}%掉落率",
 		"extraDropBuff": "额外{1}倍掉落增益",
 		"extraDropBuffTime": "额外{1}分钟掉落增益时间",
+		"extraTalentPoint": "额外{1}%天赋点",
 		"extraStars": "每月赠送{1}星星",
 		"membershipExpiry": "你的{2}级会员将在{1}后到期……",
 		"usernameMinLength": "用户名长度应至少为{1}个字符",
@@ -869,6 +871,10 @@
 		"titan": {
 			"name": "泰坦",
 			"desc": "让你可以用终末花瓣来交换唯一花瓣。"
+		},
+		"bat_cave": {
+			"name": "蝙蝠洞",
+			"desc": "The dark cave of Batman."
 		}
 	},
 	"petals": {
@@ -2795,6 +2801,10 @@
 		"magic_compass": {
 			"name": "魔法指南针",
 			"desc": "魔法导致这个指南针指向唯一生物。"
+		},
+		"bat_cave_egg": {
+			"name": "蝙蝠洞蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		}
 	},
 	"achievements": {
@@ -3823,7 +3833,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"hs": "Hs",
+		"cs": "Cs",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4298,8 +4308,12 @@
 			"desc": "全能者专属！"
 		},
 		"diamond": {
-			"name": "钻",
-			"desc": "只为不存在者。"
+			"name": "钻石",
+			"desc": "只为不存在者！"
+		},
+		"ruby": {
+			"name": "红宝石",
+			"desc": "让你变成宝石。"
 		}
 	},
 	"featured": {
