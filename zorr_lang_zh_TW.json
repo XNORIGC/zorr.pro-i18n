@@ -99,6 +99,7 @@
 		"petals": "花瓣",
 		"mobSkins": "生物皮膚",
 		"memberships": "月卡",
+		"merch": "Merch",
 		"shopPolicy": "要求退款會導致您的帳戶被封鎖。",
 		"shopSupport": "對於與付款相關的任何問題，請發送電子郵件至：",
 		"shopNazarBeetles": "提防邪眼甲虫！",
@@ -220,6 +221,7 @@
 		"extraDropRate": "{1}%額外掉落率",
 		"extraDropBuff": "+{1}x 額外掉落增益",
 		"extraDropBuffTime": "{1}分鐘 額外掉落增益時間",
+		"extraTalentPoint": "{1}% extra TP",
 		"extraStars": "{1}星星每月",
 		"membershipExpiry": "您的{2}會員資格將會在{1}后過期……",
 		"usernameMinLength": "用戶名長度至少應為{1}",
@@ -869,6 +871,10 @@
 		"titan": {
 			"name": "Titan",
 			"desc": "Let's you exchange Omega petals for Unique petals."
+		},
+		"bat_cave": {
+			"name": "Bat Cave",
+			"desc": "The dark cave of Batman."
 		}
 	},
 	"petals": {
@@ -2795,6 +2801,10 @@
 		"magic_compass": {
 			"name": "Magic Compass",
 			"desc": "The magic made this compass point to Unique mobs."
+		},
+		"bat_cave_egg": {
+			"name": "Bat Cave Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -3823,7 +3833,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"hs": "Hs",
+		"cs": "Cs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4299,7 +4309,11 @@
 		},
 		"diamond": {
 			"name": "Diamond",
-			"desc": "For the non-existents."
+			"desc": "For the non-existents!"
+		},
+		"ruby": {
+			"name": "Ruby",
+			"desc": "Turns you into a gem."
 		}
 	},
 	"featured": {
