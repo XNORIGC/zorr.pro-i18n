@@ -3704,7 +3704,7 @@
 		"passiveHeal": "持续治疗",
 		"passiveHealBelow50": "持续治疗",
 		"passiveHealInverse": "持续治疗",
-		"passiveMemorialShield": "被动追忆护盾",
+		"passiveMemorialShield": "持续恢复纪念护盾",
 		"passivePetHeal": "持续宠物治疗",
 		"passivePetShield": "持续恢复宠物护盾",
 		"extraPetRange": "宠物额外仇恨范围",
@@ -3844,7 +3844,7 @@
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
 		"passiveManaOnGround": "持续恢复魔力",
-		"passiveMemorialMana": "被动追忆魔力",
+		"passiveMemorialMana": "持续恢复纪念魔力",
 		"extraFlowerMana": "花朵额外魔力",
 		"damageMana": "造成伤害时恢复魔力",
 		"manaBuff": "魔力增益",
@@ -4333,7 +4333,7 @@
 			"name": "新手蛋"
 		},
 		"magic": {
-			"name": "巫术"
+			"name": "魔法"
 		},
 		"electric": {
 			"name": "电子新手包"
@@ -4377,39 +4377,39 @@
 			"desc": "使你的生命值提升{1}%。"
 		},
 		"HealthRegen1": {
-			"name": "医生",
+			"name": "医疗师",
 			"desc": "使你的生命恢复速率提升{1}%。"
 		},
 		"HealthRegen2": {
-			"name": "医生",
+			"name": "医疗师",
 			"desc": "使你的生命恢复速率提升{1}%。"
 		},
 		"HealthRegen3": {
-			"name": "医生",
+			"name": "医疗师",
 			"desc": "使你的生命恢复速率提升{1}%。"
 		},
 		"HealthRegen4": {
-			"name": "医生",
+			"name": "医疗师",
 			"desc": "使你的生命恢复速率提升{1}%。"
 		},
 		"HealthRegen5": {
-			"name": "医生",
+			"name": "医疗师",
 			"desc": "使你的生命恢复速率提升{1}%。"
 		},
 		"HealthRegen6": {
-			"name": "医生",
+			"name": "医疗师",
 			"desc": "使你的生命恢复速率提升{1}%。"
 		},
 		"ManaRegen1": {
-			"name": "巫师",
+			"name": "法师",
 			"desc": "使你的魔力恢复速率提升{1}%。"
 		},
 		"ManaRegen2": {
-			"name": "巫师",
+			"name": "法师",
 			"desc": "使你的魔力恢复速率提升{1}%。"
 		},
 		"ManaRegen3": {
-			"name": "巫师",
+			"name": "法师",
 			"desc": "使你的魔力恢复速率提升{1}%。"
 		},
 		"Speed1": {
@@ -4422,11 +4422,11 @@
 		},
 		"Speed3": {
 			"name": "速度",
-			"desc": "移动速度提升 {1}%。"
+			"desc": "移动速度提升{1}%。"
 		},
 		"Speed4": {
 			"name": "速度",
-			"desc": "移动速度提升 {1}%。"
+			"desc": "移动速度提升{1}%。"
 		},
 		"Speed5": {
 			"name": "速度",
