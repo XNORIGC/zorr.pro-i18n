@@ -49,6 +49,9 @@
 		"loadout": "配装",
 		"reset": "刷新",
 		"clear": "清空",
+		"resetLoadout": "刷新",
+		"clearLoadout": "清空",
+		"resetTalents": "重置",
 		"speed": "速度",
 		"servers": "服务器",
 		"viewRewards": "查看奖励",
@@ -875,6 +878,10 @@
 		"bat_cave": {
 			"name": "蝙蝠洞",
 			"desc": "蝙蝠侠的黑暗洞穴。"
+		},
+		"vampire_digger": {
+			"name": "吸血鬼挖掘者",
+			"desc": "非常恐怖，当你被它攻击到时会窃取你的生命。"
 		}
 	},
 	"petals": {
@@ -2805,6 +2812,10 @@
 		"bat_cave_egg": {
 			"name": "蝙蝠洞蛋",
 			"desc": "它可以孵化并生成一些有趣的东西……"
+		},
+		"vampire_digger_egg": {
+			"name": "吸血鬼挖掘者蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		}
 	},
 	"achievements": {
@@ -3833,7 +3844,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"cs": "Cs",
+		"ss": "Ss",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
