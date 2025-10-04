@@ -49,6 +49,9 @@
 		"loadout": "Loadout",
 		"reset": "Reset",
 		"clear": "Clear",
+		"resetLoadout": "Reset",
+		"clearLoadout": "Clear",
+		"resetTalents": "Reset",
 		"speed": "Speed",
 		"servers": "Servers",
 		"viewRewards": "View Rewards",
@@ -875,6 +878,10 @@
 		"bat_cave": {
 			"name": "Bat Cave",
 			"desc": "The dark cave of Batman."
+		},
+		"vampire_digger": {
+			"name": "Vampire Digger",
+			"desc": "Very spooky, steals your health when you get hit."
 		}
 	},
 	"petals": {
@@ -2805,6 +2812,10 @@
 		"bat_cave_egg": {
 			"name": "Bat Cave Egg",
 			"desc": "It can hatch and spawn something interesting..."
+		},
+		"vampire_digger_egg": {
+			"name": "Vampire Digger Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -3833,7 +3844,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"cs": "Cs",
+		"ss": "Ss",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
