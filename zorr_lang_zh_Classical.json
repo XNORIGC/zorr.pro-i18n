@@ -2816,6 +2816,18 @@
 		"vampire_digger_egg": {
 			"name": "Vampire Digger Egg",
 			"desc": "It can hatch and spawn something interesting..."
+		},
+		"magic_emerald": {
+			"name": "Magic Emerald",
+			"desc": "Turns petal drops till the rarity into XP instead of picking them."
+		},
+		"magic_sapphire": {
+			"name": "Magic Sapphire",
+			"desc": "Makes all your petals till the same rarity drop on the ground temporarily when you are angry."
+		},
+		"magic_citron": {
+			"name": "Magic Citron",
+			"desc": "Decreases size of your petals."
 		}
 	},
 	"achievements": {
@@ -3838,13 +3850,14 @@
 		"extraFlowerMass": "額外花朵質量",
 		"extraFlowerSize": "額外花朵大小",
 		"flowerSizeReduction": "花朵尺寸減小",
+		"petalSizeReduction": "Petal Size Reduction",
 		"lightningReduction": "減少閃電",
 		"mobAgroRangeReduction": "Mob Agro Range Reduction",
 		"detox": "Detox",
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"ss": "Ss",
+		"xs": "Xs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -3868,6 +3881,7 @@
 		"spreadMana": "散之靈力",
 		"petVariantMutation": "寵物異變",
 		"poisonToDamageCap": "Poison To Damage Cap",
+		"petalDropToXp": "Petal Drop To Xp",
 		"visionOffset": "Vision Offset",
 		"petalOrbitDistance": "Petal Orbit Distance",
 		"flowerBodyDamage": "Flower Body Damage",
