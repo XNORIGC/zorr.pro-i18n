@@ -2818,16 +2818,16 @@
 			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"magic_emerald": {
-			"name": "Magic Emerald",
-			"desc": "Turns petal drops till the rarity into XP instead of picking them."
+			"name": "魔法绿宝石",
+			"desc": "将与该花瓣相同品质的掉落物由拾取至背包转换成经验值。"
 		},
 		"magic_sapphire": {
-			"name": "Magic Sapphire",
-			"desc": "Makes all your petals till the same rarity drop on the ground temporarily when you are angry."
+			"name": "魔法蓝宝石",
+			"desc": "当你在攻击状态时，可使你与该花瓣所有相同品质或以下的花瓣暂时掉落在地面上。"
 		},
 		"magic_citron": {
-			"name": "Magic Citron",
-			"desc": "Decreases size of your petals."
+			"name": "魔法黄水晶",
+			"desc": "缩小你的花瓣的体积。"
 		}
 	},
 	"achievements": {
@@ -3850,7 +3850,7 @@
 		"extraFlowerMass": "花朵额外质量",
 		"extraFlowerSize": "花朵额外大小",
 		"flowerSizeReduction": "花朵大小减小",
-		"petalSizeReduction": "Petal Size Reduction",
+		"petalSizeReduction": "花瓣体积缩小",
 		"lightningReduction": "电伤减免",
 		"mobAgroRangeReduction": "生物仇恨范围减小",
 		"detox": "解毒",
@@ -3881,7 +3881,7 @@
 		"spreadMana": "魔力分摊",
 		"petVariantMutation": "宠物品种突变",
 		"poisonToDamageCap": "毒伤转化伤害上限",
-		"petalDropToXp": "Petal Drop To Xp",
+		"petalDropToXp": "花瓣掉落转换经验",
 		"visionOffset": "视野偏移",
 		"petalOrbitDistance": "花瓣轨道距离",
 		"flowerBodyDamage": "花朵体伤",
