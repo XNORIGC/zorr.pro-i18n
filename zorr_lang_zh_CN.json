@@ -2816,6 +2816,18 @@
 		"vampire_digger_egg": {
 			"name": "吸血鬼挖掘者蛋",
 			"desc": "它可以孵化并生成一些有趣的东西……"
+		},
+		"magic_emerald": {
+			"name": "Magic Emerald",
+			"desc": "Turns petal drops till the rarity into XP instead of picking them."
+		},
+		"magic_sapphire": {
+			"name": "Magic Sapphire",
+			"desc": "Makes all your petals till the same rarity drop on the ground temporarily when you are angry."
+		},
+		"magic_citron": {
+			"name": "Magic Citron",
+			"desc": "Decreases size of your petals."
 		}
 	},
 	"achievements": {
@@ -3838,13 +3850,14 @@
 		"extraFlowerMass": "花朵额外质量",
 		"extraFlowerSize": "花朵额外大小",
 		"flowerSizeReduction": "花朵大小减小",
+		"petalSizeReduction": "Petal Size Reduction",
 		"lightningReduction": "电伤减免",
 		"mobAgroRangeReduction": "生物仇恨范围减小",
 		"detox": "解毒",
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"ss": "Ss",
+		"xs": "Xs",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -3868,6 +3881,7 @@
 		"spreadMana": "魔力分摊",
 		"petVariantMutation": "宠物品种突变",
 		"poisonToDamageCap": "毒伤转化伤害上限",
+		"petalDropToXp": "Petal Drop To Xp",
 		"visionOffset": "视野偏移",
 		"petalOrbitDistance": "花瓣轨道距离",
 		"flowerBodyDamage": "花朵体伤",
