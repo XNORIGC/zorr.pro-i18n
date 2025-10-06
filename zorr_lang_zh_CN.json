@@ -2827,7 +2827,7 @@
 		},
 		"magic_citron": {
 			"name": "魔法黄水晶",
-			"desc": "缩小你的花瓣的体积。"
+			"desc": "减小你的花瓣。"
 		}
 	},
 	"achievements": {
@@ -3850,7 +3850,7 @@
 		"extraFlowerMass": "花朵额外质量",
 		"extraFlowerSize": "花朵额外大小",
 		"flowerSizeReduction": "花朵大小减小",
-		"petalSizeReduction": "花瓣体积缩小",
+		"petalSizeReduction": "花瓣大小缩小",
 		"lightningReduction": "电伤减免",
 		"mobAgroRangeReduction": "生物仇恨范围减小",
 		"detox": "解毒",
