@@ -2830,8 +2830,8 @@
 			"desc": "减小你的花瓣。"
 		},
 		"magic_opal": {
-			"name": "Magic Opal",
-			"desc": "Gives all your petals till the same rarity 90% chance to do 0x and 10% chance to do 5x damage for 5s. 6.5x at Omega & 8x at Unique."
+			"name": "魔法蛋白石",
+			"desc": "对与此花瓣相同品质或更低的花瓣生效。使花瓣有90%的概率无法造成伤害，效果持续5秒；有10%的概率对生物造成5倍伤害，对Omega生物造成6.5倍伤害，对Unique生物造成8倍伤害，效果持续5秒。"
 		}
 	},
 	"achievements": {
@@ -3698,8 +3698,8 @@
 			"desc": "来自未知领域的未知实体"
 		},
 		"5gram": {
-			"name": "5gram",
-			"desc": "It's a big pentagram."
+			"name": "五克",
+			"desc": "这是一个巨大的五角星。"
 		},
 		"kirby": {
 			"name": "卡比",
@@ -3945,7 +3945,7 @@
 		"showIcons": "显示图标",
 		"#game": "#游戏",
 		"showOtherPetals": "显示其他玩家的花瓣",
-		"showOtherPets": "Show Other Pets",
+		"showOtherPets": "显示其他人的宠物",
 		"showHitbox": "显示碰撞箱",
 		"showGrid": "显示网格",
 		"showDps": "显示训练假花统计信息",
