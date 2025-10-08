@@ -3698,7 +3698,7 @@
 			"desc": "来自未知领域的未知实体"
 		},
 		"5gram": {
-			"name": "五克",
+			"name": "5角星",
 			"desc": "这是一个巨大的五角星。"
 		},
 		"kirby": {
@@ -3858,7 +3858,7 @@
 		"extraFlowerMass": "花朵额外质量",
 		"extraFlowerSize": "花朵额外大小",
 		"flowerSizeReduction": "花朵大小减小",
-		"petalSizeReduction": "花瓣大小缩小",
+		"petalSizeReduction": "花瓣大小减小",
 		"lightningReduction": "电伤减免",
 		"mobAgroRangeReduction": "生物仇恨范围减小",
 		"detox": "解毒",
@@ -3945,7 +3945,7 @@
 		"showIcons": "显示图标",
 		"#game": "#游戏",
 		"showOtherPetals": "显示其他玩家的花瓣",
-		"showOtherPets": "显示其他玩家的宠物",
+		"showOtherPets": "显示其他玩家宠物",
 		"showHitbox": "显示碰撞箱",
 		"showGrid": "显示网格",
 		"showDps": "显示训练假花统计信息",
