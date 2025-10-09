@@ -2831,7 +2831,23 @@
 		},
 		"magic_opal": {
 			"name": "Magic Opal",
-			"desc": "Gives all your petals till the same rarity 90% chance to do 0x and 10% chance to do 5x damage for 5s. 6.5x at Omega & 8x at Unique."
+			"desc": "Gives all your petals till the same rarity 25% chance to do 5x damage for 5s and 75% chance to do 0x damage. 6.5x at Omega & 8x at Unique."
+		},
+		"magic_topaz": {
+			"name": "Magic Topaz",
+			"desc": "Gives all your pets armor."
+		},
+		"coordinate": {
+			"name": "Coordinate",
+			"desc": "Lets you control your pets till the same rarity but reduces your movement speed."
+		},
+		"golden_cactus": {
+			"name": "Golden Cactus",
+			"desc": "Gives your petals more health. Does not stack."
+		},
+		"magic_quartz": {
+			"name": "Magic Quartz",
+			"desc": "Gives your petals till the same rarity some chance to skip secondary reload."
 		}
 	},
 	"achievements": {
@@ -3821,6 +3837,7 @@
 		"flowerArmor": "花之甲冑",
 		"petalCritical": "花瓣致命",
 		"petalReloadSkipRate": "花瓣過載跳過之率",
+		"petalSecondaryReloadSkipRate": "Petal Secondary Reload Skip Rate",
 		"blockDamage": "格擋之創",
 		"petBlockDamage": "寵物格擋傷害",
 		"spreadDamage": "擴散之創",
@@ -3847,6 +3864,7 @@
 		"explosionMultiHit": "Explosion Multi Hit",
 		"orbitRangeFactor": "軌跡距之因子",
 		"flowerEvasion": "花之閃避",
+		"petalHealthBuff": "Petal Health Buff",
 		"flowerSecondaryReloadFactor": "Flower Secondary Reload Factor",
 		"tempArmor": "Temp Armor",
 		"fragmentDamage": "碎片之創",
@@ -3865,7 +3883,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"ls": "Ls",
+		"hs": "Hs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -3890,6 +3908,7 @@
 		"petVariantMutation": "寵物異變",
 		"poisonToDamageCap": "Poison To Damage Cap",
 		"petalDropToXp": "Petal Drop To Xp",
+		"petArmor": "Pet Armor",
 		"visionOffset": "Vision Offset",
 		"petalOrbitDistance": "Petal Orbit Distance",
 		"flowerBodyDamage": "Flower Body Damage",
@@ -4017,6 +4036,7 @@
 		"uiScale": "UI Scale",
 		"minKillLogRarity": "Min Kill Log Rarity",
 		"minCraftLogRarity": "Min Craft Log Rarity",
+		"minDropRarity": "Min Drop Rarity",
 		"mobHudCount": "Mob Hud Count",
 		"chatSize": "Chat Size",
 		"maxMagicPets": "Max Magic Pets",
@@ -4805,6 +4825,22 @@
 		"ExplosionRange4": {
 			"name": "Explosion",
 			"desc": "Increases petal explosion range by {1}."
+		},
+		"Mana1": {
+			"name": "Mana",
+			"desc": "Increases your mana capacity by {1}%."
+		},
+		"Mana2": {
+			"name": "Mana",
+			"desc": "Increases your mana capacity by {1}%."
+		},
+		"Mana3": {
+			"name": "Mana",
+			"desc": "Increases your mana capacity by {1}%."
+		},
+		"Mana4": {
+			"name": "Mana",
+			"desc": "Increases your mana capacity by {1}%."
 		}
 	}
 }
