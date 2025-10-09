@@ -2831,7 +2831,23 @@
 		},
 		"magic_opal": {
 			"name": "魔法蛋白石",
-			"desc": "对与此花瓣相同品质或更低的花瓣生效。使花瓣有90%的概率无法造成伤害，效果持续5秒；有10%的概率对生物造成5倍伤害，对终末品质的生物造成6.5倍伤害，对唯一品质的生物造成8倍伤害，效果持续5秒。"
+			"desc": "Gives all your petals till the same rarity 25% chance to do 5x damage for 5s and 75% chance to do 0x damage. 6.5x at Omega & 8x at Unique."
+		},
+		"magic_topaz": {
+			"name": "Magic Topaz",
+			"desc": "Gives all your pets armor."
+		},
+		"coordinate": {
+			"name": "Coordinate",
+			"desc": "Lets you control your pets till the same rarity but reduces your movement speed."
+		},
+		"golden_cactus": {
+			"name": "Golden Cactus",
+			"desc": "Gives your petals more health. Does not stack."
+		},
+		"magic_quartz": {
+			"name": "Magic Quartz",
+			"desc": "Gives your petals till the same rarity some chance to skip secondary reload."
 		}
 	},
 	"achievements": {
@@ -3821,6 +3837,7 @@
 		"flowerArmor": "花朵护甲",
 		"petalCritical": "花瓣暴击",
 		"petalReloadSkipRate": "花瓣跳过冷却概率",
+		"petalSecondaryReloadSkipRate": "Petal Secondary Reload Skip Rate",
 		"blockDamage": "伤害格挡数",
 		"petBlockDamage": "宠物伤害格挡数",
 		"spreadDamage": "伤害分摊",
@@ -3847,6 +3864,7 @@
 		"explosionMultiHit": "爆炸多次击中",
 		"orbitRangeFactor": "轨道范围系数",
 		"flowerEvasion": "花朵闪避",
+		"petalHealthBuff": "Petal Health Buff",
 		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
 		"tempArmor": "临时护甲",
 		"fragmentDamage": "碎片伤害",
@@ -3865,7 +3883,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"ls": "Ls",
+		"hs": "Hs",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -3890,6 +3908,7 @@
 		"petVariantMutation": "宠物品种突变",
 		"poisonToDamageCap": "毒伤转化伤害上限",
 		"petalDropToXp": "花瓣掉落转换经验",
+		"petArmor": "Pet Armor",
 		"visionOffset": "视野偏移",
 		"petalOrbitDistance": "花瓣轨道距离",
 		"flowerBodyDamage": "花朵体伤",
@@ -4017,6 +4036,7 @@
 		"uiScale": "用户界面缩放",
 		"minKillLogRarity": "击杀日志最低稀有度",
 		"minCraftLogRarity": "合成日志最低品质",
+		"minDropRarity": "Min Drop Rarity",
 		"mobHudCount": "平视显示器生物数",
 		"chatSize": "聊天大小",
 		"maxMagicPets": "魔法宠物上限",
@@ -4805,6 +4825,22 @@
 		"ExplosionRange4": {
 			"name": "爆炸",
 			"desc": "增加{1}的爆炸范围。"
+		},
+		"Mana1": {
+			"name": "Mana",
+			"desc": "Increases your mana capacity by {1}%."
+		},
+		"Mana2": {
+			"name": "Mana",
+			"desc": "Increases your mana capacity by {1}%."
+		},
+		"Mana3": {
+			"name": "Mana",
+			"desc": "Increases your mana capacity by {1}%."
+		},
+		"Mana4": {
+			"name": "Mana",
+			"desc": "Increases your mana capacity by {1}%."
 		}
 	}
 }
