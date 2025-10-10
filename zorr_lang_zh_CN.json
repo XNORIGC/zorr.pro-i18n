@@ -2831,23 +2831,23 @@
 		},
 		"magic_opal": {
 			"name": "魔法蛋白石",
-			"desc": "Gives all your petals till the same rarity 25% chance to do 5x damage for 5s and 75% chance to do 0x damage. 6.5x at Omega & 8x at Unique."
+			"desc": "使所有与你相同或小于此花瓣品质的花瓣有25% 概率在 5 秒内造成 5 倍伤害，75% 概率造成 0 倍伤害。终末稀有度时为 6.5 倍，唯一稀有度时为 8 倍。"
 		},
 		"magic_topaz": {
-			"name": "Magic Topaz",
-			"desc": "Gives all your pets armor."
+			"name": "魔法黄玉",
+			"desc": "给予你所有的宠物护甲。"
 		},
 		"coordinate": {
-			"name": "Coordinate",
-			"desc": "Lets you control your pets till the same rarity but reduces your movement speed."
+			"name": "坐标",
+			"desc": "允许你控制与该花瓣品质相同及以下相同稀有度的宠物，但会降低你的移动速度。"
 		},
 		"golden_cactus": {
-			"name": "Golden Cactus",
-			"desc": "Gives your petals more health. Does not stack."
+			"name": "金仙人掌",
+			"desc": "增加你的花瓣耐久，不能叠加。"
 		},
 		"magic_quartz": {
-			"name": "Magic Quartz",
-			"desc": "Gives your petals till the same rarity some chance to skip secondary reload."
+			"name": "魔法石英",
+			"desc": "使与此花瓣相同稀有度相同及以下的花瓣获得一定几率跳过副冷却。"
 		}
 	},
 	"achievements": {
@@ -3837,7 +3837,7 @@
 		"flowerArmor": "花朵护甲",
 		"petalCritical": "花瓣暴击",
 		"petalReloadSkipRate": "花瓣跳过冷却概率",
-		"petalSecondaryReloadSkipRate": "Petal Secondary Reload Skip Rate",
+		"petalSecondaryReloadSkipRate": "花瓣副冷却效果概率",
 		"blockDamage": "伤害格挡数",
 		"petBlockDamage": "宠物伤害格挡数",
 		"spreadDamage": "伤害分摊",
@@ -3864,7 +3864,7 @@
 		"explosionMultiHit": "爆炸多次击中",
 		"orbitRangeFactor": "轨道范围系数",
 		"flowerEvasion": "花朵闪避",
-		"petalHealthBuff": "Petal Health Buff",
+		"petalHealthBuff": "花瓣耐久增加",
 		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
 		"tempArmor": "临时护甲",
 		"fragmentDamage": "碎片伤害",
@@ -3908,7 +3908,7 @@
 		"petVariantMutation": "宠物品种突变",
 		"poisonToDamageCap": "毒伤转化伤害上限",
 		"petalDropToXp": "花瓣掉落转换经验",
-		"petArmor": "Pet Armor",
+		"petArmor": "宠物护甲",
 		"visionOffset": "视野偏移",
 		"petalOrbitDistance": "花瓣轨道距离",
 		"flowerBodyDamage": "花朵体伤",
