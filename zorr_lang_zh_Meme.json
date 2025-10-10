@@ -4036,7 +4036,7 @@
 		"uiScale": "用户界面缩放",
 		"minKillLogRarity": "击杀日志最低稀有度",
 		"minCraftLogRarity": "合成日志最低品质",
-		"minDropRarity": "Min Drop Rarity",
+		"minDropRarity": "最小稀有度掉落",
 		"mobHudCount": "平视显示器生物数",
 		"chatSize": "聊天大小",
 		"maxMagicPets": "魔法宠物上限",
@@ -4827,20 +4827,20 @@
 			"desc": "增加{1}的爆炸范围。"
 		},
 		"Mana1": {
-			"name": "Mana",
-			"desc": "Increases your mana capacity by {1}%."
+			"name": "魔力",
+			"desc": "使你魔力最大容量增加{1}%。"
 		},
 		"Mana2": {
-			"name": "Mana",
-			"desc": "Increases your mana capacity by {1}%."
+			"name": "魔力",
+			"desc": "使你魔力最大容量增加{1}%。"
 		},
 		"Mana3": {
-			"name": "Mana",
-			"desc": "Increases your mana capacity by {1}%."
+			"name": "魔力",
+			"desc": "使你魔力最大容量增加{1}%。"
 		},
 		"Mana4": {
-			"name": "Mana",
-			"desc": "Increases your mana capacity by {1}%."
+			"name": "魔力",
+			"desc": "使你魔力最大容量增加{1}%。"
 		}
 	}
 }
