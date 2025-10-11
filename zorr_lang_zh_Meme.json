@@ -2850,20 +2850,20 @@
 			"desc": "使与此花瓣相同稀有度相同及以下的花瓣获得一定几率跳过副冷却。"
 		},
 		"coconut": {
-			"name": "Coconut",
-			"desc": "The ball of a coconut tree that does very high damage on its last hit."
+			"name": "椰子",
+			"desc": "这是椰子树上的球，可以在最后一击造成极高伤害。"
 		},
 		"corn": {
-			"name": "Corn",
+			"name": "玉米",
 			"desc": "Pegion poop"
 		},
 		"blood_corn": {
-			"name": "Blood Corn",
+			"name": "血玉米",
 			"desc": "It deals 2% more damage & self damage every second. Caps at 60s."
 		},
 		"root": {
-			"name": "Root",
-			"desc": "Buffs flower armor but reduces your movement speed."
+			"name": "树根",
+			"desc": "增加花朵护甲，但是会降低花朵移速。"
 		}
 	},
 	"achievements": {
@@ -3906,7 +3906,7 @@
 		"lightSize": "照亮范围",
 		"blindTime": "失明时长",
 		"petifyRate": "宠物化概率",
-		"flowerArmorBuff": "Flower Armor Buff",
+		"flowerArmorBuff": "花朵护甲增加",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
