@@ -2848,6 +2848,22 @@
 		"magic_quartz": {
 			"name": "魔法石英",
 			"desc": "使与此花瓣相同稀有度相同及以下的花瓣获得一定几率跳过副冷却。"
+		},
+		"coconut": {
+			"name": "Coconut",
+			"desc": "The ball of a coconut tree that does very high damage on its last hit."
+		},
+		"corn": {
+			"name": "Corn",
+			"desc": "Pegion poop"
+		},
+		"blood_corn": {
+			"name": "Blood Corn",
+			"desc": "It deals 2% more damage & self damage every second. Caps at 60s."
+		},
+		"root": {
+			"name": "Root",
+			"desc": "Buffs flower armor but reduces your movement speed."
 		}
 	},
 	"achievements": {
@@ -3883,13 +3899,14 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"hs": "Hs",
+		"bs": "Bs",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
 		"lightSize": "照亮范围",
 		"blindTime": "失明时长",
 		"petifyRate": "宠物化概率",
+		"flowerArmorBuff": "Flower Armor Buff",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
