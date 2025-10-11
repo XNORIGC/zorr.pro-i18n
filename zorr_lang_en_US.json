@@ -2848,6 +2848,22 @@
 		"magic_quartz": {
 			"name": "Magic Quartz",
 			"desc": "Gives your petals till the same rarity some chance to skip secondary reload."
+		},
+		"coconut": {
+			"name": "Coconut",
+			"desc": "The ball of a coconut tree that does very high damage on its last hit."
+		},
+		"corn": {
+			"name": "Corn",
+			"desc": "Pegion poop"
+		},
+		"blood_corn": {
+			"name": "Blood Corn",
+			"desc": "It deals 2% more damage & self damage every second. Caps at 60s."
+		},
+		"root": {
+			"name": "Root",
+			"desc": "Buffs flower armor but reduces your movement speed."
 		}
 	},
 	"achievements": {
@@ -3883,13 +3899,14 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"hs": "Hs",
+		"bs": "Bs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
 		"lightSize": "Light Size",
 		"blindTime": "Blind Time",
 		"petifyRate": "Petify Rate",
+		"flowerArmorBuff": "Flower Armor Buff",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
