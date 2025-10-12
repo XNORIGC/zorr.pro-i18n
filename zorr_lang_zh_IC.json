@@ -2864,6 +2864,30 @@
 		"root": {
 			"name": "树根",
 			"desc": "增加花朵护甲，但是会降低花朵移速。"
+		},
+		"coral": {
+			"name": "Coral",
+			"desc": "It subdivides upon its demise."
+		},
+		"magic_coral": {
+			"name": "Magic Coral",
+			"desc": "It subdivides upon its demise but the magic also made it have 20% chance to obtain fire & poison."
+		},
+		"date": {
+			"name": "Date",
+			"desc": "Its damage is high on Sunday and reduces by 50% as Saturday approaches."
+		},
+		"sad": {
+			"name": "Sad",
+			"desc": "Its damage reduces when others are watching you."
+		},
+		"kitty": {
+			"name": "Kitty",
+			"desc": "Schrodinger's Kitty that gives all your petals 8% chance to do 4x damage when they are not being watched by anyone (including your own self). Petal has to be to fully out of any observer's view for them to go critical. Works on all petals till the same rarity. Rate is affected by Clover."
+		},
+		"sacrifice": {
+			"name": "Sacrifice",
+			"desc": "Sells your soul to the Devil & spawns a mob based on the area of the map the sacrifice is performed. Sacrifice can't be done in low rarity or congested zones."
 		}
 	},
 	"achievements": {
@@ -3907,6 +3931,8 @@
 		"blindTime": "失明时长",
 		"petifyRate": "宠物化概率",
 		"flowerArmorBuff": "花朵护甲增加",
+		"finalDamage": "Final Damage",
+		"split": "Split",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -3928,6 +3954,7 @@
 		"petArmor": "宠物护甲",
 		"visionOffset": "视野偏移",
 		"petalOrbitDistance": "花瓣轨道距离",
+		"flowerDamageBuff": "Flower Damage Buff",
 		"flowerBodyDamage": "花朵体伤",
 		"damageReduction": "伤害减免",
 		"extraPetalDamagePercent": "花瓣额外伤害百分比",
