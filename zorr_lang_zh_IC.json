@@ -2855,39 +2855,39 @@
 		},
 		"corn": {
 			"name": "玉米",
-			"desc": "Pegion poop"
+			"desc": "鸽子便便"
 		},
 		"blood_corn": {
 			"name": "血玉米",
-			"desc": "It deals 2% more damage & self damage every second. Caps at 60s."
+			"desc": "每秒造成额外2%的伤害与自身伤害，持续60秒后达到上限。"
 		},
 		"root": {
 			"name": "树根",
 			"desc": "增加花朵护甲，但是会降低花朵移速。"
 		},
 		"coral": {
-			"name": "Coral",
-			"desc": "It subdivides upon its demise."
+			"name": "珊瑚",
+			"desc": "它在消亡时分裂。"
 		},
 		"magic_coral": {
-			"name": "Magic Coral",
-			"desc": "It subdivides upon its demise but the magic also made it have 20% chance to obtain fire & poison."
+			"name": "魔法珊瑚",
+			"desc": "它在消亡后会进行分裂，但魔法也使它有20%的机会做出火伤和毒伤。"
 		},
 		"date": {
-			"name": "Date",
-			"desc": "Its damage is high on Sunday and reduces by 50% as Saturday approaches."
+			"name": "海枣",
+			"desc": "它的伤害在周日很高，随着周六的临近，伤害会降低50%。"
 		},
 		"sad": {
-			"name": "Sad",
-			"desc": "Its damage reduces when others are watching you."
+			"name": "悲伤",
+			"desc": "当别人看着你时，它的伤害会减少。"
 		},
 		"kitty": {
-			"name": "Kitty",
-			"desc": "Schrodinger's Kitty that gives all your petals 8% chance to do 4x damage when they are not being watched by anyone (including your own self). Petal has to be to fully out of any observer's view for them to go critical. Works on all petals till the same rarity. Rate is affected by Clover."
+			"name": "猫猫",
+			"desc": "薛定谔猫，当你的花瓣没有被任何人（包括你自己）看到时，它会给你所有的花瓣8%的机会造成4倍的伤害。这个花瓣必须完全脱离任何观察者的视线，才能变得至关重要。适用于所有直到同样稀有度的花瓣。概率受幸运草影响。"
 		},
 		"sacrifice": {
-			"name": "Sacrifice",
-			"desc": "Sells your soul to the Devil & spawns a mob based on the area of the map the sacrifice is performed. Sacrifice can't be done in low rarity or congested zones."
+			"name": "血祭",
+			"desc": "向魔鬼出卖你的灵魂，并根据献祭地点在地图区域生成生物。献祭不可在稀有度低或拥挤区域进行。"
 		}
 	},
 	"achievements": {
@@ -3931,8 +3931,8 @@
 		"blindTime": "失明时长",
 		"petifyRate": "宠物化概率",
 		"flowerArmorBuff": "花朵护甲增加",
-		"finalDamage": "Final Damage",
-		"split": "Split",
+		"finalDamage": "最终伤害",
+		"split": "分裂",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -3954,7 +3954,7 @@
 		"petArmor": "宠物护甲",
 		"visionOffset": "视野偏移",
 		"petalOrbitDistance": "花瓣轨道距离",
-		"flowerDamageBuff": "Flower Damage Buff",
+		"flowerDamageBuff": "花朵伤害增益",
 		"flowerBodyDamage": "花朵体伤",
 		"damageReduction": "伤害减免",
 		"extraPetalDamagePercent": "花瓣额外伤害百分比",
