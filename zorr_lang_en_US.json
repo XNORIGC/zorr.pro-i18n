@@ -2864,6 +2864,30 @@
 		"root": {
 			"name": "Root",
 			"desc": "Buffs flower armor but reduces your movement speed."
+		},
+		"coral": {
+			"name": "Coral",
+			"desc": "It subdivides upon its demise."
+		},
+		"magic_coral": {
+			"name": "Magic Coral",
+			"desc": "It subdivides upon its demise but the magic also made it have 20% chance to obtain fire & poison."
+		},
+		"date": {
+			"name": "Date",
+			"desc": "Its damage is high on Sunday and reduces by 50% as Saturday approaches."
+		},
+		"sad": {
+			"name": "Sad",
+			"desc": "Its damage reduces when others are watching you."
+		},
+		"kitty": {
+			"name": "Kitty",
+			"desc": "Schrodinger's Kitty that gives all your petals 8% chance to do 4x damage when they are not being watched by anyone (including your own self). Petal has to be to fully out of any observer's view for them to go critical. Works on all petals till the same rarity. Rate is affected by Clover."
+		},
+		"sacrifice": {
+			"name": "Sacrifice",
+			"desc": "Sells your soul to the Devil & spawns a mob based on the area of the map the sacrifice is performed. Sacrifice can't be done in low rarity or congested zones."
 		}
 	},
 	"achievements": {
@@ -3907,6 +3931,8 @@
 		"blindTime": "Blind Time",
 		"petifyRate": "Petify Rate",
 		"flowerArmorBuff": "Flower Armor Buff",
+		"finalDamage": "Final Damage",
+		"split": "Split",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
@@ -3928,6 +3954,7 @@
 		"petArmor": "Pet Armor",
 		"visionOffset": "Vision Offset",
 		"petalOrbitDistance": "Petal Orbit Distance",
+		"flowerDamageBuff": "Flower Damage Buff",
 		"flowerBodyDamage": "Flower Body Damage",
 		"damageReduction": "Damage Reduction",
 		"extraPetalDamagePercent": "Extra Petal Damage Percent",
