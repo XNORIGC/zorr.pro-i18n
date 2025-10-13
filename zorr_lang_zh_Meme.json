@@ -2890,7 +2890,7 @@
 			"desc": "向魔鬼出卖你的灵魂，并根据献祭地点在地图区域生成生物。献祭不可在稀有度低或拥挤区域进行。"
 		},
 		"relativity": {
-			"name": "Relativity",
+			"name": "相对",
 			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 50x of your base speed."
 		},
 		"magic_relativity": {
