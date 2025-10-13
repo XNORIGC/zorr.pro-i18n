@@ -2859,7 +2859,7 @@
 		},
 		"blood_corn": {
 			"name": "血玉米",
-			"desc": "每秒造成额外2%的伤害与自身伤害，持续60秒后达到上限。"
+			"desc": "It deals 10% more damage & self damage every second. Caps at 60s."
 		},
 		"root": {
 			"name": "树根",
@@ -2891,11 +2891,15 @@
 		},
 		"relativity": {
 			"name": "相对性",
-			"desc": "你移动得越快，你的花瓣加载速度就越快。灵感源自爱因斯坦的理论。速度为基础速度 50 倍时达到最大效果。"
+			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 20x of your base speed."
 		},
 		"magic_relativity": {
 			"name": "魔法相对性",
-			"desc": "你移动得越快，你的花瓣副加载速度就越快。灵感源自爱因斯坦的理论。速度为基础速度 50 倍时达到最大效果。"
+			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 20x of your base speed."
+		},
+		"magic_sacrifice": {
+			"name": "Magic Sacrifice",
+			"desc": "A magical ritual that lets you spawn a pet based on the area of the map the sacrifice is performed. Can't be performed in low rarity zones."
 		}
 	},
 	"achievements": {
@@ -3931,7 +3935,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"ws": "Ws",
+		"ys": "Ys",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
