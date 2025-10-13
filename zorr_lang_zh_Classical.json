@@ -2888,6 +2888,14 @@
 		"sacrifice": {
 			"name": "Sacrifice",
 			"desc": "Sells your soul to the Devil & spawns a mob based on the area of the map the sacrifice is performed. Sacrifice can't be done in low rarity or congested zones."
+		},
+		"relativity": {
+			"name": "Relativity",
+			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 50x of your base speed."
+		},
+		"magic_relativity": {
+			"name": "Magic Relativity",
+			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 50x of your base speed."
 		}
 	},
 	"achievements": {
@@ -3923,7 +3931,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"bs": "Bs",
+		"ws": "Ws",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -3967,6 +3975,8 @@
 		"extraManaPercent": "Extra Mana Percent",
 		"senseSpeed": "Sense Speed",
 		"senseRange": "Sense Range",
+		"relativityReloadFactor": "Relativity Reload Factor",
+		"relativitySecondaryReloadFactor": "Relativity Secondary Reload Factor",
 		"bodyLightning": "體附雷霆",
 		"bodyLightningFire": "身體閃電火焰",
 		"bodyLightningPoison": "體傷閃電毒傷",
