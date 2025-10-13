@@ -2859,7 +2859,7 @@
 		},
 		"blood_corn": {
 			"name": "Blood Corn",
-			"desc": "It deals 2% more damage & self damage every second. Caps at 60s."
+			"desc": "It deals 10% more damage & self damage every second. Caps at 60s."
 		},
 		"root": {
 			"name": "Root",
@@ -2891,11 +2891,15 @@
 		},
 		"relativity": {
 			"name": "Relativity",
-			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 50x of your base speed."
+			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 20x of your base speed."
 		},
 		"magic_relativity": {
 			"name": "Magic Relativity",
-			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 50x of your base speed."
+			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 20x of your base speed."
+		},
+		"magic_sacrifice": {
+			"name": "Magic Sacrifice",
+			"desc": "A magical ritual that lets you spawn a pet based on the area of the map the sacrifice is performed. Can't be performed in low rarity zones."
 		}
 	},
 	"achievements": {
@@ -3931,7 +3935,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"ws": "Ws",
+		"ys": "Ys",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
