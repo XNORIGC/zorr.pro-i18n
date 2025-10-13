@@ -2888,6 +2888,14 @@
 		"sacrifice": {
 			"name": "血祭",
 			"desc": "向魔鬼出卖你的灵魂，并根据献祭地点在地图区域生成生物。献祭不可在稀有度低或拥挤区域进行。"
+		},
+		"relativity": {
+			"name": "Relativity",
+			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 50x of your base speed."
+		},
+		"magic_relativity": {
+			"name": "Magic Relativity",
+			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 50x of your base speed."
 		}
 	},
 	"achievements": {
@@ -3923,7 +3931,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"bs": "Bs",
+		"ws": "Ws",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -3967,6 +3975,8 @@
 		"extraManaPercent": "额外魔力百分比",
 		"senseSpeed": "感知提速",
 		"senseRange": "感知范围",
+		"relativityReloadFactor": "Relativity Reload Factor",
+		"relativitySecondaryReloadFactor": "Relativity Secondary Reload Factor",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
