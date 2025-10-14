@@ -3530,8 +3530,8 @@
 			"desc": "从微观世界偷来的"
 		},
 		"florr": {
-			"name": "Florr",
-			"desc": "这才是真正的florr"
+			"name": "florr.io",
+			"desc": "这才是真正的florr.io"
 		},
 		"alien": {
 			"name": "外星人",
@@ -4439,7 +4439,7 @@
 			"name": "顶级蛋"
 		},
 		"support_eggs": {
-			"name": "支援蛋"
+			"name": "辅助蛋"
 		},
 		"starter_eggs": {
 			"name": "新手蛋"
