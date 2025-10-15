@@ -3765,6 +3765,10 @@
 			"name": "z69",
 			"desc": "来自未知领域的未知实体"
 		},
+		"zactus": {
+			"name": "Zactus",
+			"desc": "Goofy ahh cactus"
+		},
 		"5gram": {
 			"name": "5角星",
 			"desc": "这是一个巨大的五角星。"
@@ -4108,6 +4112,9 @@
 		},
 		"kill": {
 			"desc": "击杀一名玩家。"
+		},
+		"reset_token": {
+			"desc": "Resets token of a player."
 		},
 		"afk": {
 			"desc": "为用户提供挂机检查。"
