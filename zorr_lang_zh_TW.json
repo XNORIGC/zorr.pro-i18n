@@ -3765,6 +3765,10 @@
 			"name": "z69",
 			"desc": "An unknown entity from an unknown realm"
 		},
+		"zactus": {
+			"name": "Zactus",
+			"desc": "Goofy ahh cactus"
+		},
 		"5gram": {
 			"name": "5gram",
 			"desc": "It's a big pentagram."
@@ -4108,6 +4112,9 @@
 		},
 		"kill": {
 			"desc": "擊殺一名玩家。"
+		},
+		"reset_token": {
+			"desc": "Resets token of a player."
 		},
 		"afk": {
 			"desc": "為使用者提供掛機檢查。"
