@@ -2875,7 +2875,7 @@
 		},
 		"date": {
 			"name": "海枣",
-			"desc": "它的伤害在周日很高，随着周六的临近，伤害会降低50%。"
+			"desc": "Its damage is high on Sunday and reduces by 80% as Saturday approaches."
 		},
 		"sad": {
 			"name": "悲伤",
@@ -2899,7 +2899,15 @@
 		},
 		"magic_sacrifice": {
 			"name": "魔法血祭",
-			"desc": "一个魔法仪式，能让你召唤一个稀有度与使用时所在区域相同的宠物，不能在低稀有度区域使用。"
+			"desc": "A magical ritual that lets you spawn 2 pets based on the area of the map the sacrifice is performed. Can't be performed in low rarity zones."
+		},
+		"magic_fission": {
+			"name": "Magic Fission",
+			"desc": "Makes the petal to the right of it till same rarity split a couple times upon death. For example: Super Fission+Super Cactus = the Super Cactus will split a few times before reloading again like Coral."
+		},
+		"golden_nazar": {
+			"name": "Golden Nazar",
+			"desc": "It tanks a few hits on your petals, and then goes on cooldown. Doesn't stack."
 		}
 	},
 	"achievements": {
@@ -3896,6 +3904,7 @@
 		"petalSecondaryReloadSkipRate": "花瓣副冷却效果概率",
 		"blockDamage": "伤害格挡数",
 		"petBlockDamage": "宠物伤害格挡数",
+		"petalBlockDamage": "Petal Block Damage",
 		"spreadDamage": "伤害分摊",
 		"radiationRange": "辐射范围",
 		"radiationPoison": "辐射毒伤",
@@ -3939,7 +3948,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"ys": "Ys",
+		"vs": "Vs",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -3985,6 +3994,7 @@
 		"senseRange": "感知范围",
 		"relativityReloadFactor": "相对加载系数",
 		"relativitySecondaryReloadFactor": "相对副加载系数",
+		"splitPetal": "Split Petal",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
