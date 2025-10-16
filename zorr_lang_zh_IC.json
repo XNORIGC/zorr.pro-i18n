@@ -2891,15 +2891,15 @@
 		},
 		"relativity": {
 			"name": "相对性",
-			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 20x of your base speed."
+			"desc": "你移动得越快，你的花瓣加载速度就越快。灵感源自爱因斯坦的理论。速度为基础速度的20倍时达到最大效果。"
 		},
 		"magic_relativity": {
 			"name": "魔法相对性",
-			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 20x of your base speed."
+			"desc": "你移动得越快，你的花瓣副加载速度就越快。灵感源自爱因斯坦的理论。速度为基础速度20倍时达到最大效果。"
 		},
 		"magic_sacrifice": {
-			"name": "Magic Sacrifice",
-			"desc": "A magical ritual that lets you spawn a pet based on the area of the map the sacrifice is performed. Can't be performed in low rarity zones."
+			"name": "魔法血祭",
+			"desc": "一个魔法仪式，能让你召唤一个稀有度与使用时所在区域相同的宠物，不能在低稀有度区域使用。"
 		}
 	},
 	"achievements": {
@@ -3766,8 +3766,8 @@
 			"desc": "来自未知领域的未知实体"
 		},
 		"zactus": {
-			"name": "Zactus",
-			"desc": "Goofy ahh cactus"
+			"name": "仙入掌",
+			"desc": "唐唐的仙人掌"
 		},
 		"5gram": {
 			"name": "5角星",
