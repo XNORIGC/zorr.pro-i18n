@@ -2875,7 +2875,7 @@
 		},
 		"date": {
 			"name": "Date",
-			"desc": "Its damage is high on Sunday and reduces by 50% as Saturday approaches."
+			"desc": "Its damage is high on Sunday and reduces by 80% as Saturday approaches."
 		},
 		"sad": {
 			"name": "Sad",
@@ -2899,7 +2899,15 @@
 		},
 		"magic_sacrifice": {
 			"name": "Magic Sacrifice",
-			"desc": "A magical ritual that lets you spawn a pet based on the area of the map the sacrifice is performed. Can't be performed in low rarity zones."
+			"desc": "A magical ritual that lets you spawn 2 pets based on the area of the map the sacrifice is performed. Can't be performed in low rarity zones."
+		},
+		"magic_fission": {
+			"name": "Magic Fission",
+			"desc": "Makes the petal to the right of it till same rarity split a couple times upon death. For example: Super Fission+Super Cactus = the Super Cactus will split a few times before reloading again like Coral."
+		},
+		"golden_nazar": {
+			"name": "Golden Nazar",
+			"desc": "It tanks a few hits on your petals, and then goes on cooldown. Doesn't stack."
 		}
 	},
 	"achievements": {
@@ -3896,6 +3904,7 @@
 		"petalSecondaryReloadSkipRate": "Petal Secondary Reload Skip Rate",
 		"blockDamage": "格擋之創",
 		"petBlockDamage": "寵物格擋傷害",
+		"petalBlockDamage": "Petal Block Damage",
 		"spreadDamage": "擴散之創",
 		"radiationRange": "輻射之距",
 		"radiationPoison": "輻射附骨毒",
@@ -3939,7 +3948,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"ys": "Ys",
+		"vs": "Vs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -3985,6 +3994,7 @@
 		"senseRange": "Sense Range",
 		"relativityReloadFactor": "Relativity Reload Factor",
 		"relativitySecondaryReloadFactor": "Relativity Secondary Reload Factor",
+		"splitPetal": "Split Petal",
 		"bodyLightning": "體附雷霆",
 		"bodyLightningFire": "身體閃電火焰",
 		"bodyLightningPoison": "體傷閃電毒傷",
