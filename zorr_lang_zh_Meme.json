@@ -2908,6 +2908,10 @@
 		"golden_nazar": {
 			"name": "Golden Nazar",
 			"desc": "It tanks a few hits on your petals, and then goes on cooldown. Doesn't stack."
+		},
+		"schizo": {
+			"name": "Schizo",
+			"desc": "Lets you transcend the world and view entities far far away..."
 		}
 	},
 	"achievements": {
@@ -3948,7 +3952,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"vs": "Vs",
+		"ys": "Ys",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -3958,6 +3962,7 @@
 		"flowerArmorBuff": "花朵护甲增加",
 		"finalDamage": "最终伤害",
 		"split": "分裂",
+		"transcendence": "Transcendence",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
