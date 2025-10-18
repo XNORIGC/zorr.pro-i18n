@@ -2907,11 +2907,11 @@
 		},
 		"golden_nazar": {
 			"name": "Golden Nazar",
-			"desc": "It tanks a few hits on your petals, and then goes on cooldown. Doesn't stack."
+			"desc": "它会让你的花瓣免疫几次伤害，然后进入冷却。不会叠加。"
 		},
 		"schizo": {
-			"name": "Schizo",
-			"desc": "Lets you transcend the world and view entities far far away..."
+			"name": "精神分裂症",
+			"desc": "让你超越现实世界，能够俯瞰远方遥远的景象……"
 		}
 	},
 	"achievements": {
