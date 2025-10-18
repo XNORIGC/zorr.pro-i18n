@@ -2875,7 +2875,7 @@
 		},
 		"date": {
 			"name": "海枣",
-			"desc": "Its damage is high on Sunday and reduces by 80% as Saturday approaches."
+			"desc": "它的伤害在周日时很高，而随着周六的临近，伤害会降低 80%。"
 		},
 		"sad": {
 			"name": "悲伤",
