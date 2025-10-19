@@ -2883,7 +2883,7 @@
 		},
 		"kitty": {
 			"name": "Kitty",
-			"desc": "Schrodinger's Kitty that gives all your petals 8% chance to do 4x damage when they are not being watched by anyone (including your own self). Petal has to be to fully out of any observer's view for them to go critical. Works on all petals till the same rarity. Rate is affected by Clover."
+			"desc": "Schrodinger's Kitty that gives all your petals 12.5% chance to do 4x damage when they are not being watched by anyone (including your own self). Petal has to be to fully out of any observer's view for them to go critical. Works on all petals till the same rarity. Rate is affected by Clover."
 		},
 		"sacrifice": {
 			"name": "Sacrifice",
@@ -3776,6 +3776,10 @@
 		"z69": {
 			"name": "z69",
 			"desc": "An unknown entity from an unknown realm"
+		},
+		"sinbadx": {
+			"name": "SinbadX",
+			"desc": "diep youtuber moment"
 		},
 		"zactus": {
 			"name": "Zactus",
