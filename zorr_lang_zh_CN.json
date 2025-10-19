@@ -2883,7 +2883,7 @@
 		},
 		"kitty": {
 			"name": "猫猫",
-			"desc": "薛定谔的猫，当你的花瓣没有被任何人（包括你自己）看到时，它会给你所有的花瓣8%的机会造成4倍的伤害。这个花瓣必须完全脱离任何观察者的视线，才能变得至关重要。适用于所有直到同样稀有度的花瓣。概率受幸运草影响。"
+			"desc": "Schrodinger's Kitty that gives all your petals 12.5% chance to do 4x damage when they are not being watched by anyone (including your own self). Petal has to be to fully out of any observer's view for them to go critical. Works on all petals till the same rarity. Rate is affected by Clover."
 		},
 		"sacrifice": {
 			"name": "血祭",
@@ -3776,6 +3776,10 @@
 		"z69": {
 			"name": "z69",
 			"desc": "来自未知领域的未知实体"
+		},
+		"sinbadx": {
+			"name": "SinbadX",
+			"desc": "diep youtuber moment"
 		},
 		"zactus": {
 			"name": "仙入掌",
