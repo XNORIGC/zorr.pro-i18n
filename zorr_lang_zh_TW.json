@@ -2912,6 +2912,10 @@
 		"schizo": {
 			"name": "Schizo",
 			"desc": "Lets you transcend the world and view entities far far away..."
+		},
+		"abacus": {
+			"name": "Abacus",
+			"desc": "Its damage varies between 0% to 100% every 5min. If you can't do basic math, use this or go back to elementary."
 		}
 	},
 	"achievements": {
@@ -4043,6 +4047,9 @@
 		"petalCachedRendering": "Petal Cached Rendering",
 		"extremeFreezeFix": "Extreme Freeze Fix",
 		"showIcons": "顯示圖示",
+		"lazyRenderIcons": "Lazy Render Icons",
+		"showIconCount": "Show Icon Count",
+		"@minIconRarity": "@min Icon Rarity",
 		"#game": "#game",
 		"showOtherPetals": "顯示其它人的花瓣",
 		"showOtherPets": "Show Other Pets",
@@ -4118,6 +4125,7 @@
 		"minKillLogRarity": "Min Kill Log Rarity",
 		"minCraftLogRarity": "Min Craft Log Rarity",
 		"minDropRarity": "Min Drop Rarity",
+		"minIconRarity": "Min Icon Rarity",
 		"mobHudCount": "Mob Hud Count",
 		"chatSize": "Chat Size",
 		"maxMagicPets": "Max Magic Pets",
