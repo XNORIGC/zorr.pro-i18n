@@ -2915,7 +2915,7 @@
 		},
 		"abacus": {
 			"name": "Abacus",
-			"desc": "Its damage varies between 0% to 100% every 5min. If you can't do basic math, use this or go back to elementary."
+			"desc": "Its damage changes to 0%, 25%, 50%, 75% or 100% of its base damage every 10min. If you can't do basic math, use this or go back to elementary."
 		}
 	},
 	"achievements": {
@@ -3960,7 +3960,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"ys": "Ys",
+		"vs": "Vs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
