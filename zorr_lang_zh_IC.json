@@ -2912,6 +2912,10 @@
 		"schizo": {
 			"name": "精神分裂症",
 			"desc": "让你超越现实世界，能够俯瞰远方遥远的景象……"
+		},
+		"abacus": {
+			"name": "Abacus",
+			"desc": "Its damage varies between 0% to 100% every 5min. If you can't do basic math, use this or go back to elementary."
 		}
 	},
 	"achievements": {
@@ -4043,6 +4047,9 @@
 		"petalCachedRendering": "花瓣缓存渲染",
 		"extremeFreezeFix": "严重卡死修复",
 		"showIcons": "显示图标",
+		"lazyRenderIcons": "Lazy Render Icons",
+		"showIconCount": "Show Icon Count",
+		"@minIconRarity": "@min Icon Rarity",
 		"#game": "#游戏",
 		"showOtherPetals": "显示其他玩家的花瓣",
 		"showOtherPets": "显示其他玩家宠物",
@@ -4118,6 +4125,7 @@
 		"minKillLogRarity": "击杀日志最低稀有度",
 		"minCraftLogRarity": "合成日志最低品质",
 		"minDropRarity": "最小稀有度掉落",
+		"minIconRarity": "Min Icon Rarity",
 		"mobHudCount": "平视显示器生物数",
 		"chatSize": "聊天大小",
 		"maxMagicPets": "魔法宠物上限",
