@@ -2916,6 +2916,10 @@
 		"abacus": {
 			"name": "Abacus",
 			"desc": "Its damage changes to 0%, 25%, 50%, 75% or 100% of its base damage every 10min. If you can't do basic math, use this or go back to elementary."
+		},
+		"cyanide_pill": {
+			"name": "Cyanide Pill",
+			"desc": "Removes corruption from you and other baddies and turns them back into a nice lil flower. Might be useful when your crimes are made public :3"
 		}
 	},
 	"achievements": {
@@ -3960,7 +3964,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"vs": "Vs",
+		"ys": "Ys",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
