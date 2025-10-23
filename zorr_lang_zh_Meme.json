@@ -882,6 +882,10 @@
 		"vampire_digger": {
 			"name": "吸血鬼挖掘者",
 			"desc": "非常恐怖，当你被它攻击到时会窃取你的生命。"
+		},
+		"pumpkin": {
+			"name": "Pumpkin",
+			"desc": "Maybe the Pumpkin caused it..."
 		}
 	},
 	"petals": {
@@ -2920,6 +2924,18 @@
 		"cyanide_pill": {
 			"name": "Cyanide Pill",
 			"desc": "Removes corruption from you and other baddies and turns them back into a nice lil flower. Might be useful when your crimes are made public :3"
+		},
+		"pumpkin_egg": {
+			"name": "Pumpkin Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"pumpkin_seed": {
+			"name": "Pumpkin Seed",
+			"desc": "Once it reloads, you can keep eating it forever..."
+		},
+		"magic_pumpkin_seed": {
+			"name": "Magic Pumpkin Seed",
+			"desc": "Once it consumes enough magic & regenerates itself, it can keep doing magic forever just for you <3"
 		}
 	},
 	"achievements": {
@@ -3964,7 +3980,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"ys": "Ys",
+		"Es": " Es",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
