@@ -882,6 +882,10 @@
 		"vampire_digger": {
 			"name": "Vampire Digger",
 			"desc": "Very spooky, steals your health when you get hit."
+		},
+		"pumpkin": {
+			"name": "Pumpkin",
+			"desc": "Maybe the Pumpkin caused it..."
 		}
 	},
 	"petals": {
@@ -2920,6 +2924,18 @@
 		"cyanide_pill": {
 			"name": "Cyanide Pill",
 			"desc": "Removes corruption from you and other baddies and turns them back into a nice lil flower. Might be useful when your crimes are made public :3"
+		},
+		"pumpkin_egg": {
+			"name": "Pumpkin Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"pumpkin_seed": {
+			"name": "Pumpkin Seed",
+			"desc": "Once it reloads, you can keep eating it forever..."
+		},
+		"magic_pumpkin_seed": {
+			"name": "Magic Pumpkin Seed",
+			"desc": "Once it consumes enough magic & regenerates itself, it can keep doing magic forever just for you <3"
 		}
 	},
 	"achievements": {
@@ -3964,7 +3980,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"ys": "Ys",
+		"Es": " Es",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
