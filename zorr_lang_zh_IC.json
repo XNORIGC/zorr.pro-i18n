@@ -884,8 +884,8 @@
 			"desc": "非常恐怖，当你被它攻击到时会窃取你的生命。"
 		},
 		"pumpkin": {
-			"name": "Pumpkin",
-			"desc": "Maybe the Pumpkin caused it..."
+			"name": "南瓜",
+			"desc": "这可能是南瓜造成的……"
 		}
 	},
 	"petals": {
@@ -2827,7 +2827,7 @@
 		},
 		"magic_sapphire": {
 			"name": "魔法蓝宝石",
-			"desc": "当你在攻击状态时，可使你与该花瓣所有相同品质或以下的花瓣暂时掉落在地面上。"
+			"desc": "当你在攻击状态时，可使直到同稀有度的花瓣暂时掉落在地面上。"
 		},
 		"magic_citron": {
 			"name": "魔法黄水晶",
@@ -2835,7 +2835,7 @@
 		},
 		"magic_opal": {
 			"name": "魔法蛋白石",
-			"desc": "使所有与你相同或小于此花瓣品质的花瓣有25% 概率在 5 秒内造成 5 倍伤害，75% 概率造成 0 倍伤害。终末稀有度时为 6.5 倍，唯一稀有度时为 8 倍。"
+			"desc": "使所有直到同稀有度的花瓣有25% 概率在 5 秒内造成 5 倍伤害，75% 概率造成 0 倍伤害。终末稀有度时为 6.5 倍，唯一稀有度时为 8 倍。"
 		},
 		"magic_topaz": {
 			"name": "魔法黄玉",
@@ -2847,11 +2847,11 @@
 		},
 		"golden_cactus": {
 			"name": "金仙人掌",
-			"desc": "增加你的花瓣耐久，不能叠加。"
+			"desc": "增加你的花瓣耐久。不能叠加。"
 		},
 		"magic_quartz": {
 			"name": "魔法石英",
-			"desc": "使与此花瓣相同稀有度相同及以下的花瓣获得一定几率跳过副冷却。"
+			"desc": "使直到同稀有度的花瓣获得一定几率跳过副冷却。"
 		},
 		"coconut": {
 			"name": "椰子",
@@ -2887,7 +2887,7 @@
 		},
 		"kitty": {
 			"name": "猫猫",
-			"desc": "薛定谔的猫，当你的花瓣没有被任何人（包括你自己）看到时，它会给你所有的花瓣12.5%的机会造成4倍的伤害。这个花瓣必须完全脱离任何观察者的视线，才能变得至关重要。适用于所有直到同样稀有度的花瓣。概率受幸运草影。"
+			"desc": "薛定谔的猫，在当你的花瓣没有被任何人（包括你自己）看到时，它会给你所有的花瓣12.5%的机会造成4倍的伤害。这个花瓣必须完全脱离任何观察者的视线，才能变得至关重要。适用于所有直到同样稀有度的花瓣。概率受幸运草影响。"
 		},
 		"sacrifice": {
 			"name": "血祭",
@@ -2903,22 +2903,22 @@
 		},
 		"magic_sacrifice": {
 			"name": "魔法血祭",
-			"desc": "A magical ritual that lets you spawn 2 pets based on the area of the map the sacrifice is performed. Can't be performed in low rarity zones."
+			"desc": "一种神奇的仪式，能根据施法地点所在的地图区域生成两只宠物。此仪式不能在稀有度较低的区域施展。"
 		},
 		"magic_fission": {
-			"name": "Magic Fission",
-			"desc": "Makes the petal to the right of it till same rarity split a couple times upon death. For example: Super Fission+Super Cactus = the Super Cactus will split a few times before reloading again like Coral."
+			"name": "魔法裂变",
+			"desc": "让其右侧直到同稀有度的花瓣在被摧毁时分裂几次。例如：超级裂变+超级仙人掌 = 超级仙人掌在重新加载前会像珊瑚那样分裂几次。"
 		},
 		"golden_nazar": {
-			"name": "Golden Nazar",
+			"name": "金邪眼护符",
 			"desc": "它会让你的花瓣免疫几次伤害，然后进入冷却。不会叠加。"
 		},
 		"schizo": {
 			"name": "精神分裂症",
-			"desc": "让你超越现实世界，能够俯瞰远方遥远的景象……"
+			"desc": "让你超越现实世界，能够俯瞰远方的实体……"
 		},
 		"abacus": {
-			"name": "Abacus",
+			"name": "算盘",
 			"desc": "Its damage changes to 0%, 25%, 50%, 75% or 100% of its base damage every 10min. If you can't do basic math, use this or go back to elementary."
 		},
 		"cyanide_pill": {
@@ -3941,7 +3941,7 @@
 		"flowerArmor": "花朵护甲",
 		"petalCritical": "花瓣暴击",
 		"petalReloadSkipRate": "花瓣跳过冷却概率",
-		"petalSecondaryReloadSkipRate": "花瓣副冷却效果概率",
+		"petalSecondaryReloadSkipRate": "花瓣跳过副冷却概率",
 		"blockDamage": "伤害格挡数",
 		"petBlockDamage": "宠物伤害格挡数",
 		"petalBlockDamage": "Petal Block Damage",
