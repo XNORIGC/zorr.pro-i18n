@@ -2919,7 +2919,7 @@
 		},
 		"abacus": {
 			"name": "算盘",
-			"desc": "Its damage changes to 0%, 25%, 50%, 75% or 100% of its base damage every 10min. If you can't do basic math, use this or go back to elementary."
+			"desc": "它的伤害每10分钟变为基础伤害的0%、25%、50%、75%或100%。如果你不会做基本的数学，用这个或者回到小学。"
 		},
 		"cyanide_pill": {
 			"name": "Cyanide Pill",
@@ -4035,7 +4035,7 @@
 		"senseRange": "感知范围",
 		"relativityReloadFactor": "相对加载系数",
 		"relativitySecondaryReloadFactor": "相对副加载系数",
-		"splitPetal": "Split Petal",
+		"splitPetal": "花瓣分裂次数",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
