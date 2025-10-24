@@ -2936,6 +2936,14 @@
 		"magic_pumpkin_seed": {
 			"name": "Magic Pumpkin Seed",
 			"desc": "Once it consumes enough magic & regenerates itself, it can keep doing magic forever just for you <3"
+		},
+		"knife": {
+			"name": "Knife",
+			"desc": "An antique World War 3 knife from the future. Once it reloads, it can keep respawning forever but it also tries to punture you all the time unless you learn how to use it effectively."
+		},
+		"devils_plague": {
+			"name": "Devil's Plague",
+			"desc": "Hel shall be brought down on whatever chooses to face you."
 		}
 	},
 	"achievements": {
@@ -3980,7 +3988,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Es": " Es",
+		"ys": "Ys",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
