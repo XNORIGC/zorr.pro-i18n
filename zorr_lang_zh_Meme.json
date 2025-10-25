@@ -2926,24 +2926,24 @@
 			"desc": "Removes corruption from you and other baddies and turns them back into a nice lil flower. Might be useful when your crimes are made public :3"
 		},
 		"pumpkin_egg": {
-			"name": "Pumpkin Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "南瓜蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"pumpkin_seed": {
-			"name": "Pumpkin Seed",
+			"name": "南瓜种子",
 			"desc": "Once it reloads, you can keep eating it forever..."
 		},
 		"magic_pumpkin_seed": {
-			"name": "Magic Pumpkin Seed",
+			"name": "魔法南瓜种子",
 			"desc": "Once it consumes enough magic & regenerates itself, it can keep doing magic forever just for you <3"
 		},
 		"knife": {
-			"name": "Knife",
+			"name": "刀",
 			"desc": "An antique World War 3 knife from the future. Once it reloads, it can keep respawning forever but it also tries to punture you all the time unless you learn how to use it effectively."
 		},
 		"devils_plague": {
-			"name": "Devil's Plague",
-			"desc": "Hel shall be brought down on whatever chooses to face you."
+			"name": "恶魔的瘟疫",
+			"desc": "不管谁选择与你对立，它都将受到地狱般的痛苦。"
 		}
 	},
 	"achievements": {
@@ -3944,7 +3944,7 @@
 		"petalSecondaryReloadSkipRate": "花瓣跳过副冷却概率",
 		"blockDamage": "伤害格挡数",
 		"petBlockDamage": "宠物伤害格挡数",
-		"petalBlockDamage": "Petal Block Damage",
+		"petalBlockDamage": "花瓣伤害阻挡次数",
 		"spreadDamage": "伤害分摊",
 		"radiationRange": "辐射范围",
 		"radiationPoison": "辐射毒伤",
@@ -3998,7 +3998,7 @@
 		"flowerArmorBuff": "花朵护甲增加",
 		"finalDamage": "最终伤害",
 		"split": "分裂",
-		"transcendence": "Transcendence",
+		"transcendence": "超越程度",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
