@@ -24,10 +24,8 @@
 		"privacy": "隐私政策",
 		"terms": "服务条款",
 		"wiki": "维基",
-		"inventory": "背包",
-		"stack": "堆叠",
-		"inventoryInstructions": "拖放花瓣以装备。",
 		"talents": "天赋",
+		"inventory": "背包",
 		"craft": "合成",
 		"mobGallery": "生物图鉴",
 		"yourProfile": "你的资料",
@@ -38,6 +36,8 @@
 		"joinDiscord": "加入我们的Discord服务器！",
 		"leaveGame": "离开游戏",
 		"dailyStreakRewards": "每日签到奖励",
+		"inventoryInstructions": "拖放花瓣以装备。",
+		"stack": "堆叠",
 		"findPublic": "加入随机公开小队",
 		"new": "创建",
 		"leave": "离开",
@@ -2939,7 +2939,7 @@
 		},
 		"knife": {
 			"name": "刀",
-			"desc": "一把来自未来第三次世界大战古董刀。当它冷却结束后，它可以一直重生，但它也会一直试图刺穿你，除非你学会如何有效地使用它。"
+			"desc": "An antique World War 3 knife from the future. Once it reloads, it can keep respawning forever but it also tries to puncture you all the time unless you learn how to use it effectively."
 		},
 		"devils_plague": {
 			"name": "恶魔的瘟疫",
@@ -4388,7 +4388,7 @@
 			"desc": "杀死你。"
 		},
 		"sprite": {
-			"desc": "显示花瓣精灵表。"
+			"desc": "Shows petal sprite."
 		},
 		"spawn_diff": {
 			"desc": "使用难度生成生物。"
