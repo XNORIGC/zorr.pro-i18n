@@ -24,10 +24,8 @@
 		"privacy": "隱私政策",
 		"terms": "服務條款",
 		"wiki": "維基",
-		"inventory": "藏",
-		"stack": "堆疊",
-		"inventoryInstructions": "拖曳花瓣以佩之",
 		"talents": "天賦",
+		"inventory": "藏",
 		"craft": "合成",
 		"mobGallery": "妖怪圖鑑",
 		"yourProfile": "您的個人資料",
@@ -38,6 +36,8 @@
 		"joinDiscord": "加入我們的伺服器！",
 		"leaveGame": "退出遊戲",
 		"dailyStreakRewards": "連續簽到能獲得的加成",
+		"inventoryInstructions": "拖曳花瓣以佩之",
+		"stack": "堆疊",
 		"findPublic": "尋找隊伍",
 		"new": "創建新的隊伍",
 		"leave": "離開現在的隊伍",
@@ -2939,7 +2939,7 @@
 		},
 		"knife": {
 			"name": "Knife",
-			"desc": "An antique World War 3 knife from the future. Once it reloads, it can keep respawning forever but it also tries to punture you all the time unless you learn how to use it effectively."
+			"desc": "An antique World War 3 knife from the future. Once it reloads, it can keep respawning forever but it also tries to puncture you all the time unless you learn how to use it effectively."
 		},
 		"devils_plague": {
 			"name": "Devil's Plague",
@@ -4388,7 +4388,7 @@
 			"desc": "誅戮爾身。"
 		},
 		"sprite": {
-			"desc": "顯示花瓣之圖鑑。"
+			"desc": "Shows petal sprite."
 		},
 		"spawn_diff": {
 			"desc": "據難易度現物。"
