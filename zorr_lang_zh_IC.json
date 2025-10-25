@@ -2922,8 +2922,8 @@
 			"desc": "它的伤害每10分钟变为基础伤害的0%、25%、50%、75%或100%。如果你不会做基本的数学，用这个或者回到小学。"
 		},
 		"cyanide_pill": {
-			"name": "Cyanide Pill",
-			"desc": "Removes corruption from you and other baddies and turns them back into a nice lil flower. Might be useful when your crimes are made public :3"
+			"name": "氰化物药丸",
+			"desc": "去除你和其他坏人的腐化，把他们变回一朵漂亮的小花。可能会在你的罪行被公之于众时有用 :3"
 		},
 		"pumpkin_egg": {
 			"name": "南瓜蛋",
@@ -2931,11 +2931,11 @@
 		},
 		"pumpkin_seed": {
 			"name": "南瓜种子",
-			"desc": "Once it reloads, you can keep eating it forever..."
+			"desc": "一旦它冷却结束，你就可以一直吃它..."
 		},
 		"magic_pumpkin_seed": {
 			"name": "魔法南瓜种子",
-			"desc": "Once it consumes enough magic & regenerates itself, it can keep doing magic forever just for you <3"
+			"desc": "一旦它消耗了足够的魔法并恢复了自己，它就可以一直为你做魔法了 <3"
 		},
 		"knife": {
 			"name": "刀",
@@ -3811,7 +3811,7 @@
 		},
 		"sinbadx": {
 			"name": "SinbadX",
-			"desc": "diep youtuber moment"
+			"desc": "diep油管主时刻"
 		},
 		"zactus": {
 			"name": "仙入掌",
@@ -4075,7 +4075,7 @@
 		"petalCachedRendering": "花瓣缓存渲染",
 		"extremeFreezeFix": "严重卡死修复",
 		"showIcons": "显示图标",
-		"lazyRenderIcons": "Lazy Render Icons",
+		"lazyRenderIcons": "延迟渲染图标",
 		"showIconCount": "Show Icon Count",
 		"@minIconRarity": "@min Icon Rarity",
 		"#game": "#游戏",
