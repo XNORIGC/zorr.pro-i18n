@@ -2940,7 +2940,7 @@
 		},
 		"knife": {
 			"name": "刀",
-			"desc": "An antique World War 3 knife from the future. Once it reloads, it can keep respawning forever but it also tries to puncture you all the time unless you learn how to use it effectively."
+			"desc": "来自未来的第三次世界大战古董匕首。它在冷却结束后可以无限生成，但如果你不会熟练使用，它会不停地刺向你自己。"
 		},
 		"devils_plague": {
 			"name": "恶魔的瘟疫",
