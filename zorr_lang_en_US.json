@@ -2060,7 +2060,7 @@
 		},
 		"trident": {
 			"name": "Trident",
-			"desc": "It breaks if someone else yields a higher Trident in the same server."
+			"desc": "It breaks if someone else yields a higher rarity Trident in the same server."
 		},
 		"bandages": {
 			"name": "Bandages",
@@ -2945,6 +2945,14 @@
 		"devils_plague": {
 			"name": "Devil's Plague",
 			"desc": "Hel shall be brought down on whatever chooses to face you."
+		},
+		"magic_trident": {
+			"name": "Magic Trident",
+			"desc": "A magical Trident that increases its damage the faster a witchcraft practioner moves. Goes upto 5x damage at 20x speed. Breaks if someone else yields a higher rarity Magic Trident in the same server."
+		},
+		"sugarcane": {
+			"name": "Sugarcane",
+			"desc": "It can get really really long when it spawns..."
 		}
 	},
 	"achievements": {
@@ -3989,7 +3997,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"vs": "Vs",
+		"xs": "Xs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4065,18 +4073,22 @@
 		"invertAttackButton": "Invert Attack Button",
 		"invertDefendButton": "Invert Defend Button",
 		"#chat": "#chat",
+		"@chatSize": "@chat Size",
+		"@minKillLogRarity": "@min Kill Log Rarity",
+		"@minCraftLogRarity": "@min Craft Log Rarity",
 		"showChat": "Show Chat",
 		"showUserChats": "Show User Chats",
 		"showDropLogs": "Show Drop Logs",
 		"showBlocked": "Show Blocked",
 		"#performance": "#performance",
+		"@uiScale": "@ui Scale",
+		"@res": "@res",
+		"@iconRes": "@icon Res",
+		"@minDropRarity": "@min Drop Rarity",
 		"potatoHardware": "Potato Hardware",
 		"mapCachedRendering": "Map Cached Rendering",
 		"mobCachedRendering": "Mob Cached Rendering",
 		"petalCachedRendering": "Petal Cached Rendering",
-		"showIcons": "Show Icons",
-		"lazyRenderIcons": "Lazy Render Icons",
-		"@minIconRarity": "@min Icon Rarity",
 		"#game": "#game",
 		"showOtherPetals": "Show Other Petals",
 		"showOtherPets": "Show Other Pets",
@@ -4152,7 +4164,6 @@
 		"minKillLogRarity": "Min Kill Log Rarity",
 		"minCraftLogRarity": "Min Craft Log Rarity",
 		"minDropRarity": "Min Drop Rarity",
-		"minIconRarity": "Min Icon Rarity",
 		"mobHudCount": "Mob Hud Count",
 		"chatSize": "Chat Size",
 		"maxMagicPets": "Max Magic Pets",
