@@ -2060,7 +2060,7 @@
 		},
 		"trident": {
 			"name": "三叉戟",
-			"desc": "如果同一服务器有人得到更高级的三叉戟，它将被摧毁。"
+			"desc": "It breaks if someone else yields a higher rarity Trident in the same server."
 		},
 		"bandages": {
 			"name": "绷带",
@@ -2945,6 +2945,14 @@
 		"devils_plague": {
 			"name": "恶魔的瘟疫",
 			"desc": "不管谁选择与你对立，它都将受到地狱般的痛苦。"
+		},
+		"magic_trident": {
+			"name": "Magic Trident",
+			"desc": "A magical Trident that increases its damage the faster a witchcraft practioner moves. Goes upto 5x damage at 20x speed. Breaks if someone else yields a higher rarity Magic Trident in the same server."
+		},
+		"sugarcane": {
+			"name": "Sugarcane",
+			"desc": "It can get really really long when it spawns..."
 		}
 	},
 	"achievements": {
@@ -3989,7 +3997,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"vs": "Vs",
+		"xs": "Xs",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4065,18 +4073,22 @@
 		"invertAttackButton": "反转攻击控制",
 		"invertDefendButton": "反转防御控制",
 		"#chat": "#聊天",
+		"@chatSize": "@chat Size",
+		"@minKillLogRarity": "@min Kill Log Rarity",
+		"@minCraftLogRarity": "@min Craft Log Rarity",
 		"showChat": "显示聊天",
 		"showUserChats": "显示用户聊天",
 		"showDropLogs": "显示掉落日志",
 		"showBlocked": "显示屏蔽内容",
 		"#performance": "#性能",
+		"@uiScale": "@ui Scale",
+		"@res": "@res",
+		"@iconRes": "@icon Res",
+		"@minDropRarity": "@min Drop Rarity",
 		"potatoHardware": "土豆硬件",
 		"mapCachedRendering": "地图缓存渲染",
 		"mobCachedRendering": "生物缓存渲染",
 		"petalCachedRendering": "花瓣缓存渲染",
-		"showIcons": "显示图标",
-		"lazyRenderIcons": "延迟渲染图标",
-		"@minIconRarity": "@min Icon Rarity",
 		"#game": "#游戏",
 		"showOtherPetals": "显示其他玩家的花瓣",
 		"showOtherPets": "显示其他玩家宠物",
@@ -4152,7 +4164,6 @@
 		"minKillLogRarity": "击杀日志最低稀有度",
 		"minCraftLogRarity": "合成日志最低品质",
 		"minDropRarity": "最小稀有度掉落",
-		"minIconRarity": "Min Icon Rarity",
 		"mobHudCount": "平视显示器生物数",
 		"chatSize": "聊天大小",
 		"maxMagicPets": "魔法宠物上限",
