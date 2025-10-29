@@ -2060,7 +2060,7 @@
 		},
 		"trident": {
 			"name": "三叉戟",
-			"desc": "若他人持更強之戟於此域，則毀。"
+			"desc": "It breaks if someone else yields a higher rarity Trident in the same server."
 		},
 		"bandages": {
 			"name": "素帛",
@@ -2945,6 +2945,14 @@
 		"devils_plague": {
 			"name": "Devil's Plague",
 			"desc": "Hel shall be brought down on whatever chooses to face you."
+		},
+		"magic_trident": {
+			"name": "Magic Trident",
+			"desc": "A magical Trident that increases its damage the faster a witchcraft practioner moves. Goes upto 5x damage at 20x speed. Breaks if someone else yields a higher rarity Magic Trident in the same server."
+		},
+		"sugarcane": {
+			"name": "Sugarcane",
+			"desc": "It can get really really long when it spawns..."
 		}
 	},
 	"achievements": {
@@ -3989,7 +3997,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"vs": "Vs",
+		"xs": "Xs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4065,18 +4073,22 @@
 		"invertAttackButton": "反攻之鈕",
 		"invertDefendButton": "反御之鈕",
 		"#chat": "#chat",
+		"@chatSize": "@chat Size",
+		"@minKillLogRarity": "@min Kill Log Rarity",
+		"@minCraftLogRarity": "@min Craft Log Rarity",
 		"showChat": "顯言",
 		"showUserChats": "顯眾之言",
 		"showDropLogs": "顯掉落錄",
 		"showBlocked": "顯攔截錄",
 		"#performance": "#performance",
+		"@uiScale": "@ui Scale",
+		"@res": "@res",
+		"@iconRes": "@icon Res",
+		"@minDropRarity": "@min Drop Rarity",
 		"potatoHardware": "薯硬體",
 		"mapCachedRendering": "Map Cached Rendering",
 		"mobCachedRendering": "Mob Cached Rendering",
 		"petalCachedRendering": "Petal Cached Rendering",
-		"showIcons": "顯符",
-		"lazyRenderIcons": "Lazy Render Icons",
-		"@minIconRarity": "@min Icon Rarity",
 		"#game": "#game",
 		"showOtherPetals": "顯他瓣",
 		"showOtherPets": "Show Other Pets",
@@ -4152,7 +4164,6 @@
 		"minKillLogRarity": "Min Kill Log Rarity",
 		"minCraftLogRarity": "Min Craft Log Rarity",
 		"minDropRarity": "Min Drop Rarity",
-		"minIconRarity": "Min Icon Rarity",
 		"mobHudCount": "Mob Hud Count",
 		"chatSize": "Chat Size",
 		"maxMagicPets": "Max Magic Pets",
