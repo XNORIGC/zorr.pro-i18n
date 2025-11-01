@@ -2953,6 +2953,14 @@
 		"sugarcane": {
 			"name": "Sugarcane",
 			"desc": "It can get really really long when it spawns..."
+		},
+		"magic_pollen": {
+			"name": "Magic Pollen",
+			"desc": "It keeps duplicating & falling forever due to its magical abilities..."
+		},
+		"magic_latrine": {
+			"name": "Magic Latrine",
+			"desc": "Magical liquidy bad bad poopy substance that keeps falling till eternity cos yes lol"
 		}
 	},
 	"achievements": {
@@ -3822,6 +3830,10 @@
 			"name": "SinbadX",
 			"desc": "diep博主时刻"
 		},
+		"white": {
+			"name": "White",
+			"desc": "#fff asf moment"
+		},
 		"zactus": {
 			"name": "仙入掌",
 			"desc": "唐唐的仙人掌"
@@ -3997,7 +4009,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"xs": "Xs",
+		"Ss": " Ss",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4089,6 +4101,7 @@
 		"mapCachedRendering": "地图缓存渲染",
 		"mobCachedRendering": "生物缓存渲染",
 		"petalCachedRendering": "花瓣缓存渲染",
+		"showIcons": "Show Icons",
 		"#game": "#游戏",
 		"showOtherPetals": "显示其他玩家的花瓣",
 		"showOtherPets": "显示其他玩家宠物",
