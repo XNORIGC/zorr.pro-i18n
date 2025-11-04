@@ -2961,6 +2961,10 @@
 		"magic_latrine": {
 			"name": "Magic Latrine",
 			"desc": "Magical liquidy bad bad poopy substance that keeps falling till eternity cos yes lol"
+		},
+		"nut": {
+			"name": "Nut",
+			"desc": "These nuts don't spawn unless you have 3 of the same rarity equipped."
 		}
 	},
 	"achievements": {
@@ -4009,7 +4013,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ss": " Ss",
+		"As": " As",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
