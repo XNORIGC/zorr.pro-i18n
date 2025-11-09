@@ -2868,7 +2868,7 @@
 		},
 		"root": {
 			"name": "树根",
-			"desc": "增加花朵护甲，但是会降低花朵移速。"
+			"desc": "Buffs flower armor but your flower can't move."
 		},
 		"coral": {
 			"name": "珊瑚",
@@ -2965,6 +2965,10 @@
 		"nut": {
 			"name": "Nut",
 			"desc": "These nuts don't spawn unless you have 3 of the same rarity equipped."
+		},
+		"toilet_paper": {
+			"name": "Toilet Paper",
+			"desc": "Everytime your health falls from over 90% to below 10%, it increases its damage by 10x for 10s. This is what you should use after taking a dump on a nazar beetle :3"
 		}
 	},
 	"achievements": {
@@ -4013,7 +4017,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"As": " As",
+		"xs": "Xs",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
