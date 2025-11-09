@@ -165,9 +165,9 @@
 			"用花瓣來換取隨機一枚硬幣。"
 		],
 		"forgeInfo": [
-			"Find the Titan in Void. Craft Omega petals into Unique petals.",
-			"Starting price for a Unique petal is 5 Omega & it increases by 1 after each craft globally.",
-			"Minimum price is shown here, the actual price is calculated when you forge and might differ."
+			"在虛境中尋找泰坦。將終末花瓣合成為唯一花瓣。",
+			"唯一花瓣的初始合成價為5個終末花瓣，且每次合成後全球價格永久增加1個。",
+			"此處顯示的是最低價格，實際合成時計算的價格可能有所不同。"
 		],
 		"prev": "上一個",
 		"next": "下一個",
@@ -813,8 +813,8 @@
 			"desc": "速度極快。還有堅硬的外骨骼。"
 		},
 		"yeba": {
-			"name": "Yeba",
-			"desc": "Used to be a bigshot. Got addicted to sniffing powder, his wife left him and now he is stuck here, in the sewers."
+			"name": "尤巴",
+			"desc": "曾經是個大人物。後來沉迷吸毒，妻子離他而去，如今困在下水道裡。"
 		},
 		"trashcan": {
 			"name": "垃圾桶",
@@ -830,7 +830,7 @@
 		},
 		"poostorm": {
 			"name": "大糞風暴",
-			"desc": "A shitty storm"
+			"desc": "一場屎尿風暴"
 		},
 		"silverfish": {
 			"name": "蠹魚",
@@ -853,40 +853,40 @@
 			"desc": "一位邊排泄邊移動的盟友。毒傷可堆叠。"
 		},
 		"manhole": {
-			"name": "Manhole",
-			"desc": "The poopy hole of a poopy creature. The substance it throws out gives stacking infections."
+			"name": "老鼠洞",
+			"desc": "糞便生物的排泄孔洞。其拋出的物質會造成疊加感染。"
 		},
 		"pooworm": {
-			"name": "Pooworm",
-			"desc": "A very fat long poopy creature living in the gutter."
+			"name": "糞便蟲",
+			"desc": "一隻住在排水溝裡、非常肥胖的長條狀糞便生物。"
 		},
 		"monkey": {
 			"name": "猴",
-			"desc": "A self-proclaimed angel of monkanity."
+			"desc": "自稱monkanity的天使。"
 		},
 		"bat": {
-			"name": "Bat",
-			"desc": "I AM ZATRICK BATMAN"
+			"name": "蝙蝠",
+			"desc": "我是蝙蝠俠"
 		},
 		"lily_pad": {
-			"name": "Lily Pad",
-			"desc": "Just a plant floating on the ocean surface."
+			"name": "睡蓮葉",
+			"desc": "只是一種漂浮在海面上的植物。"
 		},
 		"titan": {
-			"name": "Titan",
-			"desc": "Let's you exchange Omega petals for Unique petals."
+			"name": "泰坦",
+			"desc": "可讓您用終末花瓣兌換唯一花瓣。"
 		},
 		"bat_cave": {
-			"name": "Bat Cave",
-			"desc": "The dark cave of Batman."
+			"name": "蝙蝠洞",
+			"desc": "蝙蝠俠的黑暗洞穴。"
 		},
 		"vampire_digger": {
-			"name": "Vampire Digger",
-			"desc": "Very spooky, steals your health when you get hit."
+			"name": "垃圾桶挖掘者",
+			"desc": "非常詭異，會在您被擊中時偷取生命值。"
 		},
 		"pumpkin": {
-			"name": "Pumpkin",
-			"desc": "Maybe the Pumpkin caused it..."
+			"name": "南瓜",
+			"desc": "可能這都是南瓜造成的……"
 		}
 	},
 	"petals": {
@@ -1012,7 +1012,7 @@
 		},
 		"salt": {
 			"name": "鹽晶",
-			"desc": "Reflects damage done to the flower back to the enemy. Reflection reduces by 90% if you have Sponge."
+			"desc": "將對花朵造成的傷害反射給敵人。若擁有海綿，反射效果會降低90%。"
 		},
 		"antennae": {
 			"name": "觸角",
@@ -1304,7 +1304,7 @@
 		},
 		"laser": {
 			"name": "鐳射",
-			"desc": "Can cause severe burns. Fire stacks."
+			"desc": "可以導致嚴重灼傷。火焰效果可疊加。"
 		},
 		"mark": {
 			"name": "烙印",
@@ -1420,7 +1420,7 @@
 		},
 		"plank": {
 			"name": "木板",
-			"desc": "对敌方弹射物造成300倍伤害。对终末品质的弹射物造成600倍伤害。对唯一品质的弹射物造成900倍伤害"
+			"desc": "對敵方投射物造成300倍傷害。終末等級時提升至600倍傷害。唯一等級時達900倍傷害"
 		},
 		"icicle": {
 			"name": "冰錐",
@@ -1428,7 +1428,7 @@
 		},
 		"dice": {
 			"name": "骰子",
-			"desc": "Has 8% chance of dealing 69x damage. Rate is affected by Clover."
+			"desc": "有8%概率打出69倍傷害，几率受幸運草影響。"
 		},
 		"cryo_bomb": {
 			"name": "寒霜爆彈",
@@ -1652,7 +1652,7 @@
 		},
 		"rattle": {
 			"name": "響尾",
-			"desc": "Increases agro range."
+			"desc": "增加仇恨範圍。"
 		},
 		"cicada_egg": {
 			"name": "蟬之卵",
@@ -1748,7 +1748,7 @@
 		},
 		"mirror": {
 			"name": "鏡",
-			"desc": "Reflects missiles upto rarity+1. Damage of missiles with rarity higher than it is nerfed by 95%. For example, Ultra Mirror can relect Super Hornet's Missile but its damage will be reduced by 50%."
+			"desc": "可反射稀有度+1以下的飛彈。稀有度高於自身的飛彈傷害將削弱95%。舉例來說，超極鏡面可反射超級大黃蜂的飛彈，但其傷害會降低50%。"
 		},
 		"comb": {
 			"name": "櫛",
@@ -1792,7 +1792,7 @@
 		},
 		"plasma": {
 			"name": "炎漿",
-			"desc": "Very hot state of matter. Lightning stikes multi hit the same target."
+			"desc": "物質的極高熱狀態。閃電會對同一目標進行多重打擊。"
 		},
 		"quantum": {
 			"name": "玄子",
@@ -1800,7 +1800,7 @@
 		},
 		"claw": {
 			"name": "利爪",
-			"desc": "Deals 7x damage when enemy health is over 70%."
+			"desc": "當敵方生命值超過70%時，造成7倍傷害。"
 		},
 		"electric_eel_egg": {
 			"name": "電鰻之卵",
@@ -1912,7 +1912,7 @@
 		},
 		"chilly": {
 			"name": "寒椒",
-			"desc": "It burns."
+			"desc": "它在燃燒。"
 		},
 		"tomato": {
 			"name": "番茄",
@@ -1964,7 +1964,7 @@
 		},
 		"fan": {
 			"name": "扇",
-			"desc": "Reduces incoming burns on you. Stacks in harmonic series."
+			"desc": "減少您所受的燃燒效果。以調和形式疊加。"
 		},
 		"graphite": {
 			"name": "石墨",
@@ -1992,7 +1992,7 @@
 		},
 		"fusion": {
 			"name": "融合",
-			"desc": "Fuses multiple petals of the same type placed right to it till the same rarity into a single stronger petal. For example: If you have Super Fusion and 3 Super Bone right to it, you will get a single 3x stronger Super Bone (damage, armor, health, etc)."
+			"desc": "可將右側相同類型、相同稀有度的多個花瓣融合成單一強化花瓣。例如：若您擁有超級融合及右側3個超級骨頭，將獲得單一強化3倍的超級骨頭（傷害、護甲、生命值等皆提升）。"
 		},
 		"fission": {
 			"name": "裂變",
@@ -2060,7 +2060,7 @@
 		},
 		"trident": {
 			"name": "三叉戟",
-			"desc": "It breaks if someone else yields a higher rarity Trident in the same server."
+			"desc": "若同一伺服器中有人持有更高稀有度的三叉戟，它就會破裂。"
 		},
 		"bandages": {
 			"name": "素帛",
@@ -2068,7 +2068,7 @@
 		},
 		"talisman": {
 			"name": "辟邪符",
-			"desc": "Makes your flower evade damage. Stacks in harmonic series & is capped at 75% evasion."
+			"desc": "讓您的花朵閃避傷害。以調和形式疊加，閃避上限為75%。"
 		},
 		"job_application": {
 			"name": "職牒",
@@ -2256,7 +2256,7 @@
 		},
 		"magic_battery": {
 			"name": "術法雷池",
-			"desc": "It stores your mana and repays them back to you with 400% interest after some time. In simpler words, it will take X mana to spawn and then give you 5X mana after a while."
+			"desc": "它會儲存你的魔力，並在一段時間後以400%的利息返還。簡單來說，它會消耗X點魔力生成，之後返還你5X點魔力。"
 		},
 		"magic_bubble": {
 			"name": "術法泡",
@@ -2280,7 +2280,7 @@
 		},
 		"magic_salt": {
 			"name": "術法鹽晶",
-			"desc": "It reflects damage to all nearby foes using magic, not just the perpetrator. Reflection reduces by 90% if you have Sponge."
+			"desc": "它會以魔法將傷害反射給所有附近敵人，而非僅限攻擊者。若裝備海綿，反射效果將降低90%。"
 		},
 		"magic_relic": {
 			"name": "術法遺物",
@@ -2384,7 +2384,7 @@
 		},
 		"magic_aztec_coin": {
 			"name": "魔法阿茲特克錢幣",
-			"desc": "A magic magic cursed coin for the pirates hehe. Trader gives 4x loot for this."
+			"desc": "嘿嘿，這是給海盜的魔法詛咒金幣。商人會為此付出4倍兌換品。"
 		},
 		"queen_bee_egg": {
 			"name": "蜂后之卵",
@@ -2500,34 +2500,34 @@
 		},
 		"shark_egg": {
 			"name": "鯊魚蛋",
-			"desc": "It can hatch and spawn something interesting..."
+			"desc": "它能孵化並生出某種有趣的東西……"
 		},
 		"tooth": {
-			"name": "Tooth",
-			"desc": "A very pointy tooth, restores health when you deal damage using it"
+			"name": "牙",
+			"desc": "一顆非常尖銳的牙齒，使用它造成傷害時可恢復生命值"
 		},
 		"magic_tooth": {
-			"name": "Magic Tooth",
-			"desc": "A magic tooth which can also drain the enemies mana"
+			"name": "魔法牙",
+			"desc": "一枚能同時吸取敵人魔力的魔法牙齒"
 		},
 		"ink": {
-			"name": "Ink",
-			"desc": "Very viscous... also covers your enemies eyes."
+			"name": "墨水",
+			"desc": "非常黏稠……還會遮住敵人的眼睛。"
 		},
 		"squid_egg": {
 			"name": "魷魚蛋",
-			"desc": "It can hatch and spawn something interesting..."
+			"desc": "它能孵化並生出某種有趣的東西……"
 		},
 		"mask": {
 			"name": "口罩",
-			"desc": "It protects you from ZARS-CoV-69 virus. Also reduces its effect."
+			"desc": "它能保護你免受ZARS-CoV-69病毒侵害，同時減輕其影響效果。"
 		},
 		"magic_yuan": {
-			"name": "Magic Yuan",
-			"desc": "The currency of the Magicland."
+			"name": "魔法園",
+			"desc": "哈利波特大陸的通用貨幣。"
 		},
 		"magic_dollar": {
-			"name": "Magic Dollar",
+			"name": "魔法美刀",
 			"desc": "這一個到底值多少錢？"
 		},
 		"magic_bitcoin": {
@@ -2588,14 +2588,14 @@
 		},
 		"magic_honey": {
 			"name": "魔法蜂蜜",
-			"desc": "Reduces the size of your honey tiles."
+			"desc": "縮小你的蜂蜜的範圍。"
 		},
 		"magic_poo": {
-			"name": "Magic Poo",
-			"desc": "Increases the agro range of your pets"
+			"name": "魔法花粉",
+			"desc": "增加你寵物的仇恨範圍"
 		},
 		"magic_blood_scythe": {
-			"name": "Magic Blood Scythe",
+			"name": "魔法血鐮刀",
 			"desc": "Sets you on fire & poison. but deals insane damage."
 		},
 		"magic_zodiac": {
