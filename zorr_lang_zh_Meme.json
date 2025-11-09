@@ -38,7 +38,7 @@
 		"dailyStreakRewards": "每日签到奖励",
 		"inventoryInstructions": "只有萌新才能看到这段话",
 		"stack": "堆叠",
-		"switch": "Switch",
+		"switch": "改变",
 		"findPublic": "加入随机公开小队",
 		"new": "创建",
 		"leave": "离开",
@@ -2060,7 +2060,7 @@
 		},
 		"trident": {
 			"name": "三叉戟",
-			"desc": "It breaks if someone else yields a higher rarity Trident in the same server."
+			"desc": "如果同一服务器中有人获得更高等级的三叉戟，那么这个三叉戟将会失效。"
 		},
 		"bandages": {
 			"name": "绷带",
@@ -2868,7 +2868,7 @@
 		},
 		"root": {
 			"name": "树根",
-			"desc": "Buffs flower armor but your flower can't move."
+			"desc": "为你的花朵提供护甲，但你的花朵不能移动。"
 		},
 		"coral": {
 			"name": "珊瑚",
@@ -2932,7 +2932,7 @@
 		},
 		"pumpkin_seed": {
 			"name": "南瓜种子",
-			"desc": "一旦它冷却结束，你就可以一直吃它..."
+			"desc": "一旦它冷却结束，你就可以一直吃它……"
 		},
 		"magic_pumpkin_seed": {
 			"name": "魔法南瓜种子",
@@ -2947,28 +2947,28 @@
 			"desc": "不管谁选择与你对立，它都将受到地狱般的痛苦。"
 		},
 		"magic_trident": {
-			"name": "Magic Trident",
-			"desc": "A magical Trident that increases its damage the faster a witchcraft practioner moves. Goes upto 5x damage at 20x speed. Breaks if someone else yields a higher rarity Magic Trident in the same server."
+			"name": "魔法三叉戟",
+			"desc": "一把魔法三叉戟，你的速度越快，它的伤害就越高，在达到基础速度20倍时，他的伤害达到顶峰，即5倍。"
 		},
 		"sugarcane": {
-			"name": "Sugarcane",
-			"desc": "It can get really really long when it spawns..."
+			"name": "甘蔗",
+			"desc": "它可能因为内容过多，而导致加载时间很慢……"
 		},
 		"magic_pollen": {
-			"name": "Magic Pollen",
-			"desc": "It keeps duplicating & falling forever due to its magical abilities..."
+			"name": "魔法花粉",
+			"desc": "它因魔法的加持而不断复制并永远坠落……"
 		},
 		"magic_latrine": {
-			"name": "Magic Latrine",
-			"desc": "Magical liquidy bad bad poopy substance that keeps falling till eternity cos yes lol"
+			"name": "魔法污水",
+			"desc": "魔法的液态粑粑般的物质，就这么一直掉啊掉直到永远，因为…管他呢哈哈"
 		},
 		"nut": {
-			"name": "Nut",
-			"desc": "These nuts don't spawn unless you have 3 of the same rarity equipped."
+			"name": "坚果",
+			"desc": "这些坚果需要装备三件相同稀有度的物品才会出现。"
 		},
 		"toilet_paper": {
-			"name": "Toilet Paper",
-			"desc": "Everytime your health falls from over 90% to below 10%, it increases its damage by 10x for 10s. This is what you should use after taking a dump on a nazar beetle :3"
+			"name": "厕纸",
+			"desc": "每次你的生命值从90%以上骤降至10%以下时，它的伤害会提升10倍，持续10秒。这就是你干掉邪眼甲虫后该用的招数 :3"
 		}
 	},
 	"achievements": {
@@ -3839,8 +3839,8 @@
 			"desc": "diep博主时刻"
 		},
 		"white": {
-			"name": "White",
-			"desc": "#fff asf moment"
+			"name": "白色的",
+			"desc": "纯白的极致的瞬间"
 		},
 		"zactus": {
 			"name": "仙入掌",
@@ -4017,7 +4017,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"xs": "Xs",
+		"xs": "就这",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4093,23 +4093,23 @@
 		"invertAttackButton": "反转攻击控制",
 		"invertDefendButton": "反转防御控制",
 		"#chat": "#聊天",
-		"@chatSize": "@chat Size",
-		"@minKillLogRarity": "@min Kill Log Rarity",
-		"@minCraftLogRarity": "@min Craft Log Rarity",
+		"@chatSize": "在线等一个尺寸",
+		"@minKillLogRarity": "最小的击杀记录稀有度",
+		"@minCraftLogRarity": "最小的合成记录稀有度",
 		"showChat": "显示聊天",
 		"showUserChats": "显示用户聊天",
 		"showDropLogs": "显示掉落日志",
 		"showBlocked": "显示屏蔽内容",
 		"#performance": "#性能",
-		"@uiScale": "@ui Scale",
-		"@res": "@res",
-		"@iconRes": "@icon Res",
-		"@minDropRarity": "@min Drop Rarity",
+		"@uiScale": "缩放比例",
+		"@res": "分辨率",
+		"@iconRes": "图标分辨率",
+		"@minDropRarity": "最小掉落稀有度",
 		"potatoHardware": "土豆硬件",
 		"mapCachedRendering": "地图缓存渲染",
 		"mobCachedRendering": "生物缓存渲染",
 		"petalCachedRendering": "花瓣缓存渲染",
-		"showIcons": "Show Icons",
+		"showIcons": "显示图标",
 		"#game": "#游戏",
 		"showOtherPetals": "显示其他玩家的花瓣",
 		"showOtherPets": "显示其他玩家宠物",
@@ -4200,7 +4200,7 @@
 			"desc": "击杀一名玩家。"
 		},
 		"reset_token": {
-			"desc": "Resets token of a player."
+			"desc": "重置玩家身份令牌。"
 		},
 		"afk": {
 			"desc": "为用户提供挂机检查。"
@@ -4419,7 +4419,7 @@
 			"desc": "杀死你。"
 		},
 		"sprite": {
-			"desc": "Shows petal sprite."
+			"desc": "显示花瓣稀有度。"
 		},
 		"spawn_diff": {
 			"desc": "使用难度生成生物。"
