@@ -121,7 +121,7 @@
 		"cmdInfo": "點擊去运行指令。",
 		"stealthMode": "隱身模式",
 		"save": "保存",
-		"includeBothRows": "包括两行",
+		"includeBothRows": "包括兩行",
 		"includeSpinSpeed": "包含轉速",
 		"includeTalents": "包含天賦",
 		"copyCode": "復製代码",
@@ -2596,106 +2596,106 @@
 		},
 		"magic_blood_scythe": {
 			"name": "魔法血鐮刀",
-			"desc": "Sets you on fire & poison. but deals insane damage."
+			"desc": "讓你陷入燃燒與中毒狀態，但能造成瘋狂傷害。"
 		},
 		"magic_zodiac": {
-			"name": "Magic Zodiac",
-			"desc": "Requires a lot of mana, but deals a lot of damage in return."
+			"name": "魔法黃道",
+			"desc": "需要很多的魔力與生成，作為回報，有非常高的傷害。"
 		},
 		"chargesheet": {
-			"name": "Chargesheet",
-			"desc": "Does 100x damage to corrupt individuals of the system."
+			"name": "名字清單",
+			"desc": "對系統中的腐敗份子造成100倍傷害。"
 		},
 		"magic_iodine": {
-			"name": "Magic Iodine",
-			"desc": "Has a magical aura which fills allies with mana."
+			"name": "魔法碘",
+			"desc": "擁有能為盟友補充魔力的魔法光環。"
 		},
 		"magic_iris": {
-			"name": "Magic Iris",
-			"desc": "The magic made it cast the same damage as the enemy is poisoned."
+			"name": "魔法鳶尾",
+			"desc": "魔法使其造成的傷害與敵人所中劇毒的程度相同。"
 		},
 		"golden_palm_leaf": {
-			"name": "Golden Palm Leaf",
-			"desc": "This leaf reduces your secondary petal reload (useTime)"
+			"name": "金色棕櫚葉",
+			"desc": "這片葉子能減少你的第二層花瓣裝填時間（使用間隔）"
 		},
 		"magic_bone": {
-			"name": "Magic Bone",
-			"desc": "The magic made it increase its damage the more Magic Bone you have equipped harmonically (1 + 1/2 + 1/3 + ...)"
+			"name": "魔法骨頭",
+			"desc": "魔法會根據你裝備的魔法骨頭數量，以調和級數（1 + 1/2 + 1/3 + ...）的方式提升其傷害"
 		},
 		"magic_air": {
-			"name": "Magic Air",
-			"desc": "Magical air that inflates your mana capacity."
+			"name": "魔法空氣",
+			"desc": "能擴充魔力容量的魔法空氣。"
 		},
 		"magic_ruby": {
-			"name": "Magic Ruby",
-			"desc": "Stacks explosion damage to a single random target. For example: If you have 3 mobs if your explosion range, only 1 random mob of them will be hurt 3 times."
+			"name": "魔法紅寶石",
+			"desc": "將爆炸傷害疊加至單一隨機目標。例如：若爆炸範圍內有3隻怪物，其中僅隨機1隻會承受3次傷害。"
 		},
 		"roach_egg": {
-			"name": "Roach Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蟑螂蛋",
+			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"legs": {
-			"name": "Legs",
-			"desc": "Glue these 8 legs to your body and you will be able to climb over enemy spider webs"
+			"name": "腿",
+			"desc": "把這八條腿黏在身上，你就能爬過敵人的蜘蛛網"
 		},
 		"yeba_egg": {
-			"name": "Yeba Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "尤巴蛋",
+			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"trashcan_egg": {
-			"name": "Trashcan Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "樂色桶蛋",
+			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"rat_egg": {
-			"name": "Rat Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蝙蝠蛋",
+			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"baby_rat_egg": {
-			"name": "Baby Rat Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "幼鼠蛋",
+			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"poo_stick": {
-			"name": "Poo Stick",
+			"name": "便便木棍",
 			"desc": "Summons deadly farts."
 		},
 		"silverfish_egg": {
-			"name": "Silverfish Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蠹蟲蛋",
+			"desc": "這玩意兒能孵出些有趣的東西……"
 		},
 		"bubonic_plague": {
-			"name": "Bubonic Plague",
-			"desc": "Guess what? It didnt went extinct. Does extra damage to african mobs."
+			"name": "黑死病",
+			"desc": "你猜怎麼著？它根本沒滅絕。對非洲系怪物會造成額外傷害。"
 		},
 		"microplastics": {
-			"name": "Microplastics",
-			"desc": "Goes into the blood of your enemies."
+			"name": "微塑料",
+			"desc": "滲入敵人的血液中。"
 		},
 		"magic_microplastics": {
-			"name": "Magic Microplastics",
-			"desc": "These bigger shards of plastic take longer to absorb, but are a lot more deadly"
+			"name": "魔法微塑料",
+			"desc": "這些較大的塑料碎片需要更長時間才能被吸收，但致命性卻大幅提升"
 		},
 		"poo_mark": {
-			"name": "Poo Mark",
-			"desc": "Sends a dead lil flower to the poopy realm"
+			"name": "便便標記",
+			"desc": "將一朵已逝的小花送往下水道"
 		},
 		"neurotoxin": {
-			"name": "Neurotoxin",
-			"desc": "Affects the motor skills of your enemy. They will not be able to fight effectively."
+			"name": "神經毒素",
+			"desc": "會影響敵人的運動技能，使他們無法有效作戰。"
 		},
 		"whiskers": {
-			"name": "Whiskers",
-			"desc": "Senses danger and speeds you up to save yourself."
+			"name": "鬍鬚",
+			"desc": "能感知危險並加速讓你自救。"
 		},
 		"magic_neurotoxin": {
-			"name": "Magic Neurotoxin",
-			"desc": "Your enemy won't be able to move straight for 5s when hit by it. Works till the same rarity."
+			"name": "魔法神經毒素",
+			"desc": "敵方被擊中後5秒內將無法直線移動。此效果持續至同等稀有度為止。"
 		},
 		"larva_egg": {
-			"name": "Larva Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "幼蟲卵",
+			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"chitin": {
-			"name": "Chitin",
+			"name": "甲質殼",
 			"desc": "Gives you temporary armor for 3s."
 		},
 		"mosquito_egg": {
