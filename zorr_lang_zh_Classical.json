@@ -2868,7 +2868,7 @@
 		},
 		"root": {
 			"name": "Root",
-			"desc": "Buffs flower armor but reduces your movement speed."
+			"desc": "Buffs flower armor but your flower can't move."
 		},
 		"coral": {
 			"name": "Coral",
@@ -2965,6 +2965,10 @@
 		"nut": {
 			"name": "Nut",
 			"desc": "These nuts don't spawn unless you have 3 of the same rarity equipped."
+		},
+		"toilet_paper": {
+			"name": "Toilet Paper",
+			"desc": "Everytime your health falls from over 90% to below 10%, it increases its damage by 10x for 10s. This is what you should use after taking a dump on a nazar beetle :3"
 		}
 	},
 	"achievements": {
@@ -4013,7 +4017,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"As": " As",
+		"xs": "Xs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
