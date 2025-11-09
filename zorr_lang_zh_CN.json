@@ -1,5 +1,5 @@
 {
-	"name": "中文（简体）",
+	"name": "自定义语言 呜哇～",
 	"ui": {
 		"deathInfo": "你死于",
 		"continue": "继续",
@@ -3836,7 +3836,7 @@
 		},
 		"sinbadx": {
 			"name": "辛巴德X",
-			"desc": "diep博主时刻"
+			"desc": "diep 油管主播的经典瞬间"
 		},
 		"white": {
 			"name": "白色的",
