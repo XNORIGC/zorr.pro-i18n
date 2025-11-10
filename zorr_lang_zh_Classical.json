@@ -2752,7 +2752,7 @@
 		},
 		"neem": {
 			"name": "印楝",
-			"desc": "Reduces impact of toxins on you. Stacks harmonically."
+			"desc": "减少毒素對你的影響。以调和级数堆叠。"
 		},
 		"dung": {
 			"name": "Dung",
