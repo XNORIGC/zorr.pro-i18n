@@ -2656,7 +2656,7 @@
 		},
 		"poo_stick": {
 			"name": "便便木棍",
-			"desc": "Summons deadly farts."
+			"desc": "召喚致命屁霧。"
 		},
 		"silverfish_egg": {
 			"name": "蠹魚卵",
@@ -2696,62 +2696,62 @@
 		},
 		"chitin": {
 			"name": "甲質殼",
-			"desc": "Gives you temporary armor for 3s."
+			"desc": "提供持續3秒的臨時護甲。"
 		},
 		"mosquito_egg": {
-			"name": "Mosquito Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蚊子卵",
+			"desc": "它能孵化並生出某種有趣的東西……"
 		},
 		"silk": {
-			"name": "Silk",
-			"desc": "It sticks to your enemy and slowly harms them. Unlike banana, it also detaches from your build."
+			"name": "絲綢",
+			"desc": "它會黏在敵人身上並持續造成傷害。與香蕉不同，它還會從你的構建中脫離。"
 		},
 		"proboscis": {
-			"name": "Proboscis",
-			"desc": "Sucks the life out of the enemy, restoring your hp."
+			"name": "口器",
+			"desc": "吸取敵人的生命力，恢復你的生命值。"
 		},
 		"nazarlion_egg": {
-			"name": "Nazarlion Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "邪眼蒲公英蛋",
+			"desc": "它能孵化並生出某種有趣的東西……"
 		},
 		"trash_digger_egg": {
-			"name": "Trash Digger Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "垃圾挖掘者卵",
+			"desc": "它能孵化並生出某種有趣的東西……"
 		},
 		"latrine": {
-			"name": "Latrine",
-			"desc": "Liquidy bad bad substance. Gives stacking poison to your enemies."
+			"name": "污水",
+			"desc": "液態壞壞物質。會對敵人施加可疊加的中毒效果。"
 		},
 		"manhole_egg": {
-			"name": "Manhole Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "檢修孔卵",
+			"desc": "它能孵化並生出某種有趣的東西……"
 		},
 		"pooworm_egg": {
-			"name": "Pooworm Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "糞便蟲卵",
+			"desc": "它能孵化並生出某種有趣的東西……"
 		},
 		"toy": {
-			"name": "Toy",
-			"desc": "A monkey's favourite object. Doesn't do anything special, just a memorial that you have destroyed a monkey & took his favourite object :3"
+			"name": "玩具",
+			"desc": "一隻猴子最愛的物件。沒什麼特別功能，只是紀念你摧毀了猴子並奪走了他的最愛 :3"
 		},
 		"magic_splitter": {
-			"name": "Magic Splitter",
-			"desc": "Same as splitter but has the negative effect due to its magical origins."
+			"name": "魔法分裂器",
+			"desc": "與分裂器相同，但因其魔法起源而帶有負面效果。"
 		},
 		"magic_slime": {
-			"name": "Magic Slime",
-			"desc": "This one has negative knockback. EWWWWWWW."
+			"name": "魔法黏液",
+			"desc": "這傢伙居然有負擊退效果。噁～～～～～～"
 		},
 		"basil": {
-			"name": "Basil",
-			"desc": "Leaves that heal faster if your health is too low."
+			"name": "羅勒",
+			"desc": "當你生命值過低時，治癒速度更快的葉子。"
 		},
 		"magic_basil": {
-			"name": "Magic Basil",
-			"desc": "Magic leaves that generate mana faster for you if your mana is too low."
+			"name": "魔法羅勒",
+			"desc": "當你的魔力過低時，能為你加速生成魔法的魔法葉子。"
 		},
 		"neem": {
-			"name": "Neem",
+			"name": "印楝",
 			"desc": "Reduces impact of toxins on you. Stacks harmonically."
 		},
 		"dung": {
