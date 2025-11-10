@@ -192,7 +192,7 @@
 			"獲得一個新用戶名。"
 		],
 		"holdToUpgrade": "按住以升級",
-		"notEnoughTp": "TP 不足",
+		"notEnoughTp": "天賦點不足",
 		"edit": "編輯",
 		"export": "導出",
 		"shortcutKeys": "快捷鍵",
@@ -205,7 +205,7 @@
 		"manaDrain": "消耗{1}魔力每秒",
 		"manaToDamage": "需要滿魔力以生成。傷害=0.18*魔力*log2（魔力）*（稀有度+1）^ 3",
 		"growthMana": "需要{1}魔力以生長至最大體型。",
-		"petDupeMana": "需要{1}魔力以欺騙寵物。",
+		"petDupeMana": "複製寵物需要{1}點魔力。",
 		"effectStacks": "特殊傷害效果可以叠加。",
 		"healBlacklisted": "無法接受治療。",
 		"streakRewardTimer": "在{1}后回歸以領取獎勵。",
@@ -2612,11 +2612,11 @@
 		},
 		"magic_iris": {
 			"name": "魔法鳶尾",
-			"desc": "魔法使其造成的傷害與敵人所中劇毒的程度相同。"
+			"desc": "魔法使其造成的傷害與敵人所中劇毒的程度相同，將敵方承受的中毒傷害轉化為它的攻擊傷害。"
 		},
 		"golden_palm_leaf": {
 			"name": "金色棕櫚葉",
-			"desc": "這片葉子能減少你的第二層花瓣裝填時間（使用間隔）"
+			"desc": "這片葉子能減少你的第二層花瓣裝填時間（總使用時間）"
 		},
 		"magic_bone": {
 			"name": "魔法骨頭",
@@ -2659,8 +2659,8 @@
 			"desc": "Summons deadly farts."
 		},
 		"silverfish_egg": {
-			"name": "蠹蟲蛋",
-			"desc": "這玩意兒能孵出些有趣的東西……"
+			"name": "蠹魚卵",
+			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"bubonic_plague": {
 			"name": "黑死病",
