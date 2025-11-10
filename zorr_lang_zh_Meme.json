@@ -2952,7 +2952,7 @@
 		},
 		"sugarcane": {
 			"name": "甘蔗",
-			"desc": "它可能因为内容过多，而导致加载时间很慢……"
+			"desc": "它生成之后可以变得非常非常长……"
 		},
 		"magic_pollen": {
 			"name": "魔法花粉",
@@ -3839,7 +3839,7 @@
 			"desc": "diep 油管主播的经典瞬间"
 		},
 		"white": {
-			"name": "白色的",
+			"name": "白色",
 			"desc": "纯白的极致的瞬间"
 		},
 		"zactus": {
@@ -4017,7 +4017,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"xs": "就这",
+		"xs": "",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4093,18 +4093,18 @@
 		"invertAttackButton": "反转攻击控制",
 		"invertDefendButton": "反转防御控制",
 		"#chat": "#聊天",
-		"@chatSize": "在线等一个尺寸",
-		"@minKillLogRarity": "最小的击杀记录稀有度",
-		"@minCraftLogRarity": "最小的合成记录稀有度",
+		"@chatSize": "@聊天大小",
+		"@minKillLogRarity": "@击杀日志最低稀有度",
+		"@minCraftLogRarity": "@合成日志最低品质",
 		"showChat": "显示聊天",
 		"showUserChats": "显示用户聊天",
 		"showDropLogs": "显示掉落日志",
 		"showBlocked": "显示屏蔽内容",
 		"#performance": "#性能",
-		"@uiScale": "缩放比例",
-		"@res": "分辨率",
-		"@iconRes": "图标分辨率",
-		"@minDropRarity": "最小掉落稀有度",
+		"@uiScale": "@用户界面缩放比例",
+		"@res": "@清晰度",
+		"@iconRes": "@图标清晰度",
+		"@minDropRarity": "@最低掉落品质",
 		"potatoHardware": "土豆硬件",
 		"mapCachedRendering": "地图缓存渲染",
 		"mobCachedRendering": "生物缓存渲染",
@@ -4184,7 +4184,7 @@
 		"uiScale": "用户界面缩放",
 		"minKillLogRarity": "击杀日志最低稀有度",
 		"minCraftLogRarity": "合成日志最低品质",
-		"minDropRarity": "最小稀有度掉落",
+		"minDropRarity": "最小掉落品质",
 		"mobHudCount": "平视显示器生物数",
 		"chatSize": "聊天大小",
 		"maxMagicPets": "魔法宠物上限",
@@ -4419,7 +4419,7 @@
 			"desc": "杀死你。"
 		},
 		"sprite": {
-			"desc": "显示花瓣稀有度。"
+			"desc": "显示花瓣精灵图。"
 		},
 		"spawn_diff": {
 			"desc": "使用难度生成生物。"
