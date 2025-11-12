@@ -3538,6 +3538,10 @@
 			"name": "Wloop",
 			"desc": "We don't know what this really is..."
 		},
+		"wild_flower": {
+			"name": "Wild Flower",
+			"desc": "Why is this so curvy?"
+		},
 		"ara_ara": {
 			"name": "Ara Ara",
 			"desc": "Cute lil flower"
@@ -3842,6 +3846,22 @@
 			"name": "White",
 			"desc": "#fff asf moment"
 		},
+		"bwf": {
+			"name": "BWF",
+			"desc": "Big White Flower"
+		},
+		"zerrorist": {
+			"name": "Zerrorist",
+			"desc": "Kinda looked like a terrorist mask xp"
+		},
+		"candy": {
+			"name": "Candy",
+			"desc": "Kids love it :p"
+		},
+		"freg": {
+			"name": "Freg",
+			"desc": "He lost his lilypad..."
+		},
 		"zactus": {
 			"name": "Zactus",
 			"desc": "Goofy ahh cactus"
@@ -3849,6 +3869,10 @@
 		"5gram": {
 			"name": "5gram",
 			"desc": "It's a big pentagram."
+		},
+		"plus": {
+			"name": "Plus",
+			"desc": "Might be useful to keep the demons away."
 		},
 		"kirby": {
 			"name": "Kirby",
@@ -4992,6 +5016,42 @@
 		"Mana4": {
 			"name": "Mana",
 			"desc": "Increases your mana capacity by {1}%."
+		},
+		"Particle1": {
+			"name": "Particle",
+			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+		},
+		"Particle2": {
+			"name": "Particle",
+			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+		},
+		"Particle3": {
+			"name": "Particle",
+			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+		},
+		"Particle4": {
+			"name": "Particle",
+			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+		},
+		"PetalHealth1": {
+			"name": "Petal Health",
+			"desc": "Increases petal health by {1}%."
+		},
+		"PetalHealth2": {
+			"name": "Petal Health",
+			"desc": "Increases petal health by {1}%."
+		},
+		"PetalHealth3": {
+			"name": "Petal Health",
+			"desc": "Increases petal health by {1}%."
+		},
+		"PetalHealth4": {
+			"name": "Petal Health",
+			"desc": "Increases petal health by {1}%."
+		},
+		"PetalHealth5": {
+			"name": "Petal Health",
+			"desc": "Increases petal health by {1}%."
 		}
 	}
 }
