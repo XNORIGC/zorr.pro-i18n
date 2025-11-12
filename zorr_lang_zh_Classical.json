@@ -2755,7 +2755,7 @@
 			"desc": "减少毒素對你的影響。以调和级数堆叠。"
 		},
 		"dung": {
-			"name": "Dung",
+			"name": "糞便",
 			"desc": "Very hot poo that makes the flower firey."
 		},
 		"pinecone": {
@@ -2852,7 +2852,7 @@
 		},
 		"magic_quartz": {
 			"name": "Magic Quartz",
-			"desc": "Gives your petals till the same rarity some chance to skip secondary reload."
+			"desc": "給你不超過當前稀有度的花瓣一個跳過第二重載的機會"
 		},
 		"coconut": {
 			"name": "Coconut",
