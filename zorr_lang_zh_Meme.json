@@ -3539,8 +3539,8 @@
 			"desc": "我们不知道这到底是什么……"
 		},
 		"wild_flower": {
-			"name": "Wild Flower",
-			"desc": "Why is this so curvy?"
+			"name": "野花",
+			"desc": "为什么这么曲折？"
 		},
 		"ara_ara": {
 			"name": "啊啦啊啦",
@@ -3847,20 +3847,20 @@
 			"desc": "纯白的极致的瞬间"
 		},
 		"bwf": {
-			"name": "BWF",
-			"desc": "Big White Flower"
+			"name": "dà bái huā",
+			"desc": "大 白 花"
 		},
 		"zerrorist": {
-			"name": "Zerrorist",
-			"desc": "Kinda looked like a terrorist mask xp"
+			"name": "总怖分子",
+			"desc": "有点像恐怖分子的面具xp"
 		},
 		"candy": {
-			"name": "Candy",
-			"desc": "Kids love it :p"
+			"name": "糖果",
+			"desc": "孩子们都很喜欢它 :p"
 		},
 		"freg": {
-			"name": "Freg",
-			"desc": "He lost his lilypad..."
+			"name": "草（一种植物）",
+			"desc": "他失去了他的睡莲……"
 		},
 		"zactus": {
 			"name": "仙入掌",
@@ -3871,8 +3871,8 @@
 			"desc": "这是一个巨大的五角星。"
 		},
 		"plus": {
-			"name": "Plus",
-			"desc": "Might be useful to keep the demons away."
+			"name": "加号",
+			"desc": "可能有助于远离恶魔。"
 		},
 		"kirby": {
 			"name": "卡比",
@@ -5018,40 +5018,40 @@
 			"desc": "使你魔力最大容量增加{1}%。"
 		},
 		"Particle1": {
-			"name": "Particle",
-			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+			"name": "粒子",
+			"desc": "如果花瓣有超过{1}个粒子，则添加1个额外粒子。"
 		},
 		"Particle2": {
-			"name": "Particle",
-			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+			"name": "粒子",
+			"desc": "如果花瓣有超过{1}个粒子，则添加1个额外粒子。"
 		},
 		"Particle3": {
-			"name": "Particle",
-			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+			"name": "粒子",
+			"desc": "如果花瓣有超过{1}个粒子，则添加1个额外粒子。"
 		},
 		"Particle4": {
-			"name": "Particle",
-			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+			"name": "粒子",
+			"desc": "如果花瓣有超过{1}个粒子，则添加1个额外粒子。"
 		},
 		"PetalHealth1": {
-			"name": "Petal Health",
-			"desc": "Increases petal health by {1}%."
+			"name": "花瓣生命值",
+			"desc": "花瓣生命值增加{1}%。"
 		},
 		"PetalHealth2": {
-			"name": "Petal Health",
-			"desc": "Increases petal health by {1}%."
+			"name": "花瓣生命值",
+			"desc": "花瓣生命值增加{1}%。"
 		},
 		"PetalHealth3": {
-			"name": "Petal Health",
-			"desc": "Increases petal health by {1}%."
+			"name": "花瓣生命值",
+			"desc": "花瓣生命值增加{1}%。"
 		},
 		"PetalHealth4": {
-			"name": "Petal Health",
-			"desc": "Increases petal health by {1}%."
+			"name": "花瓣生命值",
+			"desc": "花瓣生命值增加{1}%。"
 		},
 		"PetalHealth5": {
-			"name": "Petal Health",
-			"desc": "Increases petal health by {1}%."
+			"name": "花瓣生命值",
+			"desc": "花瓣生命值增加{1}%。"
 		}
 	}
 }
