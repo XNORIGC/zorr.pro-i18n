@@ -3538,6 +3538,10 @@
 			"name": "Wloop",
 			"desc": "我们不知道这到底是什么……"
 		},
+		"wild_flower": {
+			"name": "Wild Flower",
+			"desc": "Why is this so curvy?"
+		},
 		"ara_ara": {
 			"name": "啊啦啊啦",
 			"desc": "可爱的小花"
@@ -3842,6 +3846,22 @@
 			"name": "白色",
 			"desc": "纯白的极致的瞬间"
 		},
+		"bwf": {
+			"name": "BWF",
+			"desc": "Big White Flower"
+		},
+		"zerrorist": {
+			"name": "Zerrorist",
+			"desc": "Kinda looked like a terrorist mask xp"
+		},
+		"candy": {
+			"name": "Candy",
+			"desc": "Kids love it :p"
+		},
+		"freg": {
+			"name": "Freg",
+			"desc": "He lost his lilypad..."
+		},
 		"zactus": {
 			"name": "仙入掌",
 			"desc": "唐唐的仙人掌"
@@ -3849,6 +3869,10 @@
 		"5gram": {
 			"name": "5角星",
 			"desc": "这是一个巨大的五角星。"
+		},
+		"plus": {
+			"name": "Plus",
+			"desc": "Might be useful to keep the demons away."
 		},
 		"kirby": {
 			"name": "卡比",
@@ -4992,6 +5016,42 @@
 		"Mana4": {
 			"name": "魔力",
 			"desc": "使你魔力最大容量增加{1}%。"
+		},
+		"Particle1": {
+			"name": "Particle",
+			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+		},
+		"Particle2": {
+			"name": "Particle",
+			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+		},
+		"Particle3": {
+			"name": "Particle",
+			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+		},
+		"Particle4": {
+			"name": "Particle",
+			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+		},
+		"PetalHealth1": {
+			"name": "Petal Health",
+			"desc": "Increases petal health by {1}%."
+		},
+		"PetalHealth2": {
+			"name": "Petal Health",
+			"desc": "Increases petal health by {1}%."
+		},
+		"PetalHealth3": {
+			"name": "Petal Health",
+			"desc": "Increases petal health by {1}%."
+		},
+		"PetalHealth4": {
+			"name": "Petal Health",
+			"desc": "Increases petal health by {1}%."
+		},
+		"PetalHealth5": {
+			"name": "Petal Health",
+			"desc": "Increases petal health by {1}%."
 		}
 	}
 }
