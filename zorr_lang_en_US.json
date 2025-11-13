@@ -2969,6 +2969,10 @@
 		"toilet_paper": {
 			"name": "Toilet Paper",
 			"desc": "Everytime your health falls from over 90% to below 10%, it increases its damage by 10x for 10s. This is what you should use after taking a dump on a nazar beetle :3"
+		},
+		"pinky_promise": {
+			"name": "Pinky Promise",
+			"desc": "Makes a pact with the mobs & turns you on their side. 2 pinky promised flowers are on the same side & mobs can't hurt them....... . . .... . .  ........ . . . .. .. . ... .. .. XddxDD43434 39#(($)3%(^ yus daddyy winky wromise done xp xp 🥵💦💦👅👅👅 LOL sigmas are here again LOL XD XD XD"
 		}
 	},
 	"achievements": {
@@ -4041,7 +4045,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"xs": "Xs",
+		"Ms": " Ms",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -5052,6 +5056,58 @@
 		"PetalHealth5": {
 			"name": "Petal Health",
 			"desc": "Increases petal health by {1}%."
+		},
+		"CDamage1": {
+			"name": "Corrupt Damage",
+			"desc": "Increases your petal damage by {1}% when you are corrupted."
+		},
+		"CDamage2": {
+			"name": "Corrupt Damage",
+			"desc": "Increases your petal damage by {1}% when you are corrupted."
+		},
+		"CDamage3": {
+			"name": "Corrupt Damage",
+			"desc": "Increases your petal damage by {1}% when you are corrupted."
+		},
+		"CDamage4": {
+			"name": "Corrupt Damage",
+			"desc": "Increases your petal damage by {1}% when you are corrupted."
+		},
+		"CDamage5": {
+			"name": "Corrupt Damage",
+			"desc": "Increases your petal damage by {1}% when you are corrupted."
+		},
+		"CDamage6": {
+			"name": "Corrupt Damage",
+			"desc": "Increases your petal damage by {1}% when you are corrupted."
+		},
+		"CDamage7": {
+			"name": "Corrupt Damage",
+			"desc": "Increases your petal damage by {1}% when you are corrupted."
+		},
+		"CReload1": {
+			"name": "Corrupt Reload",
+			"desc": "Increases your petal reload speed by {1}% when you are corrupted."
+		},
+		"CReload2": {
+			"name": "Corrupt Reload",
+			"desc": "Increases your petal reload speed by {1}% when you are corrupted."
+		},
+		"CReload3": {
+			"name": "Corrupt Reload",
+			"desc": "Increases your petal reload speed by {1}% when you are corrupted."
+		},
+		"CRange1": {
+			"name": "Corrupt Range",
+			"desc": "Increases your petal range by {1}% when you are corrupted."
+		},
+		"CRange2": {
+			"name": "Corrupt Range",
+			"desc": "Increases your petal range by {1}% when you are corrupted."
+		},
+		"CRange3": {
+			"name": "Corrupt Range",
+			"desc": "Increases your petal range by {1}% when you are corrupted."
 		}
 	}
 }
