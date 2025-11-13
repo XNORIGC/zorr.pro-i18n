@@ -2823,40 +2823,40 @@
 			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"magic_emerald": {
-			"name": "Magic Emerald",
-			"desc": "Turns petal drops till the rarity into XP instead of picking them."
+			"name": "魔法綠寶石",
+			"desc": "將同等稀有度以下的花瓣掉落物轉化為經驗值而非拾取。"
 		},
 		"magic_sapphire": {
-			"name": "Magic Sapphire",
-			"desc": "Makes all your petals till the same rarity drop on the ground temporarily when you are angry."
+			"name": "魔法藍寶石",
+			"desc": "當你在攻擊狀態時，使你所有同等稀有度以下的花瓣暫時掉落在地。"
 		},
 		"magic_citron": {
-			"name": "Magic Citron",
-			"desc": "Decreases size of your petals."
+			"name": "魔法香櫞",
+			"desc": "縮小你的花瓣尺寸。"
 		},
 		"magic_opal": {
-			"name": "Magic Opal",
-			"desc": "Gives all your petals till the same rarity 25% chance to do 5x damage for 5s and 75% chance to do 0x damage. 6.5x at Omega & 8x at Unique."
+			"name": "魔法蛋白石",
+			"desc": "賦予你所有同等稀有度以下花瓣25%機率造成5倍傷害持續5秒，以及75%機率造成0倍傷害。终末等級時提升至6.5倍，唯一等級時達8倍。"
 		},
 		"magic_topaz": {
-			"name": "Magic Topaz",
-			"desc": "Gives all your pets armor."
+			"name": "魔法黃水晶",
+			"desc": "賦予你所有寵物護甲值。"
 		},
 		"coordinate": {
-			"name": "Coordinate",
-			"desc": "Lets you control your pets till the same rarity but reduces your movement speed."
+			"name": "座標",
+			"desc": "讓你能控制同等稀有度以下的寵物，但會降低你的移動速度。"
 		},
 		"golden_cactus": {
-			"name": "Golden Cactus",
-			"desc": "Gives your petals more health. Does not stack."
+			"name": "黃金仙人掌",
+			"desc": "提升你花瓣的生命值。效果不可疊加。"
 		},
 		"magic_quartz": {
-			"name": "Magic Quartz",
+			"name": "魔法石英",
 			"desc": "給你不超過當前稀有度的花瓣一個跳過第二重載的機會"
 		},
 		"coconut": {
-			"name": "Coconut",
-			"desc": "The ball of a coconut tree that does very high damage on its last hit."
+			"name": "椰子",
+			"desc": "椰子樹的果實，最後一擊會造成極高傷害。"
 		},
 		"corn": {
 			"name": "Corn",
