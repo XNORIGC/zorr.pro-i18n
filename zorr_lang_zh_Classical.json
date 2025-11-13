@@ -2756,71 +2756,71 @@
 		},
 		"dung": {
 			"name": "糞便",
-			"desc": "Very hot poo that makes the flower firey."
+			"desc": "熾熱糞便，能使花朵燃燒起火。"
 		},
 		"pinecone": {
-			"name": "Pinecone",
-			"desc": "It falls on the ground and breaks into multiple thorns."
+			"name": "松果",
+			"desc": "它掉落到地面後會碎裂成多根尖刺。"
 		},
 		"agarbatti": {
-			"name": "Agarbatti",
-			"desc": "Lets you pray to God & convert your healing into shielding. Stacks harmonically."
+			"name": "香脂",
+			"desc": "讓你得以向神祈禱，將治療轉化為護盾。效果以調和級數疊加。"
 		},
 		"magic_rubber": {
-			"name": "Magic Rubber",
-			"desc": "Decreases knockback you get from enemies."
+			"name": "魔法橡膠",
+			"desc": "減少來自敵方的擊退效果。"
 		},
 		"magic_agarbatti": {
-			"name": "Magic Agarbatti",
-			"desc": "Lets you pray to Devil & convert your mana consumption & healing into shielding. Stacks harmonically."
+			"name": "魔法香脂",
+			"desc": "讓你向惡魔祈禱，將魔力消耗與治療轉化為護盾。效果以調和級數疊加。"
 		},
 		"bat_egg": {
-			"name": "Bat Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蝙蝠蛋",
+			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"vampire_fang": {
-			"name": "Vampire Fang",
-			"desc": "Heals you when your flower gets body damage."
+			"name": "吸血鬼獠牙",
+			"desc": "當你的花朵受到實體傷害時，為你恢復生命值。"
 		},
 		"blood_rose": {
-			"name": "Blood Rose",
-			"desc": "It heals but also blinds you."
+			"name": "血玫瑰",
+			"desc": "它能治癒，但也會使你失明。"
 		},
 		"lily_pad_egg": {
-			"name": "Lily Pad Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "睡蓮葉卵",
+			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"lily_pad": {
-			"name": "Lily Pad",
-			"desc": "It passively heals when your squad members are dead. Increases harmonically."
+			"name": "睡蓮葉",
+			"desc": "被動效果：當小隊成員死亡時進行治療。治療量隨調和級數增加。"
 		},
 		"magic_lily_pad": {
-			"name": "Magic Lily Pad",
-			"desc": "It passively generates magic when your squad members are dead. Increases harmonically."
+			"name": "魔法睡蓮葉",
+			"desc": "被動效果：當小隊成員死亡時產生魔力。魔力生成量隨調和級數增加。"
 		},
 		"bloom": {
-			"name": "Bloom",
-			"desc": "Revives all squadmates when used."
+			"name": "繁花",
+			"desc": "使用時復活所有小隊成員。"
 		},
 		"hexagram": {
-			"name": "Hexagram",
-			"desc": "Killing a mob with this gives you a chance to recruit it to your side, turning it into a pet. Only works up to its own rarity "
+			"name": "六芒星",
+			"desc": "使用此物品擊殺怪物時，有機率將其招募至我方，轉化為寵物。僅對同等或更低稀有度目標生效 "
 		},
 		"magic_vampire_fang": {
-			"name": "Magic Vampire Fang",
-			"desc": "Generates mana when your flower gets body damage."
+			"name": "魔法吸血鬼獠牙",
+			"desc": "當你的花朵受到實體傷害時，產生魔力。"
 		},
 		"magic_compass": {
-			"name": "Magic Compass",
-			"desc": "The magic made this compass point to Unique mobs."
+			"name": "魔法羅盤",
+			"desc": "魔法使這個羅盤指向獨特怪物。"
 		},
 		"bat_cave_egg": {
-			"name": "Bat Cave Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蝙蝠洞穴卵",
+			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"vampire_digger_egg": {
-			"name": "Vampire Digger Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "吸血鬼挖掘者之卵",
+			"desc": "它能孵化並孕育出某種有趣的東西……"
 		},
 		"magic_emerald": {
 			"name": "Magic Emerald",
