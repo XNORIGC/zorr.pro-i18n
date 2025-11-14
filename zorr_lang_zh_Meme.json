@@ -2975,12 +2975,12 @@
 			"desc": "与怪物缔结协约，让你归为他们阵营。 两个粉色承诺的花花也会在同一阵营，生物不能伤害它们....... . . .... . .  ........ . . . .. .. . ... .. .. XddxDD43434 39#(($)3%(^ yus daddyy winky wromise done xp xp 🥵💦💦👅👅👅 啊哈西格玛男人又一次在这出现啊哈哈哈哈哈"
 		},
 		"flower": {
-			"name": "Flower",
-			"desc": "It has a really really long reload but every second it has 10% chance to skip its reload."
+			"name": "花朵",
+			"desc": "它有着极长的刷新时间，但是它每秒都有10%的概率跳过它的刷新时间。"
 		},
 		"maple": {
-			"name": "Maple",
-			"desc": "Every second it has 10% chance to reset its reload..."
+			"name": "枫叶",
+			"desc": "它每秒都有10%的概率重置它的刷新时间……"
 		}
 	},
 	"achievements": {
@@ -5066,7 +5066,7 @@
 			"desc": "花瓣生命值增加{1}%。"
 		},
 		"CDamage1": {
-			"name": "Corrupt Damage",
+			"name": "腐化伤害",
 			"desc": "Increases your petal damage by {1}% when you are corrupted."
 		},
 		"CDamage2": {
