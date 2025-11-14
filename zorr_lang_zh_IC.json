@@ -2971,7 +2971,7 @@
 			"desc": "每次你的生命值从90%以上骤降至10%以下时，它的伤害会提升10倍，持续10秒。这就是你干掉邪眼甲虫后该用的招数 :3"
 		},
 		"pinky_promise": {
-			"name": "Pinky Promise",
+			"name": "粉色承诺",
 			"desc": "与怪物缔结协约，让你归为他们阵营。 两个粉色承诺的花花也会在同一阵营，生物不能伤害它们....... . . .... . .  ........ . . . .. .. . ... .. .. XddxDD43434 39#(($)3%(^ yus daddyy winky wromise done xp xp 🥵💦💦👅👅👅 啊哈西格玛男人又一次在这出现啊哈哈哈哈哈"
 		},
 		"flower": {
@@ -5067,55 +5067,55 @@
 		},
 		"CDamage1": {
 			"name": "腐化伤害",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"desc": "在腐化时增加{1}%花瓣伤害。"
 		},
 		"CDamage2": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化伤害",
+			"desc": "在腐化时增加{1}%花瓣伤害。"
 		},
 		"CDamage3": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化伤害",
+			"desc": "在腐化时增加{1}%花瓣伤害。"
 		},
 		"CDamage4": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化伤害",
+			"desc": "在腐化时增加{1}%花瓣伤害。"
 		},
 		"CDamage5": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化伤害",
+			"desc": "在腐化时增加{1}%花瓣伤害。"
 		},
 		"CDamage6": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化伤害",
+			"desc": "在腐化时增加{1}%花瓣伤害。"
 		},
 		"CDamage7": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化伤害",
+			"desc": "在腐化时增加{1}%花瓣伤害。"
 		},
 		"CReload1": {
-			"name": "Corrupt Reload",
-			"desc": "Increases your petal reload speed by {1}% when you are corrupted."
+			"name": "腐化冷却",
+			"desc": "在腐化时使你的花瓣冷却速度加快{1}%。"
 		},
 		"CReload2": {
-			"name": "Corrupt Reload",
-			"desc": "Increases your petal reload speed by {1}% when you are corrupted."
+			"name": "腐化冷却",
+			"desc": "使你的花瓣冷却速度加快{1}%。"
 		},
 		"CReload3": {
-			"name": "Corrupt Reload",
-			"desc": "Increases your petal reload speed by {1}% when you are corrupted."
+			"name": "腐化冷却",
+			"desc": "使你的花瓣冷却速度加快{1}%。"
 		},
 		"CRange1": {
-			"name": "Corrupt Range",
-			"desc": "Increases your petal range by {1}% when you are corrupted."
+			"name": "腐化范围",
+			"desc": "在腐化时增加{1}的攻击范围。"
 		},
 		"CRange2": {
-			"name": "Corrupt Range",
-			"desc": "Increases your petal range by {1}% when you are corrupted."
+			"name": "腐化范围",
+			"desc": "在腐化时增加{1}的攻击范围。"
 		},
 		"CRange3": {
-			"name": "Corrupt Range",
-			"desc": "Increases your petal range by {1}% when you are corrupted."
+			"name": "腐化范围",
+			"desc": "在腐化时增加{1}的攻击范围。"
 		}
 	}
 }
