@@ -2896,15 +2896,15 @@
 		},
 		"relativity": {
 			"name": "相對論",
-			"desc": "你移動得越快，你周圍的花瓣加載得越快。 這要歸功於愛因斯坦提出了這個問題。 在基礎速度的20倍時達到最大效果。"
+			"desc": "你移動得越快，你周圍的花瓣副冷卻（生效時間）加載的速度越快。 這要歸功於愛因斯坦提出了這個問題。 在基礎速度的20倍時達到最大效果。"
 		},
 		"magic_relativity": {
 			"name": "魔法相對論",
-			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 20x of your base speed."
+			"desc": "移動得越快，周圍的花瓣副冷卻（生效時間）加載的速度就越快。 感謝“再因斯坦”想出了這個。 在基礎速度的20倍時達到最大效果。"
 		},
 		"magic_sacrifice": {
-			"name": "Magic Sacrifice",
-			"desc": "A magical ritual that lets you spawn 2 pets based on the area of the map the sacrifice is performed. Can't be performed in low rarity zones."
+			"name": "魔法血祭",
+			"desc": "一個神奇的儀式，讓你根據獻祭的地圖區域召喚2只寵物。 不能在低稀有區進行。"
 		},
 		"magic_fission": {
 			"name": "Magic Fission",
