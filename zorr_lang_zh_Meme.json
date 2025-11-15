@@ -2983,8 +2983,8 @@
 			"desc": "它每秒都有10%的概率重置它的刷新时间……"
 		},
 		"magic_nut": {
-			"name": "Magic Nut",
-			"desc": "Deez magical nuts increase their damage by upto 3x at level 250. Won't spawn unless you have 3 of the same rarity equipped."
+			"name": "魔法坚果",
+			"desc": "这些魔法坚果的伤害根据你的等级增加，在250级最多增加到三倍。你必须装备至少三个同稀有度的魔法坚果，它们才可以生成。"
 		}
 	},
 	"achievements": {
