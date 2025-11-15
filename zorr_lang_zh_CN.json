@@ -4228,7 +4228,7 @@
 		"mobHudCount": "平视显示器生物数",
 		"chatSize": "聊天大小",
 		"maxMagicPets": "魔法宠物上限",
-		"afkChallengeSize": "挂机挑战大小",
+		"afkChallengeSize": "挂机检查大小",
 		"font": "字体",
 		"language": "语言"
 	},
@@ -5103,11 +5103,11 @@
 		},
 		"CReload2": {
 			"name": "腐化冷却",
-			"desc": "使你的花瓣冷却速度加快{1}%。"
+			"desc": "在你腐化时将你的花瓣刷新速度加快{1}%。"
 		},
 		"CReload3": {
 			"name": "腐化冷却",
-			"desc": "使你的花瓣冷却速度加快{1}%。"
+			"desc": "在你腐化时将你的花瓣刷新速度加快{1}%。"
 		},
 		"CRange1": {
 			"name": "腐化范围",
