@@ -42,7 +42,7 @@
 		"findPublic": "加入随机公开小队",
 		"new": "创建",
 		"leave": "离开",
-		"empty": "[空]",
+		"empty": "空",
 		"join": "加入",
 		"you": "（你）",
 		"public": "公开",
@@ -2887,7 +2887,7 @@
 			"desc": "当别人看着你时，它的伤害会减少。"
 		},
 		"kitty": {
-			"name": "猫猫",
+			"name": "小猫",
 			"desc": "薛定谔的猫，在当你的花瓣没有被任何人（包括你自己）看到时，它会给你所有的花瓣12.5%的机会造成4倍的伤害。这个花瓣必须完全脱离任何观察者的视线，才能变得至关重要。适用于所有直到同样稀有度的花瓣。概率受幸运草影响。"
 		},
 		"sacrifice": {
@@ -2895,11 +2895,11 @@
 			"desc": "向魔鬼献祭你的灵魂，并根据血祭地点在地图区域生成生物。血祭不可在稀有度低或拥挤区域使用。"
 		},
 		"relativity": {
-			"name": "相对性",
+			"name": "相对论",
 			"desc": "你移动得越快，你的花瓣加载速度就越快。灵感源自爱因斯坦的理论。速度为基础速度的20倍时达到最大效果。"
 		},
 		"magic_relativity": {
-			"name": "魔法相对性",
+			"name": "魔法相对论",
 			"desc": "你移动得越快，你的花瓣副加载速度就越快。灵感源自爱因斯坦的理论。速度为基础速度20倍时达到最大效果。"
 		},
 		"magic_sacrifice": {
@@ -2981,6 +2981,10 @@
 		"maple": {
 			"name": "枫叶",
 			"desc": "它每秒都有10%的概率重置它的刷新时间……"
+		},
+		"magic_nut": {
+			"name": "Magic Nut",
+			"desc": "Deez magical nuts increase their damage by upto 3x at level 250. Won't spawn unless you have 3 of the same rarity equipped."
 		}
 	},
 	"achievements": {
@@ -4053,7 +4057,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Ts": " Ts",
+		"Ms": " Ms",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
