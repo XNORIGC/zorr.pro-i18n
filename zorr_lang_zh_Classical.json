@@ -2981,6 +2981,10 @@
 		"maple": {
 			"name": "Maple",
 			"desc": "Every second it has 10% chance to reset its reload..."
+		},
+		"magic_nut": {
+			"name": "Magic Nut",
+			"desc": "Deez magical nuts increase their damage by upto 3x at level 250. Won't spawn unless you have 3 of the same rarity equipped."
 		}
 	},
 	"achievements": {
@@ -4053,7 +4057,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ts": " Ts",
+		"Ms": " Ms",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
