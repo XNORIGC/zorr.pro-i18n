@@ -2756,11 +2756,11 @@
 		},
 		"dung": {
 			"name": "糞便",
-			"desc": "熾熱糞便，能使花朵燃燒起火。"
+			"desc": "很燙的便便會讓花著火。"
 		},
 		"pinecone": {
 			"name": "松果",
-			"desc": "它掉落到地面後會碎裂成多根尖刺。"
+			"desc": "它掉到地上，摔成了多根刺。"
 		},
 		"agarbatti": {
 			"name": "香脂",
@@ -2859,47 +2859,47 @@
 			"desc": "椰子樹的果實，最後一擊會造成極高傷害。"
 		},
 		"corn": {
-			"name": "Corn",
-			"desc": "Pegion poop"
+			"name": "玉米",
+			"desc": "鴿子糞便"
 		},
 		"blood_corn": {
-			"name": "Blood Corn",
-			"desc": "It deals 10% more damage & self damage every second. Caps at 60s."
+			"name": "血玉米",
+			"desc": "每秒造成10%的額外傷害和自我傷害。 60秒後達到上限。"
 		},
 		"root": {
-			"name": "Root",
-			"desc": "Buffs flower armor but your flower can't move."
+			"name": "樹根",
+			"desc": "給花花護甲效果，但是佩戴後無法移動。"
 		},
 		"coral": {
-			"name": "Coral",
-			"desc": "It subdivides upon its demise."
+			"name": "珊瑚",
+			"desc": "它在被摧毀後分裂。"
 		},
 		"magic_coral": {
-			"name": "Magic Coral",
-			"desc": "It subdivides upon its demise but the magic also made it have 20% chance to obtain fire & poison."
+			"name": "魔法珊瑚",
+			"desc": "它在被摧毀後會進行分裂，但魔法也使它有20%的機會獲得火焰傷害和劇毒傷害。"
 		},
 		"date": {
-			"name": "Date",
-			"desc": "Its damage is high on Sunday and reduces by 80% as Saturday approaches."
+			"name": "海棗",
+			"desc": "周日它的傷害很高，隨著週六的臨近，傷害降低80%。"
 		},
 		"sad": {
-			"name": "Sad",
-			"desc": "Its damage reduces when others are watching you."
+			"name": "悲傷",
+			"desc": "當別人看著你時，它的傷害會减少。"
 		},
 		"kitty": {
-			"name": "Kitty",
-			"desc": "Schrodinger's Kitty that gives all your petals 12.5% chance to do 4x damage when they are not being watched by anyone (including your own self). Petal has to be to fully out of any observer's view for them to go critical. Works on all petals till the same rarity. Rate is affected by Clover."
+			"name": "猫猫",
+			"desc": "薛定諤的貓，當你的花瓣沒有被任何人（包括你自己）看到時，它會給你所有的花瓣12.5%的機會造成4倍的傷害。 花瓣必須完全脫離任何觀察者的視線，才能發揮作用。 適用於所有花瓣，直到同樣稀有度。 概率受幸運草影響。"
 		},
 		"sacrifice": {
-			"name": "Sacrifice",
-			"desc": "Sells your soul to the Devil & spawns a mob based on the area of the map the sacrifice is performed. Sacrifice can't be done in low rarity or congested zones."
+			"name": "血祭",
+			"desc": "將你的靈魂賣給魔鬼，並根據所處的地圖區域產生生物。 在稀有度過低的區域或擁擠的區域無法生效。"
 		},
 		"relativity": {
-			"name": "Relativity",
-			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 20x of your base speed."
+			"name": "相對論",
+			"desc": "你移動得越快，你周圍的花瓣加載得越快。 這要歸功於愛因斯坦提出了這個問題。 在基礎速度的20倍時達到最大效果。"
 		},
 		"magic_relativity": {
-			"name": "Magic Relativity",
+			"name": "魔法相對論",
 			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 20x of your base speed."
 		},
 		"magic_sacrifice": {
