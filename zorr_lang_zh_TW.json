@@ -2852,7 +2852,7 @@
 		},
 		"magic_quartz": {
 			"name": "魔法石英",
-			"desc": "給你不超過當前稀有度的花瓣一個跳過第二重載的機會"
+			"desc": "給你不超過當前稀有度的花瓣一個跳過第二重載的機會。"
 		},
 		"coconut": {
 			"name": "椰子",
@@ -2923,8 +2923,8 @@
 			"desc": "其傷害每10分鐘變化為基礎傷害的0%、25%、50%、75%或100%。 如果你不會做基礎數學，就用這個或回到小學。"
 		},
 		"cyanide_pill": {
-			"name": "Cyanide Pill",
-			"desc": "Removes corruption from you and other baddies and turns them back into a nice lil flower. Might be useful when your crimes are made public :3"
+			"name": "氰化物丸",
+			"desc": "清除你和其他壞人的腐敗，把他們變成一朵美麗的百合花。 當你的罪行被公開時可能有用：3"
 		},
 		"pumpkin_egg": {
 			"name": "Pumpkin Egg",
