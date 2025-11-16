@@ -3874,6 +3874,10 @@
 			"name": "Candy",
 			"desc": "Kids love it :p"
 		},
+		"watermelon": {
+			"name": "Watermelon",
+			"desc": "Offered her 1 watermelon too"
+		},
 		"freg": {
 			"name": "Freg",
 			"desc": "He lost his lilypad..."
@@ -3897,6 +3901,10 @@
 		"helios": {
 			"name": "Helios",
 			"desc": "Sun God."
+		},
+		"speartus_longaly": {
+			"name": "Speartus Longaly",
+			"desc": "Praise spikes"
 		},
 		"blades": {
 			"name": "刀鋒",
