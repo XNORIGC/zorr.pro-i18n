@@ -2963,27 +2963,27 @@
 			"desc": "Magical liquidy bad bad poopy substance that keeps falling till eternity cos yes lol"
 		},
 		"nut": {
-			"name": "Nut",
-			"desc": "These nuts don't spawn unless you have 3 of the same rarity equipped."
+			"name": "堅果",
+			"desc": "除非你有3個相同等級的堅果，否則它不會加載。"
 		},
 		"toilet_paper": {
-			"name": "Toilet Paper",
-			"desc": "Everytime your health falls from over 90% to below 10%, it increases its damage by 10x for 10s. This is what you should use after taking a dump on a nazar beetle :3"
+			"name": "廁紙",
+			"desc": "每當你的血量從90%以上降到10%以下，它的傷害都會在10秒內增加10倍。你應該在一只邪眼甲蟲身上拉屎之後用它：3"
 		},
 		"pinky_promise": {
 			"name": "Pinky Promise",
 			"desc": "Makes a pact with the mobs & turns you on their side. 2 pinky promised flowers are on the same side & mobs can't hurt them....... . . .... . .  ........ . . . .. .. . ... .. .. XddxDD43434 39#(($)3%(^ yus daddyy winky wromise done xp xp 🥵💦💦👅👅👅 LOL sigmas are here again LOL XD XD XD"
 		},
 		"flower": {
-			"name": "Flower",
-			"desc": "It has a really really long reload but every second it has 10% chance to skip its reload."
+			"name": "花",
+			"desc": "它有一個非常長的重新加載時間，但每秒鐘都有10%的機會跳過冷卻。"
 		},
 		"maple": {
-			"name": "Maple",
-			"desc": "Every second it has 10% chance to reset its reload..."
+			"name": "楓樹",
+			"desc": "每秒鐘，它都有10%的機會重置其冷卻……"
 		},
 		"magic_nut": {
-			"name": "Magic Nut",
+			"name": "魔法堅果",
 			"desc": "這些魔法堅果在250級時傷害可提升至3倍。只有在裝備3件同稀有度物品時纔會生成。"
 		}
 	},
@@ -3527,8 +3527,8 @@
 			"desc": "9999℃時刻"
 		},
 		"banana_man": {
-			"name": "Banana Man",
-			"desc": "It likes to eat banana"
+			"name": "香蕉人",
+			"desc": "它喜歡喫香蕉"
 		},
 		"rose": {
 			"name": "玫瑰",
@@ -3555,8 +3555,8 @@
 			"desc": "我們不知道這到底是什麼……"
 		},
 		"wild_flower": {
-			"name": "Wild Flower",
-			"desc": "Why is this so curvy?"
+			"name": "野花",
+			"desc": "爲什麼它這麼彎曲？"
 		},
 		"ara_ara": {
 			"name": "啊啦啊啦",
@@ -3767,31 +3767,31 @@
 			"desc": "很胖"
 		},
 		"fern": {
-			"name": "Fern",
+			"name": "蕨",
 			"desc": "Bushy"
 		},
 		"algae": {
-			"name": "Algae",
+			"name": "藻",
 			"desc": "Al Gae"
 		},
 		"sprunki": {
 			"name": "Sprunki",
-			"desc": "It looks like concrete"
+			"desc": "它看起來像混凝土"
 		},
 		"liu_wenzhi": {
 			"name": "Liu Wenzhi",
-			"desc": "It is dismembered"
+			"desc": "它被肢解了"
 		},
 		"floofy": {
 			"name": "Floofy",
-			"desc": "Hold it gently, very weak."
+			"desc": "輕輕握住，它非常脆弱。"
 		},
 		"germ": {
-			"name": "Germ",
-			"desc": "A germ cell"
+			"name": "細菌",
+			"desc": "一個胚細胞"
 		},
 		"bush": {
-			"name": "Bush",
+			"name": "灌木叢",
 			"desc": "George Bush"
 		},
 		"error": {
