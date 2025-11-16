@@ -2907,20 +2907,20 @@
 			"desc": "一個神奇的儀式，讓你根據獻祭的地圖區域召喚2只寵物。 不能在低稀有區進行。"
 		},
 		"magic_fission": {
-			"name": "Magic Fission",
-			"desc": "Makes the petal to the right of it till same rarity split a couple times upon death. For example: Super Fission+Super Cactus = the Super Cactus will split a few times before reloading again like Coral."
+			"name": "魔法裂變",
+			"desc": "對於它右邊的直到同樣稀有度的花瓣在死亡時分裂幾次。 例如：超級裂變+超級仙人掌=超級仙人掌會分裂幾次，然後像珊瑚一樣重新加載。"
 		},
 		"golden_nazar": {
-			"name": "Golden Nazar",
-			"desc": "It tanks a few hits on your petals, and then goes on cooldown. Doesn't stack."
+			"name": "金色邪眼護符",
+			"desc": "它可以替你的花瓣抵擋幾次傷害，然後進入冷卻。 無法堆疊。"
 		},
 		"schizo": {
-			"name": "Schizo",
-			"desc": "Lets you transcend the world and view entities far far away..."
+			"name": "精神分裂症",
+			"desc": "讓你超越世界，看到遙遠的實體……"
 		},
 		"abacus": {
-			"name": "Abacus",
-			"desc": "Its damage changes to 0%, 25%, 50%, 75% or 100% of its base damage every 10min. If you can't do basic math, use this or go back to elementary."
+			"name": "算盤",
+			"desc": "其傷害每10分鐘變化為基礎傷害的0%、25%、50%、75%或100%。 如果你不會做基礎數學，就用這個或回到小學。"
 		},
 		"cyanide_pill": {
 			"name": "Cyanide Pill",
