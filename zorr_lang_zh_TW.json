@@ -3815,7 +3815,7 @@
 			"desc": "Mario moment"
 		},
 		"hel": {
-			"name": "Hel",
+			"name": "冥界",
 			"desc": "A hel flower"
 		},
 		"nova": {
@@ -3864,18 +3864,18 @@
 		},
 		"bwf": {
 			"name": "BWF",
-			"desc": "Big White Flower"
+			"desc": "大白花"
 		},
 		"zerrorist": {
 			"name": "Zerrorist",
 			"desc": "Kinda looked like a terrorist mask xp"
 		},
 		"candy": {
-			"name": "Candy",
-			"desc": "Kids love it :p"
+			"name": "糖果",
+			"desc": "小孩子們喜歡他 :p"
 		},
 		"watermelon": {
-			"name": "Watermelon",
+			"name": "西瓜",
 			"desc": "Offered her 1 watermelon too"
 		},
 		"freg": {
