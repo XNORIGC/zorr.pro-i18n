@@ -3775,7 +3775,7 @@
 			"desc": "Al Gae"
 		},
 		"sprunki": {
-			"name": "Sprunki",
+			"name": "節奏盒子",
 			"desc": "它看起來像混凝土"
 		},
 		"liu_wenzhi": {
@@ -3783,7 +3783,7 @@
 			"desc": "它被肢解了"
 		},
 		"floofy": {
-			"name": "Floofy",
+			"name": "毛茸茸",
 			"desc": "輕輕握住，它非常脆弱。"
 		},
 		"germ": {
@@ -3792,19 +3792,19 @@
 		},
 		"bush": {
 			"name": "灌木叢",
-			"desc": "George Bush"
+			"desc": "喬治·不什"
 		},
 		"error": {
-			"name": "Error",
-			"desc": "Windows crashed..."
+			"name": "錯誤",
+			"desc": "Windows崩潰了……"
 		},
 		"tonker": {
-			"name": "Tonker",
+			"name": "笨蛋",
 			"desc": "It looks like a dinasaur"
 		},
 		"gear": {
-			"name": "Gear",
-			"desc": "Mechanical gear"
+			"name": "齒輪",
+			"desc": "機械齒輪"
 		},
 		"kurchin": {
 			"name": "Kurchin",
