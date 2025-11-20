@@ -887,6 +887,10 @@
 		"pumpkin": {
 			"name": "Pumpkin",
 			"desc": "Maybe the Pumpkin caused it..."
+		},
+		"zatan": {
+			"name": "Zatan",
+			"desc": "A baby G-O-D openly committing zerrorism cos yes lol XD."
 		}
 	},
 	"petals": {
@@ -2985,6 +2989,34 @@
 		"magic_nut": {
 			"name": "Magic Nut",
 			"desc": "Deez magical nuts increase their damage by upto 3x at level 250. Won't spawn unless you have 3 of the same rarity equipped."
+		},
+		"elemental": {
+			"name": "Elemental",
+			"desc": "The elemental mob has dropped some of the magic that posessed it. This energy empoweres the wielder to achieve ungodly levels of strength."
+		},
+		"expander": {
+			"name": "Expander",
+			"desc": "Increases the size of the mobs till the same rarity."
+		},
+		"shrinker": {
+			"name": "Shrinker",
+			"desc": "Reduces the size of the mobs till the same rarity."
+		},
+		"zatan_egg": {
+			"name": "Zatan Egg",
+			"desc": "A LIL BABY G-O-D EGG TO SPAWN A LIL BABY G-O-D BY REPRODUCTION WITH A FLOWER XD. SKIBIPIPI NYA NYA MEOW MEOW PURR PURR PHRENIA GO BRRRRRR XD."
+		},
+		"bamboo": {
+			"name": "Bamboo",
+			"desc": "These bamboos spin & grow bigger the more bamboos you have equipped."
+		},
+		"halo": {
+			"name": "Halo",
+			"desc": "Heals all flowers in your view using sussy skibidi pychic forces."
+		},
+		"hel_fire": {
+			"name": "Hel Fire",
+			"desc": "Radiates demonic energy, setting enemies on fire."
 		}
 	},
 	"achievements": {
@@ -3878,6 +3910,14 @@
 			"name": "Watermelon",
 			"desc": "Offered her 1 watermelon too"
 		},
+		"pinky": {
+			"name": "Pinky",
+			"desc": "Slanted pink flower uwu"
+		},
+		"white_dwarf": {
+			"name": "White Dwarf",
+			"desc": ":3"
+		},
 		"freg": {
 			"name": "Freg",
 			"desc": "He lost his lilypad..."
@@ -4030,6 +4070,7 @@
 		"radiationMana": "Radiation Mana",
 		"radiationLightningDamage": "Radiation Lightning Damage",
 		"radiationLightningBounces": "Radiation Lightning Bounces",
+		"radiationLightningFire": "Radiation Lightning Fire",
 		"orbitTwirl": "Orbit Twirl",
 		"growth": "Growth",
 		"growthTime": "Growth Time",
@@ -4065,7 +4106,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ms": " Ms",
+		"Cs": " Cs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4076,6 +4117,7 @@
 		"finalDamage": "Final Damage",
 		"split": "Split",
 		"transcendence": "Transcendence",
+		"mobSizeChange": "Mob Size Change",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
@@ -4113,6 +4155,7 @@
 		"relativityReloadFactor": "Relativity Reload Factor",
 		"relativitySecondaryReloadFactor": "Relativity Secondary Reload Factor",
 		"splitPetal": "Split Petal",
+		"psychicHeal": "Psychic Heal",
 		"bodyLightning": "Body Lightning",
 		"bodyLightningFire": "Body Lightning Fire",
 		"bodyLightningPoison": "Body Lightning Poison",
