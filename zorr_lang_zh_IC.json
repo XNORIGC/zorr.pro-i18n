@@ -889,8 +889,8 @@
 			"desc": "也许都是南瓜惹的祸……"
 		},
 		"zatan": {
-			"name": "Zatan",
-			"desc": "A baby G-O-D openly committing zerrorism cos yes lol XD."
+			"name": "扎坦",
+			"desc": "一个婴儿上-帝公开执行总怖主义因为是的啊哈哈哈。"
 		}
 	},
 	"petals": {
@@ -2991,32 +2991,32 @@
 			"desc": "这些魔法坚果的伤害根据你的等级增加，在250级最多增加到三倍。你必须装备至少三个同稀有度的魔法坚果，它们才可以生成。"
 		},
 		"elemental": {
-			"name": "Elemental",
-			"desc": "The elemental mob has dropped some of the magic that posessed it. This energy empoweres the wielder to achieve ungodly levels of strength."
+			"name": "元素之力",
+			"desc": "元素生物掉了属于他的一些魔法。这种能量能够让使用者获得无尽的能力。"
 		},
 		"expander": {
-			"name": "Expander",
-			"desc": "Increases the size of the mobs till the same rarity."
+			"name": "放大器",
+			"desc": "增加同稀有度技及以下生物的尺寸。"
 		},
 		"shrinker": {
-			"name": "Shrinker",
-			"desc": "Reduces the size of the mobs till the same rarity."
+			"name": "缩小器",
+			"desc": "减少同稀有度技及以下生物的尺寸。"
 		},
 		"zatan_egg": {
-			"name": "Zatan Egg",
-			"desc": "A LIL BABY G-O-D EGG TO SPAWN A LIL BABY G-O-D BY REPRODUCTION WITH A FLOWER XD. SKIBIPIPI NYA NYA MEOW MEOW PURR PURR PHRENIA GO BRRRRRR XD."
+			"name": "扎坦蛋",
+			"desc": "一个小婴儿上-帝蛋，可以和花朵繁衍孵化一个小婴儿上-帝哈哈。SKIBIPIPI NYA NYA MEOW MEOW PURR PURR PHRENIA GO BRRRRRR XD."
 		},
 		"bamboo": {
-			"name": "Bamboo",
-			"desc": "These bamboos spin & grow bigger the more bamboos you have equipped."
+			"name": "竹子",
+			"desc": "这些竹子旋转且当你装备更多竹子时会长的更大。"
 		},
 		"halo": {
-			"name": "Halo",
-			"desc": "Heals all flowers in your view using sussy skibidi pychic forces."
+			"name": "光环",
+			"desc": "使用可疑的鬼畜心灵能量治疗你视野里的所有花朵。"
 		},
 		"hel_fire": {
-			"name": "Hel Fire",
-			"desc": "Radiates demonic energy, setting enemies on fire."
+			"name": "冥界之火",
+			"desc": "辐射恶魔的能量，点燃敌人。"
 		}
 	},
 	"achievements": {
@@ -3911,11 +3911,11 @@
 			"desc": "也给了她一个西瓜"
 		},
 		"pinky": {
-			"name": "Pinky",
-			"desc": "Slanted pink flower uwu"
+			"name": "粉红",
+			"desc": "倾斜的粉红花朵"
 		},
 		"white_dwarf": {
-			"name": "White Dwarf",
+			"name": "白矮星",
 			"desc": ":3"
 		},
 		"freg": {
@@ -4070,7 +4070,7 @@
 		"radiationMana": "辐射恢复魔力",
 		"radiationLightningDamage": "辐射电伤",
 		"radiationLightningBounces": "辐射闪电连锁",
-		"radiationLightningFire": "Radiation Lightning Fire",
+		"radiationLightningFire": "辐射闪电火伤",
 		"orbitTwirl": "轨道螺旋",
 		"growth": "生长",
 		"growthTime": "生长时间",
@@ -4117,7 +4117,7 @@
 		"finalDamage": "最终伤害",
 		"split": "分裂",
 		"transcendence": "超越程度",
-		"mobSizeChange": "Mob Size Change",
+		"mobSizeChange": "生物尺寸变化",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -4155,7 +4155,7 @@
 		"relativityReloadFactor": "相对加载系数",
 		"relativitySecondaryReloadFactor": "相对副加载系数",
 		"splitPetal": "花瓣分裂次数",
-		"psychicHeal": "Psychic Heal",
+		"psychicHeal": "心灵感应治疗",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
