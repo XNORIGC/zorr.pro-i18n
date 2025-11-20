@@ -887,6 +887,10 @@
 		"pumpkin": {
 			"name": "南瓜",
 			"desc": "也许都是南瓜惹的祸……"
+		},
+		"zatan": {
+			"name": "Zatan",
+			"desc": "A baby G-O-D openly committing zerrorism cos yes lol XD."
 		}
 	},
 	"petals": {
@@ -2985,6 +2989,34 @@
 		"magic_nut": {
 			"name": "魔法坚果",
 			"desc": "这些魔法坚果的伤害根据你的等级增加，在250级最多增加到三倍。你必须装备至少三个同稀有度的魔法坚果，它们才可以生成。"
+		},
+		"elemental": {
+			"name": "Elemental",
+			"desc": "The elemental mob has dropped some of the magic that posessed it. This energy empoweres the wielder to achieve ungodly levels of strength."
+		},
+		"expander": {
+			"name": "Expander",
+			"desc": "Increases the size of the mobs till the same rarity."
+		},
+		"shrinker": {
+			"name": "Shrinker",
+			"desc": "Reduces the size of the mobs till the same rarity."
+		},
+		"zatan_egg": {
+			"name": "Zatan Egg",
+			"desc": "A LIL BABY G-O-D EGG TO SPAWN A LIL BABY G-O-D BY REPRODUCTION WITH A FLOWER XD. SKIBIPIPI NYA NYA MEOW MEOW PURR PURR PHRENIA GO BRRRRRR XD."
+		},
+		"bamboo": {
+			"name": "Bamboo",
+			"desc": "These bamboos spin & grow bigger the more bamboos you have equipped."
+		},
+		"halo": {
+			"name": "Halo",
+			"desc": "Heals all flowers in your view using sussy skibidi pychic forces."
+		},
+		"hel_fire": {
+			"name": "Hel Fire",
+			"desc": "Radiates demonic energy, setting enemies on fire."
 		}
 	},
 	"achievements": {
@@ -3878,6 +3910,14 @@
 			"name": "西瓜",
 			"desc": "也给了她一个西瓜"
 		},
+		"pinky": {
+			"name": "Pinky",
+			"desc": "Slanted pink flower uwu"
+		},
+		"white_dwarf": {
+			"name": "White Dwarf",
+			"desc": ":3"
+		},
 		"freg": {
 			"name": "草（一种植物）",
 			"desc": "他失去了他的睡莲……"
@@ -4030,6 +4070,7 @@
 		"radiationMana": "辐射恢复魔力",
 		"radiationLightningDamage": "辐射电伤",
 		"radiationLightningBounces": "辐射闪电连锁",
+		"radiationLightningFire": "Radiation Lightning Fire",
 		"orbitTwirl": "轨道螺旋",
 		"growth": "生长",
 		"growthTime": "生长时间",
@@ -4065,7 +4106,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Ms": " Ms",
+		"Cs": " Cs",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4076,6 +4117,7 @@
 		"finalDamage": "最终伤害",
 		"split": "分裂",
 		"transcendence": "超越程度",
+		"mobSizeChange": "Mob Size Change",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -4113,6 +4155,7 @@
 		"relativityReloadFactor": "相对加载系数",
 		"relativitySecondaryReloadFactor": "相对副加载系数",
 		"splitPetal": "花瓣分裂次数",
+		"psychicHeal": "Psychic Heal",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
