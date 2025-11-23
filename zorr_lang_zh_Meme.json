@@ -2028,7 +2028,7 @@
 		},
 		"gunpowder": {
 			"name": "火药",
-			"desc": "当敌人处于燃烧状态时，其造成5倍伤害。"
+			"desc": "Deals 5x damage when your enemy is burning & increases projectile speed."
 		},
 		"compass": {
 			"name": "指南针",
@@ -3012,11 +3012,19 @@
 		},
 		"halo": {
 			"name": "光环",
-			"desc": "使用可疑的鬼畜心灵能量治疗你视野里的所有花朵。"
+			"desc": "Heals all flowers in your view using sussy skibidi psychic forces."
 		},
 		"hel_fire": {
 			"name": "冥界之火",
 			"desc": "辐射恶魔的能量，点燃敌人。"
+		},
+		"wound": {
+			"name": "Wound",
+			"desc": "A brutal puncture that makes you lose a lot of blood but also makes you very very lethal."
+		},
+		"magic_rna": {
+			"name": "Magic RNA",
+			"desc": "Gives your pets till the same rarity some chance to change their variant."
 		}
 	},
 	"achievements": {
@@ -3918,6 +3926,18 @@
 			"name": "白矮星",
 			"desc": ":3"
 		},
+		"body": {
+			"name": "Body",
+			"desc": "Where did my body go?"
+		},
+		"xd": {
+			"name": "XD",
+			"desc": "smol eyes moment XD"
+		},
+		"pumpkin": {
+			"name": "Pumpkin",
+			"desc": "It's the pumpkin!"
+		},
 		"freg": {
 			"name": "草（一种植物）",
 			"desc": "他失去了他的睡莲……"
@@ -4118,6 +4138,7 @@
 		"split": "分裂",
 		"transcendence": "超越程度",
 		"mobSizeChange": "生物尺寸变化",
+		"projectileSpeedBuff": "Projectile Speed Buff",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -4137,12 +4158,12 @@
 		"poisonToDamageCap": "毒伤转化伤害上限",
 		"petalDropToXp": "花瓣掉落转换经验",
 		"petArmor": "宠物护甲",
+		"extraPetalDamagePercent": "花瓣额外伤害百分比",
 		"visionOffset": "视野偏移",
 		"petalOrbitDistance": "花瓣轨道距离",
 		"flowerDamageBuff": "花朵伤害增益",
 		"flowerBodyDamage": "花朵体伤",
 		"damageReduction": "伤害减免",
-		"extraPetalDamagePercent": "花瓣额外伤害百分比",
 		"extraPetDamagePercent": "宠物额外伤害百分比",
 		"fission": "裂变",
 		"fusion": "聚变",
@@ -4216,6 +4237,7 @@
 		"disableCrafting": "禁用合成",
 		"guildSquad": "公会组队",
 		"showPositionToGuild": "向公会显示位置",
+		"showAllVariantHud": "Show All Variant Hud",
 		"#visuals": "#画面",
 		"showRarities": "显示花瓣品质",
 		"showCraftBubble": "显示合成气泡",
