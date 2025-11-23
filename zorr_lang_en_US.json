@@ -2028,7 +2028,7 @@
 		},
 		"gunpowder": {
 			"name": "Gunpowder",
-			"desc": "Deals 5x damage when your enemy is burning."
+			"desc": "Deals 5x damage when your enemy is burning & increases projectile speed."
 		},
 		"compass": {
 			"name": "Compass",
@@ -3012,11 +3012,19 @@
 		},
 		"halo": {
 			"name": "Halo",
-			"desc": "Heals all flowers in your view using sussy skibidi pychic forces."
+			"desc": "Heals all flowers in your view using sussy skibidi psychic forces."
 		},
 		"hel_fire": {
 			"name": "Hel Fire",
 			"desc": "Radiates demonic energy, setting enemies on fire."
+		},
+		"wound": {
+			"name": "Wound",
+			"desc": "A brutal puncture that makes you lose a lot of blood but also makes you very very lethal."
+		},
+		"magic_rna": {
+			"name": "Magic RNA",
+			"desc": "Gives your pets till the same rarity some chance to change their variant."
 		}
 	},
 	"achievements": {
@@ -3918,6 +3926,18 @@
 			"name": "White Dwarf",
 			"desc": ":3"
 		},
+		"body": {
+			"name": "Body",
+			"desc": "Where did my body go?"
+		},
+		"xd": {
+			"name": "XD",
+			"desc": "smol eyes moment XD"
+		},
+		"pumpkin": {
+			"name": "Pumpkin",
+			"desc": "It's the pumpkin!"
+		},
 		"freg": {
 			"name": "Freg",
 			"desc": "He lost his lilypad..."
@@ -4118,6 +4138,7 @@
 		"split": "Split",
 		"transcendence": "Transcendence",
 		"mobSizeChange": "Mob Size Change",
+		"projectileSpeedBuff": "Projectile Speed Buff",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
@@ -4137,12 +4158,12 @@
 		"poisonToDamageCap": "Poison To Damage Cap",
 		"petalDropToXp": "Petal Drop To Xp",
 		"petArmor": "Pet Armor",
+		"extraPetalDamagePercent": "Extra Petal Damage Percent",
 		"visionOffset": "Vision Offset",
 		"petalOrbitDistance": "Petal Orbit Distance",
 		"flowerDamageBuff": "Flower Damage Buff",
 		"flowerBodyDamage": "Flower Body Damage",
 		"damageReduction": "Damage Reduction",
-		"extraPetalDamagePercent": "Extra Petal Damage Percent",
 		"extraPetDamagePercent": "Extra Pet Damage Percent",
 		"fission": "Fission",
 		"fusion": "Fusion",
@@ -4216,6 +4237,7 @@
 		"disableCrafting": "Disable Crafting",
 		"guildSquad": "Guild Squad",
 		"showPositionToGuild": "Show Position To Guild",
+		"showAllVariantHud": "Show All Variant Hud",
 		"#visuals": "#visuals",
 		"showRarities": "Show Rarities",
 		"showCraftBubble": "Show Craft Bubble",
