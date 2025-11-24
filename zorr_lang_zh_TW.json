@@ -3007,11 +3007,11 @@
 			"desc": "A LIL BABY G-O-D EGG TO SPAWN A LIL BABY G-O-D BY REPRODUCTION WITH A FLOWER XD. SKIBIPIPI NYA NYA MEOW MEOW PURR PURR PHRENIA GO BRRRRRR XD."
 		},
 		"bamboo": {
-			"name": "Bamboo",
-			"desc": "These bamboos spin & grow bigger the more bamboos you have equipped."
+			"name": "竹子",
+			"desc": "你裝備的竹子越多，它們旋轉得越快，並且長得越大。"
 		},
 		"halo": {
-			"name": "Halo",
+			"name": "天使之翼",
 			"desc": "Heals all flowers in your view using sussy skibidi psychic forces."
 		},
 		"hel_fire": {
@@ -3023,8 +3023,8 @@
 			"desc": "A brutal puncture that makes you lose a lot of blood but also makes you very very lethal."
 		},
 		"magic_rna": {
-			"name": "Magic RNA",
-			"desc": "Gives your pets till the same rarity some chance to change their variant."
+			"name": "魔法RNA",
+			"desc": "概率使你與它同等級及以下的寵物變為變體。"
 		}
 	},
 	"achievements": {
