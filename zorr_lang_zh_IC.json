@@ -3027,15 +3027,15 @@
 			"desc": "让你同等级及以下的宠物有概率改变变种。"
 		},
 		"golden_honey": {
-			"name": "Golden Honey",
-			"desc": "A very sweet edible that attracts insects..."
+			"name": "金蜂蜜",
+			"desc": "一种非常甜蜜的食品，可以吸引昆虫……"
 		},
 		"magic_balloon": {
-			"name": "Magic Balloon",
-			"desc": "Makes you float sideways."
+			"name": "魔法气球",
+			"desc": "让你向侧边漂浮。"
 		},
 		"fractal": {
-			"name": "Fractal",
+			"name": "分形",
 			"desc": "Spawns a special type of lightning strike that branches itself after each hit. Multiple strokes just for you <3 XD"
 		}
 	},
