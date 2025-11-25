@@ -3025,6 +3025,18 @@
 		"magic_rna": {
 			"name": "Magic RNA",
 			"desc": "Gives your pets till the same rarity some chance to change their variant."
+		},
+		"golden_honey": {
+			"name": "Golden Honey",
+			"desc": "A very sweet edible that attracts insects..."
+		},
+		"magic_balloon": {
+			"name": "Magic Balloon",
+			"desc": "Makes you float sideways."
+		},
+		"fractal": {
+			"name": "Fractal",
+			"desc": "Spawns a special type of lightning strike that branches itself after each hit. Multiple strokes just for you <3 XD"
 		}
 	},
 	"achievements": {
@@ -4070,6 +4082,7 @@
 		"cancer": "Cancer",
 		"orbit": "Orbit",
 		"boostUpwards": "Boost Upwards",
+		"boostSideways": "Boost Sideways",
 		"pullReduction": "Pull Reduction",
 		"mobXpFactor": "Mob Xp Factor",
 		"fullHealRate": "Full Heal Rate",
@@ -4108,6 +4121,7 @@
 		"orbitRangeFactor": "Orbit Range Factor",
 		"flowerEvasion": "Flower Evasion",
 		"petalHealthBuff": "Petal Health Buff",
+		"mobAgroRange": "Mob Agro Range",
 		"flowerSecondaryReloadFactor": "Flower Secondary Reload Factor",
 		"tempArmor": "Temp Armor",
 		"fragmentDamage": "Fragment Damage",
@@ -4126,7 +4140,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Cs": " Cs",
+		"Ps": " Ps",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
