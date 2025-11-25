@@ -3025,6 +3025,18 @@
 		"magic_rna": {
 			"name": "魔法RNA",
 			"desc": "概率使你與它同等級及以下的寵物變為變體。"
+		},
+		"golden_honey": {
+			"name": "Golden Honey",
+			"desc": "A very sweet edible that attracts insects..."
+		},
+		"magic_balloon": {
+			"name": "Magic Balloon",
+			"desc": "Makes you float sideways."
+		},
+		"fractal": {
+			"name": "Fractal",
+			"desc": "Spawns a special type of lightning strike that branches itself after each hit. Multiple strokes just for you <3 XD"
 		}
 	},
 	"achievements": {
@@ -4070,6 +4082,7 @@
 		"cancer": "癌變",
 		"orbit": "軌道",
 		"boostUpwards": "向上加速",
+		"boostSideways": "Boost Sideways",
 		"pullReduction": "拉力減免",
 		"mobXpFactor": "生物經驗係數",
 		"fullHealRate": "完全治療率",
@@ -4108,6 +4121,7 @@
 		"orbitRangeFactor": "軌道範圍係數",
 		"flowerEvasion": "花朵閃避",
 		"petalHealthBuff": "Petal Health Buff",
+		"mobAgroRange": "Mob Agro Range",
 		"flowerSecondaryReloadFactor": "Flower Secondary Reload Factor",
 		"tempArmor": "Temp Armor",
 		"fragmentDamage": "碎片傷害",
@@ -4126,7 +4140,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Cs": " Cs",
+		"Ps": " Ps",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
