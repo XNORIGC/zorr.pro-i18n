@@ -3036,7 +3036,7 @@
 		},
 		"fractal": {
 			"name": "分形",
-			"desc": "Spawns a special type of lightning strike that branches itself after each hit. Multiple strokes just for you <3 XD"
+			"desc": "生成一种特殊的闪电，每次击中会分支自身。多重连击为您专供<3 XD"
 		}
 	},
 	"achievements": {
@@ -3939,16 +3939,16 @@
 			"desc": ":3"
 		},
 		"body": {
-			"name": "Body",
-			"desc": "Where did my body go?"
+			"name": "身体",
+			"desc": "我的身体去了哪里？"
 		},
 		"xd": {
 			"name": "XD",
-			"desc": "smol eyes moment XD"
+			"desc": "小眼睛时刻XD"
 		},
 		"pumpkin": {
-			"name": "Pumpkin",
-			"desc": "It's the pumpkin!"
+			"name": "南瓜",
+			"desc": "这是南瓜！"
 		},
 		"freg": {
 			"name": "草（一种植物）",
@@ -4082,7 +4082,7 @@
 		"cancer": "癌变",
 		"orbit": "轨道",
 		"boostUpwards": "向上推进",
-		"boostSideways": "Boost Sideways",
+		"boostSideways": "侧向推进",
 		"pullReduction": "拉力减免",
 		"mobXpFactor": "生物经验值乘数",
 		"fullHealRate": "完全治疗率",
@@ -4121,7 +4121,7 @@
 		"orbitRangeFactor": "轨道范围系数",
 		"flowerEvasion": "花朵闪避",
 		"petalHealthBuff": "花瓣耐久增加",
-		"mobAgroRange": "Mob Agro Range",
+		"mobAgroRange": "生物仇恨范围",
 		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
 		"tempArmor": "临时护甲",
 		"fragmentDamage": "碎片伤害",
