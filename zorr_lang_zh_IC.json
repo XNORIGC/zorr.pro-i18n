@@ -2028,7 +2028,7 @@
 		},
 		"gunpowder": {
 			"name": "爆炎诛邪散",
-			"desc": "Deals 5x damage when your enemy is burning & increases projectile speed."
+			"desc": "当你的敌人燃烧时造成5倍伤害并提高发射物速度。"
 		},
 		"compass": {
 			"name": "两仪引路盘",
@@ -3012,19 +3012,31 @@
 		},
 		"halo": {
 			"name": "光环",
-			"desc": "Heals all flowers in your view using sussy skibidi psychic forces."
+			"desc": "使用可疑的鬼畜心灵能量治疗你视野里的所有花朵。"
 		},
 		"hel_fire": {
 			"name": "冥界之火",
 			"desc": "辐射恶魔的能量，点燃敌人。"
 		},
 		"wound": {
-			"name": "Wound",
-			"desc": "A brutal puncture that makes you lose a lot of blood but also makes you very very lethal."
+			"name": "伤口",
+			"desc": "一个残酷的伤口让你失去很多血但也让你非常非常致命。"
 		},
 		"magic_rna": {
-			"name": "Magic RNA",
-			"desc": "Gives your pets till the same rarity some chance to change their variant."
+			"name": "魔法RNA",
+			"desc": "让你同等级及以下的宠物有概率改变变种。"
+		},
+		"golden_honey": {
+			"name": "Golden Honey",
+			"desc": "A very sweet edible that attracts insects..."
+		},
+		"magic_balloon": {
+			"name": "Magic Balloon",
+			"desc": "Makes you float sideways."
+		},
+		"fractal": {
+			"name": "Fractal",
+			"desc": "Spawns a special type of lightning strike that branches itself after each hit. Multiple strokes just for you <3 XD"
 		}
 	},
 	"achievements": {
@@ -4070,6 +4082,7 @@
 		"cancer": "癌变",
 		"orbit": "轨道",
 		"boostUpwards": "向上推进",
+		"boostSideways": "Boost Sideways",
 		"pullReduction": "拉力减免",
 		"mobXpFactor": "生物经验值乘数",
 		"fullHealRate": "完全治疗率",
@@ -4108,6 +4121,7 @@
 		"orbitRangeFactor": "轨道范围系数",
 		"flowerEvasion": "花朵闪避",
 		"petalHealthBuff": "花瓣耐久增加",
+		"mobAgroRange": "Mob Agro Range",
 		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
 		"tempArmor": "临时护甲",
 		"fragmentDamage": "碎片伤害",
@@ -4126,7 +4140,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Cs": " Cs",
+		"Ps": " Ps",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4138,7 +4152,7 @@
 		"split": "分裂",
 		"transcendence": "超越程度",
 		"mobSizeChange": "生物尺寸变化",
-		"projectileSpeedBuff": "Projectile Speed Buff",
+		"projectileSpeedBuff": "发射物速度增益",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -4237,7 +4251,7 @@
 		"disableCrafting": "禁用合成",
 		"guildSquad": "公会组队",
 		"showPositionToGuild": "向公会显示位置",
-		"showAllVariantHud": "Show All Variant Hud",
+		"showAllVariantHud": "顶部显示所有变种",
 		"#visuals": "#画面",
 		"showRarities": "显示花瓣品质",
 		"showCraftBubble": "显示合成气泡",
