@@ -3037,6 +3037,10 @@
 		"fractal": {
 			"name": "Fractal",
 			"desc": "Spawns a special type of lightning strike that branches itself after each hit. Multiple strokes just for you <3 XD"
+		},
+		"paranormal_goggles": {
+			"name": "Paranormal Goggles",
+			"desc": "Allows you to see & interact with paranormal mobs."
 		}
 	},
 	"achievements": {
@@ -4140,7 +4144,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ps": " Ps",
+		"Is": " Is",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4191,6 +4195,7 @@
 		"relativitySecondaryReloadFactor": "Relativity Secondary Reload Factor",
 		"splitPetal": "Split Petal",
 		"psychicHeal": "Psychic Heal",
+		"visionReduction": "Vision Reduction",
 		"bodyLightning": "身體閃電",
 		"bodyLightningFire": "身體閃電火焰",
 		"bodyLightningPoison": "體傷閃電毒傷",
