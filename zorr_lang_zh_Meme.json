@@ -1752,7 +1752,7 @@
 		},
 		"mirror": {
 			"name": "魔镜",
-			"desc": "反射最高到品质+1的导弹。比它品质高的导弹的伤害会被削弱95%。例如：究极镜子可以反射超级黄蜂的导弹，但是它的伤害会被削弱50%。"
+			"desc": "Reflects missiles upto rarity+1. Damage of missiles with rarity higher than it is nerfed by 50%. For example, Ultra Mirror can relect Super Hornet's Missile but its damage will be reduced by 50%."
 		},
 		"comb": {
 			"name": "梳子(还能发射)",
@@ -3041,6 +3041,10 @@
 		"paranormal_goggles": {
 			"name": "Paranormal Goggles",
 			"desc": "Allows you to see & interact with paranormal mobs."
+		},
+		"astral": {
+			"name": "Astral",
+			"desc": "Gives your eggs till the same rarity some chance to spawn paranormal pets."
 		}
 	},
 	"achievements": {
@@ -4126,6 +4130,7 @@
 		"flowerEvasion": "花朵闪避",
 		"petalHealthBuff": "花瓣耐久增加",
 		"mobAgroRange": "生物仇恨范围",
+		"petParanormalRate": "Pet Paranormal Rate",
 		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
 		"tempArmor": "临时护甲",
 		"fragmentDamage": "碎片伤害",
@@ -4144,7 +4149,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Is": " Is",
+		"Ps": " Ps",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
