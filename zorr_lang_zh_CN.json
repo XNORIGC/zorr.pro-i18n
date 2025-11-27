@@ -3039,8 +3039,8 @@
 			"desc": "生成一种特殊的闪电，每次击中会分支自身。多重连击为您专供<3 XD \n🧿拖欠工资大王猫咪叉！🧿"
 		},
 		"paranormal_goggles": {
-			"name": "Paranormal Goggles",
-			"desc": "Allows you to see & interact with paranormal mobs. \n🧿拖欠工资大王猫咪叉！🧿"
+			"name": "超自然目镜",
+			"desc": "使你能观察并与超自然生物互动。 \n🧿拖欠工资大王猫咪叉！🧿"
 		},
 		"astral": {
 			"name": "Astral",
@@ -4049,7 +4049,7 @@
 		"honeyTileDamage": "蜂蜜块伤害",
 		"honeyTilePoison": "蜂蜜块毒伤",
 		"honeyTileFire": "蜂蜜块火伤",
-		"honeySizeReduction": "蜂蜜块大小减小",
+		"honeySizeReduction": "蜂蜜块大小减免",
 		"sendToBiome": "传送至生物群系",
 		"flowerReloadFactor": "花瓣冷却时间除数",
 		"armorDebuff": "护甲减益",
@@ -4058,7 +4058,7 @@
 		"firePoison": "火焰毒伤",
 		"fireTime": "燃烧时间",
 		"flowerAcceleration": "花朵加速度",
-		"agroRangeReduction": "仇恨范围减小",
+		"agroRangeReduction": "仇恨范围减免",
 		"agroRangeIncrease": "仇恨范围增大",
 		"extraFlowerKnock": "花朵额外击退",
 		"damageHealed": "造成伤害时治疗",
@@ -4200,7 +4200,7 @@
 		"relativitySecondaryReloadFactor": "相对副加载系数",
 		"splitPetal": "花瓣分裂次数",
 		"psychicHeal": "心灵感应治疗",
-		"visionReduction": "Vision Reduction",
+		"visionReduction": "视野减小",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
