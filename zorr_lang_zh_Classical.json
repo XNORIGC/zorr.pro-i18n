@@ -1752,7 +1752,7 @@
 		},
 		"mirror": {
 			"name": "鏡",
-			"desc": "可反射稀有度+1以下的飛彈。稀有度高於自身的飛彈傷害將削弱95%。舉例來說，超極鏡面可反射超級大黃蜂的飛彈，但其傷害會降低50%。"
+			"desc": "Reflects missiles upto rarity+1. Damage of missiles with rarity higher than it is nerfed by 50%. For example, Ultra Mirror can relect Super Hornet's Missile but its damage will be reduced by 50%."
 		},
 		"comb": {
 			"name": "櫛",
@@ -3041,6 +3041,10 @@
 		"paranormal_goggles": {
 			"name": "Paranormal Goggles",
 			"desc": "Allows you to see & interact with paranormal mobs."
+		},
+		"astral": {
+			"name": "Astral",
+			"desc": "Gives your eggs till the same rarity some chance to spawn paranormal pets."
 		}
 	},
 	"achievements": {
@@ -4126,6 +4130,7 @@
 		"flowerEvasion": "花之閃避",
 		"petalHealthBuff": "Petal Health Buff",
 		"mobAgroRange": "Mob Agro Range",
+		"petParanormalRate": "Pet Paranormal Rate",
 		"flowerSecondaryReloadFactor": "Flower Secondary Reload Factor",
 		"tempArmor": "Temp Armor",
 		"fragmentDamage": "碎片之創",
@@ -4144,7 +4149,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Is": " Is",
+		"Ps": " Ps",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
