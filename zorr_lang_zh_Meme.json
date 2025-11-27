@@ -1752,7 +1752,7 @@
 		},
 		"mirror": {
 			"name": "魔镜",
-			"desc": "Reflects missiles upto rarity+1. Damage of missiles with rarity higher than it is nerfed by 50%. For example, Ultra Mirror can relect Super Hornet's Missile but its damage will be reduced by 50%."
+			"desc": "反射稀有度比其高一级的导弹。稀有度高于自身的导弹反射后伤害降低 50%。例如，究极稀有度的镜可以反射超级稀有度的黄蜂的导弹，但其伤害会降低 50%。"
 		},
 		"comb": {
 			"name": "梳子(还能发射)",
@@ -3019,16 +3019,16 @@
 			"desc": "辐射恶魔的能量，点燃敌人。"
 		},
 		"wound": {
-			"name": "伤口",
-			"desc": "一个残酷的伤口让你失去很多血但也让你非常非常致命。"
+			"name": "创口",
+			"desc": "一个残酷的伤口，会让你失去很多血量但也让你的攻击非常非常致命。"
 		},
 		"magic_rna": {
 			"name": "魔法RNA",
-			"desc": "让你同等级及以下的宠物有概率改变变种。"
+			"desc": "让你同稀有度及以下的宠物有概率改变品种。"
 		},
 		"golden_honey": {
-			"name": "金蜂蜜",
-			"desc": "一种非常甜蜜的食品，可以吸引昆虫……"
+			"name": "黄金蜂蜜",
+			"desc": "一种非常甜的食品，可以吸引昆虫……"
 		},
 		"magic_balloon": {
 			"name": "魔法气球",
@@ -3043,8 +3043,8 @@
 			"desc": "使你能观察并与超自然生物互动。"
 		},
 		"astral": {
-			"name": "Astral",
-			"desc": "Gives your eggs till the same rarity some chance to spawn paranormal pets."
+			"name": "星光",
+			"desc": "让你直到同品质的蛋有机会生成超自然宠物。"
 		}
 	},
 	"achievements": {
@@ -4130,7 +4130,7 @@
 		"flowerEvasion": "花朵闪避",
 		"petalHealthBuff": "花瓣耐久增加",
 		"mobAgroRange": "生物仇恨范围",
-		"petParanormalRate": "Pet Paranormal Rate",
+		"petParanormalRate": "宠物超自然化概率",
 		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
 		"tempArmor": "临时护甲",
 		"fragmentDamage": "碎片伤害",
