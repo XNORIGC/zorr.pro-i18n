@@ -3047,12 +3047,12 @@
 			"desc": "讓你的相同稀有度的蛋有一定機率孵化出超自然寵物。"
 		},
 		"magic_halo": {
-			"name": "Magic Halo",
-			"desc": "Fills all flowers in your view with magic using sussy black magic sorcery."
+			"name": "魔法光環",
+			"desc": "以可疑的黑巫術，將你視野中的所有花朵灌滿魔力。"
 		},
 		"magic_shovel": {
-			"name": "Magic Shovel",
-			"desc": "Turns you into a worm using magic & lets you go underground & meet Gandalf."
+			"name": "魔法鏟子",
+			"desc": "以魔法將你變成蚯蚓 & 賦予鑽入地底的能力 & 遇見甘道夫。"
 		}
 	},
 	"achievements": {
@@ -3876,46 +3876,46 @@
 		},
 		"kurchin": {
 			"name": "庫爾金",
-			"desc": "Just another urchin"
+			"desc": "衹是另一只海膽"
 		},
 		"bowser": {
-			"name": "Bowser",
-			"desc": "Mario moment"
+			"name": "庫巴",
+			"desc": "瑪利歐式神救援"
 		},
 		"hel": {
 			"name": "冥界",
 			"desc": "一朵冥界的花"
 		},
 		"nova": {
-			"name": "Nova",
-			"desc": "A hypernova"
+			"name": "新星",
+			"desc": "一個極超新星"
 		},
 		"blek": {
-			"name": "Blek",
-			"desc": "Darkness over all"
+			"name": "幻線軌跡",
+			"desc": "黑暗籠罩一切"
 		},
 		"nebula": {
-			"name": "Nebula",
-			"desc": "It's a Aluben"
+			"name": "星雲星雲",
+			"desc": "其實是雲星"
 		},
 		"transparent": {
-			"name": "Transparent",
-			"desc": "Can see through you"
+			"name": "透明",
+			"desc": "可以看穿你"
 		},
 		"omniba": {
-			"name": "Omniba",
-			"desc": "An omnipotent amobae"
+			"name": "寰宇霸",
+			"desc": "一隻邊行一切能力的變形蟲"
 		},
 		"joe": {
-			"name": "Joe",
-			"desc": "Just a regular everday joe"
+			"name": "喬",
+			"desc": "只是一個普通的普通人"
 		},
 		"nova2": {
-			"name": "Nova2",
-			"desc": "An omeganova"
+			"name": "新星2",
+			"desc": "一顆終末新星"
 		},
 		"g-dash": {
-			"name": "G-Dash",
+			"name": "G型瞬移",
 			"desc": "Stolen asset of Geometry Dash"
 		},
 		"z69": {
@@ -3927,7 +3927,7 @@
 			"desc": "diep youtuber moment"
 		},
 		"white": {
-			"name": "White",
+			"name": "白色",
 			"desc": "#fff asf moment"
 		},
 		"bwf": {
@@ -3955,44 +3955,44 @@
 			"desc": ":3"
 		},
 		"body": {
-			"name": "Body",
-			"desc": "Where did my body go?"
+			"name": "身體",
+			"desc": "我的身體去哪兒了？"
 		},
 		"xd": {
 			"name": "XD",
 			"desc": "smol eyes moment XD"
 		},
 		"pumpkin": {
-			"name": "Pumpkin",
-			"desc": "It's the pumpkin!"
+			"name": "南瓜",
+			"desc": "這是個南瓜！"
 		},
 		"freg": {
-			"name": "Freg",
-			"desc": "He lost his lilypad..."
+			"name": "草！（一種植物）",
+			"desc": "它失去了它的睡蓮……"
 		},
 		"zactus": {
-			"name": "Zactus",
-			"desc": "Goofy ahh cactus"
+			"name": "仙入掌",
+			"desc": "唐唐的仙人掌"
 		},
 		"5gram": {
-			"name": "5gram",
-			"desc": "It's a big pentagram."
+			"name": "5角星",
+			"desc": "這是一個巨大的五角星。"
 		},
 		"plus": {
-			"name": "Plus",
-			"desc": "Might be useful to keep the demons away."
+			"name": "十字加",
+			"desc": "可能有助於遠離惡魔。"
 		},
 		"kirby": {
-			"name": "Kirby",
-			"desc": "Spiky little ball"
+			"name": "卡比",
+			"desc": "尖刺小球"
 		},
 		"helios": {
 			"name": "太陽神",
 			"desc": "太陽神。"
 		},
 		"speartus_longaly": {
-			"name": "Speartus Longaly",
-			"desc": "Praise spikes"
+			"name": "刺皮爾特長·隆加利",
+			"desc": "讚美尖刺"
 		},
 		"blades": {
 			"name": "刃",
@@ -4019,15 +4019,15 @@
 		"heal": "愈",
 		"passiveHeal": "徐徐愈",
 		"passiveHealBelow50": "徐徐愈",
-		"passiveHealInverse": "Passive Heal",
-		"passiveMemorialShield": "Passive Memorial Shield",
+		"passiveHealInverse": "持續治療",
+		"passiveMemorialShield": "持續恢復紀念護盾",
 		"passivePetHeal": "徐徐愈寵",
-		"passivePetShield": "Passive Pet Shield",
-		"extraPetRange": "Extra Pet Range",
+		"passivePetShield": "持續恢復寵物護盾",
+		"extraPetRange": "寵物額外仇恨範圍",
 		"shield": "御",
 		"passiveShield": "徐徐御",
 		"poison": "附骨毒",
-		"poisonTime": "Poison Time",
+		"poisonTime": "中毒時間",
 		"orbitSpeed": "軌跡之速",
 		"lightningDamage": "雷霆之創",
 		"lightningFireDamage": "雷霆業火之創",
@@ -4050,14 +4050,14 @@
 		"armor": "甲冑",
 		"extraFlowerHealth": "增花之氣血",
 		"flowerPoison": "花附骨毒",
-		"flowerFire": "Flower Fire",
+		"flowerFire": "花朵火傷",
 		"slownessTime": "緩行之期",
 		"soakDamageTime": "承創之期",
 		"honeyRange": "蜜之距",
 		"honeyTileDamage": "蜜磚之創",
 		"honeyTilePoison": "蜜磚附骨毒",
 		"honeyTileFire": "蜜磚業火",
-		"honeySizeReduction": "Honey Size Reduction",
+		"honeySizeReduction": "蜂蜜塊尺寸縮小",
 		"sendToBiome": "遣入境",
 		"flowerReloadFactor": "花過載之數",
 		"armorDebuff": "甲冑之弱",
@@ -4070,11 +4070,11 @@
 		"agroRangeIncrease": "兇性距增益",
 		"extraFlowerKnock": "額外花朵擊退",
 		"damageHealed": "創之愈",
-		"bodyDamageHealed": "Body Damage Healed",
-		"bodyDamageMana": "Body Damage Mana",
+		"bodyDamageHealed": "造成身體傷害時治療",
+		"bodyDamageMana": "造成身體傷害時恢復魔力",
 		"selfDamage": "自創",
 		"selfFireDamage": "自受業火創",
-		"selfPoison": "Self Poison",
+		"selfPoison": "自我毒傷",
 		"flowerBodyLightning": "花體雷霆",
 		"freezeTime": "凝滯時",
 		"explosionFreezeTime": "爆裂凝滯時",
@@ -4088,38 +4088,38 @@
 		"cureCancer": "除癌魔",
 		"petMutation": "寵物異變",
 		"passivePetalHeal": "被動瓣愈",
-		"passivePetalShield": "Passive Petal Shield",
+		"passivePetalShield": "持續恢復花瓣護盾",
 		"healBuff": "愈之增益",
 		"shieldBuff": "御之增益",
 		"poisonReduction": "附骨毒消減",
 		"fireReduction": "業火消減",
-		"fireReductionPercent": "Fire Reduction Percent",
-		"poisonReductionPercent": "Poison Reduction Percent",
+		"fireReductionPercent": "火傷減免",
+		"poisonReductionPercent": "毒傷減免",
 		"cancer": "癌魔",
 		"orbit": "軌跡",
 		"boostUpwards": "向上疾行",
-		"boostSideways": "Boost Sideways",
+		"boostSideways": "側向推進",
 		"pullReduction": "引力消減",
 		"mobXpFactor": "妖獸閱歷增益",
 		"fullHealRate": "全愈之率",
-		"fullManaRegenRate": "Full Mana Regen Rate",
+		"fullManaRegenRate": "魔力完全恢復率",
 		"extraPetalSize": "花瓣巨化",
 		"flowerArmor": "花之甲冑",
 		"petalCritical": "花瓣致命",
 		"petalReloadSkipRate": "花瓣過載跳過之率",
-		"petalSecondaryReloadSkipRate": "Petal Secondary Reload Skip Rate",
+		"petalSecondaryReloadSkipRate": "花瓣次級冷卻跳過率",
 		"blockDamage": "格擋之創",
 		"petBlockDamage": "寵物格擋傷害",
-		"petalBlockDamage": "Petal Block Damage",
+		"petalBlockDamage": "花瓣格擋傷害",
 		"spreadDamage": "擴散之創",
 		"radiationRange": "輻射之距",
 		"radiationPoison": "輻射附骨毒",
 		"radiationFire": "輻射業火",
 		"radiationHeal": "輻射愈傷",
-		"radiationMana": "Radiation Mana",
+		"radiationMana": "輻射恢復魔力",
 		"radiationLightningDamage": "輻射雷霆之創",
 		"radiationLightningBounces": "輻射雷霆躍",
-		"radiationLightningFire": "Radiation Lightning Fire",
+		"radiationLightningFire": "輻射閃電火傷",
 		"orbitTwirl": "軌跡旋舞",
 		"growth": "生長",
 		"growthTime": "生長之時",
@@ -4133,14 +4133,14 @@
 		"extraPoisonDuration": "增益附骨毒之時",
 		"subExplosions": "次級爆裂",
 		"lightningMultiHitRate": "雷霆連擊之率",
-		"explosionMultiHit": "Explosion Multi Hit",
+		"explosionMultiHit": "爆炸多次擊中",
 		"orbitRangeFactor": "軌跡距之因子",
 		"flowerEvasion": "花之閃避",
 		"petalHealthBuff": "Petal Health Buff",
-		"mobAgroRange": "Mob Agro Range",
+		"mobAgroRange": "生物尺寸變化",
 		"petParanormalRate": "Pet Paranormal Rate",
-		"flowerSecondaryReloadFactor": "Flower Secondary Reload Factor",
-		"tempArmor": "Temp Armor",
+		"flowerSecondaryReloadFactor": "相對副加載係數",
+		"tempArmor": "臨時護甲",
 		"fragmentDamage": "碎片之創",
 		"fragmentHealth": "碎片氣血",
 		"extraSpillRate": "額外溢位機率",
@@ -4150,7 +4150,7 @@
 		"extraFlowerMass": "額外花朵質量",
 		"extraFlowerSize": "額外花朵大小",
 		"flowerSizeReduction": "花朵尺寸減小",
-		"petalSizeReduction": "Petal Size Reduction",
+		"petalSizeReduction": "花瓣額外大小",
 		"lightningReduction": "減少閃電",
 		"mobAgroRangeReduction": "Mob Agro Range Reduction",
 		"detox": "Detox",
@@ -4161,20 +4161,20 @@
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
-		"lightSize": "Light Size",
-		"blindTime": "Blind Time",
+		"lightSize": "照亮范圍",
+		"blindTime": "致盲時間",
 		"petifyRate": "Petify Rate",
 		"flowerArmorBuff": "Flower Armor Buff",
 		"finalDamage": "Final Damage",
-		"split": "Split",
-		"transcendence": "Transcendence",
-		"mobSizeChange": "Mob Size Change",
-		"projectileSpeedBuff": "Projectile Speed Buff",
+		"split": "分裂",
+		"transcendence": "超越程度",
+		"mobSizeChange": "生物尺寸變化",
+		"projectileSpeedBuff": "發射物速度增益",
 		"mana": "靈力",
 		"passiveMana": "被動靈力",
-		"passiveManaInverse": "Passive Mana",
+		"passiveManaInverse": "持續恢復魔力",
 		"passiveManaOnGround": "被動靈力",
-		"passiveMemorialMana": "Passive Memorial Mana",
+		"passiveMemorialMana": "持續恢復紀念魔力",
 		"extraFlowerMana": "增益花之靈力",
 		"damageMana": "創之靈力",
 		"manaBuff": "靈力增益",
@@ -4192,24 +4192,24 @@
 		"extraPetalDamagePercent": "Extra Petal Damage Percent",
 		"visionOffset": "Vision Offset",
 		"petalOrbitDistance": "Petal Orbit Distance",
-		"flowerDamageBuff": "Flower Damage Buff",
-		"flowerBodyDamage": "Flower Body Damage",
-		"damageReduction": "Damage Reduction",
-		"extraPetDamagePercent": "Extra Pet Damage Percent",
-		"fission": "Fission",
-		"fusion": "Fusion",
-		"splitOrbitDistance": "Split Orbit Distance",
+		"flowerDamageBuff": "花朵傷害增益",
+		"flowerBodyDamage": "花朵體傷",
+		"damageReduction": "傷害減免",
+		"extraPetDamagePercent": "寵物額外傷害百分比",
+		"fission": "裂變",
+		"fusion": "聚變",
+		"splitOrbitDistance": "分裂軌道距離",
 		"gap": "空隙",
-		"petDefrost": "Pet Defrost",
-		"extraManaPercent": "Extra Mana Percent",
-		"senseSpeed": "Sense Speed",
-		"senseRange": "Sense Range",
-		"relativityReloadFactor": "Relativity Reload Factor",
-		"relativitySecondaryReloadFactor": "Relativity Secondary Reload Factor",
-		"splitPetal": "Split Petal",
-		"psychicHeal": "Psychic Heal",
-		"visionReduction": "Vision Reduction",
-		"psychicMana": "Psychic Mana",
+		"petDefrost": "寵物解凍",
+		"extraManaPercent": "額外魔力百分比",
+		"senseSpeed": "感知提速",
+		"senseRange": "感知範圍",
+		"relativityReloadFactor": "相對冷卻係數",
+		"relativitySecondaryReloadFactor": "相對第二冷卻係數",
+		"splitPetal": "花瓣分裂次數",
+		"psychicHeal": "心靈感應治療",
+		"visionReduction": "視野減小",
+		"psychicMana": "心靈感應恢復魔力",
 		"bodyLightning": "體附雷霆",
 		"bodyLightningFire": "身體閃電火焰",
 		"bodyLightningPoison": "體傷閃電毒傷",
@@ -4225,37 +4225,37 @@
 		"sprayHealth": "噴之氣血",
 		"sprayDamage": "噴之創",
 		"sprayFireDamage": "噴業火創",
-		"sprayPoison": "Spray Poison",
+		"sprayPoison": "噴射物毒傷",
 		"telepathicDamage": "心念之創",
 		"telepathicPoison": "心念附骨毒",
 		"telepathicLightningDamage": "心念雷霆之創",
 		"healNearby": "範圍治療",
 		"damageGrowth": "傷害增長",
-		"infectionTime": "Infection Time",
-		"#controls": "#controls",
+		"infectionTime": "感染時間",
+		"#controls": "#控制",
 		"keyboardControls": "鍵之御",
 		"movementHelper": "移之助",
 		"invertAttackButton": "反攻之鈕",
 		"invertDefendButton": "反御之鈕",
-		"#chat": "#chat",
-		"@chatSize": "@chat Size",
-		"@minKillLogRarity": "@min Kill Log Rarity",
-		"@minCraftLogRarity": "@min Craft Log Rarity",
+		"#chat": "聊天",
+		"@chatSize": "聊天尺寸",
+		"@minKillLogRarity": "@擊殺日誌最低稀有度",
+		"@minCraftLogRarity": "@合成日誌最低品質",
 		"showChat": "顯言",
 		"showUserChats": "顯眾之言",
 		"showDropLogs": "顯掉落錄",
 		"showBlocked": "顯攔截錄",
-		"#performance": "#performance",
-		"@uiScale": "@ui Scale",
-		"@res": "@res",
-		"@iconRes": "@icon Res",
-		"@minDropRarity": "@min Drop Rarity",
+		"#performance": "#性能",
+		"@uiScale": "@用戶界面縮放比例",
+		"@res": "@清晰度",
+		"@iconRes": "@圖標清晰度",
+		"@minDropRarity": "@最低掉落品質",
 		"potatoHardware": "薯硬體",
-		"mapCachedRendering": "Map Cached Rendering",
-		"mobCachedRendering": "Mob Cached Rendering",
-		"petalCachedRendering": "Petal Cached Rendering",
+		"mapCachedRendering": "地圖緩存渲染",
+		"mobCachedRendering": "生物緩存渲染",
+		"petalCachedRendering": "花瓣緩存渲染",
 		"showIcons": "Show Icons",
-		"#game": "#game",
+		"#game": "遊戲",
 		"showOtherPetals": "顯他瓣",
 		"showOtherPets": "Show Other Pets",
 		"showHitbox": "顯擊框",
@@ -4704,7 +4704,7 @@
 	},
 	"talents": {
 		"Health1": {
-			"name": "Health",
+			"name": "生命值",
 			"desc": "Increases your health by {1}%."
 		},
 		"Health2": {
