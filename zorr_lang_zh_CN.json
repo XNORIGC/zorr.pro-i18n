@@ -3045,6 +3045,14 @@
 		"astral": {
 			"name": "星光",
 			"desc": "让你直到同品质的蛋有机会生成超自然宠物。"
+		},
+		"magic_halo": {
+			"name": "魔法光环",
+			"desc": "通过可疑的黑魔法把魔力输送给每个你看见的人。"
+		},
+		"magic_shovel": {
+			"name": "魔法铲子",
+			"desc": "把你变成魔法蠕虫&让你跑到地下去&见到甘道夫。"
 		}
 	},
 	"achievements": {
@@ -4149,7 +4157,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Ps": " Ps",
+		"Is": " 是",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4201,6 +4209,7 @@
 		"splitPetal": "花瓣分裂次数",
 		"psychicHeal": "心灵感应治疗",
 		"visionReduction": "视野减小",
+		"psychicMana": "超自然回魔",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
