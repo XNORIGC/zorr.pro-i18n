@@ -3045,6 +3045,14 @@
 		"astral": {
 			"name": "Astral",
 			"desc": "Gives your eggs till the same rarity some chance to spawn paranormal pets."
+		},
+		"magic_halo": {
+			"name": "Magic Halo",
+			"desc": "Fills all flowers in your view with magic using sussy black magic sorcery."
+		},
+		"magic_shovel": {
+			"name": "Magic Shovel",
+			"desc": "Turns you into a worm using magic & lets you go underground & meet Gandalf."
 		}
 	},
 	"achievements": {
@@ -4149,7 +4157,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ps": " Ps",
+		"Is": " Is",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4201,6 +4209,7 @@
 		"splitPetal": "Split Petal",
 		"psychicHeal": "Psychic Heal",
 		"visionReduction": "Vision Reduction",
+		"psychicMana": "Psychic Mana",
 		"bodyLightning": "Body Lightning",
 		"bodyLightningFire": "Body Lightning Fire",
 		"bodyLightningPoison": "Body Lightning Poison",
