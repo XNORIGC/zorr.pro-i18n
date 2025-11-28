@@ -889,8 +889,8 @@
 			"desc": "可能這都是南瓜造成的……"
 		},
 		"zatan": {
-			"name": "Zatan",
-			"desc": "A baby G-O-D openly committing zerrorism cos yes lol XD."
+			"name": "撒旦",
+			"desc": "一個「神」寶寶公開執行總怖主意因為嗯嗯哈哈。"
 		}
 	},
 	"petals": {
@@ -1752,7 +1752,7 @@
 		},
 		"mirror": {
 			"name": "鏡",
-			"desc": "Reflects missiles upto rarity+1. Damage of missiles with rarity higher than it is nerfed by 50%. For example, Ultra Mirror can relect Super Hornet's Missile but its damage will be reduced by 50%."
+			"desc": "反射最高到比其稀有度高一級的彈射物。等級比它高的彈射物傷害降低50%。舉個例子，究極鏡子可以反射超級黃蜂的導彈但是它的傷害降低了50%。"
 		},
 		"comb": {
 			"name": "櫛",
@@ -2991,19 +2991,19 @@
 			"desc": "這些魔法堅果在250級時傷害可提升至3倍。只有在裝備3件同稀有度物品時纔會生成。"
 		},
 		"elemental": {
-			"name": "Elemental",
+			"name": "元素",
 			"desc": "The elemental mob has dropped some of the magic that posessed it. This energy empoweres the wielder to achieve ungodly levels of strength."
 		},
 		"expander": {
-			"name": "Expander",
+			"name": "扩形器",
 			"desc": "Increases the size of the mobs till the same rarity."
 		},
 		"shrinker": {
-			"name": "Shrinker",
+			"name": "縮小器",
 			"desc": "Reduces the size of the mobs till the same rarity."
 		},
 		"zatan_egg": {
-			"name": "Zatan Egg",
+			"name": "撒旦蛋",
 			"desc": "A LIL BABY G-O-D EGG TO SPAWN A LIL BABY G-O-D BY REPRODUCTION WITH A FLOWER XD. SKIBIPIPI NYA NYA MEOW MEOW PURR PURR PHRENIA GO BRRRRRR XD."
 		},
 		"bamboo": {
@@ -3031,11 +3031,11 @@
 			"desc": "A very sweet edible that attracts insects..."
 		},
 		"magic_balloon": {
-			"name": "Magic Balloon",
-			"desc": "Makes you float sideways."
+			"name": "魔法氣球",
+			"desc": "讓你向側邊一個方向飛。"
 		},
 		"fractal": {
-			"name": "Fractal",
+			"name": "分形",
 			"desc": "Spawns a special type of lightning strike that branches itself after each hit. Multiple strokes just for you <3 XD"
 		},
 		"paranormal_goggles": {
