@@ -3048,7 +3048,7 @@
 		},
 		"magic_halo": {
 			"name": "魔法光环",
-			"desc": "通过可疑的黑魔法把魔力输送给每个你看见的人。"
+			"desc": "通过可疑的超自然黑魔法把魔力输送给每个你看见的人。"
 		},
 		"magic_shovel": {
 			"name": "魔法铲子",
@@ -4209,7 +4209,7 @@
 		"splitPetal": "花瓣分裂次数",
 		"psychicHeal": "心灵感应治疗",
 		"visionReduction": "视野减小",
-		"psychicMana": "超自然回魔",
+		"psychicMana": "超自然恢复魔力",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
