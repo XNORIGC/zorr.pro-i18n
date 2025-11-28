@@ -3004,7 +3004,7 @@
 		},
 		"zatan_egg": {
 			"name": "撒旦蛋",
-			"desc": "A LIL BABY G-O-D EGG TO SPAWN A LIL BABY G-O-D BY REPRODUCTION WITH A FLOWER XD. SKIBIPIPI NYA NYA MEOW MEOW PURR PURR PHRENIA GO BRRRRRR XD."
+			"desc": "一個小幼神卵，通過與花XD繁殖產生小幼神XD。牠喵喵叫，呼噜呼噜，精神分裂症，BRRRRRR XD。"
 		},
 		"bamboo": {
 			"name": "竹子",
@@ -3012,11 +3012,11 @@
 		},
 		"halo": {
 			"name": "天使之翼",
-			"desc": "Heals all flowers in your view using sussy skibidi psychic forces."
+			"desc": "使用可疑的斯基比迪超能力，恢復你視野範圍內的所有花朵。"
 		},
 		"hel_fire": {
 			"name": "冥界火焰",
-			"desc": "Radiates demonic energy, setting enemies on fire."
+			"desc": "迸發惡魔能量，使敵人陷入烈焰焚身。"
 		},
 		"wound": {
 			"name": "傷口",
@@ -3043,8 +3043,16 @@
 			"desc": "讓你可以看到並和超自然生物交互。"
 		},
 		"astral": {
-			"name": "Astral",
-			"desc": "Gives your eggs till the same rarity some chance to spawn paranormal pets."
+			"name": "星界",
+			"desc": "讓你的相同稀有度的蛋有一定機率孵化出超自然寵物。"
+		},
+		"magic_halo": {
+			"name": "Magic Halo",
+			"desc": "Fills all flowers in your view with magic using sussy black magic sorcery."
+		},
+		"magic_shovel": {
+			"name": "Magic Shovel",
+			"desc": "Turns you into a worm using magic & lets you go underground & meet Gandalf."
 		}
 	},
 	"achievements": {
@@ -3839,7 +3847,7 @@
 			"desc": "它看起來像混凝土"
 		},
 		"liu_wenzhi": {
-			"name": "Liu Wenzhi",
+			"name": "劉文智",
 			"desc": "它被肢解了"
 		},
 		"floofy": {
@@ -3860,14 +3868,14 @@
 		},
 		"tonker": {
 			"name": "笨蛋",
-			"desc": "It looks like a dinasaur"
+			"desc": "它看起來像一頭恐龍"
 		},
 		"gear": {
 			"name": "齒輪",
 			"desc": "機械齒輪"
 		},
 		"kurchin": {
-			"name": "Kurchin",
+			"name": "庫爾金",
 			"desc": "Just another urchin"
 		},
 		"bowser": {
@@ -4149,7 +4157,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ps": " Ps",
+		"Is": " Is",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4201,6 +4209,7 @@
 		"splitPetal": "Split Petal",
 		"psychicHeal": "Psychic Heal",
 		"visionReduction": "Vision Reduction",
+		"psychicMana": "Psychic Mana",
 		"bodyLightning": "體附雷霆",
 		"bodyLightningFire": "身體閃電火焰",
 		"bodyLightningPoison": "體傷閃電毒傷",
