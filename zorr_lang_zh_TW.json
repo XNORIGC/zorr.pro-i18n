@@ -2028,7 +2028,7 @@
 		},
 		"gunpowder": {
 			"name": "火藥",
-			"desc": "Deals 5x damage when your enemy is burning & increases projectile speed."
+			"desc": "當你的敵人處於燃燒狀態時造成五倍傷害並提高發射物的速度。"
 		},
 		"compass": {
 			"name": "指南針",
@@ -2992,15 +2992,15 @@
 		},
 		"elemental": {
 			"name": "元素",
-			"desc": "The elemental mob has dropped some of the magic that posessed it. This energy empoweres the wielder to achieve ungodly levels of strength."
+			"desc": "元素怪物掉落了屬於它的一些魔法。讓使用者獲得了一些超凡的能力。"
 		},
 		"expander": {
 			"name": "扩形器",
-			"desc": "Increases the size of the mobs till the same rarity."
+			"desc": "增加最高到同等級的怪物的體型大小。"
 		},
 		"shrinker": {
 			"name": "縮小器",
-			"desc": "Reduces the size of the mobs till the same rarity."
+			"desc": "減小最高到同等級的怪物的體型大小。"
 		},
 		"zatan_egg": {
 			"name": "撒旦蛋",
@@ -3019,16 +3019,16 @@
 			"desc": "Radiates demonic energy, setting enemies on fire."
 		},
 		"wound": {
-			"name": "Wound",
-			"desc": "A brutal puncture that makes you lose a lot of blood but also makes you very very lethal."
+			"name": "傷口",
+			"desc": "一個殘酷的創口讓你失去很多的血量，但是也讓你的傷害非常非常有破壞性。"
 		},
 		"magic_rna": {
 			"name": "魔法RNA",
 			"desc": "概率使你與它同等級及以下的寵物變為變體。"
 		},
 		"golden_honey": {
-			"name": "Golden Honey",
-			"desc": "A very sweet edible that attracts insects..."
+			"name": "黃金蜂蜜",
+			"desc": "一個非常甜的甜品，能夠吸引昆蟲……"
 		},
 		"magic_balloon": {
 			"name": "魔法氣球",
@@ -3036,11 +3036,11 @@
 		},
 		"fractal": {
 			"name": "分形",
-			"desc": "Spawns a special type of lightning strike that branches itself after each hit. Multiple strokes just for you <3 XD"
+			"desc": "生成一個特殊類型的閃電，每次碰撞後會分支自身，多重閃電只為您提供 <3 XD"
 		},
 		"paranormal_goggles": {
-			"name": "Paranormal Goggles",
-			"desc": "Allows you to see & interact with paranormal mobs."
+			"name": "超自然目鏡",
+			"desc": "讓你可以看到並和超自然生物交互。"
 		},
 		"astral": {
 			"name": "Astral",
