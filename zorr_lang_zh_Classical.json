@@ -4656,50 +4656,50 @@
 		},
 		"gold": {
 			"name": "金",
-			"desc": "Omnipotents only!"
+			"desc": "全能者專屬！"
 		},
 		"diamond": {
 			"name": "鑽石",
-			"desc": "For the non-existents!"
+			"desc": "為不存在的眾生！"
 		},
 		"ruby": {
-			"name": "Ruby",
-			"desc": "Turns you into a gem."
+			"name": "紅寶石",
+			"desc": "將你變成一顆寶石。"
 		}
 	},
 	"featured": {
 		"rookie": {
-			"name": "The Humble Beginnings"
+			"name": "謙卑之始"
 		},
 		"speed": {
-			"name": "Need For Speed"
+			"name": "極速快感"
 		},
 		"eggs": {
-			"name": "Top Eggs"
+			"name": "頂級蛋"
 		},
 		"support_eggs": {
-			"name": "Support Eggs"
+			"name": "支援蛋"
 		},
 		"starter_eggs": {
-			"name": "Starter Eggs"
+			"name": "初學者蛋"
 		},
 		"magic": {
-			"name": "Witchcraft"
+			"name": "巫術"
 		},
 		"electric": {
-			"name": "Electric Starterpack"
+			"name": "電擊新手包"
 		},
 		"poison": {
-			"name": "Toxic Playstyle"
+			"name": "有毒遊戲風格"
 		},
 		"fire": {
-			"name": "Burning For Progression"
+			"name": "燃燒求進"
 		},
 		"high_dps": {
-			"name": "High DPS"
+			"name": "高秒傷"
 		},
 		"top_player": {
-			"name": "Top Player Pack"
+			"name": "頂級玩家包"
 		}
 	},
 	"talents": {
@@ -4708,24 +4708,24 @@
 			"desc": "Increases your health by {1}%."
 		},
 		"Health2": {
-			"name": "Health",
-			"desc": "Increases your health by {1}%."
+			"name": "生命值",
+			"desc": "將你的生命值提高 {1}%。"
 		},
 		"Health3": {
-			"name": "Health",
-			"desc": "Increases your health by {1}%."
+			"name": "生命值",
+			"desc": "將你的生命值提高 {1}%。"
 		},
 		"Health4": {
-			"name": "Health",
-			"desc": "Increases your health by {1}%."
+			"name": "生命值",
+			"desc": "將你的生命值提高 {1}%。"
 		},
 		"Health5": {
-			"name": "Health",
-			"desc": "Increases your health by {1}%."
+			"name": "生命值",
+			"desc": "將你的生命值提高 {1}%。"
 		},
 		"Health6": {
-			"name": "Health",
-			"desc": "Increases your health by {1}%."
+			"name": "生命值",
+			"desc": "將你的生命值提高 {1}%。"
 		},
 		"HealthRegen1": {
 			"name": "Medic",
