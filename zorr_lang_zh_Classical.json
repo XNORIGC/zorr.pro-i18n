@@ -4705,7 +4705,7 @@
 	"talents": {
 		"Health1": {
 			"name": "生命值",
-			"desc": "Increases your health by {1}%."
+			"desc": "使你的生命值提升{1}％。"
 		},
 		"Health2": {
 			"name": "生命值",
@@ -4728,92 +4728,92 @@
 			"desc": "將你的生命值提高 {1}%。"
 		},
 		"HealthRegen1": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "醫療師",
+			"desc": "使你的生命恢復速率提升{1}%。"
 		},
 		"HealthRegen2": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "醫療師",
+			"desc": "使你的生命恢復速率提升{1}%。"
 		},
 		"HealthRegen3": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "醫療師",
+			"desc": "使你的生命恢復速率提升{1}%。"
 		},
 		"HealthRegen4": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "醫療師",
+			"desc": "使你的生命恢復速率提升{1}%。"
 		},
 		"HealthRegen5": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "醫療師",
+			"desc": "使你的生命恢復速率提升{1}%。"
 		},
 		"HealthRegen6": {
-			"name": "Medic",
-			"desc": "Increases your health regeneration by {1}%."
+			"name": "醫療師",
+			"desc": "使你的生命恢復速率提升{1}%。"
 		},
 		"ManaRegen1": {
-			"name": "Wizard",
-			"desc": "Increases your mana generation by {1}%."
+			"name": "法師",
+			"desc": "使你的魔力恢復速率提升{1}%。"
 		},
 		"ManaRegen2": {
-			"name": "Wizard",
-			"desc": "Increases your mana generation by {1}%."
+			"name": "法師",
+			"desc": "使你的魔力恢復速率提升{1}%。"
 		},
 		"ManaRegen3": {
-			"name": "Wizard",
-			"desc": "Increases your mana generation by {1}%."
+			"name": "法師",
+			"desc": "使你的魔力恢復速率提升{1}%。"
 		},
 		"Speed1": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "加速",
+			"desc": "將你的移動速度提升{1}%。"
 		},
 		"Speed2": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "加速",
+			"desc": "將你的移動速度提升{1}%。"
 		},
 		"Speed3": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "加速",
+			"desc": "將你的移動速度提升{1}%。"
 		},
 		"Speed4": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "加速",
+			"desc": "將你的移動速度提升{1}%。"
 		},
 		"Speed5": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "加速",
+			"desc": "將你的移動速度提升{1}%。"
 		},
 		"Speed6": {
-			"name": "Speed",
-			"desc": "Increases your movement speed by {1}%."
+			"name": "加速",
+			"desc": "將你的移動速度提升{1}%。"
 		},
 		"Damage1": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣傷害。"
 		},
 		"Damage2": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣傷害。"
 		},
 		"Damage3": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣傷害。"
 		},
 		"Damage4": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣傷害。"
 		},
 		"Damage5": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣傷害。"
 		},
 		"Damage6": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣傷害。"
 		},
 		"Damage7": {
-			"name": "Penetration",
-			"desc": "Increases your petal damage by {1}%."
+			"name": "穿透",
+			"desc": "增加{1}%花瓣傷害。"
 		},
 		"PoisonDamage1": {
 			"name": "Toxicity",
@@ -5017,23 +5017,23 @@
 		},
 		"PetHealth1": {
 			"name": "Pet Health",
-			"desc": "Increases health of your pets by {1}%."
+			"desc": "為你的寵物新增{1}%最大生命。"
 		},
 		"PetHealth2": {
 			"name": "Pet Health",
-			"desc": "Increases health of your pets by {1}%."
+			"desc": "為你的寵物新增{1}%最大生命。"
 		},
 		"PetHealth3": {
 			"name": "Pet Health",
-			"desc": "Increases health of your pets by {1}%."
+			"desc": "為你的寵物新增{1}%最大生命。"
 		},
 		"PetHealth4": {
 			"name": "Pet Health",
-			"desc": "Increases health of your pets by {1}%."
+			"desc": "為你的寵物新增{1}%最大生命。"
 		},
 		"PetHealth5": {
 			"name": "Pet Health",
-			"desc": "Increases health of your pets by {1}%."
+			"desc": "為你的寵物新增{1}%最大生命。"
 		},
 		"PetDamage1": {
 			"name": "Pet Damage",
