@@ -5140,92 +5140,92 @@
 			"desc": "提升魔力上限 {1}% 。"
 		},
 		"Particle1": {
-			"name": "Particle",
-			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+			"name": "粒子",
+			"desc": "若花瓣粒子數超過{1}，則增加1個額外粒子。"
 		},
 		"Particle2": {
-			"name": "Particle",
-			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+			"name": "粒子",
+			"desc": "若花瓣粒子數超過{1}，則增加1個額外粒子。"
 		},
 		"Particle3": {
-			"name": "Particle",
-			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+			"name": "粒子",
+			"desc": "若花瓣粒子數超過{1}，則增加1個額外粒子。"
 		},
 		"Particle4": {
-			"name": "Particle",
-			"desc": "Adds 1 extra particle if the petal has over {1} particles."
+			"name": "粒子",
+			"desc": "若花瓣粒子數超過{1}，則增加1個額外粒子。"
 		},
 		"PetalHealth1": {
-			"name": "Petal Health",
-			"desc": "Increases petal health by {1}%."
+			"name": "花瓣生命值",
+			"desc": "提升花瓣生命值 {1}%。"
 		},
 		"PetalHealth2": {
-			"name": "Petal Health",
-			"desc": "Increases petal health by {1}%."
+			"name": "花瓣生命值",
+			"desc": "提升花瓣生命值 {1}%。"
 		},
 		"PetalHealth3": {
-			"name": "Petal Health",
-			"desc": "Increases petal health by {1}%."
+			"name": "花瓣生命值",
+			"desc": "提升花瓣生命值 {1}%。"
 		},
 		"PetalHealth4": {
-			"name": "Petal Health",
-			"desc": "Increases petal health by {1}%."
+			"name": "花瓣生命值",
+			"desc": "提升花瓣生命值 {1}%。"
 		},
 		"PetalHealth5": {
-			"name": "Petal Health",
-			"desc": "Increases petal health by {1}%."
+			"name": "花瓣生命值",
+			"desc": "提升花瓣生命值 {1}%。"
 		},
 		"CDamage1": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化傷害",
+			"desc": "處於腐化狀態時，花瓣傷害提升 {1}%。"
 		},
 		"CDamage2": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化傷害",
+			"desc": "處於腐化狀態時，花瓣傷害提升 {1}%。"
 		},
 		"CDamage3": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化傷害",
+			"desc": "處於腐化狀態時，花瓣傷害提升 {1}%。"
 		},
 		"CDamage4": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化傷害",
+			"desc": "處於腐化狀態時，花瓣傷害提升 {1}%。"
 		},
 		"CDamage5": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化傷害",
+			"desc": "處於腐化狀態時，花瓣傷害提升 {1}%。"
 		},
 		"CDamage6": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化傷害",
+			"desc": "處於腐化狀態時，花瓣傷害提升 {1}%。"
 		},
 		"CDamage7": {
-			"name": "Corrupt Damage",
-			"desc": "Increases your petal damage by {1}% when you are corrupted."
+			"name": "腐化傷害",
+			"desc": "處於腐化狀態時，花瓣傷害提升 {1}%。"
 		},
 		"CReload1": {
-			"name": "Corrupt Reload",
-			"desc": "Increases your petal reload speed by {1}% when you are corrupted."
+			"name": "腐化裝填",
+			"desc": "腐化狀態下花瓣裝填速度提升 {1}%。"
 		},
 		"CReload2": {
-			"name": "Corrupt Reload",
-			"desc": "Increases your petal reload speed by {1}% when you are corrupted."
+			"name": "腐化裝填",
+			"desc": "腐化狀態下花瓣裝填速度提升 {1}%。"
 		},
 		"CReload3": {
-			"name": "Corrupt Reload",
-			"desc": "Increases your petal reload speed by {1}% when you are corrupted."
+			"name": "腐化裝填",
+			"desc": "腐化狀態下花瓣裝填速度提升 {1}%。"
 		},
 		"CRange1": {
-			"name": "Corrupt Range",
-			"desc": "Increases your petal range by {1}% when you are corrupted."
+			"name": "腐化範圍",
+			"desc": "腐化狀態下花瓣射程提升 {1}%。"
 		},
 		"CRange2": {
-			"name": "Corrupt Range",
-			"desc": "Increases your petal range by {1}% when you are corrupted."
+			"name": "腐化範圍",
+			"desc": "腐化狀態下花瓣射程提升 {1}%。"
 		},
 		"CRange3": {
-			"name": "Corrupt Range",
-			"desc": "Increases your petal range by {1}% when you are corrupted."
+			"name": "腐化範圍",
+			"desc": "腐化狀態下花瓣射程提升 {1}%。"
 		}
 	}
 }
