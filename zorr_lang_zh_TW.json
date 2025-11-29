@@ -4157,7 +4157,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Is": " 是",
+		"Ps": " Ps",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
@@ -5108,36 +5108,36 @@
 			"desc": "新增{1}的花瓣軌道速度"
 		},
 		"ExplosionRange1": {
-			"name": "Explosion",
-			"desc": "Increases petal explosion range by {1}."
+			"name": "爆炸",
+			"desc": "增加花瓣爆炸範圍 {1}。"
 		},
 		"ExplosionRange2": {
-			"name": "Explosion",
-			"desc": "Increases petal explosion range by {1}."
+			"name": "爆炸",
+			"desc": "增加花瓣爆炸範圍 {1}。"
 		},
 		"ExplosionRange3": {
-			"name": "Explosion",
-			"desc": "Increases petal explosion range by {1}."
+			"name": "爆炸",
+			"desc": "增加花瓣爆炸範圍 {1}。"
 		},
 		"ExplosionRange4": {
-			"name": "Explosion",
-			"desc": "Increases petal explosion range by {1}."
+			"name": "爆炸",
+			"desc": "增加花瓣爆炸範圍 {1}。"
 		},
 		"Mana1": {
-			"name": "Mana",
-			"desc": "Increases your mana capacity by {1}%."
+			"name": "魔力",
+			"desc": "提升魔力上限 {1}% 。"
 		},
 		"Mana2": {
-			"name": "Mana",
-			"desc": "Increases your mana capacity by {1}%."
+			"name": "魔力",
+			"desc": "提升魔力上限 {1}%。"
 		},
 		"Mana3": {
-			"name": "Mana",
-			"desc": "Increases your mana capacity by {1}%."
+			"name": "魔力",
+			"desc": "提升魔力上限 {1}% 。"
 		},
 		"Mana4": {
-			"name": "Mana",
-			"desc": "Increases your mana capacity by {1}%."
+			"name": "魔力",
+			"desc": "提升魔力上限 {1}% 。"
 		},
 		"Particle1": {
 			"name": "Particle",
