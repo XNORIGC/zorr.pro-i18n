@@ -2952,7 +2952,7 @@
 		},
 		"magic_trident": {
 			"name": "魔法三叉戟",
-			"desc": "一把魔法三叉戟，你的速度越快，它的伤害就越高，在达到基础速度20倍时，他的伤害达到顶峰，即5倍。如果其他人在同一服务器使用稀有度更高的魔法三叉戟，它将破裂。"
+			"desc": "一把魔法三叉戟，你的速度越快，它的伤害就越高，在达到基础速度20倍时，它的伤害最高达到5倍。如果其他人在同一服务器使用稀有度更高的魔法三叉戟，它将破裂。"
 		},
 		"sugarcane": {
 			"name": "甘蔗",
@@ -4209,7 +4209,7 @@
 		"splitPetal": "花瓣分裂次数",
 		"psychicHeal": "心灵感应治疗",
 		"visionReduction": "视野减小",
-		"psychicMana": "超自然恢复魔力",
+		"psychicMana": "心灵感应恢复魔力",
 		"bodyLightning": "身体电伤",
 		"bodyLightningFire": "身体闪电火伤",
 		"bodyLightningPoison": "身体闪电毒伤",
