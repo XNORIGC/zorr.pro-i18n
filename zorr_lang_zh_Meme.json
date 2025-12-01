@@ -1951,7 +1951,7 @@
 			"desc": "从切尔诺贝利四号核反应堆走私而来……"
 		},
 		"nitrogen": {
-			"name": "氮",
+			"name": "液氮",
 			"desc": "液氮。冷到能冻住你的敌人。"
 		},
 		"landmine": {
@@ -2076,7 +2076,7 @@
 		},
 		"job_application": {
 			"name": "工作申请",
-			"desc": "使一个怪物失去仇恨五秒。别浪费你的天赋，快去修理管道吧！"
+			"desc": "使一个生物失去仇恨五秒。别浪费你的天赋，快去修理管道吧！"
 		},
 		"termite_overmind_egg": {
 			"name": "大圆蚂蚁蛋",
@@ -3035,7 +3035,7 @@
 			"desc": "让你向侧边漂浮。"
 		},
 		"fractal": {
-			"name": "分形",
+			"name": "分形闪电",
 			"desc": "生成一种特殊的闪电，每次击中会分支自身。多重连击为您专供<3 XD"
 		},
 		"paranormal_goggles": {
@@ -3052,7 +3052,7 @@
 		},
 		"magic_shovel": {
 			"name": "魔法铲子",
-			"desc": "把你变成魔法蠕虫&让你跑到地下去&见到甘道夫。"
+			"desc": "把你变成魔法蠕虫&让你送到地下&见到甘道夫。"
 		}
 	},
 	"achievements": {
@@ -4238,7 +4238,7 @@
 		"invertAttackButton": "反转攻击控制",
 		"invertDefendButton": "反转防御控制",
 		"#chat": "#聊天",
-		"@chatSize": "@聊天大小",
+		"@chatSize": "@聊天框大小",
 		"@minKillLogRarity": "@击杀日志最低稀有度",
 		"@minCraftLogRarity": "@合成日志最低品质",
 		"showChat": "显示聊天",
@@ -4270,7 +4270,7 @@
 		"disableCrafting": "禁用合成",
 		"guildSquad": "公会组队",
 		"showPositionToGuild": "向公会显示位置",
-		"showAllVariantHud": "顶部显示所有变种",
+		"showAllVariantHud": "顶部平视显示器显示所有变种",
 		"#visuals": "#画面",
 		"showRarities": "显示花瓣品质",
 		"showCraftBubble": "显示合成气泡",
@@ -4331,7 +4331,7 @@
 		"minKillLogRarity": "击杀日志最低稀有度",
 		"minCraftLogRarity": "合成日志最低品质",
 		"minDropRarity": "最小掉落品质",
-		"mobHudCount": "平视显示器生物数",
+		"mobHudCount": "生物平视显示器数",
 		"chatSize": "聊天大小",
 		"maxMagicPets": "魔法宠物上限",
 		"afkChallengeSize": "挂机检查大小",
