@@ -891,6 +891,10 @@
 		"zatan": {
 			"name": "Zatan",
 			"desc": "A baby G-O-D openly committing zerrorism cos yes lol XD."
+		},
+		"gift": {
+			"name": "Gift",
+			"desc": "Gives a temporary random skin when killed. Higher rarity gifts give more expensive skins. Skin is lost when server or skin is changed."
 		}
 	},
 	"petals": {
@@ -3053,6 +3057,14 @@
 		"magic_shovel": {
 			"name": "Magic Shovel",
 			"desc": "Turns you into a worm using magic & lets you go underground & meet Gandalf."
+		},
+		"joy_stick": {
+			"name": "Joy Stick",
+			"desc": "Turns all types of sticks of lower or the same rarity into more joy sticks."
+		},
+		"gift_egg": {
+			"name": "Gift Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -4157,7 +4169,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ps": " Ps",
+		"Is": " Is",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
