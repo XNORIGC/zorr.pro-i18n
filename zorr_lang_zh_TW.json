@@ -891,6 +891,10 @@
 		"zatan": {
 			"name": "Zatan",
 			"desc": "一個「神」寶寶公開執行總怖主意因為嗯嗯哈哈。"
+		},
+		"gift": {
+			"name": "Gift",
+			"desc": "Gives a temporary random skin when killed. Higher rarity gifts give more expensive skins. Skin is lost when server or skin is changed."
 		}
 	},
 	"petals": {
@@ -3053,6 +3057,14 @@
 		"magic_shovel": {
 			"name": "魔法鏟子",
 			"desc": "以魔法將你變成蚯蚓 & 賦予鑽入地底的能力 & 遇見甘道夫。"
+		},
+		"joy_stick": {
+			"name": "Joy Stick",
+			"desc": "Turns all types of sticks of lower or the same rarity into more joy sticks."
+		},
+		"gift_egg": {
+			"name": "Gift Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -4157,7 +4169,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Ps": " Ps",
+		"Is": " Is",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
