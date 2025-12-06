@@ -893,8 +893,8 @@
 			"desc": "一個「神」寶寶公開執行總怖主意因為嗯嗯哈哈。"
 		},
 		"gift": {
-			"name": "Gift",
-			"desc": "Gives a temporary random skin when killed. Higher rarity gifts give more expensive skins. Skin is lost when server or skin is changed."
+			"name": "禮物‌",
+			"desc": "被杀時隨機獲得一個臨時皮膚。稀有度越高的禮物，給的皮膚越貴。切換伺服器或皮膚後，該皮膚會消失。"
 		}
 	},
 	"petals": {
@@ -3059,12 +3059,12 @@
 			"desc": "以魔法將你變成蚯蚓 & 賦予鑽入地底的能力 & 遇見甘道夫。"
 		},
 		"joy_stick": {
-			"name": "Joy Stick",
-			"desc": "Turns all types of sticks of lower or the same rarity into more joy sticks."
+			"name": "快樂棍",
+			"desc": "將所有稀有度相同或更低的棍子轉換為更多的快樂棍。"
 		},
 		"gift_egg": {
-			"name": "Gift Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "禮物‌蛋",
+			"desc": "它可以孵化並產生一些有趣的事物……"
 		}
 	},
 	"achievements": {
@@ -3832,7 +3832,7 @@
 		},
 		"yoby": {
 			"name": "尤比",
-			"desc": "尤巴的兒子時刻"
+			"desc": "尤巴的小時候"
 		},
 		"pinkman": {
 			"name": "粉人",
@@ -3852,7 +3852,7 @@
 		},
 		"algae": {
 			"name": "藻類",
-			"desc": "都柿同星戀"
+			"desc": "都是Gay"
 		},
 		"sprunki": {
 			"name": "節奏盒子",
@@ -5008,23 +5008,23 @@
 			"desc": "增加{1}%的輻射範圍。"
 		},
 		"SpillRate1": {
-			"name": "層流器",
+			"name": "流動速度",
 			"desc": "增加{1}%花瓣額外流動速度。"
 		},
 		"SpillRate2": {
-			"name": "層流器",
+			"name": "流動速度",
 			"desc": "增加{1}%花瓣額外流動速度。"
 		},
 		"SpillRate3": {
-			"name": "層流器",
+			"name": "流動速度",
 			"desc": "增加{1}%花瓣額外流動速度。"
 		},
 		"SpillRate4": {
-			"name": "層流器",
+			"name": "流動速度",
 			"desc": "增加{1}%花瓣額外流動速度。"
 		},
 		"SpillRate5": {
-			"name": "層流器",
+			"name": "流動速度",
 			"desc": "增加{1}%花瓣額外流動速度。"
 		},
 		"PetHealth1": {
