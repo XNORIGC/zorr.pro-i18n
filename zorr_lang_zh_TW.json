@@ -3979,11 +3979,11 @@
 			"desc": "這是個南瓜！"
 		},
 		"freg": {
-			"name": "草！（一種植物）",
+			"name": "草",
 			"desc": "它失去了它的睡蓮……"
 		},
 		"zactus": {
-			"name": "仙入掌",
+			"name": "仙人掌",
 			"desc": "唐唐的仙人掌"
 		},
 		"5gram": {
@@ -3991,7 +3991,7 @@
 			"desc": "這是一個巨大的五角星。"
 		},
 		"plus": {
-			"name": "十字加",
+			"name": "十字架",
 			"desc": "可能有助於遠離惡魔。"
 		},
 		"kirby": {
@@ -4249,7 +4249,7 @@
 		"movementHelper": "移動輔助",
 		"invertAttackButton": "反轉攻擊按鈕",
 		"invertDefendButton": "反轉防禦按鈕",
-		"#chat": "聊天",
+		"#chat": "#聊天",
 		"@chatSize": "聊天尺寸",
 		"@minKillLogRarity": "@擊殺日誌最低稀有度",
 		"@minCraftLogRarity": "@合成日誌最低品質",
@@ -4267,7 +4267,7 @@
 		"mobCachedRendering": "生物緩存渲染",
 		"petalCachedRendering": "花瓣緩存渲染",
 		"showIcons": "展示圖標",
-		"#game": "遊戲",
+		"#game": "#遊戲",
 		"showOtherPetals": "顯示其它人的花瓣",
 		"showOtherPets": "展示別的寵物",
 		"showHitbox": "顯示碰撞箱",
