@@ -895,6 +895,10 @@
 		"gift": {
 			"name": "禮物‌",
 			"desc": "被杀時隨機獲得一個臨時皮膚。稀有度越高的禮物，給的皮膚越貴。切換伺服器或皮膚後，該皮膚會消失。"
+		},
+		"acid_bubble": {
+			"name": "Acid Bubble",
+			"desc": "Average Indian fart XD"
 		}
 	},
 	"petals": {
@@ -3040,7 +3044,7 @@
 		},
 		"fractal": {
 			"name": "分形",
-			"desc": "生成一個特殊類型的閃電，每次碰撞後會分支自身，多重閃電只為您提供 <3 XD"
+			"desc": "Spawns a special type of lightning strike that branches itself after each hit."
 		},
 		"paranormal_goggles": {
 			"name": "超自然目鏡",
@@ -3065,6 +3069,18 @@
 		"gift_egg": {
 			"name": "禮物‌蛋",
 			"desc": "它可以孵化並產生一些有趣的事物……"
+		},
+		"acid_bubble_egg": {
+			"name": "Acid Bubble Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"acid_bomb": {
+			"name": "Acid Bomb",
+			"desc": "Drops some really hazardous liquid upon explosion"
+		},
+		"lava_bomb": {
+			"name": "Lava Bomb",
+			"desc": "Melts upon explosion leaving behind a fat blob of lava."
 		}
 	},
 	"achievements": {
@@ -3917,6 +3933,14 @@
 		"omniba": {
 			"name": "寰宇霸",
 			"desc": "一隻邊行一切能力的變形蟲"
+		},
+		"rubber": {
+			"name": "Rubber",
+			"desc": "Doesn't make you bounce"
+		},
+		"electric": {
+			"name": "Electric",
+			"desc": "A charged flower"
 		},
 		"joe": {
 			"name": "喬",
