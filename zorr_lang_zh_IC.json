@@ -3946,6 +3946,18 @@
 			"name": "张三",
 			"desc": "只是一个普通的普通人"
 		},
+		"ash": {
+			"name": "Ash",
+			"desc": "Someone is still finding it..."
+		},
+		"sol": {
+			"name": "Sol",
+			"desc": "just another sun skin"
+		},
+		"x": {
+			"name": "x",
+			"desc": "xxD"
+		},
 		"nova2": {
 			"name": "新星2",
 			"desc": "一颗终末新星"
@@ -4193,7 +4205,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Is": " 是",
+		"Es": " Es",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
