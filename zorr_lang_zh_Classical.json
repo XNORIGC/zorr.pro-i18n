@@ -3946,6 +3946,18 @@
 			"name": "喬",
 			"desc": "只是一個普通的普通人"
 		},
+		"ash": {
+			"name": "Ash",
+			"desc": "Someone is still finding it..."
+		},
+		"sol": {
+			"name": "Sol",
+			"desc": "just another sun skin"
+		},
+		"x": {
+			"name": "x",
+			"desc": "xxD"
+		},
 		"nova2": {
 			"name": "新星2",
 			"desc": "一顆終末新星"
@@ -4193,7 +4205,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Is": " 是",
+		"Es": " Es",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
