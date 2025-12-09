@@ -3946,6 +3946,18 @@
 			"name": "Joe",
 			"desc": "Just a regular everday joe"
 		},
+		"ash": {
+			"name": "Ash",
+			"desc": "Someone is still finding it..."
+		},
+		"sol": {
+			"name": "Sol",
+			"desc": "just another sun skin"
+		},
+		"x": {
+			"name": "x",
+			"desc": "xxD"
+		},
 		"nova2": {
 			"name": "Nova2",
 			"desc": "An omeganova"
@@ -4193,7 +4205,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Is": " Is",
+		"Es": " Es",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
