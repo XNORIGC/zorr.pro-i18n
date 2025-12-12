@@ -4018,6 +4018,10 @@
 			"name": "草",
 			"desc": "它失去了它的睡蓮……"
 		},
+		"invisible": {
+			"name": "Invisible",
+			"desc": "Mobs can still see you"
+		},
 		"zactus": {
 			"name": "仙人掌",
 			"desc": "唐唐的仙人掌"
@@ -4205,7 +4209,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Fs": " Fs",
+		"Ds": " Ds",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
