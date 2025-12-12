@@ -4018,6 +4018,10 @@
 			"name": "Freg",
 			"desc": "He lost his lilypad..."
 		},
+		"invisible": {
+			"name": "Invisible",
+			"desc": "Mobs can still see you"
+		},
 		"zactus": {
 			"name": "Zactus",
 			"desc": "Goofy ahh cactus"
@@ -4205,7 +4209,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Fs": " Fs",
+		"Ds": " Ds",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
