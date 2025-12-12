@@ -897,7 +897,7 @@
 			"desc": "被杀時隨機獲得一個臨時皮膚。稀有度越高的禮物，給的皮膚越貴。切換伺服器或皮膚後，該皮膚會消失。"
 		},
 		"acid_bubble": {
-			"name": "Acid Bubble",
+			"name": "酸泡泡",
 			"desc": "Average Indian fart XD"
 		}
 	},
@@ -3044,7 +3044,7 @@
 		},
 		"fractal": {
 			"name": "分形",
-			"desc": "Spawns a special type of lightning strike that branches itself after each hit."
+			"desc": "生成一特殊型態的雷電打擊，每次命中後會分支自身。"
 		},
 		"paranormal_goggles": {
 			"name": "超自然目鏡",
@@ -3071,16 +3071,16 @@
 			"desc": "它可以孵化並產生一些有趣的事物……"
 		},
 		"acid_bubble_egg": {
-			"name": "Acid Bubble Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "酸泡泡蛋",
+			"desc": "它可以孵化並生成一些有趣的事物...‌……"
 		},
 		"acid_bomb": {
-			"name": "Acid Bomb",
-			"desc": "Drops some really hazardous liquid upon explosion"
+			"name": "酸液炸彈‌",
+			"desc": "爆炸後洩漏高度危害性液體"
 		},
 		"lava_bomb": {
 			"name": "Lava Bomb",
-			"desc": "Melts upon explosion leaving behind a fat blob of lava."
+			"desc": "爆炸後熔解，留下一大坨熔岩。"
 		}
 	},
 	"achievements": {
