@@ -898,7 +898,7 @@
 		},
 		"acid_bubble": {
 			"name": "酸泡泡",
-			"desc": "Average Indian fart XD"
+			"desc": "平均的印度屁 哈哈"
 		}
 	},
 	"petals": {
@@ -3079,7 +3079,7 @@
 			"desc": "爆炸後洩漏高度危害性液體"
 		},
 		"lava_bomb": {
-			"name": "Lava Bomb",
+			"name": "熔岩炸彈",
 			"desc": "爆炸後熔解，留下一大坨熔岩。"
 		}
 	},
@@ -3935,8 +3935,8 @@
 			"desc": "一隻邊行一切能力的變形蟲"
 		},
 		"rubber": {
-			"name": "Rubber",
-			"desc": "Doesn't make you bounce"
+			"name": "橡膠",
+			"desc": "不会‌让你反弹"
 		},
 		"electric": {
 			"name": "Electric",
@@ -4019,8 +4019,8 @@
 			"desc": "它失去了它的睡蓮……"
 		},
 		"invisible": {
-			"name": "Invisible",
-			"desc": "Mobs can still see you"
+			"name": "不可見的",
+			"desc": "怪物仍然可以看到你‌"
 		},
 		"zactus": {
 			"name": "仙人掌",
