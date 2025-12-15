@@ -3939,19 +3939,19 @@
 			"desc": "不会‌让你反弹"
 		},
 		"electric": {
-			"name": "Electric",
-			"desc": "A charged flower"
+			"name": "電",
+			"desc": "花花電量已達100%"
 		},
 		"joe": {
 			"name": "喬",
 			"desc": "只是一個普通的普通人"
 		},
 		"ash": {
-			"name": "Ash",
-			"desc": "Someone is still finding it..."
+			"name": "灰塵",
+			"desc": "一些人仍然在尋找它……"
 		},
 		"sol": {
-			"name": "Sol",
+			"name": "大陽",
 			"desc": "這只是另一個太陽皮膚"
 		},
 		"x": {
