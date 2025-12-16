@@ -3081,6 +3081,10 @@
 		"lava_bomb": {
 			"name": "Lava Bomb",
 			"desc": "Melts upon explosion leaving behind a fat blob of lava."
+		},
+		"warp": {
+			"name": "Warp",
+			"desc": "Warps you to your closest squadmate, or rather, it warps you some % closer, percentage depends on rarity"
 		}
 	},
 	"achievements": {
