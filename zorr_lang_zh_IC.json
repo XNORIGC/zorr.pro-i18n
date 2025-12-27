@@ -1812,7 +1812,7 @@
 		},
 		"claw": {
 			"name": "透骨裂魂爪",
-			"desc": "当敌人生命值超过70%时，造成7倍伤害。"
+			"desc": "Deals 7x damage when enemy health is over 50%."
 		},
 		"electric_eel_egg": {
 			"name": "雷泽玄蛟卵",
@@ -2992,7 +2992,7 @@
 		},
 		"maple": {
 			"name": "枫叶",
-			"desc": "它每秒都有10%的概率重置它的刷新时间……"
+			"desc": "Every second it has 15% chance to reset its reload..."
 		},
 		"magic_nut": {
 			"name": "魔法坚果",
@@ -4065,6 +4065,10 @@
 		"griffin": {
 			"name": "格里芬",
 			"desc": "比你想象的更大，更适合恶搞……"
+		},
+		"droplet": {
+			"name": "Droplet",
+			"desc": "H2O"
 		}
 	},
 	"objectKeys": {
@@ -4213,7 +4217,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Ps": " Ps",
+		"Ds": " Ds",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4226,6 +4230,7 @@
 		"transcendence": "超越程度",
 		"mobSizeChange": "生物尺寸变化",
 		"projectileSpeedBuff": "发射物速度增益",
+		"warp": "Warp",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
