@@ -1812,7 +1812,7 @@
 		},
 		"claw": {
 			"name": "爪子",
-			"desc": "Deals 7x damage when enemy health is over 50%."
+			"desc": "‌當敵方生命值超過50%時，造成7倍傷害。"
 		},
 		"electric_eel_egg": {
 			"name": "電鰻蛋",
@@ -2992,7 +2992,7 @@
 		},
 		"maple": {
 			"name": "楓樹",
-			"desc": "Every second it has 15% chance to reset its reload..."
+			"desc": "1秒有15%機率重置其裝填時間‌……"
 		},
 		"magic_nut": {
 			"name": "魔法堅果",
@@ -4067,8 +4067,8 @@
 			"desc": "比你想象的更大，更適合惡搞……"
 		},
 		"droplet": {
-			"name": "Droplet",
-			"desc": "H2O"
+			"name": "液滴",
+			"desc": "水"
 		}
 	},
 	"objectKeys": {
