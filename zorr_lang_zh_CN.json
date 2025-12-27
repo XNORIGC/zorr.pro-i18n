@@ -1812,7 +1812,7 @@
 		},
 		"claw": {
 			"name": "爪子",
-			"desc": "Deals 7x damage when enemy health is over 50%."
+			"desc": "在敌人血量大于50%时做出7倍伤害。"
 		},
 		"electric_eel_egg": {
 			"name": "电鳗蛋",
@@ -2992,7 +2992,7 @@
 		},
 		"maple": {
 			"name": "枫叶",
-			"desc": "Every second it has 15% chance to reset its reload..."
+			"desc": "每秒都有15%的机会重置刷新……"
 		},
 		"magic_nut": {
 			"name": "魔法坚果",
@@ -4067,7 +4067,7 @@
 			"desc": "比你想象的更大，更适合恶搞……"
 		},
 		"droplet": {
-			"name": "Droplet",
+			"name": "水滴",
 			"desc": "H₂O"
 		}
 	},
@@ -4230,7 +4230,7 @@
 		"transcendence": "超越程度",
 		"mobSizeChange": "生物尺寸变化",
 		"projectileSpeedBuff": "发射物速度增益",
-		"warp": "Warp",
+		"warp": "传送距离",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
