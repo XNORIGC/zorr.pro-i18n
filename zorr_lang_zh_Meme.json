@@ -60,7 +60,7 @@
 		"timeAlive": "存活时间",
 		"mobsKilled": "击杀生物数",
 		"score": "分数",
-		"mass": "质量",
+		"mass": "",
 		"totalDamage": "总伤",
 		"lastDamage": "伤害",
 		"dps": "秒伤",
@@ -180,7 +180,7 @@
 		"clickToCopy": "点击以复制！",
 		"noMembership": "你还没有任何一个已激活的订阅。",
 		"search": "搜索",
-		"enterUsername": "输入用户名……",
+		"enterUsername": "",
 		"enterPassword": "输入密码……",
 		"setUsername": "设置用户名：",
 		"setPassword": "设置密码：",
@@ -605,7 +605,7 @@
 			"desc": "愚人节当心好朋友“戳”你"
 		},
 		"ufo": {
-			"name": "UFO",
+			"name": "不明飞行物（简称飞物）",
 			"desc": "51州"
 		},
 		"alien": {
@@ -3735,7 +3735,7 @@
 			"desc": "杀手小丑。"
 		},
 		"baby_ant": {
-			"name": "",
+			"name": "只是一个宝宝",
 			"desc": "迪迪的幼蚁"
 		},
 		"reddit": {
