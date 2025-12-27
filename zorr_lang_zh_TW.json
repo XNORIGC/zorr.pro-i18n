@@ -3084,7 +3084,7 @@
 		},
 		"warp": {
 			"name": "傳送器",
-			"desc": "Warps you to your closest squadmate, or rather, it warps you some % closer, percentage depends on rarity"
+			"desc": "將你傳送到最近的小隊成員旁邊，或者更確切地說，是將你轉送至距離最近的小隊成員的一定百分比處，轉送距離百分比取決於花瓣稀有度"
 		}
 	},
 	"achievements": {
@@ -4230,7 +4230,7 @@
 		"transcendence": "超越程度",
 		"mobSizeChange": "生物尺寸變化",
 		"projectileSpeedBuff": "發射物速度增益",
-		"warp": "Warp",
+		"warp": "傳送距離百分比",
 		"mana": "魔力",
 		"passiveMana": "持續魔力恢復",
 		"passiveManaInverse": "持續恢復魔力",
