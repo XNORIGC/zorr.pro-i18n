@@ -1812,7 +1812,7 @@
 		},
 		"claw": {
 			"name": "爪子",
-			"desc": "當敵方生命值超過70%時，造成7倍傷害。"
+			"desc": "Deals 7x damage when enemy health is over 50%."
 		},
 		"electric_eel_egg": {
 			"name": "電鰻蛋",
@@ -2992,7 +2992,7 @@
 		},
 		"maple": {
 			"name": "楓樹",
-			"desc": "每秒鐘，它都有10%的機會重置其冷卻……"
+			"desc": "Every second it has 15% chance to reset its reload..."
 		},
 		"magic_nut": {
 			"name": "魔法堅果",
@@ -4065,6 +4065,10 @@
 		"griffin": {
 			"name": "格里芬",
 			"desc": "比你想象的更大，更適合惡搞……"
+		},
+		"droplet": {
+			"name": "Droplet",
+			"desc": "H2O"
 		}
 	},
 	"objectKeys": {
@@ -4213,7 +4217,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Ps": " Ps",
+		"Ds": " Ds",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
@@ -4226,6 +4230,7 @@
 		"transcendence": "超越程度",
 		"mobSizeChange": "生物尺寸變化",
 		"projectileSpeedBuff": "發射物速度增益",
+		"warp": "Warp",
 		"mana": "魔力",
 		"passiveMana": "持續魔力恢復",
 		"passiveManaInverse": "持續恢復魔力",
