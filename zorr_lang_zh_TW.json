@@ -3083,7 +3083,7 @@
 			"desc": "爆炸後熔解，留下一大坨熔岩。"
 		},
 		"warp": {
-			"name": "Warp",
+			"name": "傳送器",
 			"desc": "Warps you to your closest squadmate, or rather, it warps you some % closer, percentage depends on rarity"
 		}
 	},
