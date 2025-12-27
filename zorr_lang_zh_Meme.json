@@ -24,17 +24,17 @@
 		"privacy": "隐私政策",
 		"terms": "服务条款",
 		"wiki": "维基",
-		"talents": "天赋",
+		"talents": "一些有用的东西",
 		"inventory": "花花的口袋",
-		"craft": "合成",
+		"craft": "论如何获得高血压",
 		"mobGallery": "大熊掌",
 		"yourProfile": "你的资料",
-		"globalLeaderboard": "全球排行榜",
+		"globalLeaderboard": "全是大佬！",
 		"globalCrafts": "全球合成日志",
 		"challenges": "挑战",
 		"mapEditor": "地图编辑器",
 		"joinDiscord": "加入我们的Discord服务器！",
-		"leaveGame": "离开游戏",
+		"leaveGame": "逃逸",
 		"dailyStreakRewards": "每日签到奖励",
 		"inventoryInstructions": "只有萌新才能看到这段话",
 		"stack": "堆叠",
@@ -42,7 +42,7 @@
 		"findPublic": "加入随机公开小队",
 		"new": "创建",
 		"leave": "离开",
-		"empty": "空",
+		"empty": "啥都没有",
 		"join": "加入",
 		"you": "（你）",
 		"public": "公开",
@@ -135,13 +135,13 @@
 		"import": "导入",
 		"copy": "复制",
 		"notInGuild": "你还不在任何一个公会里。",
-		"guildCreateRequirement": "需要达到五十级以上才能创建公会。",
+		"guildCreateRequirement": "这么菜创什么公会！",
 		"create": "创建",
 		"creating": "创建中……",
 		"invite": "邀请",
-		"kick": "踢出",
+		"kick": "神权",
 		"leader": "（会长）",
-		"oracle": "神谕",
+		"oracle": "论如何治愈高血压",
 		"trade": "交易",
 		"forge": "锻造",
 		"showAll": "显示空格",
@@ -730,7 +730,7 @@
 		},
 		"stalagmite": {
 			"name": "石笋",
-			"desc": "它会反复试图刺伤你。"
+			"desc": "总会尝试创四你"
 		},
 		"arctic_spider_cave": {
 			"name": "极地蜘蛛洞",
@@ -773,12 +773,12 @@
 			"desc": "严寒将它侵蚀得脆弱不堪，但它仍未停下脚步。"
 		},
 		"cube": {
-			"name": "立方体",
+			"name": "立体几何",
 			"desc": "这个东西看起来好熟悉……你这不就是把3D点投影到2D平面嘛。简单得很。"
 		},
 		"white_hole": {
-			"name": "白洞",
-			"desc": "有强大的斥力并发出令人炫目的强光"
+			"name": "",
+			"desc": "会亮瞎你的眼睛并且会把你推开"
 		},
 		"tesseract": {
 			"name": "超立方体",
@@ -854,7 +854,7 @@
 		},
 		"manhole": {
 			"name": "检修孔",
-			"desc": "便便生物的便便洞。它排出的物质会引起可堆叠的感染。"
+			"desc": ""
 		},
 		"pooworm": {
 			"name": "便便蠕虫",
