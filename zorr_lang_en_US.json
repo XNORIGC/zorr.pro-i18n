@@ -1812,7 +1812,7 @@
 		},
 		"claw": {
 			"name": "Claw",
-			"desc": "Deals 7x damage when enemy health is over 70%."
+			"desc": "Deals 7x damage when enemy health is over 50%."
 		},
 		"electric_eel_egg": {
 			"name": "Electric Eel Egg",
@@ -2992,7 +2992,7 @@
 		},
 		"maple": {
 			"name": "Maple",
-			"desc": "Every second it has 10% chance to reset its reload..."
+			"desc": "Every second it has 15% chance to reset its reload..."
 		},
 		"magic_nut": {
 			"name": "Magic Nut",
@@ -4065,6 +4065,10 @@
 		"griffin": {
 			"name": "Griffin",
 			"desc": "Much bigger & troll worthy than you would think..."
+		},
+		"droplet": {
+			"name": "Droplet",
+			"desc": "H2O"
 		}
 	},
 	"objectKeys": {
@@ -4213,7 +4217,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ps": " Ps",
+		"Ds": " Ds",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4226,6 +4230,7 @@
 		"transcendence": "Transcendence",
 		"mobSizeChange": "Mob Size Change",
 		"projectileSpeedBuff": "Projectile Speed Buff",
+		"warp": "Warp",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
