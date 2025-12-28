@@ -31,7 +31,7 @@
 		"yourProfile": "你的资料",
 		"globalLeaderboard": "全是大佬！",
 		"globalCrafts": "全球合成日志",
-		"challenges": "挑战",
+		"challenges": "免费获得星星",
 		"mapEditor": "地图编辑器",
 		"joinDiscord": "加入我们的Discord服务器！",
 		"leaveGame": "逃逸",
@@ -83,7 +83,7 @@
 		"bio": "生化",
 		"void": "虚空",
 		"hel": "冥界",
-		"sewers": "管道",
+		"sewers": "你家的下水道",
 		"as": "亚洲",
 		"eu": "欧洲",
 		"us": "美国",
@@ -1704,7 +1704,7 @@
 		},
 		"moon": {
 			"name": "超超超超级大圆球",
-			"desc": "明月挤石油..."
+			"desc": "非常巨大的花瓣，可能会保护你，使你免受生物伤害"
 		},
 		"pearl": {
 			"name": "珍珠",
