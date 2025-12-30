@@ -91,7 +91,7 @@
 		"unequip": "卸下",
 		"biome": "生物群系",
 		"rarity": "稀有度",
-		"inUSD": "以美元显示",
+		"inUSD": "用刀乐为单位显示",
 		"hoverToPreview": "（悬停以预览）",
 		"shopFeaturedInfo": "不知道从哪里开始？",
 		"seeFeatured": "看看精选花瓣",
@@ -104,10 +104,10 @@
 		"mobSkins": "生物皮肤",
 		"memberships": "会员",
 		"merch": "周边",
-		"shopPolicy": "申请退款将导致你的账户被封禁。",
-		"shopSupport": "如有任何与支付相关的问题，请发送电子邮件至：",
+		"shopPolicy": "退款=封号",
+		"shopSupport": "如果对氪金有任何问题欢迎轰炸这个邮箱——>",
 		"shopNazarBeetles": "当心邪眼甲虫！",
-		"discountsOnly": "仅折扣",
+		"discountsOnly": "只显示打折的",
 		"controls": "控制",
 		"chat": "聊天",
 		"performance": "性能",
@@ -181,15 +181,15 @@
 		"noMembership": "你还没有任何一个已激活的订阅。",
 		"search": "搜索",
 		"enterUsername": "",
-		"enterPassword": "输入密码……",
-		"setUsername": "设置用户名：",
-		"setPassword": "设置密码：",
-		"setDescription": "设置描述：",
-		"enterNewPassword": "输入新密码……",
-		"enterOldPassword": "输入旧密码……",
+		"enterPassword": "请输入文本",
+		"setUsername": "取个名字：",
+		"setPassword": "设置密码",
+		"setDescription": "请输入文本",
+		"enterNewPassword": "输入新密码",
+		"enterOldPassword": "输入旧密码",
 		"profileBubble": [
-			"设置密码。",
-			"获得用户名。"
+			"设置新密码",
+			"取个新名字"
 		],
 		"holdToUpgrade": "长按以升级",
 		"notEnoughTp": "没有足够的天赋点",
@@ -213,8 +213,8 @@
 		"day": "第{1}天",
 		"joinedSquad": "你加入了小队！代码：{1}",
 		"noPublicSquad": "未找到你当前等级可加入的公开小队。",
-		"creatingSquad": "创建小队中……",
-		"findingPublicSquad": "查找公开小队中……",
+		"creatingSquad": "品鉴中...",
+		"findingPublicSquad": "品鉴中...",
 		"notInSquad": "你还不在任何一个小队里",
 		"chatInfo": "输入“{1}”以查看可用命令。\n在聊天中表现恶劣或使用侮辱性语言将导致你的账户被封禁。",
 		"dropBuffInfo": "掉落增益仅适用于品质最高为(1)的战利品。",
@@ -762,7 +762,7 @@
 		},
 		"fire_eel": {
 			"name": "火鳗",
-			"desc": "它的刺痛感伴随着额外的烧伤因素。"
+			"desc": "它很烧"
 		},
 		"lamprey_eel": {
 			"name": "七鳃鳗",
@@ -774,7 +774,7 @@
 		},
 		"cube": {
 			"name": "立体几何",
-			"desc": "这个东西看起来好熟悉……你这不就是把3D点投影到2D平面嘛。简单得很。"
+			"desc": "666立体几何"
 		},
 		"white_hole": {
 			"name": "",
