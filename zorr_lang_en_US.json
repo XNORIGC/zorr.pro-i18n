@@ -3085,6 +3085,10 @@
 		"warp": {
 			"name": "Warp",
 			"desc": "Warps you to your closest squadmate, or rather, it warps you some % closer, percentage depends on rarity"
+		},
+		"puppeteer": {
+			"name": "Puppeteer",
+			"desc": "Increases your petal damage but mobs chasing you can possess and control your motor skills. Wish you don't get controlled by skibidis XD."
 		}
 	},
 	"achievements": {
@@ -4217,7 +4221,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Is": " Is",
+		"Ps": " Ps",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
