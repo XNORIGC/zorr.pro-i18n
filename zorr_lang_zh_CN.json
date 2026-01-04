@@ -3087,8 +3087,8 @@
 			"desc": "将你传送到最近的小队成员身边，或者更确切地说，是将你传送至距离最近的小队成员的一定百分比处，传送距离百分比取决于花瓣稀有度"
 		},
 		"puppeteer": {
-			"name": "Puppeteer",
-			"desc": "Increases your petal damage but mobs chasing you can possess and control your motor skills. Wish you don't get controlled by skibidis XD."
+			"name": "傀儡架台",
+			"desc": "可以大幅增加你花瓣的基础伤害但怪物的追赶可能会操控你的移动。希望你别被那些斯基比迪控制嘿嘿哈哈~。"
 		}
 	},
 	"achievements": {
