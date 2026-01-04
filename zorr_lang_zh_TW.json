@@ -3085,6 +3085,10 @@
 		"warp": {
 			"name": "傳送器",
 			"desc": "將你傳送到最近的小隊成員旁邊，或者更確切地說，是將你轉送至距離最近的小隊成員的一定百分比處，轉送距離百分比取決於花瓣稀有度"
+		},
+		"puppeteer": {
+			"name": "Puppeteer",
+			"desc": "Increases your petal damage but mobs chasing you can possess and control your motor skills. Wish you don't get controlled by skibidis XD."
 		}
 	},
 	"achievements": {
@@ -4217,7 +4221,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Is": " Is",
+		"Ps": " Ps",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
