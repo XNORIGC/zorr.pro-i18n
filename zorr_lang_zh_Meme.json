@@ -84,6 +84,7 @@
 		"void": "虚空",
 		"hel": "冥界",
 		"sewers": "你家的下水道",
+		"jurassic": "Jurassic",
 		"as": "亚洲",
 		"eu": "欧洲",
 		"us": "美国",
@@ -899,6 +900,34 @@
 		"acid_bubble": {
 			"name": "酸泡泡",
 			"desc": "典型的印度屁呵呵"
+		},
+		"stegosaurus": {
+			"name": "Stegosaurus",
+			"desc": "a large moving bush"
+		},
+		"tyrannosaurus": {
+			"name": "Tyrannosaurus",
+			"desc": "it is very strong and fast. trex moment."
+		},
+		"nigersaurus": {
+			"name": "Nigersaurus",
+			"desc": "A low IQ dinosaur"
+		},
+		"diplodocus": {
+			"name": "Diplodocus",
+			"desc": "a huge herbivore"
+		},
+		"velociraptor": {
+			"name": "Velociraptor",
+			"desc": "velocity asf raptor"
+		},
+		"pterodactyl": {
+			"name": "Pterodactyl",
+			"desc": "flappy dino birb moment"
+		},
+		"meteor": {
+			"name": "Meteor",
+			"desc": "a giant rock to destroy the dinosaurs"
 		}
 	},
 	"petals": {
@@ -3089,6 +3118,34 @@
 		"puppeteer": {
 			"name": "傀儡架台",
 			"desc": "可以大幅增加你的花瓣伤害，但追逐你的生物可能会操控你的移动。希望你别被那些斯基比迪控制呵呵呵。"
+		},
+		"stegosaurus_egg": {
+			"name": "Stegosaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"tyrannosaurus_egg": {
+			"name": "Tyrannosaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"nigersaurus_egg": {
+			"name": "Nigersaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"diplodocus_egg": {
+			"name": "Diplodocus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"velociraptor_egg": {
+			"name": "Velociraptor Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"pterodactyl_egg": {
+			"name": "Pterodactyl Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"meteor_egg": {
+			"name": "Meteor Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -4221,7 +4278,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Ps": " Ps",
+		"Is": " Is",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
