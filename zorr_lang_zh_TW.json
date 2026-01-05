@@ -84,6 +84,7 @@
 		"void": "虛空",
 		"hel": "冥界",
 		"sewers": "管道",
+		"jurassic": "Jurassic",
 		"as": "亚服",
 		"eu": "歐服",
 		"us": "美服",
@@ -899,6 +900,34 @@
 		"acid_bubble": {
 			"name": "硫酸泡泡",
 			"desc": "普通的印度屁 XD"
+		},
+		"stegosaurus": {
+			"name": "Stegosaurus",
+			"desc": "a large moving bush"
+		},
+		"tyrannosaurus": {
+			"name": "Tyrannosaurus",
+			"desc": "it is very strong and fast. trex moment."
+		},
+		"nigersaurus": {
+			"name": "Nigersaurus",
+			"desc": "A low IQ dinosaur"
+		},
+		"diplodocus": {
+			"name": "Diplodocus",
+			"desc": "a huge herbivore"
+		},
+		"velociraptor": {
+			"name": "Velociraptor",
+			"desc": "velocity asf raptor"
+		},
+		"pterodactyl": {
+			"name": "Pterodactyl",
+			"desc": "flappy dino birb moment"
+		},
+		"meteor": {
+			"name": "Meteor",
+			"desc": "a giant rock to destroy the dinosaurs"
 		}
 	},
 	"petals": {
@@ -3089,6 +3118,34 @@
 		"puppeteer": {
 			"name": "木偶師",
 			"desc": "新增你的花瓣傷害，但追逐你的怪物可以擁有並控制你的運動技能。 希望你不要被斯基比迪们控制 XD。"
+		},
+		"stegosaurus_egg": {
+			"name": "Stegosaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"tyrannosaurus_egg": {
+			"name": "Tyrannosaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"nigersaurus_egg": {
+			"name": "Nigersaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"diplodocus_egg": {
+			"name": "Diplodocus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"velociraptor_egg": {
+			"name": "Velociraptor Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"pterodactyl_egg": {
+			"name": "Pterodactyl Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"meteor_egg": {
+			"name": "Meteor Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -4221,7 +4278,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Ps": " Ps",
+		"Is": " Is",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
