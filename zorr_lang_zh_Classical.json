@@ -897,8 +897,8 @@
 			"desc": "被殺死後隨機給與一個暫時性的皮膚，等級越高的禮物會給與越昂貴的皮膚。皮膚會在更換服務器或更換皮膚時失去。"
 		},
 		"acid_bubble": {
-			"name": "酸泡泡",
-			"desc": "平均的印度屁 哈哈"
+			"name": "硫酸泡泡",
+			"desc": "普通的印度屁 XD"
 		}
 	},
 	"petals": {
@@ -2992,7 +2992,7 @@
 		},
 		"maple": {
 			"name": "楓樹",
-			"desc": "1秒有15%機率重置其裝填時間‌……"
+			"desc": "每1秒有15%機率重置其裝填時間‌……"
 		},
 		"magic_nut": {
 			"name": "魔法堅果",
@@ -3067,28 +3067,28 @@
 			"desc": "將所有稀有度相同或更低的木棍轉換為更多的糖棍。"
 		},
 		"gift_egg": {
-			"name": "禮物‌蛋",
+			"name": "禮品蛋",
 			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"acid_bubble_egg": {
-			"name": "酸泡泡蛋",
+			"name": "硫酸泡泡蛋",
 			"desc": "它可以孵化並生成一些有趣的事物...‌……"
 		},
 		"acid_bomb": {
-			"name": "酸性炸彈‌",
+			"name": "硫酸炸彈‌",
 			"desc": "爆炸後洩漏高度危害性液體"
 		},
 		"lava_bomb": {
-			"name": "熔岩炸彈",
-			"desc": "爆炸後熔解，留下一大坨熔岩。"
+			"name": "岩浆炸彈",
+			"desc": "爆炸後熔解，留下一大坨熔岩岩浆。"
 		},
 		"warp": {
 			"name": "傳送器",
 			"desc": "將你傳送到最近的小隊成員旁邊，或者更確切地說，是將你轉送至距離最近的小隊成員的一定百分比處，轉送距離百分比取決於花瓣稀有度"
 		},
 		"puppeteer": {
-			"name": "Puppeteer",
-			"desc": "Increases your petal damage but mobs chasing you can possess and control your motor skills. Wish you don't get controlled by skibidis XD."
+			"name": "木偶師",
+			"desc": "新增你的花瓣傷害，但追逐你的怪物可以擁有並控制你的運動技能。 希望你不要被斯基比迪们控制 XD。"
 		}
 	},
 	"achievements": {
@@ -3947,8 +3947,8 @@
 			"desc": "不会‌让你反弹"
 		},
 		"electric": {
-			"name": "電",
-			"desc": "花花電量已達100%"
+			"name": "有電的",
+			"desc": "一個充滿電的小花"
 		},
 		"joe": {
 			"name": "喬",
