@@ -902,32 +902,32 @@
 			"desc": "典型的印度屁呵呵"
 		},
 		"stegosaurus": {
-			"name": "Stegosaurus",
-			"desc": "a large moving bush"
+			"name": "剑龙",
+			"desc": "一个大型的移动灌木"
 		},
 		"tyrannosaurus": {
-			"name": "Tyrannosaurus",
-			"desc": "it is very strong and fast. trex moment."
+			"name": "霸王龙",
+			"desc": "它非常的强壮和迅捷。侏罗纪时刻。"
 		},
 		"nigersaurus": {
-			"name": "Nigersaurus",
-			"desc": "A low IQ dinosaur"
+			"name": "尼日尔龙",
+			"desc": "一只低智商恐龙"
 		},
 		"diplodocus": {
-			"name": "Diplodocus",
-			"desc": "a huge herbivore"
+			"name": "梁龙",
+			"desc": "一只巨大的食草动物"
 		},
 		"velociraptor": {
-			"name": "Velociraptor",
-			"desc": "velocity asf raptor"
+			"name": "迅猛龙",
+			"desc": "快的离谱"
 		},
 		"pterodactyl": {
-			"name": "Pterodactyl",
-			"desc": "flappy dino birb moment"
+			"name": "翼龙",
+			"desc": "恐龙小鸟扑腾时刻"
 		},
 		"meteor": {
-			"name": "Meteor",
-			"desc": "a giant rock to destroy the dinosaurs"
+			"name": "陨石",
+			"desc": "一块摧毁恐龙的巨石"
 		}
 	},
 	"petals": {
@@ -3120,32 +3120,32 @@
 			"desc": "可以大幅增加你的花瓣伤害，但追逐你的生物可能会操控你的移动。希望你别被那些斯基比迪控制呵呵呵。"
 		},
 		"stegosaurus_egg": {
-			"name": "Stegosaurus Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "剑龙蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"tyrannosaurus_egg": {
-			"name": "Tyrannosaurus Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "霸王龙蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"nigersaurus_egg": {
-			"name": "Nigersaurus Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "尼日尔龙蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"diplodocus_egg": {
-			"name": "Diplodocus Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "梁龙蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"velociraptor_egg": {
-			"name": "Velociraptor Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "迅猛龙蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"pterodactyl_egg": {
-			"name": "Pterodactyl Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "翼龙蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"meteor_egg": {
-			"name": "Meteor Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "陨石蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		}
 	},
 	"achievements": {
