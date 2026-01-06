@@ -84,7 +84,7 @@
 		"void": "虚空",
 		"hel": "冥界",
 		"sewers": "管道",
-		"jurassic": "侏罗",
+		"jurassic": "侏罗纪元",
 		"as": "亚洲",
 		"eu": "欧洲",
 		"us": "美国",
@@ -903,23 +903,23 @@
 		},
 		"stegosaurus": {
 			"name": "剑龙",
-			"desc": "一个大型的移动灌木"
+			"desc": "一个移动的大型灌木"
 		},
 		"tyrannosaurus": {
 			"name": "霸王龙",
 			"desc": "它非常的强壮和迅捷。侏罗纪时刻。"
 		},
 		"nigersaurus": {
-			"name": "尼日尔龙",
-			"desc": "一只低智商恐龙"
+			"name": "尼哥尔龙",
+			"desc": "一只低智商的恐龙"
 		},
 		"diplodocus": {
 			"name": "梁龙",
-			"desc": "一只巨大的食草动物"
+			"desc": "一种巨大的食草动物"
 		},
 		"velociraptor": {
 			"name": "迅猛龙",
-			"desc": "快的离谱"
+			"desc": "快得离谱"
 		},
 		"pterodactyl": {
 			"name": "翼龙",
@@ -3128,7 +3128,7 @@
 			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"nigersaurus_egg": {
-			"name": "尼日尔龙蛋",
+			"name": "尼哥尔龙蛋",
 			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"diplodocus_egg": {
