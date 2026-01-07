@@ -84,7 +84,7 @@
 		"void": "虛空",
 		"hel": "冥界",
 		"sewers": "管道",
-		"jurassic": "侏羅紀",
+		"jurassic": "侏羅",
 		"as": "亚服",
 		"eu": "歐服",
 		"us": "美服",
@@ -903,14 +903,14 @@
 		},
 		"stegosaurus": {
 			"name": "劍龍",
-			"desc": "a large moving bush"
+			"desc": "一種挪動的大型灌木"
 		},
 		"tyrannosaurus": {
 			"name": "霸王龍",
-			"desc": "it is very strong and fast. trex moment."
+			"desc": "它非常的強壯和迅捷。霸王龍時刻。"
 		},
 		"nigersaurus": {
-			"name": "Nigersaurus",
+			"name": "尼哥爾龍",
 			"desc": "一隻智商很低的恐龍"
 		},
 		"diplodocus": {
@@ -918,32 +918,32 @@
 			"desc": "大型草食動物"
 		},
 		"velociraptor": {
-			"name": "Velociraptor",
-			"desc": "velocity asf raptor"
+			"name": "迅猛龍",
+			"desc": "快得起飛"
 		},
 		"pterodactyl": {
 			"name": "翼龍",
-			"desc": "flappy dino birb moment"
+			"desc": "恐龍小鳥撲騰時刻"
 		},
 		"meteor": {
 			"name": "隕石",
 			"desc": "毀滅了恐龍的巨石"
 		},
 		"fern": {
-			"name": "Fern",
-			"desc": "herbivore buffet"
+			"name": "蕨",
+			"desc": "素食自助餐"
 		},
 		"dodo": {
-			"name": "Dodo",
-			"desc": "an extinct hen"
+			"name": "渡渡鳥",
+			"desc": "一種滅絕的雞"
 		},
 		"elasmosaurus": {
-			"name": "Elasmosaurus",
-			"desc": "reptilian of the deep seas..what is it doing on land?"
+			"name": "薄板龍",
+			"desc": "深海的爬行動物……它來到陸地上做什麼？"
 		},
 		"ankylosaurus": {
-			"name": "Ankylosaurus",
-			"desc": "covered in think scales, how do you even eat one of these?"
+			"name": "甲龍",
+			"desc": "全身覆蓋著厚厚的鱗片，這該怎麼吃啊？"
 		}
 	},
 	"petals": {
@@ -3112,7 +3112,7 @@
 			"desc": "將所有稀有度相同或更低的木棍轉換為更多的糖棍。"
 		},
 		"gift_egg": {
-			"name": "禮品蛋",
+			"name": "禮物‌蛋",
 			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"acid_bubble_egg": {
@@ -3136,7 +3136,7 @@
 			"desc": "新增你的花瓣傷害，但追逐你的怪物可以擁有並控制你的運動技能。 希望你不要被斯基比迪们控制 XD。"
 		},
 		"stegosaurus_egg": {
-			"name": "Stegosaurus Egg",
+			"name": "劍龍蛋",
 			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"tyrannosaurus_egg": {
@@ -3144,40 +3144,40 @@
 			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"nigersaurus_egg": {
-			"name": "Nigersaurus Egg",
+			"name": "尼哥爾龍蛋",
 			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"diplodocus_egg": {
-			"name": "Diplodocus Egg",
+			"name": "梁龍蛋",
 			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"velociraptor_egg": {
-			"name": "Velociraptor Egg",
+			"name": "迅猛龍蛋",
 			"desc": "牠可以孵化出一些有趣的東西……"
 		},
 		"pterodactyl_egg": {
-			"name": "Pterodactyl Egg",
+			"name": "翼龍蛋",
 			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"meteor_egg": {
-			"name": "Meteor Egg",
+			"name": "隕石蛋",
 			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"fern_egg": {
-			"name": "Fern Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蕨蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"dodo_egg": {
-			"name": "Dodo Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "渡渡鳥蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"elasmosaurus_egg": {
-			"name": "Elasmosaurus Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "薄板龍蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"ankylosaurus_egg": {
-			"name": "Ankylosaurus Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "甲龍蛋",
+			"desc": "它可以孵化並生成一些有趣的東西……"
 		}
 	},
 	"achievements": {
