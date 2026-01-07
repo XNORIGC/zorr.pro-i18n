@@ -928,6 +928,22 @@
 		"meteor": {
 			"name": "Meteor",
 			"desc": "a giant rock to destroy the dinosaurs"
+		},
+		"fern": {
+			"name": "Fern",
+			"desc": "herbivore buffet"
+		},
+		"dodo": {
+			"name": "Dodo",
+			"desc": "an extinct hen"
+		},
+		"elasmosaurus": {
+			"name": "Elasmosaurus",
+			"desc": "reptilian of the deep seas..what is it doing on land?"
+		},
+		"ankylosaurus": {
+			"name": "Ankylosaurus",
+			"desc": "covered in think scales, how do you even eat one of these?"
 		}
 	},
 	"petals": {
@@ -3146,6 +3162,22 @@
 		"meteor_egg": {
 			"name": "Meteor Egg",
 			"desc": "It can hatch and spawn something interesting..."
+		},
+		"fern_egg": {
+			"name": "Fern Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"dodo_egg": {
+			"name": "Dodo Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"elasmosaurus_egg": {
+			"name": "Elasmosaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"ankylosaurus_egg": {
+			"name": "Ankylosaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -4278,7 +4310,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Is": " Is",
+		"_s": "_s",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
