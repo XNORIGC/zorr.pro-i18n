@@ -84,7 +84,7 @@
 		"void": "虚空",
 		"hel": "冥界",
 		"sewers": "管道",
-		"jurassic": "侏罗纪",
+		"jurassic": "侏罗",
 		"as": "亚洲",
 		"eu": "欧洲",
 		"us": "美国",
@@ -928,6 +928,22 @@
 		"meteor": {
 			"name": "陨石",
 			"desc": "一块摧毁恐龙的巨石"
+		},
+		"fern": {
+			"name": "Fern",
+			"desc": "herbivore buffet"
+		},
+		"dodo": {
+			"name": "Dodo",
+			"desc": "an extinct hen"
+		},
+		"elasmosaurus": {
+			"name": "Elasmosaurus",
+			"desc": "reptilian of the deep seas..what is it doing on land?"
+		},
+		"ankylosaurus": {
+			"name": "Ankylosaurus",
+			"desc": "covered in think scales, how do you even eat one of these?"
 		}
 	},
 	"petals": {
@@ -3146,6 +3162,22 @@
 		"meteor_egg": {
 			"name": "陨石蛋",
 			"desc": "它可以孵化并生成一些有趣的东西……"
+		},
+		"fern_egg": {
+			"name": "Fern Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"dodo_egg": {
+			"name": "Dodo Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"elasmosaurus_egg": {
+			"name": "Elasmosaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"ankylosaurus_egg": {
+			"name": "Ankylosaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -4278,7 +4310,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Is": " Is",
+		"_s": "_s",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
