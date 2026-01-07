@@ -930,20 +930,20 @@
 			"desc": "一块摧毁恐龙的巨石"
 		},
 		"fern": {
-			"name": "Fern",
-			"desc": "herbivore buffet"
+			"name": "蕨",
+			"desc": "食草动物的食物"
 		},
 		"dodo": {
-			"name": "Dodo",
-			"desc": "an extinct hen"
+			"name": "渡渡鸟",
+			"desc": "已经灭绝的一种禽类"
 		},
 		"elasmosaurus": {
-			"name": "Elasmosaurus",
-			"desc": "reptilian of the deep seas..what is it doing on land?"
+			"name": "薄片龙",
+			"desc": "这是深海的爬行动物...它为什么在陆地上？"
 		},
 		"ankylosaurus": {
-			"name": "Ankylosaurus",
-			"desc": "covered in think scales, how do you even eat one of these?"
+			"name": "甲龙",
+			"desc": "身上覆盖着鳞片，这东西该怎么吃啊？"
 		}
 	},
 	"petals": {
@@ -3164,20 +3164,20 @@
 			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"fern_egg": {
-			"name": "Fern Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "蕨蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"dodo_egg": {
-			"name": "Dodo Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "渡渡鸟蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"elasmosaurus_egg": {
-			"name": "Elasmosaurus Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "薄片龙蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"ankylosaurus_egg": {
-			"name": "Ankylosaurus Egg",
-			"desc": "It can hatch and spawn something interesting..."
+			"name": "甲龙蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		}
 	},
 	"achievements": {
