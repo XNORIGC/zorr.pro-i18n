@@ -903,11 +903,11 @@
 		},
 		"stegosaurus": {
 			"name": "剑龙",
-			"desc": "一种挪动的大型灌木"
+			"desc": "一种会移动的大型灌木"
 		},
 		"tyrannosaurus": {
 			"name": "霸王龙",
-			"desc": "它非常的强壮和迅捷。霸王龙时刻。"
+			"desc": "它非常的强壮和迅捷。 霸 王 龙 时 刻 。"
 		},
 		"nigersaurus": {
 			"name": "尼哥尔龙",
@@ -919,7 +919,7 @@
 		},
 		"velociraptor": {
 			"name": "迅猛龙",
-			"desc": "快得起飞"
+			"desc": "快得飞起"
 		},
 		"pterodactyl": {
 			"name": "翼龙",
@@ -938,12 +938,12 @@
 			"desc": "已经灭绝的一种禽类"
 		},
 		"elasmosaurus": {
-			"name": "薄片龙",
-			"desc": "这是深海的爬行动物...它为什么在陆地上？"
+			"name": "蛇颈龙",
+			"desc": "这是在深海的爬行动物...它为什么会在陆地上？"
 		},
 		"ankylosaurus": {
 			"name": "甲龙",
-			"desc": "身上覆盖着鳞片，这东西该怎么吃啊？"
+			"desc": "它身上覆盖着厚重的鳞片，你到底是怎么吃掉它的？"
 		}
 	},
 	"petals": {
@@ -3172,7 +3172,7 @@
 			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"elasmosaurus_egg": {
-			"name": "薄片龙蛋",
+			"name": "蛇颈龙蛋",
 			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"ankylosaurus_egg": {
