@@ -928,6 +928,22 @@
 		"meteor": {
 			"name": "隕石",
 			"desc": "毀滅了恐龍的巨石"
+		},
+		"fern": {
+			"name": "Fern",
+			"desc": "herbivore buffet"
+		},
+		"dodo": {
+			"name": "Dodo",
+			"desc": "an extinct hen"
+		},
+		"elasmosaurus": {
+			"name": "Elasmosaurus",
+			"desc": "reptilian of the deep seas..what is it doing on land?"
+		},
+		"ankylosaurus": {
+			"name": "Ankylosaurus",
+			"desc": "covered in think scales, how do you even eat one of these?"
 		}
 	},
 	"petals": {
@@ -3146,6 +3162,22 @@
 		"meteor_egg": {
 			"name": "Meteor Egg",
 			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"fern_egg": {
+			"name": "Fern Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"dodo_egg": {
+			"name": "Dodo Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"elasmosaurus_egg": {
+			"name": "Elasmosaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"ankylosaurus_egg": {
+			"name": "Ankylosaurus Egg",
+			"desc": "It can hatch and spawn something interesting..."
 		}
 	},
 	"achievements": {
@@ -4278,7 +4310,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Is": " Is",
+		"_s": "_s",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
