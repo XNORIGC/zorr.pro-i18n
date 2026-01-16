@@ -2953,11 +2953,11 @@
 		},
 		"relativity": {
 			"name": "相對論",
-			"desc": "你移動得越快，你周圍的花瓣副冷卻（生效時間）加載的速度越快。 這要歸功於愛因斯坦提出了這個問題。 在基礎速度的20倍時達到最大效果。"
+			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 5x of your base speed."
 		},
 		"magic_relativity": {
 			"name": "魔法相對論",
-			"desc": "移動得越快，周圍的花瓣副冷卻（生效時間）加載的速度就越快。 感謝“再因斯坦”想出了這個。 在基礎速度的20倍時達到最大效果。"
+			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 5x of your base speed."
 		},
 		"magic_sacrifice": {
 			"name": "魔法血祭",
@@ -3178,6 +3178,22 @@
 		"ankylosaurus_egg": {
 			"name": "甲龍蛋",
 			"desc": "它可以孵化並生成一些有趣的東西……"
+		},
+		"feather": {
+			"name": "Feather",
+			"desc": "Makes your flower move faster while it is alive."
+		},
+		"antler": {
+			"name": "Antler",
+			"desc": "A really strong bone that protudes from a dinosaur's head. Damage is multiplied by third of your enemy's armor."
+		},
+		"pyrite": {
+			"name": "Pyrite",
+			"desc": "Obtained from a sketchy jeweler in downtown New York."
+		},
+		"amber": {
+			"name": "Amber",
+			"desc": "Reduces incoming damage on petal placed right to it till the same rarity."
 		}
 	},
 	"achievements": {
@@ -4237,6 +4253,8 @@
 		"defrost": "解凍",
 		"tempFlowerSpeed": "臨時花朵速度",
 		"tempFlowerSpeedFactor": "臨時花朵速度係數",
+		"petalDamageReduction": "Petal Damage Reduction",
+		"vitalFlowerSpeed": "Vital Flower Speed",
 		"subdivisionRates": "細分率",
 		"cureCancer": "治癒癌變",
 		"petMutation": "寵物突變",
@@ -4310,7 +4328,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"_s": "_s",
+		"Is": " Is",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
