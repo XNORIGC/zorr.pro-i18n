@@ -2953,11 +2953,11 @@
 		},
 		"relativity": {
 			"name": "Relativity",
-			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 20x of your base speed."
+			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 5x of your base speed."
 		},
 		"magic_relativity": {
 			"name": "Magic Relativity",
-			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 20x of your base speed."
+			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 5x of your base speed."
 		},
 		"magic_sacrifice": {
 			"name": "Magic Sacrifice",
@@ -3178,6 +3178,22 @@
 		"ankylosaurus_egg": {
 			"name": "Ankylosaurus Egg",
 			"desc": "It can hatch and spawn something interesting..."
+		},
+		"feather": {
+			"name": "Feather",
+			"desc": "Makes your flower move faster while it is alive."
+		},
+		"antler": {
+			"name": "Antler",
+			"desc": "A really strong bone that protudes from a dinosaur's head. Damage is multiplied by third of your enemy's armor."
+		},
+		"pyrite": {
+			"name": "Pyrite",
+			"desc": "Obtained from a sketchy jeweler in downtown New York."
+		},
+		"amber": {
+			"name": "Amber",
+			"desc": "Reduces incoming damage on petal placed right to it till the same rarity."
 		}
 	},
 	"achievements": {
@@ -4237,6 +4253,8 @@
 		"defrost": "Defrost",
 		"tempFlowerSpeed": "Temp Flower Speed",
 		"tempFlowerSpeedFactor": "Temp Flower Speed Factor",
+		"petalDamageReduction": "Petal Damage Reduction",
+		"vitalFlowerSpeed": "Vital Flower Speed",
 		"subdivisionRates": "Subdivision Rates",
 		"cureCancer": "Cure Cancer",
 		"petMutation": "Pet Mutation",
@@ -4310,7 +4328,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"_s": "_s",
+		"Is": " Is",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
