@@ -3185,7 +3185,7 @@
 		},
 		"antler": {
 			"name": "角骨",
-			"desc": "一种从恐龙头部伸出的坚硬骨头，它的造成的伤害伤害会乘以怪物护甲的三分之一。"
+			"desc": "这是恐龙头上突出的一块非常结实的骨头，它造成的伤害会乘以敌人护甲的四分之一。"
 		},
 		"pyrite": {
 			"name": "黄铁矿",
@@ -3194,6 +3194,14 @@
 		"amber": {
 			"name": "琥珀",
 			"desc": "降低放置在它右边的稀有度不高于它的花瓣受到的伤害。"
+		},
+		"scales": {
+			"name": "鳞片",
+			"desc": "当此花瓣在生物体内时，该生物对自身的伤害减免50%"
+		},
+		"oil": {
+			"name": "石油",
+			"desc": "来自于地下的原油，对正在燃烧的敌人造成2倍伤害。愿你点燃，阿门。"
 		}
 	},
 	"achievements": {
@@ -4310,6 +4318,7 @@
 		"petalHealthBuff": "花瓣耐久增加",
 		"mobAgroRange": "生物仇恨范围",
 		"petParanormalRate": "宠物超自然化概率",
+		"scalesDamageReduction": "伤害减免",
 		"flowerSecondaryReloadFactor": "花瓣生效时间除数",
 		"tempArmor": "临时护甲",
 		"fragmentDamage": "碎片伤害",
@@ -4328,7 +4337,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Is": " Is",
+		"Ps": " Ps",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
