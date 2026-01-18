@@ -3185,7 +3185,7 @@
 		},
 		"antler": {
 			"name": "Antler",
-			"desc": "A really strong bone that protudes from a dinosaur's head. Damage is multiplied by third of your enemy's armor."
+			"desc": "A really strong bone that protudes from a dinosaur's head. Damage is multiplied by forth of your enemy's armor."
 		},
 		"pyrite": {
 			"name": "Pyrite",
@@ -3194,6 +3194,14 @@
 		"amber": {
 			"name": "Amber",
 			"desc": "Reduces incoming damage on petal placed right to it till the same rarity."
+		},
+		"scales": {
+			"name": "Scales",
+			"desc": "Gives a 50% resistance to incoming damage while the petal is inside of the damaging mob"
+		},
+		"oil": {
+			"name": "Oil",
+			"desc": "Raw crude oil from the underground. Deals 2x damage on burning enemies. May you ignite, amen."
 		}
 	},
 	"achievements": {
@@ -4310,6 +4318,7 @@
 		"petalHealthBuff": "Petal Health Buff",
 		"mobAgroRange": "Mob Agro Range",
 		"petParanormalRate": "Pet Paranormal Rate",
+		"scalesDamageReduction": "Scales Damage Reduction",
 		"flowerSecondaryReloadFactor": "Flower Secondary Reload Factor",
 		"tempArmor": "Temp Armor",
 		"fragmentDamage": "Fragment Damage",
@@ -4328,7 +4337,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Is": " Is",
+		"Ps": " Ps",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
