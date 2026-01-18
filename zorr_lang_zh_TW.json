@@ -3185,7 +3185,7 @@
 		},
 		"antler": {
 			"name": "Antler",
-			"desc": "A really strong bone that protudes from a dinosaur's head. Damage is multiplied by third of your enemy's armor."
+			"desc": "A really strong bone that protudes from a dinosaur's head. Damage is multiplied by forth of your enemy's armor."
 		},
 		"pyrite": {
 			"name": "Pyrite",
@@ -3194,6 +3194,14 @@
 		"amber": {
 			"name": "Amber",
 			"desc": "Reduces incoming damage on petal placed right to it till the same rarity."
+		},
+		"scales": {
+			"name": "Scales",
+			"desc": "Gives a 50% resistance to incoming damage while the petal is inside of the damaging mob"
+		},
+		"oil": {
+			"name": "Oil",
+			"desc": "Raw crude oil from the underground. Deals 2x damage on burning enemies. May you ignite, amen."
 		}
 	},
 	"achievements": {
@@ -4310,6 +4318,7 @@
 		"petalHealthBuff": "花瓣生命增益",
 		"mobAgroRange": "生物尺寸變化",
 		"petParanormalRate": "寵物靈異接觸指數",
+		"scalesDamageReduction": "Scales Damage Reduction",
 		"flowerSecondaryReloadFactor": "相對副加載係數",
 		"tempArmor": "臨時護甲",
 		"fragmentDamage": "碎片傷害",
@@ -4328,7 +4337,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Is": " Is",
+		"Ps": " Ps",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
