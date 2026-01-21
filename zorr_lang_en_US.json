@@ -3202,6 +3202,10 @@
 		"oil": {
 			"name": "Oil",
 			"desc": "Raw crude oil from the underground. Deals 2x damage on burning enemies. May you ignite, amen."
+		},
+		"azalea": {
+			"name": "Azalea",
+			"desc": "Passively heals you. Healing increases by 3% every second for 60s."
 		}
 	},
 	"achievements": {
@@ -4337,7 +4341,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ps": " Ps",
+		"Gs": " Gs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
