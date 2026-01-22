@@ -3204,8 +3204,8 @@
 			"desc": "来自于地下的原油，对正在燃烧的敌人造成2倍伤害。愿你燃烧，阿门。"
 		},
 		"azalea": {
-			"name": "Azalea",
-			"desc": "Passively heals you. Healing increases by 3% every second for 60s."
+			"name": "杜鹃花",
+			"desc": "持续治疗你。治疗效果在60秒内每秒增加百分之三。"
 		}
 	},
 	"achievements": {
