@@ -2953,11 +2953,11 @@
 		},
 		"relativity": {
 			"name": "相對論",
-			"desc": "The faster you move, the faster your surrounding petals appear to reload. Credits to Einstein for coming up with this one. Maximum effect at 5x of your base speed."
+			"desc": "你移動得越快，你周圍的花瓣冷卻加載的速度越快。 這要歸功於愛因斯坦提出了這個問題。 在基礎速度的5倍時達到最大效果。"
 		},
 		"magic_relativity": {
 			"name": "魔法相對論",
-			"desc": "The faster you move, the faster your surrounding petals complete their secondary reload. Credits to Zeinstein for coming up with this one. Maximum effect at 5x of your base speed."
+			"desc": "移動得越快，周圍的花瓣副冷卻（生效時間）加載的速度就越快。 感謝“再因斯坦”想出了這個。 在基礎速度的5倍時達到最大效果。"
 		},
 		"magic_sacrifice": {
 			"name": "魔法血祭",
@@ -3180,32 +3180,32 @@
 			"desc": "它可以孵化並生成一些有趣的東西……"
 		},
 		"feather": {
-			"name": "Feather",
-			"desc": "Makes your flower move faster while it is alive."
+			"name": "羽毛\n",
+			"desc": "使你的花花在存活時移動得更快。"
 		},
 		"antler": {
-			"name": "Antler",
-			"desc": "A really strong bone that protudes from a dinosaur's head. Damage is multiplied by forth of your enemy's armor."
+			"name": "鹿角",
+			"desc": "一塊真正堅硬的、從恐龍頭部突起的骨頭。造成的傷害為敵方護甲值的四倍。"
 		},
 		"pyrite": {
-			"name": "Pyrite",
-			"desc": "Obtained from a sketchy jeweler in downtown New York."
+			"name": "黃鐵礦",
+			"desc": "從紐約市中心一個可疑的珠寶商那裏購得。"
 		},
 		"amber": {
-			"name": "Amber",
-			"desc": "Reduces incoming damage on petal placed right to it till the same rarity."
+			"name": "琥珀",
+			"desc": "減少放置於其右側直至同稀有度花瓣所承受的受到的傷害。"
 		},
 		"scales": {
-			"name": "Scales",
+			"name": "鱗片",
 			"desc": "Gives a 50% resistance to incoming damage while the petal is inside of the damaging mob"
 		},
 		"oil": {
-			"name": "Oil",
-			"desc": "Raw crude oil from the underground. Deals 2x damage on burning enemies. May you ignite, amen."
+			"name": "石油",
+			"desc": "來自地下的原質原油。對燃燒中的敵人造成2倍傷害。願你燃燒，阿門。"
 		},
 		"azalea": {
-			"name": "Azalea",
-			"desc": "Passively heals you. Healing increases by 3% every second for 60s."
+			"name": "杜鵑花",
+			"desc": "被動地治療你。治療效果每秒提升3%，持續60秒。"
 		}
 	},
 	"achievements": {
@@ -4265,7 +4265,7 @@
 		"defrost": "解凍",
 		"tempFlowerSpeed": "臨時花朵速度",
 		"tempFlowerSpeedFactor": "臨時花朵速度係數",
-		"petalDamageReduction": "Petal Damage Reduction",
+		"petalDamageReduction": "花瓣傷害減免",
 		"vitalFlowerSpeed": "Vital Flower Speed",
 		"subdivisionRates": "細分率",
 		"cureCancer": "治癒癌變",
@@ -4322,7 +4322,7 @@
 		"petalHealthBuff": "花瓣生命增益",
 		"mobAgroRange": "生物尺寸變化",
 		"petParanormalRate": "寵物靈異接觸指數",
-		"scalesDamageReduction": "Scales Damage Reduction",
+		"scalesDamageReduction": "鱗片傷害減免",
 		"flowerSecondaryReloadFactor": "相對副加載係數",
 		"tempArmor": "臨時護甲",
 		"fragmentDamage": "碎片傷害",
