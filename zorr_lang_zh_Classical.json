@@ -3197,7 +3197,7 @@
 		},
 		"scales": {
 			"name": "鱗片",
-			"desc": "Gives a 50% resistance to incoming damage while the petal is inside of the damaging mob"
+			"desc": "在花瓣置於造成傷害的怪物群內時，提供50%的傷害抗性"
 		},
 		"oil": {
 			"name": "石油",
@@ -4266,7 +4266,7 @@
 		"tempFlowerSpeed": "瞬花之速",
 		"tempFlowerSpeedFactor": "瞬花倍速",
 		"petalDamageReduction": "花瓣傷害減免",
-		"vitalFlowerSpeed": "Vital Flower Speed",
+		"vitalFlowerSpeed": "花朵臨時速度",
 		"subdivisionRates": "分裂率",
 		"cureCancer": "除癌魔",
 		"petMutation": "寵物異變",
