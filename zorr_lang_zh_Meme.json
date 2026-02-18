@@ -170,6 +170,11 @@
 			"唯一花瓣的起始价格是五个终末花瓣，全球每锻造一次价格就加一。",
 			"此处显示最低价格，实际价格是在你锻造时计算的，可能会有差异。"
 		],
+		"assemble": "Assemble",
+		"assembleInfo": [
+			"Find the Assembler in Bio",
+			"Combine different petals into new ones"
+		],
 		"prev": "翻回去",
 		"next": "翻过去",
 		"hideFailed": "不看烟花",
@@ -944,6 +949,10 @@
 		"ankylosaurus": {
 			"name": "甲龙",
 			"desc": "它身上覆盖着厚重的鳞片，你到底是怎么吃掉它的？"
+		},
+		"assembler": {
+			"name": "Assembler",
+			"desc": "yes it is an NPC fr XD"
 		}
 	},
 	"petals": {
@@ -3206,6 +3215,10 @@
 		"azalea": {
 			"name": "杜鹃花",
 			"desc": "持续治疗你。治疗效果在60秒内每秒增加3%。"
+		},
+		"magic_mask": {
+			"name": "Magic Mask",
+			"desc": "Reduces duration of incoming fog on your vision. Also, prevents you from ZARS-CoV-69 while reducing its effect."
 		}
 	},
 	"achievements": {
@@ -4337,11 +4350,10 @@
 		"petalSizeReduction": "花瓣大小减小",
 		"lightningReduction": "电伤减免",
 		"mobAgroRangeReduction": "生物仇恨范围减小",
-		"detox": "解毒",
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Ds": " Ds",
+		"Ls": " Ls",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4386,6 +4398,8 @@
 		"splitOrbitDistance": "分裂轨道距离",
 		"gap": "间隔",
 		"petDefrost": "宠物解冻",
+		"detox": "解毒",
+		"fogDetox": "Fog Detox",
 		"extraManaPercent": "额外魔力百分比",
 		"senseSpeed": "感知提速",
 		"senseRange": "感知范围",
