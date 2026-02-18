@@ -170,6 +170,11 @@
 			"Starting price for a Unique petal is 5 Omega & it increases by 1 after each craft globally.",
 			"Minimum price is shown here, the actual price is calculated when you forge and might differ."
 		],
+		"assemble": "Assemble",
+		"assembleInfo": [
+			"Find the Assembler in Bio",
+			"Combine different petals into new ones"
+		],
 		"prev": "Prev",
 		"next": "Next",
 		"hideFailed": "Hide Failed",
@@ -944,6 +949,10 @@
 		"ankylosaurus": {
 			"name": "Ankylosaurus",
 			"desc": "covered in think scales, how do you even eat one of these?"
+		},
+		"assembler": {
+			"name": "Assembler",
+			"desc": "yes it is an NPC fr XD"
 		}
 	},
 	"petals": {
@@ -3206,6 +3215,10 @@
 		"azalea": {
 			"name": "Azalea",
 			"desc": "Passively heals you. Healing increases by 3% every second for 60s."
+		},
+		"magic_mask": {
+			"name": "Magic Mask",
+			"desc": "Reduces duration of incoming fog on your vision. Also, prevents you from ZARS-CoV-69 while reducing its effect."
 		}
 	},
 	"achievements": {
@@ -4337,11 +4350,10 @@
 		"petalSizeReduction": "Petal Size Reduction",
 		"lightningReduction": "Lightning Reduction",
 		"mobAgroRangeReduction": "Mob Agro Range Reduction",
-		"detox": "Detox",
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ds": " Ds",
+		"Ls": " Ls",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4386,6 +4398,8 @@
 		"splitOrbitDistance": "Split Orbit Distance",
 		"gap": "Gap",
 		"petDefrost": "Pet Defrost",
+		"detox": "Detox",
+		"fogDetox": "Fog Detox",
 		"extraManaPercent": "Extra Mana Percent",
 		"senseSpeed": "Sense Speed",
 		"senseRange": "Sense Range",
