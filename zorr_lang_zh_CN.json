@@ -170,10 +170,10 @@
 			"唯一花瓣的起始价格是五个终末花瓣，全球每锻造一次价格就加一。",
 			"此处显示最低价格，实际价格是在你锻造时计算的，可能会有差异。"
 		],
-		"assemble": "Assemble",
+		"assemble": "重组",
 		"assembleInfo": [
-			"Find the Assembler in Bio",
-			"Combine different petals into new ones"
+			"在生化中寻找重组机",
+			"将不同的花瓣重组成其他花瓣"
 		],
 		"prev": "上一页",
 		"next": "下一页",
@@ -951,8 +951,8 @@
 			"desc": "它身上覆盖着厚重的鳞片，你到底是怎么吃掉它的？"
 		},
 		"assembler": {
-			"name": "Assembler",
-			"desc": "yes it is an NPC fr XD"
+			"name": "重组机",
+			"desc": "没错这真的是一个NPC XD"
 		}
 	},
 	"petals": {
@@ -3217,8 +3217,8 @@
 			"desc": "持续治疗你。治疗效果在60秒内每秒增加3%。"
 		},
 		"magic_mask": {
-			"name": "Magic Mask",
-			"desc": "Reduces duration of incoming fog on your vision. Also, prevents you from ZARS-CoV-69 while reducing its effect."
+			"name": "魔法口罩",
+			"desc": "减少迷雾对你视角的影响时间。它也能保护你在减少ZARS-CoV-69病毒影响的同时免受它的侵害。"
 		}
 	},
 	"achievements": {
@@ -4399,7 +4399,7 @@
 		"gap": "间隔",
 		"petDefrost": "宠物解冻",
 		"detox": "解毒",
-		"fogDetox": "Fog Detox",
+		"fogDetox": "迷雾解除",
 		"extraManaPercent": "额外魔力百分比",
 		"senseSpeed": "感知提速",
 		"senseRange": "感知范围",
