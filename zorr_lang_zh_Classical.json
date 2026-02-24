@@ -170,10 +170,10 @@
 			"唯一花瓣的初始合成價為5個終末花瓣，且每次合成後全球價格永久增加1個。",
 			"此處顯示的是最低價格，實際合成時計算的價格可能有所不同。"
 		],
-		"assemble": "Assemble",
+		"assemble": "重組",
 		"assembleInfo": [
-			"Find the Assembler in Bio",
-			"Combine different petals into new ones"
+			"在生化中尋找重組機",
+			"將不同的花瓣重組成其他花瓣"
 		],
 		"prev": "上一個",
 		"next": "下一個",
@@ -951,8 +951,8 @@
 			"desc": "遍體厚鱗，孰能食之？"
 		},
 		"assembler": {
-			"name": "Assembler",
-			"desc": "yes it is an NPC fr XD"
+			"name": "重組機",
+			"desc": "沒錯這真的是一個NPC XD"
 		}
 	},
 	"petals": {
@@ -3217,8 +3217,8 @@
 			"desc": "被動地治療你。治療效果每秒提升3%，持續60秒。"
 		},
 		"magic_mask": {
-			"name": "Magic Mask",
-			"desc": "Reduces duration of incoming fog on your vision. Also, prevents you from ZARS-CoV-69 while reducing its effect."
+			"name": "魔法口罩",
+			"desc": "減少迷霧對你視角的影響時間。他也能保護你在減少ZARS-CoV-69病毒影響的同時免受它的侵害。"
 		}
 	},
 	"achievements": {
@@ -4399,7 +4399,7 @@
 		"gap": "空隙",
 		"petDefrost": "寵物解凍",
 		"detox": "解毒",
-		"fogDetox": "Fog Detox",
+		"fogDetox": "迷霧解除",
 		"extraManaPercent": "額外魔力百分比",
 		"senseSpeed": "感知提速",
 		"senseRange": "感知範圍",
