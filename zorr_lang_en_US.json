@@ -3219,6 +3219,10 @@
 		"magic_mask": {
 			"name": "Magic Mask",
 			"desc": "Reduces duration of incoming fog on your vision. Also, prevents you from ZARS-CoV-69 while reducing its effect."
+		},
+		"elixir": {
+			"name": "Elixir",
+			"desc": "Magical water that will spill out and spread its healing power."
 		}
 	},
 	"achievements": {
@@ -4215,6 +4219,7 @@
 		"passiveHealBelow50": "Passive Heal",
 		"passiveHealInverse": "Passive Heal",
 		"passiveMemorialShield": "Passive Memorial Shield",
+		"spillHeal": "Passive Heal",
 		"passivePetHeal": "Passive Pet Heal",
 		"passivePetShield": "Passive Pet Shield",
 		"extraPetRange": "Extra Pet Range",
@@ -4353,7 +4358,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Ls": " Ls",
+		"Bs": " Bs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4804,6 +4809,9 @@
 		},
 		"april_fools": {
 			"desc": "April fools joke moment uwu."
+		},
+		"inventory_csv": {
+			"desc": "Exports your petals as CSV"
 		}
 	},
 	"starProducts": {
