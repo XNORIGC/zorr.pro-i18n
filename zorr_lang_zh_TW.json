@@ -3219,6 +3219,10 @@
 		"magic_mask": {
 			"name": "魔法口罩",
 			"desc": "減少迷霧對你視角的影響時間。他也能保護你在減少ZARS-CoV-69病毒影響的同時免受它的侵害。"
+		},
+		"elixir": {
+			"name": "Elixir",
+			"desc": "Magical water that will spill out and spread its healing power."
 		}
 	},
 	"achievements": {
@@ -4215,6 +4219,7 @@
 		"passiveHealBelow50": "持續治療",
 		"passiveHealInverse": "持續治療",
 		"passiveMemorialShield": "持續恢復紀念護盾",
+		"spillHeal": "Passive Heal",
 		"passivePetHeal": "持續寵物治療",
 		"passivePetShield": "持續恢復寵物護盾",
 		"extraPetRange": "寵物額外仇恨範圍",
@@ -4353,7 +4358,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Ls": " Ls",
+		"Bs": " Bs",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
@@ -4804,6 +4809,9 @@
 		},
 		"april_fools": {
 			"desc": "愚人節玩笑時刻uwu。"
+		},
+		"inventory_csv": {
+			"desc": "Exports your petals as CSV"
 		}
 	},
 	"starProducts": {
