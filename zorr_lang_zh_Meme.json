@@ -3221,8 +3221,8 @@
 			"desc": "减少迷雾对你视角的影响时间。它也能保护你在减少ZARS-CoV-69病毒影响的同时免受它的侵害。"
 		},
 		"elixir": {
-			"name": "Elixir",
-			"desc": "Magical water that will spill out and spread its healing power."
+			"name": "灵药",
+			"desc": "可以溢出并传播其治愈的力量的神奇液体。"
 		}
 	},
 	"achievements": {
@@ -4219,7 +4219,7 @@
 		"passiveHealBelow50": "持续治疗",
 		"passiveHealInverse": "持续治疗",
 		"passiveMemorialShield": "持续恢复纪念护盾",
-		"spillHeal": "Passive Heal",
+		"spillHeal": "持续治疗",
 		"passivePetHeal": "持续宠物治疗",
 		"passivePetShield": "持续恢复宠物护盾",
 		"extraPetRange": "宠物额外仇恨范围",
@@ -4811,7 +4811,7 @@
 			"desc": "愚人节玩笑时刻uwu。"
 		},
 		"inventory_csv": {
-			"desc": "Exports your petals as CSV"
+			"desc": "以csv表格的格式导出你的背包"
 		}
 	},
 	"starProducts": {
