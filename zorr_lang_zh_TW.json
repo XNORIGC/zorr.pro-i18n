@@ -3038,7 +3038,7 @@
 		},
 		"pinky_promise": {
 			"name": "承諾",
-			"desc": "和生物達成協議並且把你轉化為他們的陣營。 兩個使用本花瓣的花朵是同一個陣營，生物同樣無法傷害他們. ……. . . …. . . ……. . . . . . .. . . .. . . .. XddxDD43434 39#（（$）3%（^是的哦爸 ♂ 爸 ♂ 已經拉 ♂ 鉤 ♂ 了xp xp 🥵💦💦👅👅👅  哈哈哈西格瑪男人又一次在這裡出現哈哈哈XD XD XD"
+			"desc": "Makes a pact with the mobs & turns you on their side. 2 pinky promised flowers are on the same side & mobs can't hurt them."
 		},
 		"flower": {
 			"name": "花",
@@ -4156,6 +4156,18 @@
 			"name": "南瓜",
 			"desc": "這是個南瓜！"
 		},
+		"cookie": {
+			"name": "Cookie",
+			"desc": "Baked just for you"
+		},
+		"iceberg": {
+			"name": "Iceberg",
+			"desc": "chilly asf"
+		},
+		"comet": {
+			"name": "Comet",
+			"desc": "Halley's coment"
+		},
 		"freg": {
 			"name": "草",
 			"desc": "它失去了它的睡蓮……"
@@ -4358,7 +4370,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Bs": " Bs",
+		"Zs": " Zs",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
