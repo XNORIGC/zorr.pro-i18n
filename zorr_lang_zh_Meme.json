@@ -4370,7 +4370,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Zs": " Zs",
+		"Hs": " Hs",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4448,6 +4448,11 @@
 		"healNearby": "范围治疗",
 		"damageGrowth": "伤害增长",
 		"infectionTime": "感染时间",
+		"@zoom": "@镜头拉进",
+		"@spinChangeSpeed": "@转速调节速度",
+		"@maxMagicPets": "@魔法宠物上限",
+		"@mobHudCount": "@生物平视显示器数",
+		"@afkChallengeSize": "@挂机检查大小",
 		"#controls": "#控制",
 		"keyboardControls": "键盘控制",
 		"movementHelper": "移动向导",
@@ -4818,9 +4823,6 @@
 		},
 		"fov": {
 			"desc": "设置你的视野系数。"
-		},
-		"april_fools": {
-			"desc": "愚人节玩笑时刻uwu。"
 		},
 		"inventory_csv": {
 			"desc": "以csv表格的格式导出你的背包"
