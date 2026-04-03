@@ -4370,7 +4370,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Zs": " Zs",
+		"Hs": " Hs",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
@@ -4448,6 +4448,11 @@
 		"healNearby": "範圍治療",
 		"damageGrowth": "傷害增長",
 		"infectionTime": "感染時間",
+		"@zoom": "@zoom",
+		"@spinChangeSpeed": "@spin Change Speed",
+		"@maxMagicPets": "@max Magic Pets",
+		"@mobHudCount": "@mob Hud Count",
+		"@afkChallengeSize": "@afk Challenge Size",
 		"#controls": "#控制",
 		"keyboardControls": "鍵之御",
 		"movementHelper": "移之助",
@@ -4818,9 +4823,6 @@
 		},
 		"fov": {
 			"desc": "設爾視野之廣狹。"
-		},
-		"april_fools": {
-			"desc": "愚人節戲謔之刻也，嗚呼哉（uwu）。"
 		},
 		"inventory_csv": {
 			"desc": "Exports your petals as CSV"
