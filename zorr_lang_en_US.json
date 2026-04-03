@@ -4370,7 +4370,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Zs": " Zs",
+		"Hs": " Hs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4448,6 +4448,11 @@
 		"healNearby": "Heal Nearby",
 		"damageGrowth": "Damage Growth",
 		"infectionTime": "Infection Time",
+		"@zoom": "@zoom",
+		"@spinChangeSpeed": "@spin Change Speed",
+		"@maxMagicPets": "@max Magic Pets",
+		"@mobHudCount": "@mob Hud Count",
+		"@afkChallengeSize": "@afk Challenge Size",
 		"#controls": "#controls",
 		"keyboardControls": "Keyboard Controls",
 		"movementHelper": "Movement Helper",
@@ -4818,9 +4823,6 @@
 		},
 		"fov": {
 			"desc": "Sets your field of view factor."
-		},
-		"april_fools": {
-			"desc": "April fools joke moment uwu."
 		},
 		"inventory_csv": {
 			"desc": "Exports your petals as CSV"
