@@ -3034,7 +3034,7 @@
 		},
 		"toilet_paper": {
 			"name": "廁紙",
-			"desc": "每當你的血量從90%以上降到10%以下，它的傷害都會在10秒內增加10倍。你應該在一只邪眼甲蟲身上拉屎之後用它 :3"
+			"desc": "Everytime your health falls from over 90% to below 10%, it increases its damage by 10x for 10s."
 		},
 		"pinky_promise": {
 			"name": "承諾",
@@ -3223,6 +3223,10 @@
 		"elixir": {
 			"name": "Elixir",
 			"desc": "Magical water that will spill out and spread its healing power."
+		},
+		"amulet": {
+			"name": "Amulet",
+			"desc": "Sacrifices your petals to increase your squad mates damage."
 		}
 	},
 	"achievements": {
@@ -4384,6 +4388,8 @@
 		"mobSizeChange": "生物尺寸變化",
 		"projectileSpeedBuff": "發射物速度增益",
 		"warp": "傳送距離",
+		"squadExtraPetalDamagePercent": "Squad Extra Petal Damage Percent",
+		"squadExtraPetalDamageLevel": "Squad Extra Petal Damage Level",
 		"mana": "靈力",
 		"passiveMana": "被動靈力",
 		"passiveManaInverse": "持續恢復魔力",
@@ -4664,6 +4670,12 @@
 		},
 		"gen_egg": {
 			"desc": "生卵之再填。petCount乃卵生妖獸之數。power為賜寵獸之力。力甚大，則卵之填甚久，反之亦然。minUseTime乃孵化之時限，以增所生寵之稀。若孵化時短於此限，則寵之稀增。簡言之，若限甚大，則卵甚易生稀寵。"
+		},
+		"stars_to_usd": {
+			"desc": "Converts stars to USD."
+		},
+		"optimal_stars": {
+			"desc": "Calculates maximum star purchaseable for dollar amount."
 		},
 		"spin_speed": {
 			"desc": "定花旋之速。"
