@@ -3034,7 +3034,7 @@
 		},
 		"toilet_paper": {
 			"name": "廁紙",
-			"desc": "每當你的血量從90%以上降到10%以下，它的傷害都會在10秒內增加10倍。你應該在一只邪眼甲蟲身上拉屎之後用它 :3"
+			"desc": "Everytime your health falls from over 90% to below 10%, it increases its damage by 10x for 10s."
 		},
 		"pinky_promise": {
 			"name": "承諾",
@@ -3223,6 +3223,10 @@
 		"elixir": {
 			"name": "Elixir",
 			"desc": "Magical water that will spill out and spread its healing power."
+		},
+		"amulet": {
+			"name": "Amulet",
+			"desc": "Sacrifices your petals to increase your squad mates damage."
 		}
 	},
 	"achievements": {
@@ -4384,6 +4388,8 @@
 		"mobSizeChange": "生物尺寸變化",
 		"projectileSpeedBuff": "發射物速度增益",
 		"warp": "傳送距離",
+		"squadExtraPetalDamagePercent": "Squad Extra Petal Damage Percent",
+		"squadExtraPetalDamageLevel": "Squad Extra Petal Damage Level",
 		"mana": "魔力",
 		"passiveMana": "持續魔力恢復",
 		"passiveManaInverse": "持續恢復魔力",
@@ -4664,6 +4670,12 @@
 		},
 		"gen_egg": {
 			"desc": "生成蛋的冷卻時間。petCount是蛋應該孵化出的生物數量。Power是給予寵物生物的力量值。如果力量值非常高，蛋將有較長的冷卻時間，反之亦然。MinUseTime是增加孵化寵物稀有度的最小孵化時間。如果孵化時間低於該值，寵物的稀有度將增加。簡單來說，如果截止時間較長，蛋將非常容易孵化出高稀有度的寵物。"
+		},
+		"stars_to_usd": {
+			"desc": "Converts stars to USD."
+		},
+		"optimal_stars": {
+			"desc": "Calculates maximum star purchaseable for dollar amount."
 		},
 		"spin_speed": {
 			"desc": "設定你的花朵旋轉速度。"
