@@ -3034,7 +3034,7 @@
 		},
 		"toilet_paper": {
 			"name": "Toilet Paper",
-			"desc": "Everytime your health falls from over 90% to below 10%, it increases its damage by 10x for 10s. This is what you should use after taking a dump on a nazar beetle :3"
+			"desc": "Everytime your health falls from over 90% to below 10%, it increases its damage by 10x for 10s."
 		},
 		"pinky_promise": {
 			"name": "Pinky Promise",
@@ -3223,6 +3223,10 @@
 		"elixir": {
 			"name": "Elixir",
 			"desc": "Magical water that will spill out and spread its healing power."
+		},
+		"amulet": {
+			"name": "Amulet",
+			"desc": "Sacrifices your petals to increase your squad mates damage."
 		}
 	},
 	"achievements": {
@@ -4384,6 +4388,8 @@
 		"mobSizeChange": "Mob Size Change",
 		"projectileSpeedBuff": "Projectile Speed Buff",
 		"warp": "Warp",
+		"squadExtraPetalDamagePercent": "Squad Extra Petal Damage Percent",
+		"squadExtraPetalDamageLevel": "Squad Extra Petal Damage Level",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
@@ -4664,6 +4670,12 @@
 		},
 		"gen_egg": {
 			"desc": "Generates egg reloads. petCount is how many mobs the egg should spawn. Power is a strength value given to the pet mob. If the power is very high, egg will have large reloads and vice-versa. MinUseTime is the minimum hatch time to increase the rarity of the spawned pet. If hatch time goes below that, rarity of the pet is increased. In simpler words, if the cutoff is large, eggs will very easily spawn high rarity pets."
+		},
+		"stars_to_usd": {
+			"desc": "Converts stars to USD."
+		},
+		"optimal_stars": {
+			"desc": "Calculates maximum star purchaseable for dollar amount."
 		},
 		"spin_speed": {
 			"desc": "Sets your flower's spin speed."
