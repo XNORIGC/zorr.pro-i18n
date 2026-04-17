@@ -904,7 +904,7 @@
 		},
 		"acid_bubble": {
 			"name": "Acid Bubble",
-			"desc": "Average Indian fart XD"
+			"desc": "Average stinky fart XD"
 		},
 		"stegosaurus": {
 			"name": "Stegosaurus",
@@ -3138,7 +3138,7 @@
 		},
 		"warp": {
 			"name": "Warp",
-			"desc": "Warps you to your closest squadmate, or rather, it warps you some % closer, percentage depends on rarity"
+			"desc": "Warps you to your furthest squadmate, or rather, it warps you some % closer, percentage depends on rarity"
 		},
 		"puppeteer": {
 			"name": "Puppeteer",
@@ -3226,7 +3226,7 @@
 		},
 		"amulet": {
 			"name": "Amulet",
-			"desc": "Sacrifices your petals to increase your squad mates damage."
+			"desc": "Sacrifices your petals to increase your squad mates damage. Maximum damage increase at the specified level of the bearer."
 		}
 	},
 	"achievements": {
@@ -3884,6 +3884,22 @@
 			"name": "Reddit",
 			"desc": "quality reddit logo moment"
 		},
+		"demonic": {
+			"name": "Demonic",
+			"desc": "Engaged in rituals"
+		},
+		"poopy": {
+			"name": "Poopy",
+			"desc": "poopoopeepee"
+		},
+		"barrel": {
+			"name": "Barrel",
+			"desc": "Acid barrel cheaper version"
+		},
+		"deity": {
+			"name": "Deity",
+			"desc": "A flower god"
+		},
 		"wtf": {
 			"name": "WTF",
 			"desc": "i have no clue what this is"
@@ -4374,7 +4390,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Hs": " Hs",
+		"qs": "Qs",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4586,6 +4602,9 @@
 		},
 		"user_petal_dps": {
 			"desc": "Displays total petals dropped in a day."
+		},
+		"user_mob_mkt": {
+			"desc": "Displays mob kill times of a day."
 		},
 		"whisper": {
 			"desc": "Sends a private message to a player."
