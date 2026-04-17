@@ -3226,7 +3226,7 @@
 		},
 		"amulet": {
 			"name": "Amulet",
-			"desc": "Sacrifices your petals to increase your squad mates damage."
+			"desc": "Sacrifices your petals to increase your squad mates damage. Maximum damage increase at the specified level of the bearer."
 		}
 	},
 	"achievements": {
@@ -3884,6 +3884,22 @@
 			"name": "紅迪",
 			"desc": "佳紅迪徽標之時"
 		},
+		"demonic": {
+			"name": "Demonic",
+			"desc": "Engaged in rituals"
+		},
+		"poopy": {
+			"name": "Poopy",
+			"desc": "poopoopeepee"
+		},
+		"barrel": {
+			"name": "Barrel",
+			"desc": "Acid barrel cheaper version"
+		},
+		"deity": {
+			"name": "Deity",
+			"desc": "A flower god"
+		},
 		"wtf": {
 			"name": "WTF",
 			"desc": "吾不知此為何物"
@@ -4374,7 +4390,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Hs": " Hs",
+		"qs": "Qs",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
@@ -4586,6 +4602,9 @@
 		},
 		"user_petal_dps": {
 			"desc": "示一日落瓣之總數"
+		},
+		"user_mob_mkt": {
+			"desc": "Displays mob kill times of a day."
 		},
 		"whisper": {
 			"desc": "為玩家傳密言"
