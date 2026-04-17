@@ -3226,7 +3226,7 @@
 		},
 		"amulet": {
 			"name": "Amulet",
-			"desc": "Sacrifices your petals to increase your squad mates damage."
+			"desc": "Sacrifices your petals to increase your squad mates damage. Maximum damage increase at the specified level of the bearer."
 		}
 	},
 	"achievements": {
@@ -3884,6 +3884,22 @@
 			"name": "Reddit",
 			"desc": "高質量Reddit標誌時刻"
 		},
+		"demonic": {
+			"name": "Demonic",
+			"desc": "Engaged in rituals"
+		},
+		"poopy": {
+			"name": "Poopy",
+			"desc": "poopoopeepee"
+		},
+		"barrel": {
+			"name": "Barrel",
+			"desc": "Acid barrel cheaper version"
+		},
+		"deity": {
+			"name": "Deity",
+			"desc": "A flower god"
+		},
 		"wtf": {
 			"name": "什麼鬼",
 			"desc": "我完全不知道這是什麼"
@@ -4374,7 +4390,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Hs": " Hs",
+		"qs": "Qs",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
@@ -4586,6 +4602,9 @@
 		},
 		"user_petal_dps": {
 			"desc": "顯示使用者一天內的花瓣掉落總數。"
+		},
+		"user_mob_mkt": {
+			"desc": "Displays mob kill times of a day."
 		},
 		"whisper": {
 			"desc": "向一個玩家傳送私信。"
