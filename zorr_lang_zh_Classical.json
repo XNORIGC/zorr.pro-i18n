@@ -3034,7 +3034,7 @@
 		},
 		"toilet_paper": {
 			"name": "廁紙",
-			"desc": "Everytime your health falls from over 90% to below 10%, it increases its damage by 10x for 10s."
+			"desc": "‌每次你的生命值從90%以上降到10%以下時，接下來10秒內造成的傷害會增加10倍‌。"
 		},
 		"pinky_promise": {
 			"name": "承諾",
@@ -3222,7 +3222,7 @@
 		},
 		"elixir": {
 			"name": "Elixir",
-			"desc": "Magical water that will spill out and spread its healing power."
+			"desc": "會溢出並散播其治癒力量的魔法水‌。"
 		},
 		"amulet": {
 			"name": "Amulet",
