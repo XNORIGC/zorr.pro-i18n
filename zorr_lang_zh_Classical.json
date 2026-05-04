@@ -3038,7 +3038,7 @@
 		},
 		"pinky_promise": {
 			"name": "承諾",
-			"desc": "Makes a pact with the mobs & turns you on their side. 2 pinky promised flowers are on the same side & mobs can't hurt them."
+			"desc": "與生物締結協約，讓你歸為它們的陣營。兩個粉色承諾的花朵也會在同一陣營，生物不能傷害它們。"
 		},
 		"flower": {
 			"name": "花",
@@ -3221,12 +3221,12 @@
 			"desc": "減少迷霧對你視角的影響時間。他也能保護你在減少ZARS-CoV-69病毒影響的同時免受它的侵害。"
 		},
 		"elixir": {
-			"name": "Elixir",
-			"desc": "會溢出並散播其治癒力量的魔法水‌。"
+			"name": "靈藥",
+			"desc": "可以溢出並傳播其治愈的力量的神奇液體。"
 		},
 		"amulet": {
-			"name": "Amulet",
-			"desc": "Sacrifices your petals to increase your squad mates damage. Maximum damage increase at the specified level of the bearer."
+			"name": "護身符",
+			"desc": "犧牲你的花瓣來增加你小隊成員的傷害。在持有者達到指定等級時，傷害最大值增加。"
 		}
 	},
 	"achievements": {
@@ -3885,20 +3885,20 @@
 			"desc": "佳紅迪徽標之時"
 		},
 		"demonic": {
-			"name": "Demonic",
-			"desc": "Engaged in rituals"
+			"name": "惡魔",
+			"desc": "參與邪惡儀式"
 		},
 		"poopy": {
-			"name": "Poopy",
-			"desc": "poopoopeepee"
+			"name": "大皮鼓",
+			"desc": "噗噗"
 		},
 		"barrel": {
-			"name": "Barrel",
-			"desc": "Acid barrel cheaper version"
+			"name": "鈾桶",
+			"desc": "比鈾桶價格更低的版本"
 		},
 		"deity": {
-			"name": "Deity",
-			"desc": "A flower god"
+			"name": "神祇",
+			"desc": "花中的神"
 		},
 		"wtf": {
 			"name": "WTF",
@@ -4177,16 +4177,16 @@
 			"desc": "這是個南瓜！"
 		},
 		"cookie": {
-			"name": "Cookie",
-			"desc": "Baked just for you"
+			"name": "餅乾",
+			"desc": "只為你烘焙兒成"
 		},
 		"iceberg": {
-			"name": "Iceberg",
-			"desc": "chilly asf"
+			"name": "冰山",
+			"desc": "超級冷酷"
 		},
 		"comet": {
-			"name": "Comet",
-			"desc": "Halley's coment"
+			"name": "彗星",
+			"desc": "哈雷彗星"
 		},
 		"freg": {
 			"name": "草",
@@ -4251,7 +4251,7 @@
 		"passiveHealBelow50": "徐徐愈",
 		"passiveHealInverse": "持續治療",
 		"passiveMemorialShield": "持續恢復紀念護盾",
-		"spillHeal": "Passive Heal",
+		"spillHeal": "持續治療",
 		"passivePetHeal": "徐徐愈寵",
 		"passivePetShield": "持續恢復寵物護盾",
 		"extraPetRange": "寵物額外仇恨範圍",
@@ -4404,8 +4404,8 @@
 		"mobSizeChange": "生物尺寸變化",
 		"projectileSpeedBuff": "發射物速度增益",
 		"warp": "傳送距離",
-		"squadExtraPetalDamagePercent": "Squad Extra Petal Damage Percent",
-		"squadExtraPetalDamageLevel": "Squad Extra Petal Damage Level",
+		"squadExtraPetalDamagePercent": "小隊額外花瓣傷害百分比",
+		"squadExtraPetalDamageLevel": "小隊額外傷害花瓣等級",
 		"mana": "靈力",
 		"passiveMana": "被動靈力",
 		"passiveManaInverse": "持續恢復魔力",
@@ -4470,11 +4470,11 @@
 		"healNearby": "範圍治療",
 		"damageGrowth": "傷害增長",
 		"infectionTime": "感染時間",
-		"@zoom": "@zoom",
-		"@spinChangeSpeed": "@spin Change Speed",
-		"@maxMagicPets": "@max Magic Pets",
-		"@mobHudCount": "@mob Hud Count",
-		"@afkChallengeSize": "@afk Challenge Size",
+		"@zoom": "@鏡頭拉近",
+		"@spinChangeSpeed": "@轉速調節速度",
+		"@maxMagicPets": "@魔法寵物上限",
+		"@mobHudCount": "@生物平視顯示器數",
+		"@afkChallengeSize": "@掛機檢查大小",
 		"#controls": "#控制",
 		"keyboardControls": "鍵之御",
 		"movementHelper": "移之助",
@@ -4604,7 +4604,7 @@
 			"desc": "示一日落瓣之總數"
 		},
 		"user_mob_mkt": {
-			"desc": "Displays mob kill times of a day."
+			"desc": "顯示每天殺死的生物數。"
 		},
 		"whisper": {
 			"desc": "為玩家傳密言"
@@ -4691,10 +4691,10 @@
 			"desc": "生卵之再填。petCount乃卵生妖獸之數。power為賜寵獸之力。力甚大，則卵之填甚久，反之亦然。minUseTime乃孵化之時限，以增所生寵之稀。若孵化時短於此限，則寵之稀增。簡言之，若限甚大，則卵甚易生稀寵。"
 		},
 		"stars_to_usd": {
-			"desc": "Converts stars to USD."
+			"desc": "將星星換算為美元。"
 		},
 		"optimal_stars": {
-			"desc": "Calculates maximum star purchaseable for dollar amount."
+			"desc": "計算在給定金額下可購買的最大星星數。"
 		},
 		"spin_speed": {
 			"desc": "定花旋之速。"
@@ -4856,7 +4856,7 @@
 			"desc": "設爾視野之廣狹。"
 		},
 		"inventory_csv": {
-			"desc": "Exports your petals as CSV"
+			"desc": "以csv表格的形式導出你的背包"
 		}
 	},
 	"starProducts": {
