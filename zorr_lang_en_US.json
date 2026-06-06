@@ -2,6 +2,7 @@
 	"name": "custom lang uwu",
 	"ui": {
 		"deathInfo": "You were killed by:",
+		"reviveNextWave": "You will revive next wave",
 		"continue": "Continue",
 		"minimize": "Minimize",
 		"deathEscape": "(or press escape)",
@@ -47,6 +48,10 @@
 		"you": "(You)",
 		"public": "Public",
 		"privateSquad": "Private Squad",
+		"waveSquad": "Wave Squad",
+		"ready": "Ready",
+		"startingWave": "Starting Wave",
+		"findWave": "Find Wave",
 		"loadout": "Loadout",
 		"reset": "Reset",
 		"clear": "Clear",
@@ -214,6 +219,7 @@
 		"petDupeMana": "Requires {1} mana to dupe pets.",
 		"effectStacks": "Special damage effects stack.",
 		"healBlacklisted": "Blacklisted from healing.",
+		"waveBlacklisted": "Blacklisted from Waves.",
 		"streakRewardTimer": "Come back in {1} to claim rewards.",
 		"streak": "Daily Streak #{1}",
 		"day": "Day #{1}",
@@ -222,6 +228,8 @@
 		"creatingSquad": "Creating new squad...",
 		"findingPublicSquad": "Finding public squad...",
 		"notInSquad": "You are not in any squad",
+		"findingPublicWave": "Finding public wave lobby...",
+		"noPublicWave": "No joinable public wave lobby found for your level.\nWave lobbies are created using Ticket.",
 		"chatInfo": "Type \"{1}\" to view commands.\nBeing toxic or using slurs in chat will get your account banned.",
 		"dropBuffInfo": "Drop buffs apply to upto (1) drops only.",
 		"resetsIn": "Resets in {1}...",
@@ -239,7 +247,8 @@
 		"usernameCharRule": "Only letters, numbers & underscore are allowed",
 		"usernameChangeRule": "Username can only be changed once every 14 days.",
 		"passwordMinLength": "Password should be minimum of length {1}",
-		"passwordMaxLength": "Password should be maximum of length {1}"
+		"passwordMaxLength": "Password should be maximum of length {1}",
+		"diedAtWave": "Died at wave {1}"
 	},
 	"mobs": {
 		"rock": {
@@ -1754,7 +1763,7 @@
 		},
 		"corruption": {
 			"name": "Corruption",
-			"desc": "You become corrupt and can harm other flowers and they can harm you."
+			"desc": "You become corrupt and can harm other flowers and they can harm you. You petals won't work in low rarity zones."
 		},
 		"moon": {
 			"name": "Moon",
@@ -3227,6 +3236,10 @@
 		"amulet": {
 			"name": "Amulet",
 			"desc": "Sacrifices your petals to increase your squad mates damage. Maximum damage increase at the specified level of the bearer."
+		},
+		"ticket": {
+			"name": "Ticket",
+			"desc": "Teleports you to a wave match when used. Has a chance of deleting itself from your inventory after use (except Unique). Not affected by Clover or Koban."
 		}
 	},
 	"achievements": {
@@ -3311,7 +3324,7 @@
 			"desc": "Kill 2500 mobs"
 		},
 		"holocaust": {
-			"name": "Halocaust",
+			"name": "Extinction",
 			"desc": "Kill 10,000 mobs"
 		},
 		"solo": {
@@ -3433,6 +3446,14 @@
 		"corrupt2": {
 			"name": "Error420",
 			"desc": "Kill 25 corrupt mobs."
+		},
+		"wave": {
+			"name": "Into the waveroom...",
+			"desc": "Join a wave lobby."
+		},
+		"anomaly": {
+			"name": "Anomaly",
+			"desc": "Encounter a variant wave."
 		}
 	},
 	"skins": {
@@ -3828,6 +3849,10 @@
 			"name": "Goof",
 			"desc": "Appears pretty goofy..."
 		},
+		"baddie": {
+			"name": "Baddie",
+			"desc": "lil baddie"
+		},
 		"flower": {
 			"name": "Flower",
 			"desc": "A flower for a flower"
@@ -3964,6 +3989,10 @@
 			"name": "Tredor",
 			"desc": "nub trader"
 		},
+		"hammerhead": {
+			"name": "Hammerhead",
+			"desc": "Shark moment"
+		},
 		"onion": {
 			"name": "Onion",
 			"desc": "Purchased using Tor :p"
@@ -3987,6 +4016,10 @@
 		"glitch": {
 			"name": "Glitch",
 			"desc": "Zyberpunk flower"
+		},
+		"pipeman": {
+			"name": "Pipeman",
+			"desc": "Made with pipes"
 		},
 		"bird": {
 			"name": "Bird",
@@ -4204,6 +4237,10 @@
 			"name": "5gram",
 			"desc": "It's a big pentagram."
 		},
+		"sunshine": {
+			"name": "Sunshine",
+			"desc": "Feel the warmth"
+		},
 		"plus": {
 			"name": "Plus",
 			"desc": "Might be useful to keep the demons away."
@@ -4390,7 +4427,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"qs": "Qs",
+		"ur": "Ur",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4406,6 +4443,7 @@
 		"warp": "Warp",
 		"squadExtraPetalDamagePercent": "Squad Extra Petal Damage Percent",
 		"squadExtraPetalDamageLevel": "Squad Extra Petal Damage Level",
+		"deleteRate": "Delete Rate",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
@@ -4488,6 +4526,7 @@
 		"showUserChats": "Show User Chats",
 		"showDropLogs": "Show Drop Logs",
 		"showBlocked": "Show Blocked",
+		"showKillLogInWave": "Show Kill Log In Wave",
 		"#performance": "#performance",
 		"@uiScale": "@ui Scale",
 		"@res": "@res",
@@ -4497,6 +4536,7 @@
 		"mapCachedRendering": "Map Cached Rendering",
 		"mobCachedRendering": "Mob Cached Rendering",
 		"petalCachedRendering": "Petal Cached Rendering",
+		"lowQualityWalls": "Low Quality Walls",
 		"showIcons": "Show Icons",
 		"#game": "#game",
 		"showOtherPetals": "Show Other Petals",
@@ -4519,6 +4559,7 @@
 		"showCraftBubble": "Show Craft Bubble",
 		"showParticles": "Show Particles",
 		"showDamage": "Show Damage",
+		"showDamageInWave": "Show Damage In Wave",
 		"showPetDamage": "Show Pet Damage",
 		"showDamageFlash": "Show Damage Flash",
 		"showHealthBar": "Show Health Bar",
@@ -4566,6 +4607,7 @@
 		"dailyPlaytime": "Daily Playtime",
 		"maxDailyPlaytime": "Max Daily Playtime",
 		"maxStreak": "Max Streak",
+		"maxWave": "Max Wave",
 		"zoom": "Zoom",
 		"spinChangeSpeed": "Spin Change Speed",
 		"res": "Resolution",
@@ -4604,7 +4646,7 @@
 			"desc": "Displays total petals dropped in a day."
 		},
 		"user_mob_mkt": {
-			"desc": "Displays mob kill times of a day."
+			"desc": "Displays mob kill times."
 		},
 		"whisper": {
 			"desc": "Sends a private message to a player."
@@ -4857,6 +4899,27 @@
 		},
 		"inventory_csv": {
 			"desc": "Exports your petals as CSV"
+		},
+		"craft_block": {
+			"desc": "Blocks a petal from crafting."
+		},
+		"craft_unblock": {
+			"desc": "Unblocks a petal from crafting."
+		},
+		"craft_unblock_all": {
+			"desc": "Unblocks all blocked petals from crafting."
+		},
+		"create_lobby": {
+			"desc": "Creates a wave lobby."
+		},
+		"close_lobby": {
+			"desc": "Closes a wave lobby."
+		},
+		"set_wave": {
+			"desc": "Sets wave number."
+		},
+		"kick_squad": {
+			"desc": "Kicks a squad member."
 		}
 	},
 	"starProducts": {
