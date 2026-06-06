@@ -2,6 +2,7 @@
 	"name": "中文（简体）",
 	"ui": {
 		"deathInfo": "你死于",
+		"reviveNextWave": "You will revive next wave",
 		"continue": "继续",
 		"minimize": "关闭",
 		"deathEscape": "（或按Escape键）",
@@ -47,6 +48,10 @@
 		"you": "（你）",
 		"public": "公开",
 		"privateSquad": "私密小队",
+		"waveSquad": "Wave Squad",
+		"ready": "Ready",
+		"startingWave": "Starting Wave",
+		"findWave": "Find Wave",
 		"loadout": "配装",
 		"reset": "刷新",
 		"clear": "清空",
@@ -214,6 +219,7 @@
 		"petDupeMana": "消耗{1}点魔力以复制宠物。",
 		"effectStacks": "特殊伤害效果叠加。",
 		"healBlacklisted": "被列入治疗黑名单。",
+		"waveBlacklisted": "Blacklisted from Waves.",
 		"streakRewardTimer": "请于{1}后回来以领取新的奖励。",
 		"streak": "每日签到 - 第{1}天",
 		"day": "第{1}天",
@@ -222,6 +228,8 @@
 		"creatingSquad": "创建小队中……",
 		"findingPublicSquad": "查找公开小队中……",
 		"notInSquad": "你还不在任何一个小队里",
+		"findingPublicWave": "Finding public wave lobby...",
+		"noPublicWave": "No joinable public wave lobby found for your level.\nWave lobbies are created using Ticket.",
 		"chatInfo": "输入“{1}”以查看可用命令。\n在聊天中表现恶劣或使用侮辱性语言将导致你的账户被封禁。",
 		"dropBuffInfo": "掉落增益仅适用于品质最高为(1)的战利品。",
 		"resetsIn": "将在{1}后重置……",
@@ -239,7 +247,8 @@
 		"usernameCharRule": "仅允许使用字母、数字和下划线",
 		"usernameChangeRule": "用户名每十四天只能更改一次。",
 		"passwordMinLength": "密码长度应至少为{1}个字符",
-		"passwordMaxLength": "密码长度应最多为{1}个字符"
+		"passwordMaxLength": "密码长度应最多为{1}个字符",
+		"diedAtWave": "Died at wave {1}"
 	},
 	"mobs": {
 		"rock": {
@@ -3227,6 +3236,10 @@
 		"amulet": {
 			"name": "护身符",
 			"desc": "牺牲你的花瓣来增加你小队成员的伤害。在持有者达到指定等级时，伤害最大值增加。"
+		},
+		"ticket": {
+			"name": "Ticket",
+			"desc": "Teleports you to a wave match when used. Has a chance of deleting itself from your inventory after use (except Unique). Not affected by Clover or Koban."
 		}
 	},
 	"achievements": {
@@ -3433,6 +3446,14 @@
 		"corrupt2": {
 			"name": "错误420",
 			"desc": "击杀二十五个腐化生物。"
+		},
+		"wave": {
+			"name": "Into the waveroom...",
+			"desc": "Join a wave lobby."
+		},
+		"anomaly": {
+			"name": "Anomaly",
+			"desc": "Encounter a variant wave."
 		}
 	},
 	"skins": {
@@ -3828,6 +3849,10 @@
 			"name": "傻瓜",
 			"desc": "看起来相当傻……"
 		},
+		"baddie": {
+			"name": "Baddie",
+			"desc": "lil baddie"
+		},
 		"flower": {
 			"name": "花朵",
 			"desc": "一朵花献给一朵花"
@@ -3964,6 +3989,10 @@
 			"name": "老币登",
 			"desc": "奸商"
 		},
+		"hammerhead": {
+			"name": "Hammerhead",
+			"desc": "Shark moment"
+		},
 		"onion": {
 			"name": "洋葱",
 			"desc": "使用 Tor 购买 :p"
@@ -3987,6 +4016,10 @@
 		"glitch": {
 			"name": "漏洞",
 			"desc": "赛博朋克花"
+		},
+		"pipeman": {
+			"name": "Pipeman",
+			"desc": "Made with pipes"
 		},
 		"bird": {
 			"name": "鸟",
@@ -4204,6 +4237,10 @@
 			"name": "5角星",
 			"desc": "这是一个巨大的五角星。"
 		},
+		"sunshine": {
+			"name": "Sunshine",
+			"desc": "Feel the warmth"
+		},
 		"plus": {
 			"name": "加号",
 			"desc": "可能有助于远离恶魔。"
@@ -4390,7 +4427,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"qs": "Qs",
+		"ur": "Ur",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4406,6 +4443,7 @@
 		"warp": "传送距离",
 		"squadExtraPetalDamagePercent": "小队额外花瓣伤害百分比",
 		"squadExtraPetalDamageLevel": "小队额外花瓣伤害等级",
+		"deleteRate": "Delete Rate",
 		"mana": "魔力",
 		"passiveMana": "持续恢复魔力",
 		"passiveManaInverse": "持续恢复魔力",
@@ -4488,6 +4526,7 @@
 		"showUserChats": "显示用户聊天",
 		"showDropLogs": "显示掉落日志",
 		"showBlocked": "显示屏蔽内容",
+		"showKillLogInWave": "Show Kill Log In Wave",
 		"#performance": "#性能",
 		"@uiScale": "@用户界面缩放比例",
 		"@res": "@清晰度",
@@ -4497,6 +4536,7 @@
 		"mapCachedRendering": "地图缓存渲染",
 		"mobCachedRendering": "生物缓存渲染",
 		"petalCachedRendering": "花瓣缓存渲染",
+		"lowQualityWalls": "Low Quality Walls",
 		"showIcons": "显示图标",
 		"#game": "#游戏",
 		"showOtherPetals": "显示其他玩家的花瓣",
@@ -4519,6 +4559,7 @@
 		"showCraftBubble": "显示合成气泡",
 		"showParticles": "显示粒子效果",
 		"showDamage": "显示伤害",
+		"showDamageInWave": "Show Damage In Wave",
 		"showPetDamage": "显示宠物伤害",
 		"showDamageFlash": "显示伤害闪烁",
 		"showHealthBar": "显示生命条",
@@ -4566,6 +4607,7 @@
 		"dailyPlaytime": "今日游玩时间",
 		"maxDailyPlaytime": "最长单日游玩时间",
 		"maxStreak": "最长连签天数",
+		"maxWave": "Max Wave",
 		"zoom": "镜头拉进",
 		"spinChangeSpeed": "转速调节速度",
 		"res": "清晰度",
@@ -4857,6 +4899,27 @@
 		},
 		"inventory_csv": {
 			"desc": "以csv表格的格式导出你的背包"
+		},
+		"craft_block": {
+			"desc": "Blocks a petal from crafting."
+		},
+		"craft_unblock": {
+			"desc": "Unblocks a petal from crafting."
+		},
+		"craft_unblock_all": {
+			"desc": "Unblocks all blocked petals from crafting."
+		},
+		"create_lobby": {
+			"desc": "Creates a wave lobby."
+		},
+		"close_lobby": {
+			"desc": "Closes a wave lobby."
+		},
+		"set_wave": {
+			"desc": "Sets wave number."
+		},
+		"kick_squad": {
+			"desc": "Kicks a squad member."
 		}
 	},
 	"starProducts": {
