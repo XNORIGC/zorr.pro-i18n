@@ -4919,7 +4919,7 @@
 			"desc": "Sets wave number."
 		},
 		"kick_squad": {
-			"desc": "Kicks a squad member."
+			"desc": "踢出小队成员。"
 		}
 	},
 	"starProducts": {
