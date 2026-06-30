@@ -3240,6 +3240,10 @@
 		"ticket": {
 			"name": "Ticket",
 			"desc": "Teleports you to a wave match when used. Has a chance of deleting itself from your inventory after use (except Unique). Not affected by Clover or Koban."
+		},
+		"magic_nitro": {
+			"name": "Magic Nitro",
+			"desc": "Magic air that boosts you in your line of motion."
 		}
 	},
 	"achievements": {
@@ -4427,7 +4431,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"ur": "Ur",
+		"tr": "Tr",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
