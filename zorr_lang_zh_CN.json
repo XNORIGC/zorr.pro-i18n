@@ -3242,8 +3242,8 @@
 			"desc": "使用后将你传送至波次游戏（除了唯一稀有度的门票）。使用时有概率将门票从你的背包中删除。概率不受幸运草或小判影响。"
 		},
 		"magic_nitro": {
-			"name": "Magic Nitro",
-			"desc": "Magic air that boosts you in your line of motion."
+			"name": "魔法氮气",
+			"desc": "能够在你的运动方向上使你加速的魔法气体。"
 		}
 	},
 	"achievements": {
