@@ -962,6 +962,10 @@
 		"assembler": {
 			"name": "重组机",
 			"desc": "没错这真的是一个NPC XD"
+		},
+		"totem": {
+			"name": "图腾",
+			"desc": "Spiritual symbol of a Zribal community."
 		}
 	},
 	"petals": {
@@ -3244,6 +3248,14 @@
 		"magic_nitro": {
 			"name": "魔法氮气",
 			"desc": "能够在你的运动方向上使你加速的魔法气体。"
+		},
+		"totem_egg": {
+			"name": "图腾蛋",
+			"desc": "它可以孵化并生成一些有趣的东西……"
+		},
+		"totem": {
+			"name": "图腾",
+			"desc": "在你击杀一个生物时为你治疗10秒。击杀更多生物时，治疗效果叠加。"
 		}
 	},
 	"achievements": {
@@ -4001,6 +4013,10 @@
 			"name": "洋葱",
 			"desc": "使用 Tor 购买 :p"
 		},
+		"skibini": {
+			"name": "Skibini",
+			"desc": "Flowerini"
+		},
 		"big_brain": {
 			"name": "大聪明",
 			"desc": "三维大聪明"
@@ -4292,6 +4308,7 @@
 		"passiveHealBelow50": "持续治疗",
 		"passiveHealInverse": "持续治疗",
 		"passiveMemorialShield": "持续恢复纪念护盾",
+		"Zs": "持续治疗",
 		"spillHeal": "持续治疗",
 		"passivePetHeal": "持续宠物治疗",
 		"passivePetShield": "持续恢复宠物护盾",
@@ -4431,7 +4448,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"tr": "Tr",
+		"nr": "Nr",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
