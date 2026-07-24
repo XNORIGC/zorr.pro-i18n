@@ -962,6 +962,10 @@
 		"assembler": {
 			"name": "重組機",
 			"desc": "沒錯這真的是一個NPC XD"
+		},
+		"totem": {
+			"name": "Totem",
+			"desc": "Spiritual symbol of a Zribal community."
 		}
 	},
 	"petals": {
@@ -3244,6 +3248,14 @@
 		"magic_nitro": {
 			"name": "Magic Nitro",
 			"desc": "Magic air that boosts you in your line of motion."
+		},
+		"totem_egg": {
+			"name": "Totem Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"totem": {
+			"name": "Totem",
+			"desc": "Heal for 10s when you kill a mob. Healing multiplies upon killing more mobs."
 		}
 	},
 	"achievements": {
@@ -4001,6 +4013,10 @@
 			"name": "洋蔥",
 			"desc": "以Tor幣購之 :p"
 		},
+		"skibini": {
+			"name": "Skibini",
+			"desc": "Flowerini"
+		},
 		"big_brain": {
 			"name": "高智商",
 			"desc": "三維的大腦"
@@ -4292,6 +4308,7 @@
 		"passiveHealBelow50": "徐徐愈",
 		"passiveHealInverse": "持續治療",
 		"passiveMemorialShield": "持續恢復紀念護盾",
+		"Zs": "Passive Heal",
 		"spillHeal": "持續治療",
 		"passivePetHeal": "徐徐愈寵",
 		"passivePetShield": "持續恢復寵物護盾",
@@ -4431,7 +4448,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"tr": "Tr",
+		"nr": "Nr",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
