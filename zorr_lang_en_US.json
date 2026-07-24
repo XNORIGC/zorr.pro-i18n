@@ -962,6 +962,10 @@
 		"assembler": {
 			"name": "Assembler",
 			"desc": "yes it is an NPC fr XD"
+		},
+		"totem": {
+			"name": "Totem",
+			"desc": "Spiritual symbol of a Zribal community."
 		}
 	},
 	"petals": {
@@ -3244,6 +3248,14 @@
 		"magic_nitro": {
 			"name": "Magic Nitro",
 			"desc": "Magic air that boosts you in your line of motion."
+		},
+		"totem_egg": {
+			"name": "Totem Egg",
+			"desc": "It can hatch and spawn something interesting..."
+		},
+		"totem": {
+			"name": "Totem",
+			"desc": "Heal for 10s when you kill a mob. Healing multiplies upon killing more mobs."
 		}
 	},
 	"achievements": {
@@ -4001,6 +4013,10 @@
 			"name": "Onion",
 			"desc": "Purchased using Tor :p"
 		},
+		"skibini": {
+			"name": "Skibini",
+			"desc": "Flowerini"
+		},
 		"big_brain": {
 			"name": "Big Brain",
 			"desc": "3 dimensional big brain"
@@ -4292,6 +4308,7 @@
 		"passiveHealBelow50": "Passive Heal",
 		"passiveHealInverse": "Passive Heal",
 		"passiveMemorialShield": "Passive Memorial Shield",
+		"Zs": "Passive Heal",
 		"spillHeal": "Passive Heal",
 		"passivePetHeal": "Passive Pet Heal",
 		"passivePetShield": "Passive Pet Shield",
@@ -4431,7 +4448,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"tr": "Tr",
+		"nr": "Nr",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
