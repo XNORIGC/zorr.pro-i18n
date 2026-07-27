@@ -108,6 +108,7 @@
 		"skins": "皮肤",
 		"petals": "花瓣",
 		"mobSkins": "生物皮肤",
+		"auraSkins": "Auras",
 		"memberships": "会员",
 		"merch": "周边",
 		"shopPolicy": "退款=封号",
@@ -3256,6 +3257,14 @@
 		"totem": {
 			"name": "图腾",
 			"desc": "在你击杀一个生物时为你治疗10秒。击杀更多生物时，治疗效果叠加。"
+		},
+		"cresant": {
+			"name": "Cresant",
+			"desc": "A piece of the moon that transfers the damage it takes to you based on your health percentage."
+		},
+		"oobleck": {
+			"name": "Oobleck",
+			"desc": "An extremely weird liquid that strengths by 2% for every 1% health loss."
 		}
 	},
 	"achievements": {
@@ -4298,6 +4307,96 @@
 			"desc": "H₂O"
 		}
 	},
+	"auraSkins": {
+		"magic": {
+			"name": "Magic",
+			"desc": "Magical aura"
+		},
+		"arcane": {
+			"name": "Arcane",
+			"desc": "Turns you into a rainbow"
+		},
+		"cursed": {
+			"name": "Cursed",
+			"desc": "Devoid of any soul"
+		},
+		"shiny": {
+			"name": "Shiny",
+			"desc": "Glimmering heavenly objects"
+		},
+		"corrupt": {
+			"name": "Corrupt",
+			"desc": "Accidentally deleted system32"
+		},
+		"radiant": {
+			"name": "Radiant",
+			"desc": "Radiates dark matter"
+		},
+		"giant": {
+			"name": "Giant",
+			"desc": "Only if it turned you bigger..."
+		},
+		"tiny": {
+			"name": "Tiny",
+			"desc": "Not really a minifier"
+		},
+		"charged": {
+			"name": "Charged",
+			"desc": "As purple as Thanos"
+		},
+		"elemental": {
+			"name": "Elemental",
+			"desc": "Composed of Zorrium"
+		},
+		"angelic": {
+			"name": "Angelic",
+			"desc": "The aura is pretty... useless"
+		},
+		"demonic": {
+			"name": "Demonic",
+			"desc": "For the Satanists"
+		},
+		"bloody": {
+			"name": "Bloody",
+			"desc": "Who stabbed her?"
+		},
+		"sweet": {
+			"name": "Sweet",
+			"desc": "Looked kinda gross"
+		},
+		"paranormal": {
+			"name": "Paranormal",
+			"desc": "Spiritual enlightenment"
+		},
+		"flash": {
+			"name": "Flash",
+			"desc": "As fast as usual speed"
+		},
+		"boss": {
+			"name": "Boss",
+			"desc": "Reds & Blues"
+		},
+		"flower": {
+			"name": "Flower",
+			"desc": "Multiple consiousness in one body"
+		},
+		"omega": {
+			"name": "Omega",
+			"desc": "As if you are an Omega petal"
+		},
+		"unique": {
+			"name": "Unique",
+			"desc": "A really really Unique aura"
+		},
+		"split": {
+			"name": "Split",
+			"desc": "Might be a split personality"
+		},
+		"voices": {
+			"name": "Voices",
+			"desc": "I keep hearing these voices..."
+		}
+	},
 	"objectKeys": {
 		"health": "生命",
 		"damage": "伤害",
@@ -4308,7 +4407,7 @@
 		"passiveHealBelow50": "持续治疗",
 		"passiveHealInverse": "持续治疗",
 		"passiveMemorialShield": "持续恢复纪念护盾",
-		"Zs": "持续治疗",
+		"passiveLethalHeal": "Passive Heal",
 		"spillHeal": "持续治疗",
 		"passivePetHeal": "持续宠物治疗",
 		"passivePetShield": "持续恢复宠物护盾",
@@ -4448,7 +4547,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"nr": "Nr",
+		"rr": "Rr",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
@@ -4606,6 +4705,7 @@
 		"indicatorChilly": "辣椒",
 		"indicatorFrost": "霜冻",
 		"indicatorMagicSponge": "魔法海绵",
+		"indicatorTotem": "Totem",
 		"indicatorInfection": "感染",
 		"indicatorFog": "迷雾",
 		"indicatorDropBuff": "掉落增益",
@@ -4734,6 +4834,9 @@
 		},
 		"server_times": {
 			"desc": "显示玩家在服务器中花费的总时间。"
+		},
+		"server_ticks": {
+			"desc": "Shows tick rates of servers."
 		},
 		"claim": {
 			"desc": "领取每日签到奖励：星星，以及掉落增益。"
