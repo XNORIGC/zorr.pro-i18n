@@ -108,7 +108,7 @@
 		"skins": "皮肤",
 		"petals": "花瓣",
 		"mobSkins": "生物皮肤",
-		"auraSkins": "Auras",
+		"auraSkins": "光影",
 		"memberships": "会员",
 		"merch": "周边",
 		"shopPolicy": "申请退款将导致你的账户被封禁。",
@@ -966,7 +966,7 @@
 		},
 		"totem": {
 			"name": "图腾",
-			"desc": "Spiritual symbol of a Zribal community."
+			"desc": "一个Zorr部落的精神象征。"
 		}
 	},
 	"petals": {
@@ -3259,12 +3259,12 @@
 			"desc": "在你击杀一个生物时为你治疗10秒。击杀更多生物时，治疗效果叠加。"
 		},
 		"cresant": {
-			"name": "Cresant",
-			"desc": "A piece of the moon that transfers the damage it takes to you based on your health percentage."
+			"name": "月牙",
+			"desc": "一部分的月石，根据你的生命值将其受到的伤害转移到你身上。"
 		},
 		"oobleck": {
-			"name": "Oobleck",
-			"desc": "An extremely weird liquid that strengths by 2% for every 1% health loss."
+			"name": "非牛顿流体",
+			"desc": "一种极其怪异的液体，每失去1%的生命值都会强化自身的2%。"
 		}
 	},
 	"achievements": {
@@ -4023,8 +4023,8 @@
 			"desc": "使用 Tor 购买 :p"
 		},
 		"skibini": {
-			"name": "Skibini",
-			"desc": "Flowerini"
+			"name": "斯基比泥",
+			"desc": "小花泥"
 		},
 		"big_brain": {
 			"name": "大聪明",
@@ -4309,92 +4309,92 @@
 	},
 	"auraSkins": {
 		"magic": {
-			"name": "Magic",
-			"desc": "Magical aura"
+			"name": "魔法",
+			"desc": "魔法光影"
 		},
 		"arcane": {
-			"name": "Arcane",
-			"desc": "Turns you into a rainbow"
+			"name": "神秘",
+			"desc": "将你变成彩虹"
 		},
 		"cursed": {
-			"name": "Cursed",
-			"desc": "Devoid of any soul"
+			"name": "诅咒",
+			"desc": "没有任何灵魂"
 		},
 		"shiny": {
-			"name": "Shiny",
-			"desc": "Glimmering heavenly objects"
+			"name": "闪亮",
+			"desc": "闪闪发光的神圣物体"
 		},
 		"corrupt": {
-			"name": "Corrupt",
-			"desc": "Accidentally deleted system32"
+			"name": "腐化",
+			"desc": "意外地删除了system32文件"
 		},
 		"radiant": {
-			"name": "Radiant",
-			"desc": "Radiates dark matter"
+			"name": "辐射",
+			"desc": "辐射出暗物质"
 		},
 		"giant": {
-			"name": "Giant",
-			"desc": "Only if it turned you bigger..."
+			"name": "巨大",
+			"desc": "除非它使你变大……"
 		},
 		"tiny": {
-			"name": "Tiny",
-			"desc": "Not really a minifier"
+			"name": "微小",
+			"desc": "并不是一个缩小器"
 		},
 		"charged": {
-			"name": "Charged",
-			"desc": "As purple as Thanos"
+			"name": "充能",
+			"desc": "紫得像灭霸"
 		},
 		"elemental": {
-			"name": "Elemental",
-			"desc": "Composed of Zorrium"
+			"name": "元素化",
+			"desc": "由“锆”组成"
 		},
 		"angelic": {
-			"name": "Angelic",
-			"desc": "The aura is pretty... useless"
+			"name": "天使",
+			"desc": "这个光影真的好……没用"
 		},
 		"demonic": {
-			"name": "Demonic",
-			"desc": "For the Satanists"
+			"name": "恶魔",
+			"desc": "专属于撒旦教徒"
 		},
 		"bloody": {
-			"name": "Bloody",
-			"desc": "Who stabbed her?"
+			"name": "流血",
+			"desc": "谁把她扎成这样的？"
 		},
 		"sweet": {
-			"name": "Sweet",
-			"desc": "Looked kinda gross"
+			"name": "甜蜜",
+			"desc": "看起来有点恶心"
 		},
 		"paranormal": {
-			"name": "Paranormal",
-			"desc": "Spiritual enlightenment"
+			"name": "超自然",
+			"desc": "精神上的飞升"
 		},
 		"flash": {
-			"name": "Flash",
-			"desc": "As fast as usual speed"
+			"name": "闪烁",
+			"desc": "跟普通速度一样快"
 		},
 		"boss": {
-			"name": "Boss",
-			"desc": "Reds & Blues"
+			"name": "上司",
+			"desc": "又红又蓝"
 		},
 		"flower": {
-			"name": "Flower",
-			"desc": "Multiple consiousness in one body"
+			"name": "花",
+			"desc": "多个意识集于一身"
 		},
 		"omega": {
-			"name": "Omega",
-			"desc": "As if you are an Omega petal"
+			"name": "终末",
+			"desc": "仿佛你是一个终末花瓣"
 		},
 		"unique": {
-			"name": "Unique",
-			"desc": "A really really Unique aura"
+			"name": "唯一",
+			"desc": "真的是一个唯一的光影"
 		},
 		"split": {
-			"name": "Split",
-			"desc": "Might be a split personality"
+			"name": "分裂",
+			"desc": "可能是个分裂人格"
 		},
 		"voices": {
-			"name": "Voices",
-			"desc": "I keep hearing these voices..."
+			"name": "声音",
+			"desc": "我一直在听这些声音……"
 		}
 	},
 	"objectKeys": {
@@ -4407,7 +4407,7 @@
 		"passiveHealBelow50": "持续治疗",
 		"passiveHealInverse": "持续治疗",
 		"passiveMemorialShield": "持续恢复纪念护盾",
-		"passiveLethalHeal": "Passive Heal",
+		"passiveLethalHeal": "持续治疗",
 		"spillHeal": "持续治疗",
 		"passivePetHeal": "持续宠物治疗",
 		"passivePetShield": "持续恢复宠物护盾",
@@ -4705,7 +4705,7 @@
 		"indicatorChilly": "辣椒",
 		"indicatorFrost": "霜冻",
 		"indicatorMagicSponge": "魔法海绵",
-		"indicatorTotem": "Totem",
+		"indicatorTotem": "图腾恢复",
 		"indicatorInfection": "感染",
 		"indicatorFog": "迷雾",
 		"indicatorDropBuff": "掉落增益",
@@ -4836,7 +4836,7 @@
 			"desc": "显示玩家在服务器中花费的总时间。"
 		},
 		"server_ticks": {
-			"desc": "Shows tick rates of servers."
+			"desc": "显示服务器刷新率。"
 		},
 		"claim": {
 			"desc": "领取每日签到奖励：星星，以及掉落增益。"
