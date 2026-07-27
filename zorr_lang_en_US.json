@@ -108,6 +108,7 @@
 		"skins": "Skins",
 		"petals": "Petals",
 		"mobSkins": "Mob Skins",
+		"auraSkins": "Auras",
 		"memberships": "Memberships",
 		"merch": "Merch",
 		"shopPolicy": "Asking for a refund will get your account banned.",
@@ -3256,6 +3257,14 @@
 		"totem": {
 			"name": "Totem",
 			"desc": "Heal for 10s when you kill a mob. Healing multiplies upon killing more mobs."
+		},
+		"cresant": {
+			"name": "Cresant",
+			"desc": "A piece of the moon that transfers the damage it takes to you based on your health percentage."
+		},
+		"oobleck": {
+			"name": "Oobleck",
+			"desc": "An extremely weird liquid that strengths by 2% for every 1% health loss."
 		}
 	},
 	"achievements": {
@@ -4298,6 +4307,96 @@
 			"desc": "H2O"
 		}
 	},
+	"auraSkins": {
+		"magic": {
+			"name": "Magic",
+			"desc": "Magical aura"
+		},
+		"arcane": {
+			"name": "Arcane",
+			"desc": "Turns you into a rainbow"
+		},
+		"cursed": {
+			"name": "Cursed",
+			"desc": "Devoid of any soul"
+		},
+		"shiny": {
+			"name": "Shiny",
+			"desc": "Glimmering heavenly objects"
+		},
+		"corrupt": {
+			"name": "Corrupt",
+			"desc": "Accidentally deleted system32"
+		},
+		"radiant": {
+			"name": "Radiant",
+			"desc": "Radiates dark matter"
+		},
+		"giant": {
+			"name": "Giant",
+			"desc": "Only if it turned you bigger..."
+		},
+		"tiny": {
+			"name": "Tiny",
+			"desc": "Not really a minifier"
+		},
+		"charged": {
+			"name": "Charged",
+			"desc": "As purple as Thanos"
+		},
+		"elemental": {
+			"name": "Elemental",
+			"desc": "Composed of Zorrium"
+		},
+		"angelic": {
+			"name": "Angelic",
+			"desc": "The aura is pretty... useless"
+		},
+		"demonic": {
+			"name": "Demonic",
+			"desc": "For the Satanists"
+		},
+		"bloody": {
+			"name": "Bloody",
+			"desc": "Who stabbed her?"
+		},
+		"sweet": {
+			"name": "Sweet",
+			"desc": "Looked kinda gross"
+		},
+		"paranormal": {
+			"name": "Paranormal",
+			"desc": "Spiritual enlightenment"
+		},
+		"flash": {
+			"name": "Flash",
+			"desc": "As fast as usual speed"
+		},
+		"boss": {
+			"name": "Boss",
+			"desc": "Reds & Blues"
+		},
+		"flower": {
+			"name": "Flower",
+			"desc": "Multiple consiousness in one body"
+		},
+		"omega": {
+			"name": "Omega",
+			"desc": "As if you are an Omega petal"
+		},
+		"unique": {
+			"name": "Unique",
+			"desc": "A really really Unique aura"
+		},
+		"split": {
+			"name": "Split",
+			"desc": "Might be a split personality"
+		},
+		"voices": {
+			"name": "Voices",
+			"desc": "I keep hearing these voices..."
+		}
+	},
 	"objectKeys": {
 		"health": "Health",
 		"damage": "Damage",
@@ -4308,7 +4407,7 @@
 		"passiveHealBelow50": "Passive Heal",
 		"passiveHealInverse": "Passive Heal",
 		"passiveMemorialShield": "Passive Memorial Shield",
-		"Zs": "Passive Heal",
+		"passiveLethalHeal": "Passive Heal",
 		"spillHeal": "Passive Heal",
 		"passivePetHeal": "Passive Pet Heal",
 		"passivePetShield": "Passive Pet Shield",
@@ -4448,7 +4547,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"nr": "Nr",
+		"rr": "Rr",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4606,6 +4705,7 @@
 		"indicatorChilly": "Chilly",
 		"indicatorFrost": "Frost",
 		"indicatorMagicSponge": "Magic Sponge",
+		"indicatorTotem": "Totem",
 		"indicatorInfection": "Infection",
 		"indicatorFog": "Fog",
 		"indicatorDropBuff": "Drop Buff",
@@ -4734,6 +4834,9 @@
 		},
 		"server_times": {
 			"desc": "Shows the total time players have spent in a server."
+		},
+		"server_ticks": {
+			"desc": "Shows tick rates of servers."
 		},
 		"claim": {
 			"desc": "Claims daily streak rewards & stars drop buffs."
