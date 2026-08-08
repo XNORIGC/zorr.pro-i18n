@@ -3258,8 +3258,8 @@
 			"name": "Totem",
 			"desc": "Heal for 10s when you kill a mob. Healing multiplies upon killing more mobs."
 		},
-		"cresant": {
-			"name": "Cresant",
+		"crescent": {
+			"name": "Crescent",
 			"desc": "A piece of the moon that transfers the damage it takes to you based on your health percentage."
 		},
 		"oobleck": {
@@ -4395,6 +4395,10 @@
 		"voices": {
 			"name": "Voices",
 			"desc": "I keep hearing these voices..."
+		},
+		"delulu": {
+			"name": "Delulu",
+			"desc": "When your imagination takes over your reality..."
 		}
 	},
 	"objectKeys": {
@@ -4510,6 +4514,7 @@
 		"radiationLightningDamage": "輻射雷霆之創",
 		"radiationLightningBounces": "輻射雷霆躍",
 		"radiationLightningFire": "輻射閃電火傷",
+		"radiationTime": "Radiation Time",
 		"orbitTwirl": "軌跡旋舞",
 		"growth": "生長",
 		"growthTime": "生長之時",
@@ -4547,7 +4552,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"rr": "Rr",
+		"Mr": " Mr",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
