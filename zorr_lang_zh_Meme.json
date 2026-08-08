@@ -3258,9 +3258,9 @@
 			"name": "图腾",
 			"desc": "在你击杀一个生物时为你治疗10秒。击杀更多生物时，治疗效果叠加。"
 		},
-		"cresant": {
+		"crescent": {
 			"name": "月牙",
-			"desc": "一部分的月石，根据你的生命值将其受到的伤害转移到你身上。"
+			"desc": "一块月石，可以基于你的生命值百分比将其受到的伤害转移到你身上。"
 		},
 		"oobleck": {
 			"name": "非牛顿流体",
@@ -4395,6 +4395,10 @@
 		"voices": {
 			"name": "声音",
 			"desc": "我一直在听这些声音……"
+		},
+		"delulu": {
+			"name": "幻想",
+			"desc": "当你的幻想映射到现实……"
 		}
 	},
 	"objectKeys": {
@@ -4510,6 +4514,7 @@
 		"radiationLightningDamage": "辐射电伤",
 		"radiationLightningBounces": "辐射闪电连锁",
 		"radiationLightningFire": "辐射闪电火伤",
+		"radiationTime": "辐射时间",
 		"orbitTwirl": "轨道螺旋",
 		"growth": "生长",
 		"growthTime": "生长时间",
@@ -4547,7 +4552,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"rr": "Rr",
+		"Mr": " Mr",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
