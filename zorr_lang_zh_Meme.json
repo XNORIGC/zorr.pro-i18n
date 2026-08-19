@@ -4310,7 +4310,7 @@
 	"auraSkins": {
 		"magic": {
 			"name": "魔法",
-			"desc": "魔法光影"
+			"desc": "神奇的光影"
 		},
 		"arcane": {
 			"name": "神秘",
@@ -4325,12 +4325,12 @@
 			"desc": "闪闪发光的神圣物体"
 		},
 		"corrupt": {
-			"name": "腐化",
+			"name": "故障",
 			"desc": "意外地删除了system32文件"
 		},
 		"radiant": {
 			"name": "辐射",
-			"desc": "辐射出暗物质"
+			"desc": "会辐射出暗物质"
 		},
 		"giant": {
 			"name": "巨大",
@@ -4362,7 +4362,7 @@
 		},
 		"sweet": {
 			"name": "甜蜜",
-			"desc": "看起来有点恶心"
+			"desc": "看起来有点腻了"
 		},
 		"paranormal": {
 			"name": "超自然",
@@ -4399,6 +4399,10 @@
 		"delulu": {
 			"name": "幻想",
 			"desc": "当你的幻想映射到现实……"
+		},
+		"radioactive": {
+			"name": "辐射",
+			"desc": "……直到他们凝视你"
 		}
 	},
 	"objectKeys": {
@@ -4552,7 +4556,7 @@
 		"extraExplosionSize": "额外爆炸范围",
 		"mobDamageFactor": "生物伤害乘数",
 		"petDupeRate": "宠物复制率",
-		"Mr": " Mr",
+		"lr": "Lr",
 		"healToShield": "回血量转化护盾百分比",
 		"manaCostToShield": "魔力消耗转化率",
 		"fogTime": "迷雾时长",
