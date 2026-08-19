@@ -108,7 +108,7 @@
 		"skins": "服飾",
 		"petals": "瓣",
 		"mobSkins": "灵兽服饰",
-		"auraSkins": "背景",
+		"auraSkins": "Auras",
 		"memberships": "会员资格",
 		"merch": "貨物",
 		"shopPolicy": "请求退款将导致您的账户被封禁.",
@@ -4399,6 +4399,10 @@
 		"delulu": {
 			"name": "Delulu",
 			"desc": "When your imagination takes over your reality..."
+		},
+		"radioactive": {
+			"name": "Radioactive",
+			"desc": "...until they gaze you"
 		}
 	},
 	"objectKeys": {
@@ -4552,7 +4556,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"Mr": " Mr",
+		"lr": "Lr",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
