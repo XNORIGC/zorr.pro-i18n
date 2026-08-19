@@ -4399,6 +4399,10 @@
 		"delulu": {
 			"name": "Delulu",
 			"desc": "When your imagination takes over your reality..."
+		},
+		"radioactive": {
+			"name": "Radioactive",
+			"desc": "...until they gaze you"
 		}
 	},
 	"objectKeys": {
@@ -4552,7 +4556,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"Mr": " Mr",
+		"lr": "Lr",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
