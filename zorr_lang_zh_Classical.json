@@ -2636,7 +2636,7 @@
 		},
 		"hot_water": {
 			"name": "熱水",
-			"desc": "你或許可以用這個做拉麵。而且可以輕微減速你的敵人。"
+			"desc": "You could probably cook some ramen using this."
 		},
 		"magic_gunpowder": {
 			"name": "魔法火藥",
@@ -4226,6 +4226,10 @@
 			"name": "白矮星",
 			"desc": ":3"
 		},
+		"pointy": {
+			"name": "Pointy",
+			"desc": "*.*"
+		},
 		"body": {
 			"name": "身體",
 			"desc": "我的身體去哪兒了？"
@@ -4403,6 +4407,10 @@
 		"radioactive": {
 			"name": "Radioactive",
 			"desc": "...until they gaze you"
+		},
+		"fireworks": {
+			"name": "Fireworks",
+			"desc": "666% chance of implosion"
 		}
 	},
 	"objectKeys": {
@@ -4573,6 +4581,7 @@
 		"squadExtraPetalDamagePercent": "小隊額外花瓣傷害百分比",
 		"squadExtraPetalDamageLevel": "小隊額外傷害花瓣等級",
 		"deleteRate": "Delete Rate",
+		"rashnessTime": "Rashness Time",
 		"mana": "靈力",
 		"passiveMana": "被動靈力",
 		"passiveManaInverse": "持續恢復魔力",
