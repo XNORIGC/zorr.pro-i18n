@@ -2636,7 +2636,7 @@
 		},
 		"hot_water": {
 			"name": "Hot Water",
-			"desc": "You could probably cook some ramen using this. Slightly slows down your enemies too."
+			"desc": "You could probably cook some ramen using this."
 		},
 		"magic_gunpowder": {
 			"name": "Magic Gunpowder",
@@ -4226,6 +4226,10 @@
 			"name": "White Dwarf",
 			"desc": ":3"
 		},
+		"pointy": {
+			"name": "Pointy",
+			"desc": "*.*"
+		},
 		"body": {
 			"name": "Body",
 			"desc": "Where did my body go?"
@@ -4403,6 +4407,10 @@
 		"radioactive": {
 			"name": "Radioactive",
 			"desc": "...until they gaze you"
+		},
+		"fireworks": {
+			"name": "Fireworks",
+			"desc": "666% chance of implosion"
 		}
 	},
 	"objectKeys": {
@@ -4573,6 +4581,7 @@
 		"squadExtraPetalDamagePercent": "Squad Extra Petal Damage Percent",
 		"squadExtraPetalDamageLevel": "Squad Extra Petal Damage Level",
 		"deleteRate": "Delete Rate",
+		"rashnessTime": "Rashness Time",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
