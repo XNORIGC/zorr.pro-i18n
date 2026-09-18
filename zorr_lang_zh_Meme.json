@@ -111,6 +111,7 @@
 		"auraSkins": "光影",
 		"memberships": "会员",
 		"merch": "周边",
+		"shopTip": "Tip: Buying multiple small packs gives you the same stars as a big pack once your total spending reaches its price. Try this if you can't buy a really big pack directly.",
 		"shopPolicy": "退款=封号",
 		"shopSupport": "如果对氪金有任何问题欢迎轰炸这个邮箱——>",
 		"shopNazarBeetles": "当心邪眼甲虫！",
@@ -123,6 +124,7 @@
 		"indicators": "状态栏",
 		"done": "已完成",
 		"all": "全部",
+		"selectAll": "Select All",
 		"complete": "已完成",
 		"incomplete": "未完成",
 		"cmdInfo": "点击以运行命令。",
@@ -3080,7 +3082,7 @@
 		},
 		"zatan_egg": {
 			"name": "扎坦蛋",
-			"desc": "一个小小的『神』蛋，可以和花朵繁衍孵化一个小小的『神』哈哈斯基比皮皮喵喵喵（呼噜声）去吧精神分裂症（呼噜声）哈哈哈。"
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"bamboo": {
 			"name": "竹子",
@@ -4430,6 +4432,7 @@
 		"extraPetRange": "宠物额外仇恨范围",
 		"shield": "护盾",
 		"passiveShield": "持续恢复护盾",
+		"projectileSpeed": "Projectile Speed",
 		"poison": "剧毒伤害",
 		"poisonTime": "中毒时间",
 		"orbitSpeed": "轨道速度",
