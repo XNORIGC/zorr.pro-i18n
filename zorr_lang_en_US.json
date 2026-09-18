@@ -111,6 +111,7 @@
 		"auraSkins": "Auras",
 		"memberships": "Memberships",
 		"merch": "Merch",
+		"shopTip": "Tip: Buying multiple small packs gives you the same stars as a big pack once your total spending reaches its price. Try this if you can't buy a really big pack directly.",
 		"shopPolicy": "Asking for a refund will get your account banned.",
 		"shopSupport": "For any issues related to payments, send us an email at:",
 		"shopNazarBeetles": "Beware of nazar beetles!",
@@ -123,6 +124,7 @@
 		"indicators": "Indicators",
 		"done": "DONE",
 		"all": "All",
+		"selectAll": "Select All",
 		"complete": "Complete",
 		"incomplete": "Incomplete",
 		"cmdInfo": "Click to run command.",
@@ -1344,7 +1346,7 @@
 		},
 		"starfish": {
 			"name": "Starfish",
-			"desc": "Heals you when you are low on healtn"
+			"desc": "Heals you when you are low on health"
 		},
 		"dandelion": {
 			"name": "Dandelion",
@@ -3080,7 +3082,7 @@
 		},
 		"zatan_egg": {
 			"name": "Zatan Egg",
-			"desc": "A LIL BABY G-O-D EGG TO SPAWN A LIL BABY G-O-D BY REPRODUCTION WITH A FLOWER XD. SKIBIPIPI NYA NYA MEOW MEOW PURR PURR PHRENIA GO BRRRRRR XD."
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"bamboo": {
 			"name": "Bamboo",
@@ -4430,6 +4432,7 @@
 		"extraPetRange": "Extra Pet Range",
 		"shield": "Shield",
 		"passiveShield": "Passive Shield",
+		"projectileSpeed": "Projectile Speed",
 		"poison": "Poison",
 		"poisonTime": "Poison Time",
 		"orbitSpeed": "Orbit Speed",
