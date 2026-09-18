@@ -111,6 +111,7 @@
 		"auraSkins": "Auras",
 		"memberships": "月卡",
 		"merch": "商品",
+		"shopTip": "Tip: Buying multiple small packs gives you the same stars as a big pack once your total spending reaches its price. Try this if you can't buy a really big pack directly.",
 		"shopPolicy": "要求退款會導致您的帳戶被封鎖。",
 		"shopSupport": "對於與付款相關的任何問題，請發送電子郵件至：",
 		"shopNazarBeetles": "提防邪眼甲虫！",
@@ -123,6 +124,7 @@
 		"indicators": "指標",
 		"done": "完成",
 		"all": "全部",
+		"selectAll": "Select All",
 		"complete": "完整",
 		"incomplete": "不完整",
 		"cmdInfo": "點擊去运行指令。",
@@ -3080,7 +3082,7 @@
 		},
 		"zatan_egg": {
 			"name": "撒旦蛋",
-			"desc": "一個小幼神卵，通過與花XD繁殖產生小幼神XD。牠喵喵叫，呼噜呼噜，精神分裂症，BRRRRRR XD。"
+			"desc": "It can hatch and spawn something interesting..."
 		},
 		"bamboo": {
 			"name": "竹子",
@@ -4430,6 +4432,7 @@
 		"extraPetRange": "寵物額外仇恨範圍",
 		"shield": "護盾",
 		"passiveShield": "持續護盾",
+		"projectileSpeed": "Projectile Speed",
 		"poison": "劇毒",
 		"poisonTime": "中毒時間",
 		"orbitSpeed": "環繞速度",
