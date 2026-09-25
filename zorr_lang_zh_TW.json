@@ -4413,6 +4413,10 @@
 		"fireworks": {
 			"name": "Fireworks",
 			"desc": "666% chance of implosion"
+		},
+		"shapeshifter": {
+			"name": "Shapeshifter",
+			"desc": "It's that, no that, no that..."
 		}
 	},
 	"objectKeys": {
