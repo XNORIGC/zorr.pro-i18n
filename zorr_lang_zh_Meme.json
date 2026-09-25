@@ -124,7 +124,7 @@
 		"indicators": "状态栏",
 		"done": "已完成",
 		"all": "全部",
-		"selectAll": "Select All",
+		"selectAll": "全选",
 		"complete": "已完成",
 		"incomplete": "未完成",
 		"cmdInfo": "点击以运行命令。",
@@ -2638,7 +2638,7 @@
 		},
 		"hot_water": {
 			"name": "热水",
-			"desc": "You could probably cook some ramen using this."
+			"desc": "你应该可以用这东西煮碗拉面。"
 		},
 		"magic_gunpowder": {
 			"name": "魔法火药",
@@ -3082,7 +3082,7 @@
 		},
 		"zatan_egg": {
 			"name": "扎坦蛋",
-			"desc": "It can hatch and spawn something interesting..."
+			"desc": "它可以孵化并生成一些有趣的东西……"
 		},
 		"bamboo": {
 			"name": "竹子",
@@ -3222,7 +3222,7 @@
 		},
 		"scales": {
 			"name": "鳞甲",
-			"desc": "当此花瓣在生物体内时，该生物对自身的伤害减免50%"
+			"desc": "当此花瓣在生物体内时对该生物的伤害产生减免"
 		},
 		"oil": {
 			"name": "石油",
@@ -4229,7 +4229,7 @@
 			"desc": ":3"
 		},
 		"pointy": {
-			"name": "Pointy",
+			"name": "尖锐",
 			"desc": "*.*"
 		},
 		"body": {
@@ -4411,8 +4411,12 @@
 			"desc": "……直到他们凝视你"
 		},
 		"fireworks": {
-			"name": "Fireworks",
-			"desc": "666% chance of implosion"
+			"name": "烟花",
+			"desc": "有666%的概率内爆"
+		},
+		"shapeshifter": {
+			"name": "变形虫",
+			"desc": "这是……哦对的对的……哦不对不对……"
 		}
 	},
 	"objectKeys": {
@@ -4432,7 +4436,7 @@
 		"extraPetRange": "宠物额外仇恨范围",
 		"shield": "护盾",
 		"passiveShield": "持续恢复护盾",
-		"projectileSpeed": "Projectile Speed",
+		"projectileSpeed": "弹射物飞行速度",
 		"poison": "剧毒伤害",
 		"poisonTime": "中毒时间",
 		"orbitSpeed": "轨道速度",
