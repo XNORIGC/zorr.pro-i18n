@@ -3222,7 +3222,7 @@
 		},
 		"scales": {
 			"name": "Scales",
-			"desc": "Gives a 50% resistance to incoming damage while the petal is inside of the damaging mob"
+			"desc": "Gives resistance to incoming damage while the petal is inside of the damaging mob"
 		},
 		"oil": {
 			"name": "Oil",
@@ -4413,6 +4413,10 @@
 		"fireworks": {
 			"name": "Fireworks",
 			"desc": "666% chance of implosion"
+		},
+		"shapeshifter": {
+			"name": "Shapeshifter",
+			"desc": "It's that, no that, no that..."
 		}
 	},
 	"objectKeys": {
@@ -4549,7 +4553,7 @@
 		"petalHealthBuff": "Petal Health Buff",
 		"mobAgroRange": "Mob Agro Range",
 		"petParanormalRate": "Pet Paranormal Rate",
-		"scalesDamageReduction": "Scales Damage Reduction",
+		"scalesDamageReduction": "Damage Reduction",
 		"flowerSecondaryReloadFactor": "Flower Secondary Reload Factor",
 		"tempArmor": "Temp Armor",
 		"fragmentDamage": "Fragment Damage",
