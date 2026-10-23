@@ -211,7 +211,41 @@
 		"export": "導出",
 		"shortcutKeys": "快捷鍵",
 		"resetToDefault": "重新設定為默認值",
-		"shortcutDesc": "點擊以編輯。點擊ESC以刪除密匙。"
+		"shortcutDesc": "點擊以編輯。點擊ESC以刪除密匙。",
+		"space": " ",
+		"colon": ":",
+		"comma": ",",
+		"connectingToServer": "Connecting to server...",
+		"connected": "Connected!",
+		"connectedAsAdmin": "Connected as admin!",
+		"connectedAsMod": "Connected as moderator!",
+		"readRefundPolicy": "Read refund policy.",
+		"on": "ON",
+		"off": "OFF",
+		"copied": "Copied!",
+		"failedToCopy": "Failed to copy text.",
+		"nothingToCopy": "Nothing to copy.",
+		"imported": "Imported!",
+		"invalidData": "Invalid data.",
+		"equipped": "Equipped!",
+		"deleted": "Deleted.",
+		"tooManyLoadouts": "Too many loadouts. Can't save anymore.",
+		"cantMoveUp": "Can't move further up.",
+		"cantMoveDown": "Can't move further down.",
+		"slowItDown": "Slow it down!",
+		"renameLoadoutTitle": "Rename:",
+		"renameLoadoutDesc": "Enter new name below:",
+		"replaceLoadoutTitle": "Replace loadout?",
+		"replaceLoadoutDesc": "Are you sure you want to replace this loadout with your current loadout?",
+		"yes": "Yes",
+		"no": "No",
+		"enterFullscreen": "Enter Fullscreen!",
+		"rotateYourDevice": "Rotate your device!",
+		"betterExperienceMsg": "For better experience, please rotate your device into landscape mode and enter fullscreen.",
+		"rotate": "Rotate",
+		"fullscreen": "Fullscreen",
+		"dismiss": "Dismiss",
+		"enterValue": "Enter value..."
 	},
 	"texts": {
 		"requiresMana": "需要魔力以生成。",
@@ -251,7 +285,8 @@
 		"usernameChangeRule": "用戶名只可每14天修改一次。",
 		"passwordMinLength": "密碼長度應至少為{1}",
 		"passwordMaxLength": "密碼長度最長不可超過{1}",
-		"diedAtWave": "Died at wave {1}"
+		"diedAtWave": "Died at wave {1}",
+		"loadoutNotFound": "Loadout at index {1} not found."
 	},
 	"mobs": {
 		"rock": {
@@ -3267,6 +3302,10 @@
 		"oobleck": {
 			"name": "Oobleck",
 			"desc": "An extremely weird liquid that strengths by 2% for every 1% health loss."
+		},
+		"jade": {
+			"name": "Jade",
+			"desc": "Gives the petal placed right to it till the same rarity some chance to penetrate armor."
 		}
 	},
 	"achievements": {
@@ -3316,7 +3355,7 @@
 		},
 		"super": {
 			"name": "超級專家",
-			"desc": "收集五個超級花瓣。"
+			"desc": "Collect 5 super petals."
 		},
 		"omega": {
 			"name": "歐米伽！！！！！",
@@ -3383,7 +3422,7 @@
 			"desc": "消滅五隻究極+幼蟻。"
 		},
 		"jeet": {
-			"name": "頂級阿三",
+			"name": "Top G",
 			"desc": "獲得一個超級+布加迪。"
 		},
 		"clown": {
@@ -3415,7 +3454,7 @@
 			"desc": "殺死一千萬個生物"
 		},
 		"racist": {
-			"name": "種族主義者",
+			"name": "Very specific",
 			"desc": "殺死二萬五個同類生物"
 		},
 		"murder": {
@@ -4571,7 +4610,7 @@
 		"extraExplosionSize": "額外爆炸範圍",
 		"mobDamageFactor": "敵對生物傷害係數",
 		"petDupeRate": "寵物複製率",
-		"lr": "Lr",
+		"dr": "Dr",
 		"healToShield": "治療轉護盾",
 		"manaCostToShield": "魔力消耗轉護盾",
 		"fogTime": "迷霧時間",
@@ -4589,6 +4628,7 @@
 		"squadExtraPetalDamageLevel": "小隊額外傷害花瓣等級",
 		"deleteRate": "Delete Rate",
 		"rashnessTime": "Rashness Time",
+		"penetrateArmorRate": "Penetrate Armor Rate",
 		"mana": "魔力",
 		"passiveMana": "持續魔力恢復",
 		"passiveManaInverse": "持續恢復魔力",
@@ -4672,6 +4712,7 @@
 		"showDropLogs": "顯示掉落日誌",
 		"showBlocked": "顯示遮蔽內容",
 		"showKillLogInWave": "Show Kill Log In Wave",
+		"showFailedCrafts": "Show Failed Crafts",
 		"#performance": "#性能",
 		"@uiScale": "@用戶界面縮放比例",
 		"@res": "@清晰度",
@@ -4689,6 +4730,7 @@
 		"showHitbox": "顯示碰撞箱",
 		"showGrid": "顯示網格",
 		"showDps": "顯示DPS",
+		"showRange": "Show Range",
 		"badwordFilter": "髒話過濾器",
 		"showMobLeaderboard": "顯示生物排行榜",
 		"autoJoinSquads": "自動加入小隊",
