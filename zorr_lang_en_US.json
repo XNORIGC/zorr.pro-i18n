@@ -211,7 +211,41 @@
 		"export": "Export",
 		"shortcutKeys": "Shortcut Keys",
 		"resetToDefault": "Reset To Default",
-		"shortcutDesc": "Click to edit. Press ESC to remove key."
+		"shortcutDesc": "Click to edit. Press ESC to remove key.",
+		"space": " ",
+		"colon": ":",
+		"comma": ",",
+		"connectingToServer": "Connecting to server...",
+		"connected": "Connected!",
+		"connectedAsAdmin": "Connected as admin!",
+		"connectedAsMod": "Connected as moderator!",
+		"readRefundPolicy": "Read refund policy.",
+		"on": "ON",
+		"off": "OFF",
+		"copied": "Copied!",
+		"failedToCopy": "Failed to copy text.",
+		"nothingToCopy": "Nothing to copy.",
+		"imported": "Imported!",
+		"invalidData": "Invalid data.",
+		"equipped": "Equipped!",
+		"deleted": "Deleted.",
+		"tooManyLoadouts": "Too many loadouts. Can't save anymore.",
+		"cantMoveUp": "Can't move further up.",
+		"cantMoveDown": "Can't move further down.",
+		"slowItDown": "Slow it down!",
+		"renameLoadoutTitle": "Rename:",
+		"renameLoadoutDesc": "Enter new name below:",
+		"replaceLoadoutTitle": "Replace loadout?",
+		"replaceLoadoutDesc": "Are you sure you want to replace this loadout with your current loadout?",
+		"yes": "Yes",
+		"no": "No",
+		"enterFullscreen": "Enter Fullscreen!",
+		"rotateYourDevice": "Rotate your device!",
+		"betterExperienceMsg": "For better experience, please rotate your device into landscape mode and enter fullscreen.",
+		"rotate": "Rotate",
+		"fullscreen": "Fullscreen",
+		"dismiss": "Dismiss",
+		"enterValue": "Enter value..."
 	},
 	"texts": {
 		"requiresMana": "Requires Mana to spawn.",
@@ -251,7 +285,8 @@
 		"usernameChangeRule": "Username can only be changed once every 14 days.",
 		"passwordMinLength": "Password should be minimum of length {1}",
 		"passwordMaxLength": "Password should be maximum of length {1}",
-		"diedAtWave": "Died at wave {1}"
+		"diedAtWave": "Died at wave {1}",
+		"loadoutNotFound": "Loadout at index {1} not found."
 	},
 	"mobs": {
 		"rock": {
@@ -3267,6 +3302,10 @@
 		"oobleck": {
 			"name": "Oobleck",
 			"desc": "An extremely weird liquid that strengths by 2% for every 1% health loss."
+		},
+		"jade": {
+			"name": "Jade",
+			"desc": "Gives the petal placed right to it till the same rarity some chance to penetrate armor."
 		}
 	},
 	"achievements": {
@@ -3316,7 +3355,7 @@
 		},
 		"super": {
 			"name": "super pro",
-			"desc": "COllect 5 super petals."
+			"desc": "Collect 5 super petals."
 		},
 		"omega": {
 			"name": "OMEGA!!!!!",
@@ -3383,7 +3422,7 @@
 			"desc": "Destroy 5 Ultra+ Baby Ants."
 		},
 		"jeet": {
-			"name": "Top Jeet",
+			"name": "Top G",
 			"desc": "Obtain a Super+ Bugatti."
 		},
 		"clown": {
@@ -3415,7 +3454,7 @@
 			"desc": "Kill 10,000,000 mobs"
 		},
 		"racist": {
-			"name": "Racist",
+			"name": "Very specific",
 			"desc": "Kill 25,000 mobs of a kind"
 		},
 		"murder": {
@@ -4571,7 +4610,7 @@
 		"extraExplosionSize": "Extra Explosion Size",
 		"mobDamageFactor": "Mob Damage Factor",
 		"petDupeRate": "Pet Dupe Rate",
-		"lr": "Lr",
+		"dr": "Dr",
 		"healToShield": "Heal To Shield",
 		"manaCostToShield": "Mana Cost To Shield",
 		"fogTime": "Fog Time",
@@ -4589,6 +4628,7 @@
 		"squadExtraPetalDamageLevel": "Squad Extra Petal Damage Level",
 		"deleteRate": "Delete Rate",
 		"rashnessTime": "Rashness Time",
+		"penetrateArmorRate": "Penetrate Armor Rate",
 		"mana": "Mana",
 		"passiveMana": "Passive Mana",
 		"passiveManaInverse": "Passive Mana",
@@ -4672,6 +4712,7 @@
 		"showDropLogs": "Show Drop Logs",
 		"showBlocked": "Show Blocked",
 		"showKillLogInWave": "Show Kill Log In Wave",
+		"showFailedCrafts": "Show Failed Crafts",
 		"#performance": "#performance",
 		"@uiScale": "@ui Scale",
 		"@res": "@res",
@@ -4689,6 +4730,7 @@
 		"showHitbox": "Show Hitbox",
 		"showGrid": "Show Grid",
 		"showDps": "Show Dps",
+		"showRange": "Show Range",
 		"badwordFilter": "Badword Filter",
 		"showMobLeaderboard": "Show Mob Leaderboard",
 		"autoJoinSquads": "Auto Join Squads",
